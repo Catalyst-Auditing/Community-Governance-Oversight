@@ -6,5 +6,9 @@ description: >-
 
 # Community-Governance-Oversight
 
-This GitBook documents the development of a Community Governance Oversight group tasked to examine changes in Project Catalst Governance.
+This GitBook documents the development of a **Community Governance Oversight group** (hereafter "Oversight Group") tasked to examine changes in Project Catalyst Governance.
+
+The need for an Oversight Group was identified in a [presentation ](https://quality-assurance-dao.gitbook.io/catalyst-circle-oversight-v2/meetings/meeting-2-november-25th-2021#presentation-slides)to and [discussed ](https://quality-assurance-dao.gitbook.io/catalyst-circle-oversight-v2/meetings/meeting-2-november-25th-2021#harris-warren-presentation-on-catalyst-parameters-governance-process-29-22)by the Catalyst Circle V2  by Harris Warren, IOG on a Catalyst Parameters governance process.
+
+
 
