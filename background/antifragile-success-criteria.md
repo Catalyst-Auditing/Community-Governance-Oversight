@@ -44,7 +44,9 @@ In the context of business as usual success criteria represents a kind of stabil
 
 ## Functional groups are represented
 
-Functional groups are represented
+Taleb observes that the Swiss model encouraged vocational apprenticeship models. Or _know-how_ (_techne_) rather than _know-what_ (_episteme_)(_Antifragile_, pg. 90).
+
+In the Cardano context the representation of functional groups can be seen to follow a know-how appraoch where Voters, SPO’s, Toolmakers & Maintainers, Funded proposers, Community advisors, Community proposal auditors, Challenge teams and Ambassadors solicit contributions from apprentices.
 
 ## Safe from adversarial capture
 
