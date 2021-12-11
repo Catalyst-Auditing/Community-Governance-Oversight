@@ -24,7 +24,7 @@ The follow Antifragile principles were identified by Dor Garbash in his "The Vol
 
 ## Decentralized custodianship over governance&#x20;
 
-Decentralized custodianship over governance&#x20;
+Intrepretation by Stephen Whitenstall
 
 In _Antifragile,_ Nassim Nicholas Taleb refers to the irony of Voltaire periodically seeking refuge in Switzerland for political and financial reasons (_Antifragile pg.86)._ Taleb suggests that the "_shelter, safety and stability_" of Switzerland can be attributed to its lack of a "large _central_ government".
 
@@ -34,9 +34,7 @@ Taleb empathizes how Swiss governance is dictated by a bottom-up and unintellect
 
 This decentralized governance approach is not scalable to the size of a nation state (what Taleb refers to as "_invariant under scale_" - _Antifragile_, pg.87). There is a difference in kind between the granularity of the governance of local affairs and the abstraction of large public expenditure.
 
-Echoing [E. F. Schumacher](https://en.wikipedia.org/wiki/Small\_Is\_Beautiful), Taleb suggests that "Small is beautiful" (_Antifragile_, pg.89) in that a collection of small units is more antifragile than a large unit.
-
-&#x20;
+Echoing [E. F. Schumacher](https://en.wikipedia.org/wiki/Small\_Is\_Beautiful), Taleb suggests that "Small is beautiful" (_Antifragile_, pg.89) in that a collection of small units is more antifragile than a large unit.&#x20;
 
 ## Business as usual&#x20;
 
