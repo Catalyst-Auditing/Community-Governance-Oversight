@@ -17,3 +17,38 @@ Voltaire - Sneak preview with Dor Garbash
 
 {% embed url="https://docs.google.com/presentation/d/1ikMLaCmgSDnM12-F5XquvXGbIJdhqwg_4SiolT--YHc/edit?usp=sharing" %}
 
+### The Voltaire Principles
+
+![](../.gitbook/assets/2021-12-11.png)
+
+### Technical Councils
+
+![](<../.gitbook/assets/2021-12-11 (1).png>)
+
+### Our goal: An antifragile governance system
+
+![](<../.gitbook/assets/2021-12-11 (2).png>)
+
+### What keeps us antifragile?
+
+![](<../.gitbook/assets/2021-12-11 (3).png>)
+
+### Iterative & gradual transition
+
+![](<../.gitbook/assets/2021-12-11 (4).png>)
+
+### Effective decision making
+
+![](<../.gitbook/assets/2021-12-11 (5).png>)
+
+### Antifragile principles
+
+![](<../.gitbook/assets/2021-12-11 (6).png>)
+
+### Goal of the community governance oversight
+
+![](<../.gitbook/assets/2021-12-11 (7).png>)
+
+### Overcome our own shadows
+
+![](<../.gitbook/assets/2021-12-11 (8).png>)
