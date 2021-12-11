@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/Buste_de_Voltaire.jpg
+coverY: 0
+---
+
 # The Voltaire Principles
 
 At the Fund 7 Catalyst Town hall #5 on 8th December 2021 Dor Garbash gave a presentation entitled _The Voltaire Principles_ on the likely direction for success criteria of any transition to decentralized governance.
