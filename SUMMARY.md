@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Community-Governance-Oversight](README.md)
-* [Fund 7 Proposal](fund-7-proposal.md)
+* [Fund 7 Proposal](proposal.md)
 
 ## Background
 
