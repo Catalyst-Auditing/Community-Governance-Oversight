@@ -4,7 +4,7 @@ cover: ../.gitbook/assets/Taleb_mug.JPG
 coverY: 0
 ---
 
-# Antifragile
+# Antifragile - Nassim Nicholas Taleb
 
 ## Overview
 
@@ -21,6 +21,12 @@ _Antifragile: Things That Gain From Disorder_ is a book by Nassim Nicholas Taleb
 {% embed url="https://en.wikipedia.org/wiki/Antifragile_(book)" %}
 
 {% embed url="https://en.wikipedia.org/wiki/Antifragility" %}
+
+## Critical Literature
+
+### Fragile Reasoning in Nassim Taleb’s _Antifragile_
+
+{% embed url="http://www.quebecoislibre.org/13/130515-8.html" %}
 
 ## YouTube
 
