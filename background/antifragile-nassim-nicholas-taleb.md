@@ -22,7 +22,7 @@ _Antifragile: Things That Gain From Disorder_ is a book by Nassim Nicholas Taleb
 
 {% embed url="https://en.wikipedia.org/wiki/Antifragility" %}
 
-## Critical Literature
+## Critical Responses
 
 ### Fragile Reasoning in Nassim Taleb’s _Antifragile_
 
