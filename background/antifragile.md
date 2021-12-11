@@ -22,3 +22,21 @@ _Antifragile: Things That Gain From Disorder_ is a book by Nassim Nicholas Taleb
 
 {% embed url="https://en.wikipedia.org/wiki/Antifragility" %}
 
+## YouTube
+
+### Royal Society Arts - Talk - 2013
+
+{% embed url="https://youtu.be/k4MhC5tcEv0?t=3" %}
+
+### Talks at Google - 2013
+
+{% embed url="https://www.youtube.com/watch?v=S3REdLZ8Xis" %}
+
+### Nassim Taleb and Daniel Kahneman discussion - 2013
+
+{% embed url="https://youtu.be/MMBclvY_EMA" %}
+
+### Microsoft Research - 2016
+
+{% embed url="https://www.youtube.com/watch?v=BaU7Sxk6Yk4" %}
+
