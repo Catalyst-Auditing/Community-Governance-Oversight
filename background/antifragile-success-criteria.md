@@ -22,3 +22,63 @@ The follow Antifragile principles were identified by Dor Garbash in his "The Vol
 * Stable governance.
 * Lively - not stagnant.
 
+## Decentralized custodianship over governance&#x20;
+
+Decentralized custodianship over governance&#x20;
+
+## Business as usual&#x20;
+
+Business as usual&#x20;
+
+## Functional groups are represented
+
+Functional groups are represented
+
+## Safe from adversarial capture
+
+Safe from adversarial capture
+
+## Accountability mechanisms
+
+Accountability mechanisms
+
+## Understandable governance
+
+Understandable governance
+
+## Transparency
+
+Transparency
+
+## Formal security and emergency mechanisms
+
+Formal security and emergency mechanisms
+
+## Legitimate community leadership.
+
+Legitimate community leadership.
+
+## Stable governance.
+
+Stable governance.
+
+## Lively - not stagnant.
+
+Lively - not stagnant.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
