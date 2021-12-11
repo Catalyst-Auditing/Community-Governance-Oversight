@@ -32,7 +32,7 @@ The Swiss model is bottom-up and municipal government by regional entities calle
 
 Taleb empathizes how Swiss governance is dictated by a bottom-up and unintellectual atmosphere. Resistant to the dominance of any single big idea and nurturing local tinkering.
 
-This decentralized governance approach is not scalable to the size of a nation state (what Taleb refers to as "_invariant under scale_" - _Antifragile_, pg.87)
+This decentralized governance approach is not scalable to the size of a nation state (what Taleb refers to as "_invariant under scale_" - _Antifragile_, pg.87). There is a difference in kind between the granularity of the governance of local affairs and the abstraction of large public expenditure.
 
 &#x20;
 
