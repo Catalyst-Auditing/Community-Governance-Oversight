@@ -6,4 +6,4 @@
 ## Background
 
 * [The Voltaire Principles](background/the-voltaire-principles.md)
-* [Antifragile](background/antifragile.md)
+* [Antifragile - Nassim Nicholas Taleb](background/antifragile-nassim-nicholas-taleb.md)
