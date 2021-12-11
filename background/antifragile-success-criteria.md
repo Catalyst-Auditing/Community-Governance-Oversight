@@ -40,7 +40,7 @@ Echoing [E. F. Schumacher](https://en.wikipedia.org/wiki/Small\_Is\_Beautiful), 
 
 ## Business as usual&#x20;
 
-Business as usual&#x20;
+In the context of business as usual success criteria represents a kind of stability based upon Antifragile principles.  &#x20;
 
 ## Functional groups are represented
 
