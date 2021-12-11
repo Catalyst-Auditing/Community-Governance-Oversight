@@ -10,7 +10,7 @@ Antifragile principles are already evident in the semantics of Project Catalyst 
 
 A parallel may be drawn with the antifragile engineering approach of NASA to communal sensor network design, autonomous unmanned aerial vehicles, self-organizing and cooperate swarming systems and self-healing materials (_Engineering Antifragile Systems: A Change In Design Philosophy_, Kennie H. Jones, 2014, NASA Langley Research Center).
 
-The challenge for Community Governance Oversight is how to quantify, assess and survey changes in governance processes according to antifragile principles.
+The challenge for _Community Governance Oversight_ is how to conduct surveys, retrospectives and collate reports on changes in Catalyst governance processes according to antifragile principles.
 
 ## Antifragile Principles
 
