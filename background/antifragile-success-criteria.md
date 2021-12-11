@@ -1,5 +1,5 @@
 ---
-description: Antifragile Success criteria
+description: Analysis of Antifragile Success criteria
 ---
 
 # Antifragile Success criteria
