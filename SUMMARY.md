@@ -7,3 +7,4 @@
 
 * [The Voltaire Principles](background/the-voltaire-principles.md)
 * [Antifragile - Nassim Nicholas Taleb](background/antifragile-nassim-nicholas-taleb.md)
+* [Antifragile Success criteria](background/antifragile-success-criteria.md)
