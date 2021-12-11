@@ -24,7 +24,7 @@ The follow Antifragile principles were identified by Dor Garbash in his "The Vol
 
 ## Decentralized custodianship over governance&#x20;
 
-Intrepretation by Stephen Whitenstall
+_Interpretation by Stephen Whitenstall_
 
 In _Antifragile,_ Nassim Nicholas Taleb refers to the irony of Voltaire periodically seeking refuge in Switzerland for political and financial reasons (_Antifragile pg.86)._ Taleb suggests that the "_shelter, safety and stability_" of Switzerland can be attributed to its lack of a "large _central_ government".
 
