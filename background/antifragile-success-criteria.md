@@ -34,6 +34,8 @@ Taleb empathizes how Swiss governance is dictated by a bottom-up and unintellect
 
 This decentralized governance approach is not scalable to the size of a nation state (what Taleb refers to as "_invariant under scale_" - _Antifragile_, pg.87). There is a difference in kind between the granularity of the governance of local affairs and the abstraction of large public expenditure.
 
+Echoing [E. F. Schumacher](https://en.wikipedia.org/wiki/Small\_Is\_Beautiful), Taleb suggests that "Small is beautiful" (_Antifragile_, pg.89) in that a collection of small units is more antifragile than a large unit.
+
 &#x20;
 
 ## Business as usual&#x20;
