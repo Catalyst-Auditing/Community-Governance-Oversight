@@ -6,3 +6,4 @@
 ## Background
 
 * [The Voltaire Principles](background/the-voltaire-principles.md)
+* [Antifragile](background/antifragile.md)
