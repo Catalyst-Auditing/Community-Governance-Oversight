@@ -40,7 +40,7 @@ Echoing [E. F. Schumacher](https://en.wikipedia.org/wiki/Small\_Is\_Beautiful), 
 
 ## Business as usual&#x20;
 
-In the context of business as usual success criteria represents a kind of stability based upon Antifragile principles.  &#x20;
+In the context of business as usual success criteria represents a kind of stability based upon Antifragile principles. This kind of stability does not seek to eliminate volatility but rather to cancel it out in the aggregate. For example many variations are absorbed by many distributed decisions (what Taleb refers to as _Mediocristan_, _Antifragile_, pg.90).
 
 ## Functional groups are represented
 
