@@ -30,7 +30,7 @@ In _Antifragile,_ Nassim Nicholas Taleb refers to the irony of Voltaire periodic
 
 The Swiss model is bottom-up and municipal government by regional entities called cantons.
 
-Taleb empahises how Swiss governance is dictated by a bottom-up and unintellectual atmosphere. Resistant to the dominance of any single big idea and nuturing &#x20;
+Taleb empathizes how Swiss governance is dictated by a bottom-up and unintellectual atmosphere. Resistant to the dominance of any single big idea and nurturing local tinkering.
 
 &#x20;
 
