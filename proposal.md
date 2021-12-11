@@ -1,3 +1,0 @@
-# Proposal
-
-Proposal
