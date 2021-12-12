@@ -64,6 +64,16 @@ CHAPTER 18. Convexity, concavity, and convexity effects. Why size fragilizes.&#x
 
 CHAPTER 19. The Philosopher’s Stone. Deeper into convexity. How Fannie Mae went bust. Nonlinearity. The heuristic to detect fragility and antifragility. Convexity biases, Jensen’s inequality, and their impact on ignorance.
 
+## Book 6: Via Negativa&#x20;
+
+CHAPTER 20. Neomania. Looking at the future by via negativa. The Lindy effect: the old outlives the new in proportion to its age. Empedocles’ Tile. Why the irrational has an edge over the perceived-to-be-rational.&#x20;
+
+CHAPTER 21. Medicine and asymmetry. Decision rules in medical problems: why the very ill has a convex payoff and the healthy has concave exposures.&#x20;
+
+CHAPTER 22. Medicine by subtraction. Introduces the match between individuals and the type of randomness in the environment. Why I don’t want to live forever.
+
+
+
 
 
 
