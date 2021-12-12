@@ -34,7 +34,7 @@ CHAPTER 6. Systems that like randomness. Annealing inside and outside physics. E
 
 CHAPTER 7. An introduction to naive intervention and iatrogenics, the most neglected product of modernity. Noise and signal and overintervening from noise. CHAPTER 8. Prediction as the child of modernity.
 
-## BOOK 3: A Nonpredictive view of the world.&#x20;
+## Book 3: A Nonpredictive view of the world.&#x20;
 
 CHAPTER 9. Fat Tony, the smeller of fragility, Nero, long lunches, and squeezing the fragilistas.
 
@@ -42,7 +42,7 @@ CHAPTER 9. Fat Tony, the smeller of fragility, Nero, long lunches, and squeezing
 
 CHAPTER 11. What to mix and not to mix. The barbell strategy in life and things as the transformation of anything from fragile to antifragile.
 
-## BOOK 4: Optionality, technology, and the intelligence of Antifragility
+## Book 4: Optionality, technology, and the intelligence of Antifragility
 
 (The tension between education, which loves order, and innovation, which loves disorder.)
 
