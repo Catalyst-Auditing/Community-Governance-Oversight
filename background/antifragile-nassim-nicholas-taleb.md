@@ -34,6 +34,16 @@ CHAPTER 6. Systems that like randomness. Annealing inside and outside physics. E
 
 CHAPTER 7. An introduction to naive intervention and iatrogenics, the most neglected product of modernity. Noise and signal and overintervening from noise. CHAPTER 8. Prediction as the child of modernity.
 
+## BOOK 3: A Nonpredictive view of the world.&#x20;
+
+CHAPTER 9. Fat Tony, the smeller of fragility, Nero, long lunches, and squeezing the fragilistas.
+
+&#x20;CHAPTER 10. In which Professor Triffat refuses his own medicine and we use Seneca and stoicism as a back door to explain why everything antifragile has to have more upside than downside and hence benefits from volatility, error, and stressors—the fundamental asymmetry.&#x20;
+
+CHAPTER 11. What to mix and not to mix. The barbell strategy in life and things as the transformation of anything from fragile to antifragile.
+
+
+
 
 
 
