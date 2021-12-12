@@ -78,7 +78,7 @@ Antifragile success criteria for accountability mechanisms should resolve asymme
 
 In short someone should not be able to become Antifragile at the expense of others.
 
-
+Taleb cites the extreme example of Hammurabi’s code that establishes a symmetry of fragility. "_If a builder builds a house and the house collapses and causes the death of the owner of the house - the builder shall be put to death._"  (Antifragile, pg. 380-381).&#x20;
 
 
 
