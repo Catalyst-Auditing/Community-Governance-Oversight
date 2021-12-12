@@ -56,7 +56,7 @@ How this success criteria will be met in practice will depend upon a kind of dri
 
 ## Functional groups are represented
 
-Taleb observes that the Swiss model encouraged vocational apprenticeship models. Or _know-how_ (_techne_) rather than _know-what_ (_episteme_)(_Antifragile_, pg. 90).
+Taleb observes that the Swiss model encouraged vocational apprenticeship models. Or _know-how_ ([_techne_](https://en.wikipedia.org/wiki/Techne)) rather than _know-what_ ([_episteme_](https://en.wikipedia.org/wiki/Episteme))(_Antifragile_, pg. 90).
 
 In the Cardano context the representation of functional groups can be seen to follow a _know-how_ approach where Voters, SPO’s, Toolmakers & Maintainers, Funded proposers, Community advisors, Community proposal auditors, Challenge teams and Ambassadors solicit contributions from apprentices.
 
