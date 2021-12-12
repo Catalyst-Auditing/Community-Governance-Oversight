@@ -48,6 +48,8 @@ This decentralized governance approach is not scalable to the size of a nation s
 
 Echoing [E. F. Schumacher](https://en.wikipedia.org/wiki/Small\_Is\_Beautiful), Taleb suggests that "Small is beautiful" (_Antifragile_, pg.89) in that a collection of small units is more antifragile than a large unit.&#x20;
 
+In principle the bicameral system of an IOG technical council and Catalsyt Circle represents a transition from the fragile, intellectual and permissioned to the antifragile, unintellectual and permissionless.  In practice both parts of the bicameral system need to be continually assessed to identify the degree to which they meet success criteria.&#x20;
+
 ## Business as usual&#x20;
 
 In the context of _business as usual_ success criteria represents some kind of stability based upon Antifragile principles. This kind of stability does not seek to eliminate volatility but rather to cancel it out in the aggregate. For example many variations are absorbed by many distributed decisions (what Taleb refers to as _Mediocristan_, _Antifragile_, pg.90).
