@@ -62,7 +62,9 @@ In the context of Cardano the representation of functional groups can be seen to
 
 ## Safe from adversarial capture
 
-Safe from adversarial capture
+An Antifragile approach to adversarial capture takes a fault tolerant approach to problems of consensus in a distributed system.&#x20;
+
+One example of a fault tolerant approach to the Cardano blockchain is the Ouroboros protocol (see [Ouroboros-BFT](https://iohk.io/en/research/library/papers/ouroboros-bfta-simple-byzantine-fault-tolerant-consensus-protocol/), Aggelos Kiayias,Alexander Russell, 2018).
 
 ## Accountability mechanisms
 
