@@ -72,6 +72,16 @@ CHAPTER 21. Medicine and asymmetry. Decision rules in medical problems: why the 
 
 CHAPTER 22. Medicine by subtraction. Introduces the match between individuals and the type of randomness in the environment. Why I don’t want to live forever.
 
+## Book 7: The ethics of fragility and antifragility&#x20;
+
+CHAPTER 23. The agency problem as transfer of fragility. Skin in the game. Doxastic commitment, or soul in the game. The Robert Rubin problem, the Joseph Stiglitz problem, and the Alan Blinder problem, all three about agency, and one about cherry-picking.&#x20;
+
+CHAPTER 24. Ethical inversion. The collective can be wrong while individuals know it. How people are trapped into an opinion, and how to set them free.&#x20;
+
+CHAPTER 25. Conclusion.&#x20;
+
+EPILOGUE. What happens when Nero leaves to go to the Levant to observe the rite of Adonis.
+
 
 
 
