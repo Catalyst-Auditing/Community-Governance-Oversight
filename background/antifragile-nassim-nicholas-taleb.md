@@ -42,6 +42,22 @@ CHAPTER 9. Fat Tony, the smeller of fragility, Nero, long lunches, and squeezing
 
 CHAPTER 11. What to mix and not to mix. The barbell strategy in life and things as the transformation of anything from fragile to antifragile.
 
+## BOOK 4: Optionality, technology, and the intelligence of Antifragility
+
+(The tension between education, which loves order, and innovation, which loves disorder.)
+
+CHAPTER 12. Thales versus Aristotle, and the notion of optionality, which allows you not to know what’s going on—why it has been misunderstood owing to the conflation. How Aristotle missed the point. Optionality in private life. Conditions under which tinkering outperforms design. Rational flâneur.&#x20;
+
+CHAPTER 13. Asymmetric payoffs behind growth, little else. The Soviet-Harvard illusion, or the lecturing-birds-how-to-fly effect. Epiphenomena.&#x20;
+
+CHAPTER 14. The green lumber fallacy. Tension between episteme and trial and error, and the role through history. Does knowledge generate wealth, and if so, which knowledge? When two things are not the same thing.&#x20;
+
+CHAPTER 15. Rewriting the history of technology. How, in science, history is rewritten by the losers and how I saw it in my own business and how we can generalize. Does knowledge of biology hurt medicine? Hiding the role of luck. What makes a good entrepreneur? CHAPTER 16. How to deal with Soccer Moms. The education of a flâneur.&#x20;
+
+CHAPTER 17. Fat Tony argues with Socrates. Why can’t we do things we can’t explain, and why do we have to explain things we do? The Dionysian. The sucker-nonsucker approach to things.
+
+
+
 
 
 
