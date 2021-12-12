@@ -64,6 +64,8 @@ In the context of Cardano the representation of functional groups can be seen to
 
 An Antifragile approach to adversarial capture takes a fault tolerant approach to problems of consensus in a distributed system.&#x20;
 
+What is consensus in a distributed system of oversight ?
+
 One example of a fault tolerant approach to the Cardano blockchain is the Ouroboros protocol (see [Ouroboros-BFT](https://iohk.io/en/research/library/papers/ouroboros-bfta-simple-byzantine-fault-tolerant-consensus-protocol/), Aggelos Kiayias,Alexander Russell, 2018).
 
 ## Accountability mechanisms
