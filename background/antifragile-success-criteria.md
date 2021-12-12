@@ -14,6 +14,8 @@ The challenge for _Community Governance Oversight_ is how to conduct surveys, re
 
 ## Antifragile Principles
 
+_Dor Garbash_
+
 #### &#x20;Antifragile Principles identified as relevant in Cataylst&#x20;
 
 The follow Antifragile principles were identified by Dor Garbash in his "The Voltaire Principles" presentation :
