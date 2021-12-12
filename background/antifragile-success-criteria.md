@@ -80,13 +80,7 @@ In short someone should not be able to become Antifragile at the expense of othe
 
 Taleb cites the extreme example of Hammurabi’s code that establishes a symmetry of fragility. "_If a builder builds a house and the house collapses and causes the death of the owner of the house - the builder shall be put to death._"  (_Antifragile_, pg. 380-381).&#x20;
 
-Antifragile accountability comprises 1) **skin in the game** "never get on a plane if the pilot is not on board" and 2) **redundancy** "make sure there is also a copilot. (_Antifragile_ (p. 381)
-
-
-
-
-
-
+Antifragile accountability comprises 1) **skin in the game** "_never get on a plane if the pilot is not on board_" and 2) **redundancy** "_make sure there is also a copilot_" (_Antifragile_ (p. 381).
 
 ## Understandable governance
 
