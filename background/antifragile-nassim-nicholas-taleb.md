@@ -52,7 +52,9 @@ CHAPTER 13. Asymmetric payoffs behind growth, little else. The Soviet-Harvard il
 
 CHAPTER 14. The green lumber fallacy. Tension between episteme and trial and error, and the role through history. Does knowledge generate wealth, and if so, which knowledge? When two things are not the same thing.&#x20;
 
-CHAPTER 15. Rewriting the history of technology. How, in science, history is rewritten by the losers and how I saw it in my own business and how we can generalize. Does knowledge of biology hurt medicine? Hiding the role of luck. What makes a good entrepreneur? CHAPTER 16. How to deal with Soccer Moms. The education of a flâneur.&#x20;
+CHAPTER 15. Rewriting the history of technology. How, in science, history is rewritten by the losers and how I saw it in my own business and how we can generalize. Does knowledge of biology hurt medicine? Hiding the role of luck. What makes a good entrepreneur?&#x20;
+
+CHAPTER 16. How to deal with Soccer Moms. The education of a flâneur.&#x20;
 
 CHAPTER 17. Fat Tony argues with Socrates. Why can’t we do things we can’t explain, and why do we have to explain things we do? The Dionysian. The sucker-nonsucker approach to things.
 
