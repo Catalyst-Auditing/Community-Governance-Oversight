@@ -58,7 +58,7 @@ CHAPTER 16. How to deal with Soccer Moms. The education of a flâneur.&#x20;
 
 CHAPTER 17. Fat Tony argues with Socrates. Why can’t we do things we can’t explain, and why do we have to explain things we do? The Dionysian. The sucker-nonsucker approach to things.
 
-Book 5: The Nonlinear and the nonlinear&#x20;
+## Book 5: The Nonlinear and the nonlinear&#x20;
 
 CHAPTER 18. Convexity, concavity, and convexity effects. Why size fragilizes.&#x20;
 
