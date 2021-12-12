@@ -74,6 +74,14 @@ One example of a fault tolerant approach to the Cardano blockchain is the Ourobo
 
 Accountability mechanisms
 
+Antifragile success criteria for accountability mechanisms should resolve asymmetries of exposure to volatility, variations, disorder and downsides by ensuring skin in the game (_Antifragile_, pg. 5).
+
+In short someone should not be able to become Antifragile at the expense of others.
+
+
+
+
+
 ## Understandable governance
 
 Understandable governance
