@@ -11,3 +11,4 @@
 * [Iterative & gradual transition](background/iterative-and-gradual-transition.md)
 * [Effective decision making](background/effective-decision-making.md)
 * [Antifragile Success criteria](background/antifragile-success-criteria.md)
+* [Goal of the community governance oversight](background/goal-of-the-community-governance-oversight.md)
