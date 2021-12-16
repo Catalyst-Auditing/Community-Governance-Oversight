@@ -38,7 +38,7 @@ The follow Antifragile principles were identified by Dor Garbash in his "The Vol
 
 _Interpretation by Stephen Whitenstall_
 
-![](../.gitbook/assets/2021-12-16.png)
+![](<../.gitbook/assets/2021-12-16 (1).png>)
 
 In _Antifragile,_ Nassim Nicholas Taleb refers to the irony of Voltaire periodically seeking refuge in Switzerland for political and financial reasons (_Antifragile pg.86)._ Taleb suggests that the "_shelter, safety and stability_" of Switzerland can be attributed to its lack of a "large _central_ government".
 
