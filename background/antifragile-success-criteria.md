@@ -70,6 +70,8 @@ In the context of Cardano the representation of functional groups can be seen to
 
 ## Safe from adversarial capture
 
+![](<../.gitbook/assets/2021-12-16 (3).png>)
+
 An Antifragile approach to adversarial capture takes a fault tolerant approach to problems of consensus in a distributed system.&#x20;
 
 What is consensus in a distributed system of oversight ?
