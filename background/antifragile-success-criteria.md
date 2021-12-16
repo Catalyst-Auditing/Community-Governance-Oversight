@@ -38,7 +38,7 @@ The follow Antifragile principles were identified by Dor Garbash in his "The Vol
 
 _Interpretation by Stephen Whitenstall_
 
-![](<../.gitbook/assets/2021-12-16 (1).png>)
+![](<../.gitbook/assets/2021-12-16 (1) (1).png>)
 
 In _Antifragile,_ Nassim Nicholas Taleb refers to the irony of Voltaire periodically seeking refuge in Switzerland for political and financial reasons (_Antifragile pg.86)._ Taleb suggests that the "_shelter, safety and stability_" of Switzerland can be attributed to its lack of a "large _central_ government".
 
@@ -53,6 +53,8 @@ Echoing [E. F. Schumacher](https://en.wikipedia.org/wiki/Small\_Is\_Beautiful), 
 In principle the bicameral system of an IOG technical council and Catalsyt Circle represents a transition from the fragile, intellectual and permissioned to the antifragile, unintellectual and permissionless.  In practice both parts of the bicameral system need to be continually assessed to identify the degree to which they meet success criteria.&#x20;
 
 ## Business as usual&#x20;
+
+![](<../.gitbook/assets/2021-12-16 (1).png>)
 
 In the context of _business as usual_ success criteria represents some kind of stability based upon Antifragile principles. This kind of stability does not seek to eliminate volatility but rather to cancel it out in the aggregate. For example many variations are absorbed by many distributed decisions (what Taleb refers to as _Mediocristan_, _Antifragile_, pg.90).
 
