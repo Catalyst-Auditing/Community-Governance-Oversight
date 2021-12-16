@@ -4,6 +4,10 @@ description: Analysis of Antifragile Success criteria
 
 # Antifragile Success criteria
 
+## After Town Session, 15th December 2021
+
+{% embed url="https://youtu.be/J1MomJFNfeo" %}
+
 ## Overview
 
 _Stephen Whitenstall_
