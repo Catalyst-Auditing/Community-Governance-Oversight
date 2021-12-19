@@ -6,6 +6,8 @@ description: Community Feedback
 
 ## Antifragile Success Criteria Discussion, After Town Hall, 15th December
 
+{% embed url="https://youtu.be/J1MomJFNfeo" %}
+
 ### Comments in Zoom Chat
 
 **Tevo Saks :** Why we want to get unintellectual?
