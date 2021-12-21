@@ -148,3 +148,31 @@ Self-Organising Multi-Agent Systems. Algorithmic Foundations of Cyber-Anarcho-So
 
 **Nori Nishigaya :** I’d prefer feedback over training, so I can correct in real-time based on what I did well or poorly.
 
+## Community Advisor Feedback
+
+### Impact / Alignment
+
+1\) A great idea with a big perspective. We need a governance oversight to establish a framework and be specifically focused on auditing. Yet, the tools used for it- are detective - finding a deviation after it occurred. We would need a more dynamic tool since we are living in a dynamic online world. Yet a good idea. Rating given 4.
+
+2\) The given solution completely solves the problem statement of the proposal. I am strong belive that. The given problem statement is defined and regarding almost all aspects of the challenge.
+
+3\) Although the Challenge is well described and is an important component open with smart contract the proposal partially addresses the challenge. The success criteria are relevant to the first half of the challenge question. The Proponent Also Mentions The Current Processes and Some How-Tos and Offers A Test Solution in this Fund 7
+
+### Feasibility
+
+1\)The experience and the team stated are sufficient and reasonable to deliver and implement the proposal. Rating given 5.
+
+2\) The 7 team members are identified, and they gather relevant skills and experiences in the field of digital authentication. The definition of success is described, and it is clear how can be verified the successful implementation of the proposal. The proposer has listed potential challenges and risks in many details and already has established some measures to avoid them.
+
+3\) The project team is very well presented, we know the names, training areas, interests and social profiles (such as twitter, linkedin and even websites) of the team members, which generates a strong security and reliability in their work. The problem and solution are well articulated and easy to understand and there is a detailed plan of deliverables. The Proponent Gives A Detailed Implementation Plan With 8 Members and 8 Implementation Steps There are a lot of potential risks that have been foreseen, some risks have a solution, some have not.
+
+
+
+### Auditability
+
+1\) Metrics stated such as surveys or zoom meetings are easy to be audited. The progress can be also audited e.g. by meeting subtasks such as recruiting new people. The roadmap seems reasonable. Points 1 and 2 The Oversight group will be formed The Audit Circle will be formed. requires more detail. Unless it just "will be formed". Rating given 4.
+
+2\) It can be seen that the proposers know how to properly set up an actionable plan. The metrics provided can easily serve to audit and track the progress on the promises. It has a detailed budget breakdown which seem reasonable based on my intuition.
+
+3\) Positively, there is a roadmap which states how the proposer plans to deliver their outreach programme to various audiences. The budget is clearly defined and concise, with a reasonable amount of funds requested The metrics for the success of this proposal are clearly defined.
+
