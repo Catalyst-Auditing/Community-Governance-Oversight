@@ -185,7 +185,7 @@ Nurturing a culture of listening will assist a shift from centralized to distrib
 
 ### Catalyst Circle Prioritized Problem
 
-* Catalyst Circle has now raised the following prioritized problem How to nurture a listening culture in Catalyst ([link](https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/69))
+* Catalyst Circle has now raised the following prioritized problem : _How to nurture a listening culture in Catalyst_ ([link](https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/69))
 
 ### Community Governance Oversight&#x20;
 
