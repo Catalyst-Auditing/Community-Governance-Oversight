@@ -40,7 +40,25 @@ A single negative experience of not being listened has a disproportionately big 
 
 Conman are good listeners. People who are not listening are easier to deceive and distract.
 
+![](<../.gitbook/assets/2022-01-13 (6).png>)
 
+### Listening is not …
+
+#### Slide Presentations – this is not listening
+
+Particularly long presentations, is not listening. Of course Slide decks are needed to inform and educate. But an excess of self-promotion, self-referential and qualifying information will prompt people to stop listening.
+
+#### Listening is not … Surveying for feedback & data analysis
+
+There is a culture of surveying in Catalyst which typically forms the basis for how we represent ourselves. But this information is always solicited and framed according to the concerns & priorities of the surveyor. If novel voices are to be heard then unsolicited feedback must be discovered.&#x20;
+
+#### Listening is not … Solving problems
+
+The temptation to fix things prioritizes and foregrounds your own knowledge. Whereas actual listening is the wisdom to quieten your voice and risk hearing another voice.
+
+#### Listening is not … An opportunity to demonstrate leadership
+
+If you are focused on how you lead you are not really listening.
 
 ## References
 
