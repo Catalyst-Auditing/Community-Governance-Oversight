@@ -229,6 +229,12 @@ certain expectations in conversation H. Paul Grice, _Studies in the Way of Words
 
 politeness and fairness in turn taking Geoffrey Leech, Principles of Pragmatics (New York: Routledge, 2016)
 
+### Conversational Narcissism & the Shift/Support Response
+
+The Pursuit of Attention, Power and Ego in Everyday Life. Charles Derber.
+
+{% embed url="https://global.oup.com/academic/product/the-pursuit-of-attention-9780195135497?cc=us&lang=en" %}
+
 
 
 \
