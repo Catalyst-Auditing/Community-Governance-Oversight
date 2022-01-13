@@ -102,5 +102,29 @@ There is space for a varied sense of purpose which often depends upon personal p
 
 Impact – the sense of making a difference & contributing to the organisation as a whole. Accessible user journeys that can direct people where they feel most valued.
 
+![](<../.gitbook/assets/2022-01-13 (12).png>)
+
+### Shift Responses :
+
+#### Suggest you know how someone feels & identify the cause of the problem
+
+Even if you empathize with how someone feels, to listen is to allow their feelings to be expressed not yours. They are unlikely to be seeking analysis from you and if identify their problem you are taking it away from them.
+
+#### Tell someone what to do about the problem
+
+Being aware of someone’s problems does not mean you must fix it. The masculine fixit response is so common as to be a cliché. Even if you have good intentions your directions will likely be resisted & resented because you are taking over their problem & their persona.
+
+#### Minimize their concerns
+
+Minimizing people’s concerns is an even more explicit silencing of their voices.
+
+#### Bring perspective to a situation with forced positivity and platitudes
+
+A perspective that rests with a dominant voice has the freedom to push their own positive messages but that freedom is not granted to new voices. Novel perspectives can easily be treated as negative particularly  if they critique the status quo. The world is not divided into right / wrong, positive / negative energies or light and dark – but is nuanced.
+
+#### Admire the person’s strength
+
+Try not to characterize someone’s emotional state. Though you have empathy, you do not know how they feel. Most people just want to be heard, to have a platform, a voice.
+
 ## References
 
