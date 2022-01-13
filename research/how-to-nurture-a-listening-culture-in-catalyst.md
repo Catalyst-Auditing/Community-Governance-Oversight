@@ -1,6 +1,6 @@
 # How to nurture a listening culture in Catalyst ?
 
-## Recording placeholder
+{% embed url="https://youtu.be/_gKsEYrbNQQ" %}
 
 ## Slides & narration
 
