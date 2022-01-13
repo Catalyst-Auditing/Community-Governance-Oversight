@@ -8,7 +8,7 @@
 
 ### How to nurture a listening culture in Catalyst
 
-Stephen Whitenstall, QA-DAO
+**Stephen Whitenstall,** [**QA-DAO**](https://quality-assurance-dao.github.io)****
 
 I do not regard myself as an expert or even a good listener myself.
 
