@@ -134,7 +134,7 @@ People who spend a lot of time listening, such as service workers, experience a 
 
 #### Maxims of Quality, Quantity, Relation & Manner
 
-As many Cas & vCAs realize there are certain reasonable expectations when listening. Communication is co-operative. And if the _quality_ of what you are hearing is suspect, the _quantity_ overwhelms us too much, if what is said _does not relate_ to what we are talking about or is nonsensical we become confused. And if the _manner_ of what is said is over-long, all over the place or ambiguous we may become restless.
+As many Community Advisors & vCAs realize there are certain reasonable expectations when listening. Communication is co-operative. And if the _quality_ of what you are hearing is suspect, the _quantity_ overwhelms us too much, if what is said _does not relate_ to what we are talking about or is nonsensical we become confused. And if the _manner_ of what is said is over-long, all over the place or ambiguous we may become restless.
 
 #### Toxicity - Aggressive, manipulative speech
 
