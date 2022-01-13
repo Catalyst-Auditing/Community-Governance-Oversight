@@ -18,7 +18,7 @@ As governance issues come to the fore the importance of different voices being h
 
 ### Why is Listening important ?
 
-#### Building communities – listening as induction
+#### Building communities – listening as onboarding
 
 We talk a lot about on-boarding in Catalyst, but what induces new people to stay  ?
 
