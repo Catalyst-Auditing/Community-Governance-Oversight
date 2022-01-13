@@ -207,4 +207,16 @@ Nurturing a culture of listening will assist a shift from centralized to distrib
 
 {% embed url="https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction" %}
 
+### Understand team effectiveness
+
+{% embed url="https://rework.withgoogle.com/guides/understanding-team-effectiveness/steps/introduction" %}
+
+### “Data sets shed light only on what’s in the data set.”
+
+Bit by Bit: Social Research in the Digital Age (Princeton, NJ: Princeton University Press, 2017).
+
+## The Nature and Correlates of Conversational Sensitivity
+
+{% embed url="https://academic.oup.com/hcr/article-abstract/14/2/167/4587710?redirectedFrom=fulltext" %}
+
 \
