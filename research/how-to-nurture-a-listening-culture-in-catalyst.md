@@ -8,6 +8,8 @@
 
 ### How to nurture a listening culture in Catalyst
 
+Stephen Whitenstall, QA-DAO
+
 I do not regard myself as an expert or even a good listener myself.
 
 Interactions and experiences with different parts of the community and many conversations with different individuals have brought me here. &#x20;
