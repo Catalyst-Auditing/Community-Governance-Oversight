@@ -1,5 +1,7 @@
 # How to nurture a listening culture in Catalyst ?
 
+## Recording
+
 {% embed url="https://youtu.be/_gKsEYrbNQQ" %}
 
 [View on Swarm YouTube](https://www.youtube.com/watch?v=\_gKsEYrbNQQ)
