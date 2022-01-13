@@ -156,7 +156,7 @@ In a group setting listening can emerge as a culture of mutual support and respe
 
 #### Co-operative training
 
-[Entreprenerdy ](https://entreprenerdy.com)delivers it training with short presentation followed by a discursive participation.
+[Entreprenerdy ](https://entreprenerdy.com)delivers it's training with short presentation followed by a discursive participation.
 
 #### Open discussions – with equal participation
 
