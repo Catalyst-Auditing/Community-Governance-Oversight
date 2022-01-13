@@ -108,7 +108,7 @@ Impact – the sense of making a difference & contributing to the organisation a
 
 #### Suggest you know how someone feels & identify the cause of the problem
 
-Even if you empathize with how someone feels, to listen is to allow their feelings to be expressed not yours. They are unlikely to be seeking analysis from you and if identify their problem you are taking it away from them.
+Even if you empathize with how someone feels, to listen is to allow their feelings to be expressed not yours. They are unlikely to be seeking analysis from you and if you identify their problem you are taking it away from them.
 
 #### Tell someone what to do about the problem
 
