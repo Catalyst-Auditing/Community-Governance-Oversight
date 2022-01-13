@@ -195,8 +195,16 @@ Nurturing a culture of listening will assist a shift from centralized to distrib
 
 * Murphy, Kate. You’re Not Listening. 2020. Random House.&#x20;
 
-Research cited&#x20;
+### Research cited
 
+### Project Aristotle -&#x20;
 
+#### … what Google learned from its quest to build the perfect team … group dynamics, emotional intelligence and psychological safety
+
+{% embed url="https://thegeniusworks.com/2018/11/project-aristotle-what-google-learned-from-its-quest-to-build-the-perfect-team-group-dynamics-emotional-intelligence-and-psychological-safety" %}
+
+### OKRs - “Objectives and Key Results”
+
+{% embed url="https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction" %}
 
 \
