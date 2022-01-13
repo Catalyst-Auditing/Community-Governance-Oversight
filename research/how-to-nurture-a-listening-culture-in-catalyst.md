@@ -223,4 +223,8 @@ Bit by Bit: Social Research in the Digital Age (Princeton, NJ: Princeton Univers
 
 {% embed url="https://academic.oup.com/hcr/article-abstract/14/2/167/4587710?redirectedFrom=fulltext" %}
 
+### Maxims of Quality, Quantity, Relation & Manner
+
+certain expectations in conversation H. Paul Grice, _Studies in the Way of Words_ (Cambridge, MA: Harvard University Press, 1991);
+
 \
