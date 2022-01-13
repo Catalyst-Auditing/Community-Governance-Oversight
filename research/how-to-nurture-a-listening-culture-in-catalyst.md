@@ -48,7 +48,7 @@ Conman are good listeners. People who are not listening are easier to deceive an
 
 #### Slide Presentations – this is not listening
 
-Particularly long presentations, is not listening. Of course Slide decks are needed to inform and educate. But an excess of self-promotion, self-referential and qualifying information will prompt people to stop listening.
+Presentations, particularly long ones, is not listening. Of course slide decks are needed to inform and educate. But an excess of self-promotion, self-referential and qualifying information will prompt people to stop listening.
 
 #### Listening is not … Surveying for feedback & data analysis
 
