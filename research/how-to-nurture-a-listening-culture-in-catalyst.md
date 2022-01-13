@@ -142,5 +142,29 @@ As many Cas & vCAs realize there are certain reasonable expectations when listen
 
 Listening is a co-operative endeavour so if someone is being aggressive or trying to manipulate you then there is no obligation to listen.
 
+![](<../.gitbook/assets/2022-01-13 (14).png>)
+
+### Where are the listeners in Catalyst ?
+
+#### Where have I encountered listeners in Catalyst ?
+
+#### The unknown listeners
+
+The largest cohort of listeners in Catalyst are the unknown listeners. They are ubiquitous. Everywhere where support is sought from individuals whose patience, availability and wisdom is recognized. They are some of the most highly skilled and hardest working people. And yet what they do is known the least known and rarely promoted as a capability.
+
+#### Community Admin Teams
+
+In a group setting listening can emerge as a culture of mutual support and respect. This is evident where participants are able to contribute and be heard equally in meetings and discussions.
+
+#### Co-operative training
+
+[Entreprenerdy ](https://entreprenerdy.com)delivers it training with short presentation followed by a discursive participation.
+
+#### Open discussions – with equal participation
+
+Where people take turns to speak and risk expressing their views.
+
+#### Informal – one-to-one conversations
+
 ## References
 
