@@ -195,4 +195,8 @@ Nurturing a culture of listening will assist a shift from centralized to distrib
 
 * Murphy, Kate. You’re Not Listening. 2020. Random House.&#x20;
 
+Research cited&#x20;
+
+
+
 \
