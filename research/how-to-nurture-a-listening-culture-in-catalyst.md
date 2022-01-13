@@ -235,6 +235,232 @@ The Pursuit of Attention, Power and Ego in Everyday Life. Charles Derber.
 
 {% embed url="https://global.oup.com/academic/product/the-pursuit-of-attention-9780195135497?cc=us&lang=en" %}
 
+## Feedback in Zoom Chat
 
+**John Wellesz** : great quote from Maya Angelou: “_I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel._”
+
+**Allison Fromm** : Great quote
+
+**Dor Garbash** : Damn I haven’t been listening for quite a while…
+
+**Stephen Lockhart** : Here’s another thought I’ve held on to over the years: “_Shared pain is lessened, shared joy is increased, thus do we refute entropy_”
+
+**John Wellesz** : nice
+
+**Jack Briggs** : Great presentation and content Stephen
+
+**Stephen Lockhart** : 🙏 thank you Stephen for thinking deeply about this
+
+**Stephen Whitenstall** : Thanks Stephen
+
+**Stephen Whitenstall** : I will add notes and feedback here afterwards - https://quality-assurance-dao.gitbook.io/community-governance-oversight/
+
+**Jonathan Adjei** : Brill .. ta!
+
+Cauê Chianca : Tks for the slides, Stephen
+
+John Wellesz : an interesting thing I've found: the opposite of being judgmental is being curious
+
+Allison Fromm : Well said
+
+Zoé Kleist : preach it Harry!! love it! awareness about culture and individuals and their relation is so important!
+
+Zoé Kleist : also love that cardano has this as a value :)
+
+Andrii Voloshyn : But what is this toxicity everybody speaks about? Today I read hundreds of messages in Community advisors channel and didn’t notice anything special. They were probably removed?
+
+Stephen Lockhart : Or perceived power
+
+Stephen Lockhart : Not all perceived power is real.
+
+Allison Fromm : @Andrii my experience has been the same as yours.
+
+John Wellesz : A good way to startle a toxic person is to ask something like:  "What was your intent in saying that?"
+
+James Meidinger : some are aggressive due to a underlying fear and it then is relatedinto their tone and how they speak to others
+
+Dan SecretDecks : @John they most likely cant or wont give the subconscious intent
+
+harry hellyer : @ John - a very powerful question, I feel as it opens up alignment and awareness of other
+
+John Wellesz : @Dan no but this is an hypnotic trick that will "shock" them and destabilize them. You don't care about their reply
+
+Andrii Voloshyn : @Alison, now just it feels I missed something important
+
+Zoé Kleist : preach it James!!
+
+James Dunseith : The “safety” of just being an anony
+
+James Dunseith : Anonymous troll
+
+harry hellyer : Hey wonderful peeps, have to drop off now, very valuable session, have a great week all. H
+
+James Dunseith : You too Harry
+
+Jonathan Adjei : Cheers Harry!
+
+Zoé Kleist : see ya Harry!! :))
+
+Matthias Sieber : Thanks Harry.
+
+Stephen Whitenstall : Thanks Harry
+
+Zoé Kleist : if you want to be maximally incusive, you have to listen :)
+
+Zoé Kleist : \*inclusive ofc^^
+
+Allison Fromm : Good point, Zoé
+
+Zoé Kleist : thank you allison. no one can ever imagine all the realities that exist in the world. so we Need to stay open minded :)
+
+Allison Fromm : 👍
+
+&#x20;Matthias Sieber : Streamlined and concise communication is a communication style. Some more narrative communication styles favor stolytelling.
+
+Stephen Lockhart : Thanks everyone, gotta go!!
+
+Johnny Nguyen : listening -> leads to someone feeling like they are being heard -> someone feeling like they are being heard leads to connection -> connection leads to limbic resonance. :)
+
+J P : But we also need inlets for people to coordinate and have a spokesperson. Not all want to engage in the discussion outside of their own safe space
+
+Jonathan Adjei : Cheers Stephen L .. !
+
+John Wellesz : meditation is probably a good way, because to be able to listen to others you first need to be able to listen to yourself
+
+Dan SecretDecks : lol john, iw as just writing down on my notes : listening by quieting the mind; maybe meditation as "listening practice"
+
+James Meidinger : meditation is key have been doing that for a few years now, it has changed my life
+
+Mike Dietrich : thanks Allison! :)
+
+Matthias Sieber : Thanks for sharing, Allison.
+
+Zoé Kleist : @john: i am convinced you can learn both at the same time :) and the understandings from both practices will influence each other.
+
+Dor Garbash : I have to go. Learned a lot and curious to see how things move forward from here. Thanks everyone!
+
+Jonathan Adjei : Cheers Dor!
+
+Zoé Kleist : bye dor! ^.^
+
+Dan SecretDecks : Bye Dor, see you soon!
+
+John Wellesz : thanks to Charles Hoskinson's AMAs, I've started meditation with the Calm app and the 30 days course named "how to meditate" is really awesome
+
+James Meidinger : nice john it will serve you well
+
+Matthias Sieber : I acknowledge, I'm stepping into my male behavior here, but I want to share this book recommendation (primarily for my cisgender males). Gender through the prism of difference by Maxine Baca Zinn, Pierrette Hondagneu-Sotelo, Michael A. Messner, and Amy M. Denissen.
+
+Zoé Kleist : to be able to listen you have to create a space where you can hear… ('hear' in a broader sense, it could also be reading^^)
+
+Dan SecretDecks : thx Matthias!
+
+Dan SecretDecks : Zoe fits well with the SecretDecks claim: Read Thy Self ^^
+
+Zoé Kleist : the what? :)
+
+Allison Fromm : I’ll get it...
+
+Vanessa Cardui : https://quality-assurance-dao.gitbook.io/catalyst-circle-oversight-v2/meetings/meeting-5-january-6th-2022
+
+Matthias Sieber : https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues
+
+Allison Fromm : Wow….you guys are fast!!
+
+Dan SecretDecks : https://quality-assurance-dao.gitbook.io/catalyst-circle-oversight-v2/meetings/meeting-5-january-6th-2022#bullying-on-telegram-and-culture-of-listening-43-57
+
+Dan SecretDecks : https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/62
+
+20:17:35               From  Jonathan Adjei : https://quality-assurance-dao.gitbook.io/catalyst-circle-oversight-v2/meetings/meeting-5-january-6th-2022
+
+J P : Community self moderation - calling out bullies
+
+Matthias Sieber : sometimes calling them in
+
+James Dunseith : How long do we have?
+
+Johnny Nguyen : +1 Dan... Retreats + Nature + Reflection.
+
+James Meidinger : selfless acts on discord, telegram and twitter, leaving personal opinions of a person or persons out of your comments
+
+James Dunseith : http://restorativejustice.org/
+
+Dan SecretDecks : Johnny: 100+
+
+Zoé Kleist : yess!! :3
+
+A W G : Fight club!
+
+Kriss Baird : Guys, I hope I’ve been listening intently. Its given me a lot of food for thought. Those opportunities  for reflection are so important. 🕊 I have to drop off now unfortunately - thanks for the openness Stephen and for everyone being open to vulnerability here. Not an easy thing to do in 2D. Take care everyone.
+
+Allison Fromm : @AWG - The first Rule of Catalyst…..
+
+Jonathan Adjei : Cheers Kriss!
+
+Johnny Nguyen : Calcio Fiorentino
+
+Dan SecretDecks : thanks Kriss and stay foxy!
+
+A W G : 🤣
+
+James Meidinger : first rule of catalyst lol
+
+Zoé Kleist : you're SO WISE Felix!! your lessons are so important!
+
+Dan SecretDecks : 100% @Felix
+
+Conflict is necessary for growth, importantthat it happens in proper (restorative) environment
+
+Dan SecretDecks : conflict transformation instead of - resolution
+
+Matthias Sieber : you're speaking my language
+
+James Meidinger : conflict is inevitable its how you respond to it that matters
+
+Johnny Nguyen : Conflict is uncomfortable, but growth happens outside our comfort zones. :)
+
+Zoé Kleist : what goes with listening is: asking good questions. and also providing a space. These are necessities, otherwise you cant evenhear.
+
+Dan SecretDecks : we need more conflict in this room xD
+
+John Wellesz : A useful mindset in dire situations is to always look for the positive aspect or discovery brought by that situation because there is always something positive about any situation that you can find if you look.
+
+Johnny Nguyen : Thank you everyone. many positive affirmations and lovely reminders.  I've got to step out for another call but I heart you all.
+
+Jonathan Adjei : Cheers Johnny!
+
+Dan SecretDecks : Bye Johnny and thanks for being!
+
+Zoé Kleist : see ya Johnny :))
+
+Patrik Suzzi : @ Matthias
+
+My base culture taught me that I should avoid direct confrontation.
+
+After living in northern Europe I learnt that is common and good to bring direct confrontation to the table
+
+How should I learn to bring confrontation into the discussions?
+
+James Dunseith : Gotta run!
+
+James Dunseith : Thank you so much all
+
+Matthias Sieber : @Patrik, a good starting point are organizations like Soliya and Erasmus for facilitation training.
+
+https://soliya.net/
+
+Patrik Suzzi : Thanks 🙂
+
+Matthias Sieber : Prior to Catalyst Circle v1, there was someone who did some really great facilitation as well. I try to find out.
+
+J P : Maybe we need some sort of flag system?
+
+Allison Fromm : I have to drop off. Many thanks Stephen for bringing this topic to light and hosting this room! ♥️
+
+Jonathan Adjei : Cheers Allison!
+
+&#x20;
+
+&#x20;
 
 \
