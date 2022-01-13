@@ -2,6 +2,8 @@
 
 {% embed url="https://youtu.be/_gKsEYrbNQQ" %}
 
+[View on Swarm YouTube](https://www.youtube.com/watch?v=\_gKsEYrbNQQ)
+
 ## Slides & narration
 
 ![](<../.gitbook/assets/2022-01-13 (3).png>)
