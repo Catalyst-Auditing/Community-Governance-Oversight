@@ -185,11 +185,13 @@ Nurturing a culture of listening will assist a shift from centralized to distrib
 
 ### Catalyst Circle Prioritized Problem
 
+### _How to nurture a listening culture in Catalyst_
+
 * Catalyst Circle has now raised the following prioritized problem : _How to nurture a listening culture in Catalyst_ ([link](https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/69))
 
-### Community Governance Oversight&#x20;
+### Fund 7 Community Governance Oversight proposal &#x20;
 
-* This presentation will documented in the Gitbook ([link](https://quality-assurance-dao.gitbook.io/community-governance-oversight/research/how-to-nurture-a-listening-culture-in-catalyst)) for the Fund 7 Community Governance Oversight proposal ([link](https://cardano.ideascale.com/a/dtd/Community-Governance-Oversight/383517-48088))
+* This presentation will documented in the Gitbook ([link](https://quality-assurance-dao.gitbook.io/community-governance-oversight/research/how-to-nurture-a-listening-culture-in-catalyst)) for the _Fund 7 Community Governance Oversight proposal_ ([link](https://cardano.ideascale.com/a/dtd/Community-Governance-Oversight/383517-48088))
 
 ### Books
 
