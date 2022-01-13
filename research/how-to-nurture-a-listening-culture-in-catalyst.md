@@ -66,7 +66,7 @@ If you are focused on how you lead you are not really listening.
 
 ![](<../.gitbook/assets/2022-01-13 (7).png>)
 
-### Google’s Project Aristotle – Productive Teams
+### Project Aristotle – Productive Teams
 
 In 2012 Google commissioned a study to find out what makes a good team. After three years of collecting data they found that the most productive teams have members who
 
@@ -74,9 +74,33 @@ In 2012 Google commissioned a study to find out what makes a good team. After th
 
 •have a higher “average social sensitivity,” which means they were good at intuiting one another’s feelings based on things like tone of voice, facial expressions, and other nonverbal cues.
 
+![](<../.gitbook/assets/2022-01-13 (10).png>)
 
+### Project Aristotle - What matters the most ?
 
+This research identified dynamics that contributed to interdependent teamwork.
 
+What mattered the most was :
+
+#### Psychological safety – do you feel safe enough to take risks ?
+
+Teams who co-operate closely and can express themselves feel safe enough to take the risk of speaking and exposing the vulnerability of their perspective.
+
+#### Dependability – can team members rely on each other ?
+
+Team members support each other with contributions and can be relied on to complete work.
+
+#### Structure & clarity – understanding expectations, relevant measures
+
+Where teams listen to each they have a clear understanding of what is expected of them. Goals can then be set at an individual and group level. And any Key Performance Indicators will be relevant and attainable.
+
+#### Meaning – a sense of purpose
+
+There is space for a varied sense of purpose which often depends upon personal priorities & circumstances being heard. Not a centralised or homogenous message.
+
+#### Impact – the sense of making a difference & contributing
+
+Impact – the sense of making a difference & contributing to the organisation as a whole. Accessible user journeys that can direct people where they feel most valued.
 
 ## References
 
