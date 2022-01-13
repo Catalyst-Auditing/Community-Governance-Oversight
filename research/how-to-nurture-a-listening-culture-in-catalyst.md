@@ -126,5 +126,21 @@ A perspective that rests with a dominant voice has the freedom to push their own
 
 Try not to characterize someone’s emotional state. Though you have empathy, you do not know how they feel. Most people just want to be heard, to have a platform, a voice.
 
+![](<../.gitbook/assets/2022-01-13 (13).png>)
+
+### When should we stop listening ?
+
+#### Burnout – there is a limit to what you can listen to
+
+People who spend a lot of time listening, such as service workers, experience a limit to their listening capability. Attending to and engaging with others requires skill, emotional investment and patience. We are all human. And this can only be sustained so long.
+
+#### Maxims of Quality, Quantity, Relation & Manner
+
+As many Cas & vCAs realize there are certain reasonable expectations when listening. Communication is co-operative. And if the _quality_ of what you are hearing is suspect, the _quantity_ overwhelms us too much, if what is said _does not relate_ to what we are talking about or is nonsensical we become confused. And if the _manner_ of what is said is over-long, all over the place or ambiguous we may become restless.
+
+#### Toxicity - Aggressive, manipulative speech
+
+Listening is a co-operative endeavour so if someone is being aggressive or trying to manipulate you then there is no obligation to listen.
+
 ## References
 
