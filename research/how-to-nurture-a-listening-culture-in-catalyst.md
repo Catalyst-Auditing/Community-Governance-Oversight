@@ -60,5 +60,21 @@ The temptation to fix things prioritizes and foregrounds your own knowledge. Whe
 
 If you are focused on how you lead you are not really listening.
 
+
+
+![](<../.gitbook/assets/2022-01-13 (7).png>)
+
+### Google’s Project Aristotle – Productive Teams
+
+In 2012 Google commissioned a study to find out what makes a good team. After three years of collecting data they found that the most productive teams have members who
+
+•speak in roughly the same proportion - “equality in distribution of conversational turn-taking.”
+
+•have a higher “average social sensitivity,” which means they were good at intuiting one another’s feelings based on things like tone of voice, facial expressions, and other nonverbal cues.
+
+
+
+
+
 ## References
 
