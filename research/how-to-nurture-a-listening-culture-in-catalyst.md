@@ -2,7 +2,43 @@
 
 ## Recording placeholder
 
-## Presentation placeholder
+## Slides & narration
+
+![](<../.gitbook/assets/2022-01-13 (3).png>)
+
+### How to nurture a listening culture in Catalyst
+
+I do not regard myself as an expert or even a good listener myself.
+
+Interactions and experiences with different parts of the community and many conversations with different individuals have brought me here. &#x20;
+
+As governance issues come to the fore the importance of different voices being heard becomes critical and I now see it as a capability we should all nurture.
+
+![](<../.gitbook/assets/2022-01-13 (5).png>)
+
+### Why is Listening important ?
+
+#### Building communities – listening as induction
+
+We talk a lot about on-boarding in Catalyst, but what induces new people to stay  ?
+
+In part it is spaces where people listen to each other, provide acknowledgement and evaluative feedback. Where they feel they have crossed a threshold and feel at home.
+
+#### Listening gives you insight
+
+Good listeners are aware of themselves & who they are listening to. They have situational awareness.
+
+#### Listening motivates speaking
+
+Voices that feel they are heard will be more likely to engage and speak up. There is a double-bind here because this also implies that the voices you hear are the ones that have been listened to. Not the voices that struggle to be heard.
+
+#### Negative interactions have a bigger impact than positive ones.
+
+A single negative experience of not being listened has a disproportionately big impact on a person. Research has suggested it is up to 5 times as impactful as a single positive experience. You remember what hurts you.
+
+#### Security  - spotting deception.
+
+Conman are good listeners. People who are not listening are easier to deceive and distract.
 
 
 
