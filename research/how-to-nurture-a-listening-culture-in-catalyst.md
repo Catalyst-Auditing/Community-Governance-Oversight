@@ -1,3 +1,7 @@
+---
+description: A Catalyst After Town Hall Presentation & Discussion hosted by QA-DAO
+---
+
 # How to nurture a listening culture in Catalyst ?
 
 ## Recording
