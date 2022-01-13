@@ -215,7 +215,7 @@ Nurturing a culture of listening will assist a shift from centralized to distrib
 
 Bit by Bit: Social Research in the Digital Age (Princeton, NJ: Princeton University Press, 2017).
 
-## The Nature and Correlates of Conversational Sensitivity
+### The Nature and Correlates of Conversational Sensitivity
 
 {% embed url="https://academic.oup.com/hcr/article-abstract/14/2/167/4587710?redirectedFrom=fulltext" %}
 
