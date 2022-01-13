@@ -174,17 +174,12 @@ Where people take turns to speak and risk expressing their views.
 
 Nurturing a culture of listening will assist a shift from centralized to distributed governance.
 
-From managerial and individual competencies to the communitarian & social capabilities of teams.
-
-From a capability concerned with the quantitative to a hybrid capability that extends to qualitative skills.&#x20;
-
-From the risk adverse to building & nurturing the safety needed to take risks.
-
-From specialized, singular purposes to generalised, multi-facted purposes.
-
-From a rigid structure that resists change to composability that can respond to change and rearrange.
-
-From the Fragile to the Anti-Fragile ?
+* From managerial and individual competencies to the communitarian & social capabilities of teams.
+* From a capability concerned with the quantitative to a hybrid capability that extends to qualitative skills.
+* From the risk adverse to building & nurturing the safety needed to take risks.
+* From specialized, singular purposes to generalised, multi-facted purposes.
+* From a rigid structure that resists change to composability that can respond to change and rearrange.
+* From the Fragile to the Anti-Fragile ?
 
 ## References
 
