@@ -12,7 +12,7 @@ Stephen Whitenstall, QA-DAO
 
 I do not regard myself as an expert or even a good listener myself.
 
-Interactions and experiences with different parts of the community and many conversations with different individuals have brought me here. &#x20;
+Interactions and experiences with different parts of the community and many conversations with different individuals have brought me here.
 
 As governance issues come to the fore the importance of different voices being heard becomes critical and I now see it as a capability we should all nurture.
 
@@ -22,7 +22,7 @@ As governance issues come to the fore the importance of different voices being h
 
 #### Building communities – listening as onboarding
 
-We talk a lot about on-boarding in Catalyst, but what induces new people to stay  ?
+We talk a lot about on-boarding in Catalyst, but what induces new people to stay ?
 
 In part it is spaces where people listen to each other, provide acknowledgement and evaluative feedback. Where they feel they have crossed a threshold and feel at home.
 
@@ -38,7 +38,7 @@ Voices that feel they are heard will be more likely to engage and speak up. Ther
 
 A single negative experience of not being listened has a disproportionately big impact on a person. Research has suggested it is up to 5 times as impactful as a single positive experience. You remember what hurts you.
 
-#### Security  - spotting deception.
+#### Security - spotting deception.
 
 Conman are good listeners. People who are not listening are easier to deceive and distract.
 
@@ -52,7 +52,7 @@ Presentations, particularly long ones, is not listening. Of course slide decks a
 
 #### Listening is not … Surveying for feedback & data analysis
 
-There is a culture of surveying in Catalyst which typically forms the basis for how we represent ourselves. But this information is always solicited and framed according to the concerns & priorities of the surveyor. If novel voices are to be heard then unsolicited feedback must be discovered.&#x20;
+There is a culture of surveying in Catalyst which typically forms the basis for how we represent ourselves. But this information is always solicited and framed according to the concerns & priorities of the surveyor. If novel voices are to be heard then unsolicited feedback must be discovered.
 
 #### Listening is not … Solving problems
 
@@ -61,8 +61,6 @@ The temptation to fix things prioritizes and foregrounds your own knowledge. Whe
 #### Listening is not … An opportunity to demonstrate leadership
 
 If you are focused on how you lead you are not really listening.
-
-
 
 ![](<../.gitbook/assets/2022-01-13 (7).png>)
 
@@ -120,7 +118,7 @@ Minimizing people’s concerns is an even more explicit silencing of their voice
 
 #### Bring perspective to a situation with forced positivity and platitudes
 
-A perspective that rests with a dominant voice has the freedom to push their own positive messages but that freedom is not granted to new voices. Novel perspectives can easily be treated as negative particularly  if they critique the status quo. The world is not divided into right / wrong, positive / negative energies or light and dark – but is nuanced.
+A perspective that rests with a dominant voice has the freedom to push their own positive messages but that freedom is not granted to new voices. Novel perspectives can easily be treated as negative particularly if they critique the status quo. The world is not divided into right / wrong, positive / negative energies or light and dark – but is nuanced.
 
 #### Admire the person’s strength
 
@@ -183,3 +181,18 @@ Nurturing a culture of listening will assist a shift from centralized to distrib
 
 ## References
 
+![](<../.gitbook/assets/2022-01-13 (16) (1).png>)
+
+### Catalyst Circle Prioritized Problem
+
+* Catalyst Circle has now raised the following prioritized problem How to nurture a listening culture in Catalyst ([link](https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/69))
+
+### Community Governance Oversight&#x20;
+
+* This presentation will documented in the Gitbook ([link](https://quality-assurance-dao.gitbook.io/community-governance-oversight/research/how-to-nurture-a-listening-culture-in-catalyst)) for the Fund 7 Community Governance Oversight proposal ([link](https://cardano.ideascale.com/a/dtd/Community-Governance-Oversight/383517-48088))
+
+### Books
+
+* Murphy, Kate. You’re Not Listening. 2020. Random House.&#x20;
+
+\
