@@ -225,6 +225,10 @@ Bit by Bit: Social Research in the Digital Age (Princeton, NJ: Princeton Univers
 
 ### Maxims of Quality, Quantity, Relation & Manner
 
-certain expectations in conversation H. Paul Grice, _Studies in the Way of Words_ (Cambridge, MA: Harvard University Press, 1991);
+certain expectations in conversation H. Paul Grice, _Studies in the Way of Words_ (Cambridge, MA: Harvard University Press, 1991
+
+politeness and fairness in turn taking Geoffrey Leech, Principles of Pragmatics (New York: Routledge, 2016)
+
+
 
 \
