@@ -12,7 +12,7 @@ description: Analysis of Antifragile Success criteria
 
 _Stephen Whitenstall_
 
-Antifragile principles are already evident in the semantics of Project Catalyst from the "_human sensor array_" of Catalyst Circle, the emphasis on _autonomy_ in DAOs, the implication of self-organization through _swarming_ in Catalyst Swarm and the self-healing implicit in the "_things may brake_" message of Town Hall.&#x20;
+Antifragile principles are already evident in the semantics of Project Catalyst from the "_human sensor array_" of Catalyst Circle, the emphasis on _autonomy_ in DAOs, the implication of self-organization through _swarming_ in Catalyst Swarm and the self-healing implicit in the "_things may break_" message of Town Hall.&#x20;
 
 A parallel may be drawn with the antifragile engineering approach of NASA to communal sensor network design, autonomous unmanned aerial vehicles, self-organizing and cooperate swarming systems and self-healing materials (_Engineering Antifragile Systems: A Change In Design Philosophy_, Kennie H. Jones, 2014, NASA Langley Research Center).
 
