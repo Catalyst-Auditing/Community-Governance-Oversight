@@ -44,7 +44,7 @@ Obvious approaches are standard operating procedures such as completing a form o
 
 ### The Complicated
 
-![](<../.gitbook/assets/2022-01-27 (4).png>)
+![](<../.gitbook/assets/2022-01-27 (4) (1).png>)
 
 Here live ordered systems whose cause, and effect relationships are discoverable through analysis.
 
