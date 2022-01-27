@@ -12,9 +12,9 @@ Previous events have covered Antifragile Success criteria & How to nurture a lis
 
 The Cynefin Framework is a conceptual framework used to aid decision-making. It was created in 1999 by Dave Snowden when he worked for IBM Global Services. Cynefin is a Welsh word that can be translated as habitat but its meaning extends to the domains we live in and the places you come from.
 
-![](<../.gitbook/assets/2022-01-27 (1).png>)
-
 ## Cynefin Overview
+
+![](<../.gitbook/assets/2022-01-27 (1).png>)
 
 In this slide I will give an overview of the Cynefin Framework & then on the next slide apply this to Catalyst.
 
@@ -97,6 +97,10 @@ In Chaotic situations cause and effect are unclear, but it is essential to act. 
 ![](<../.gitbook/assets/2022-01-27 (6).png>)
 
 Finally in the center is the domain of disorder which can also be seen as a starting point. Here lives a cacophony of voices jostling for prominence – this situation is what assignment to the other domains or spaces seeks to resolve.
+
+## Cynefin Framework and Catalyst
+
+![](<../.gitbook/assets/2022-01-27 (8).png>)
 
 \
 &#x20;
