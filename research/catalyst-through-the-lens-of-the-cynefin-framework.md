@@ -118,6 +118,8 @@ A danger with the Obvious domain is complacency where standard procedures start 
 
 ### The Complicated
 
+![](<../.gitbook/assets/2022-01-27 (13).png>)
+
 Here the IOG Catalyst research Team, the Technical Council & Catalyst Community academic research conduct in-depth analysis and research into discrete solutions
 
 ### The Complex
