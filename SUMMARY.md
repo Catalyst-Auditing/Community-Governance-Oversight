@@ -12,4 +12,5 @@
 * [Antifragile - Nassim Nicholas Taleb](research/antifragile-nassim-nicholas-taleb.md)
 * [Antifragile Success criteria](research/antifragile-success-criteria.md)
 * [How to nurture a listening culture in Catalyst ?](research/how-to-nurture-a-listening-culture-in-catalyst.md)
+* [Catalyst through the lens of the Cynefin Framework](research/catalyst-through-the-lens-of-the-cynefin-framework.md)
 * [Feedback](research/feedback.md)
