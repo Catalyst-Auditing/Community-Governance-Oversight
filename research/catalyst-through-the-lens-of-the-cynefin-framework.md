@@ -14,7 +14,7 @@ The Cynefin Framework is a conceptual framework used to aid decision-making. It 
 
 ![](<../.gitbook/assets/2022-01-27 (1).png>)
 
-## Overview
+## Cynefin Overview
 
 In this slide I will give an overview of the Cynefin Framework & then on the next slide apply this to Catalyst.
 
@@ -76,7 +76,9 @@ And respond
 
 With Complex approaches cause and effect can only be deduced in retrospect, there are no right answers. Rather instructive patterns emerge from sensemaking.
 
-#### &#x20;The Chaotic
+### &#x20;The Chaotic
+
+![](<../.gitbook/assets/2022-01-27 (7).png>)
 
 Here live chaotic systems where turbulence prevails, and immediate stabilizing action is required.
 
