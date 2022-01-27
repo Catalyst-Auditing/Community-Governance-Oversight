@@ -92,6 +92,10 @@ And respond to turn the chaotic into the complex
 
 In Chaotic situations cause and effect are unclear, but it is essential to act. So, a series of ad hoc actions may occur simply to establish order and restore some stability.
 
+### Disorder&#x20;
+
+![](<../.gitbook/assets/2022-01-27 (6).png>)
+
 Finally in the center is the domain of disorder which can also be seen as a starting point. Here lives a cacophony of voices jostling for prominence – this situation is what assignment to the other domains or spaces seeks to resolve.
 
 \
