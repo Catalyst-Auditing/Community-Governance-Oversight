@@ -42,7 +42,9 @@ Respond – by following the rule or appropriate best practice
 
 Obvious approaches are standard operating procedures such as completing a form or requiring a field be completed on Ideascale.
 
-#### The Complicated
+### The Complicated
+
+![](<../.gitbook/assets/2022-01-27 (4).png>)
 
 Here live ordered systems whose cause, and effect relationships are discoverable through analysis.
 
