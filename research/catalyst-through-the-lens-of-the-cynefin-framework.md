@@ -154,7 +154,9 @@ In Cardano this is where many newcomers find themselves. It is the latent potent
 
 19:06:04 From Tevo Saks : https://miro.com/app/board/uXjVOT9BFbM=/?moveToWidget=3458764517480311268\&cot=14 Will try to take notes on Miro Board&#x20;
 
-19:07:29 From Johnny Nguyen : does that mean, the DCF would be more aligned to the top right? 19:19:22 From Stephen Whitenstall : https://docs.google.com/presentation/d/1usplYy-Kj0LJZVWy-R14gXdKDltqiYCjuYbiR3BMOCY/edit?usp=sharing&#x20;
+19:07:29 From Johnny Nguyen : does that mean, the DCF would be more aligned to the top right?&#x20;
+
+19:19:22 From Stephen Whitenstall : https://docs.google.com/presentation/d/1usplYy-Kj0LJZVWy-R14gXdKDltqiYCjuYbiR3BMOCY/edit?usp=sharing&#x20;
 
 19:20:47 From Lucas Counter : can someone please resend the miro link&#x20;
 
