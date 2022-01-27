@@ -146,6 +146,8 @@ In Cardano this is where many newcomers find themselves. It is the latent potent
 
 ![](<../.gitbook/assets/2022-01-27 (15).png>)
 
+![](<../.gitbook/assets/2022-01-27 (16).png>)
+
 &#x20;\
 &#x20;
 
