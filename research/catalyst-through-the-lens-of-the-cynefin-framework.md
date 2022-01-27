@@ -60,7 +60,9 @@ Complicated approaches are where it is possible to rationally work towards a dec
 
 Moving to the left-hand side – here are Unstructured domains which include
 
-#### The Complex
+### The Complex
+
+![](<../.gitbook/assets/2022-01-27 (5).png>)
 
 Here complex systems live, where the only way to understand the system is to interact with phenomena.
 
