@@ -142,6 +142,10 @@ A recent example is the filtered-out CA assessments where urgent action was need
 
 In Cardano this is where many newcomers find themselves. It is the latent potential to move to a space where they can realize their contribution. Guiding stars such as Quasar sometimes appear to guide people on their journey.
 
+## Catalyst Parameters – Governance Process
+
+![](<../.gitbook/assets/2022-01-27 (15).png>)
+
 &#x20;\
 &#x20;
 
