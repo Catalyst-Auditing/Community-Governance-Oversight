@@ -76,7 +76,7 @@ And respond
 
 With Complex approaches cause and effect can only be deduced in retrospect, there are no right answers. Rather instructive patterns emerge from sensemaking.
 
-### &#x20;The Chaotic
+### The Chaotic
 
 ![](<../.gitbook/assets/2022-01-27 (7).png>)
 
@@ -102,6 +102,38 @@ Finally in the center is the domain of disorder which can also be seen as a star
 
 ![](<../.gitbook/assets/2022-01-27 (8).png>)
 
-\
+So how might all this relate to what we do in Catalyst?&#x20;
+
+Returning to the domains
+
+### The Obvious
+
+Here the IOG Catalyst Team & the Catalyst community routinely apply straightforward solutions such as KPI reports, surveys, quantitative retrospectives & reports.
+
+These standard operating procedures help support the day to day running of Catalyst and are essential to provide continuity of information.
+
+A danger with the Obvious domain is complacency where standard procedures start to drift away from their intended purpose.
+
+### The Complicated
+
+Here the IOG Catalyst research Team, the Technical Council & Catalyst Community academic research conduct in-depth analysis and research into discrete solutions
+
+### The Complex
+
+Here the Catalyst community, Catalyst Circle & IOG Catalyst Team innovate through the Catalyst experiment. This is an iterative process which probes for ideas, senses what is occurring and responds with community innovation.
+
+This is where the complex systems of distributed governance emerge and the only way to understand what is going on is to interact with the experiment.&#x20;
+
+### The Chaotic
+
+Here the Catalyst community, Catalyst Circle & IOG Catalyst Team react to unforeseen events that cause turbulence or instability in the Catalyst experiment.
+
+A recent example is the filtered-out CA assessments where urgent action was needed to establish reliable assessment scores. The vCA community acted spontaneously to sense how stability could be restored. And their response turned the chaos back into the complex domain of governance. Where decentralized voting could now proceed.
+
+### Disorder
+
+In Cardano this is where many newcomers find themselves. It is the latent potential to move to a space where they can realize their contribution. Guiding stars such as Quasar sometimes appear to guide people on their journey.
+
+&#x20;\
 &#x20;
 
