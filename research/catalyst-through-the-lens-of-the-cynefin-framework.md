@@ -26,7 +26,9 @@ In total there are 5 domains as follows:
 
 On the right-hand side are Structured domains which include
 
-#### The Obvious
+### The Obvious
+
+![](<../.gitbook/assets/2022-01-27 (3).png>)
 
 Here live ordered systems with clear cause, and effect relationships.
 
