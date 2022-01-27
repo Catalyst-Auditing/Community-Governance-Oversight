@@ -148,6 +148,180 @@ In Cardano this is where many newcomers find themselves. It is the latent potent
 
 ![](<../.gitbook/assets/2022-01-27 (16).png>)
 
-&#x20;\
+
+
+## Comments
+
+19:06:04 From Tevo Saks : https://miro.com/app/board/uXjVOT9BFbM=/?moveToWidget=3458764517480311268\&cot=14 Will try to take notes on Miro Board&#x20;
+
+19:07:29 From Johnny Nguyen : does that mean, the DCF would be more aligned to the top right? 19:19:22 From Stephen Whitenstall : https://docs.google.com/presentation/d/1usplYy-Kj0LJZVWy-R14gXdKDltqiYCjuYbiR3BMOCY/edit?usp=sharing&#x20;
+
+19:20:47 From Lucas Counter : can someone please resend the miro link&#x20;
+
+19:21:06 From Dan Verowski : https://miro.com/app/board/uXjVOT9BFbM=/?moveToWidget=3458764517480311268\&cot=14&#x20;
+
+19:21:20 From Lucas Counter : thanksss&#x20;
+
+19:21:25 From Dan Verowski : Hi Lucas (:&#x20;
+
+19:21:43 From Lucas Counter : hi dan! ;)&#x20;
+
+19:26:05 From Allison Fromm : Tevo I love your note taking!! Very cool.&#x20;
+
+19:28:29 From Allison Fromm : Your = you’re (silly typo)&#x20;
+
+19:29:05 From Allison Fromm : Disregard - I am getting tired -I had it right the first time&#x20;
+
+19:29:46 From Simon Sallstrom : 1. How to get link to this miro board? 2. (came in late sorry) seems like there is use of sequential voting. I support, in line with some stuff written by political scientist Bo Rothstein, having two votes on these important decisions. https://www.ox.ac.uk/news-and-events/oxford-and-brexit/brexit-analysis/second-referendum&#x20;
+
+19:29:49 From Dan Verowski : all good! Tevo is deep on the Miro anyway ^&#x20;
+
+19:30:02 From Dan Verowski : https://miro.com/app/board/uXjVOT9BFbM=/?moveToWidget=3458764517480311268\&cot=14&#x20;
+
+19:31:18 From Simon Sallstrom : Also, one thing to consider in light of the Governance day on the 12th at 17.00 UTC.. having one single live meeting for voting effectively excludes some parts of the world, e.g. Australia in this case&#x20;
+
+19:31:42 From Simon Sallstrom : That might be a bit off-topic though hehe&#x20;
+
+19:32:11 From Allison Fromm : Simon - there has been a lot of Circle discussion about expanding the process for just that reason&#x20;
+
+19:40:30 From Poptart Caviar : can someone drop a link to this in my direct discord?&#x20;
+
+19:40:49 From Dan Verowski : sure&#x20;
+
+19:41:30 From Poptart Caviar : Ty&#x20;
+
+19:43:32 From Vanessa Cardui : @SimonSallstrom - I found the last Circle meeting interesting about the discussions on what the CCv3 voting process will be - it's here https://youtu.be/8wf19JMGH4w?t=3215&#x20;
+
+19:47:01 From Poptart Caviar : Pic ur governance in hardforq&#x20;
+
+19:56:12 From Poptart Caviar : How to get funding for a mirror qatalyst&#x20;
+
+19:56:43 From Vanessa Cardui : what, like a dark mirror... the evil twin of catalyst...&#x20;
+
+19:56:53 From Allison Fromm : lol&#x20;
+
+19:57:42 From Poptart Caviar : Like a QatalystForQ&#x20;
+
+19:58:24 From Allison Fromm : Your honour I believe that Stephen is leading the witness…. ;-)&#x20;
+
+19:58:31 From Poptart Caviar : Can catalyst have an evil twin..... Whldefines evil&#x20;
+
+19:59:01 From Poptart Caviar : Who defines evil....&#x20;
+
+19:59:13 From Stephen Whitenstall : Guilty&#x20;
+
+20:00:08 From Poptart Caviar : What about the 832K Ada paid to voters&#x20;
+
+20:00:18 From Dan Verowski : word, pop&#x20;
+
+20:02:23 From Vanessa Cardui : Is that how much it is? what, for voting?&#x20;
+
+20:03:47 From Allison Fromm : Dan I’m so glad you mentioned the Rapid Funding Challenge - I was thinking the same thing about experimentation&#x20;
+
+20:04:17 From Dan Verowski : right! we just need a small pool of funds (catalyst started with 25k!)&#x20;
+
+20:04:36 From Poptart Caviar : For voting. One whale, 5M, get 1800 Ada...... Or so. I'd have to check&#x20;
+
+20:04:51 From Dan Verowski : but Catalyst is not digital gold but an experiment meant to break&#x20;
+
+20:05:00 From Poptart Caviar : I know it's 832K total&#x20;
+
+20:05:23 From Poptart Caviar : Haven't we broke catalyst already&#x20;
+
+20:05:34 From Dan Verowski : or is it breaking people? xD&#x20;
+
+20:06:09 From Poptart Caviar : It's broken me many times&#x20;
+
+20:06:29 From Dan Verowski : BreadMan&#x20;
+
+20:06:30 From Vanessa Cardui : i think i was broken when catalyst got here, to be fair :-)&#x20;
+
+20:06:49 From Dan Verowski : fair point Vanessa ^^
+
+&#x20;20:07:09 From Poptart Caviar : Lol&#x20;
+
+20:09:17 From Allison Fromm : Oh man that is such a tough issue&#x20;
+
+20:09:35 From Allison Fromm : Speaking as former resident of a US city with a terrible school district&#x20;
+
+20:09:58 From Vanessa Cardui : In a way I agree with Johnny on "too much change could break it" - for me it's all about who has a voice in deciding about that change.
+
+If that's not sorted (if underrepresented people remain underrepped in the change process), then maybe any change is too much?&#x20;
+
+20:13:57 From Kenric Nelson : https://arxiv.org/abs/2201.07188&#x20;
+
+20:14:33 From Johnny Nguyen : https://metagov.org/&#x20;
+
+20:14:54 From Johnny Nguyen : https://airtable.com/shrgnUrj0dqzZDsOd&#x20;
+
+20:15:11 From Johnny Nguyen : https://medium.com/metagov/introducing-govbase-97884b0ddaef&#x20;
+
+20:16:17 From Poptart Caviar : Can someone send those links to me.... I'm driving&#x20;
+
+20:17:28 From Peter Wolcott : I got you&#x20;
+
+20:17:36 From Allison Fromm : This is awesome!&#x20;
+
+20:17:42 From Vanessa Cardui : sent via Telegram, Quasar&#x20;
+
+20:19:15 From Stephen Whitenstall : Floridi&#x20;
+
+20:20:26 From Poptart Caviar : FloridADA&#x20;
+
+20:20:48 From Poptart Caviar : should intro Josh and gingr&#x20;
+
+20:21:18 From Stephen Whitenstall : https://en.wikipedia.org/wiki/Luciano\_Floridi&#x20;
+
+20:22:05 From Melanie -Cardano4Climate : Anyone get split between rooms?&#x20;
+
+20:23:45 From Johnny Nguyen : it's interdisciplinary...&#x20;
+
+20:23:51 From Johnny Nguyen : we also need librarians&#x20;
+
+20:24:10 From Johnny Nguyen : curating knowledge... ontologies, taxonomies, metadata.&#x20;
+
+20:24:24 From Vanessa Cardui : hmmm - we need archivists and recordkeepers Johnny, I think - not librarians :-)&#x20;
+
+20:24:32 From Vanessa Cardui : they're different&#x20;
+
+20:24:36 From Johnny Nguyen : we need all three.&#x20;
+
+20:25:00 From Vanessa Cardui : disagree, sorry&#x20;
+
+20:25:12 From Johnny Nguyen : and that's okay. :)&#x20;
+
+20:25:22 From Vanessa Cardui : yup - I know it is&#x20;
+
+20:26:16 From Vanessa Cardui : byeKenric&#x20;
+
+20:27:38 From Vanessa Cardui : Out of curiosity Johnny - why do ya think we need librarians? And what do you feel the difference is?&#x20;
+
+20:28:13 From Poptart Caviar : Thanks Johnny.... GINGR is doing a masters at Oxford as well and has a proposal&#x20;
+
+20:28:24 From Allison Fromm : How did we go from Oxford academics to Pintrist?! I love Catalyst!!! ♥️&#x20;
+
+20:28:40 From Poptart Caviar : Mannnnnn, I almost got my degree in MLIS&#x20;
+
+20:29:28 From Poptart Caviar : Hahaha, imma protaxonomy fan as well&#x20;
+
+20:30:17 From Vanessa Cardui : Librarians essentially help people discover information. But for a distributed community, if we don't make our archives and taxonomies discoverable by people themselves, then we are sunk. 20:30:36 From Vanessa Cardui : bye Alliosn&#x20;
+
+20:30:37 From Johnny Nguyen : but librarians are so helpful! 20:31:50 From Dan Verowski : good governance if voting is unnecessary&#x20;
+
+20:32:15 From Stephen Whitenstall : For me it is the expression of meaning&#x20;
+
+20:35:39 From Peter Wolcott : Civilization is the distance that man has between himself and his functions&#x20;
+
+20:40:21 From Peter Wolcott : concrete&#x20;
+
+20:47:03 From Peter Wolcott : Everything is born and dies on this planet - except these structures, why - what the fuck is “too big to fail” - the bigger you get irl, the faster you die&#x20;
+
+20:47:21 From Johnny Nguyen : Unless you're a great redwood tree :)&#x20;
+
+20:47:45 From Peter Wolcott : thats true there are trees that last a really long time - good point&#x20;
+
+20:48:08 From Tevo Saks : TO me listening group and Education proposals and onboarding experiments are the "urban planning" of Catalyst&#x20;
+
+21:04:24 From Peter Wolcott : https://twitter.com/sirwolcott/status/1486444723061633030?s=20 maybe relevant threads \
 &#x20;
 
