@@ -108,6 +108,8 @@ Returning to the domains
 
 ### The Obvious
 
+![](<../.gitbook/assets/2022-01-27 (9).png>)
+
 Here the IOG Catalyst Team & the Catalyst community routinely apply straightforward solutions such as KPI reports, surveys, quantitative retrospectives & reports.
 
 These standard operating procedures help support the day to day running of Catalyst and are essential to provide continuity of information.
@@ -120,11 +122,15 @@ Here the IOG Catalyst research Team, the Technical Council & Catalyst Community 
 
 ### The Complex
 
+![](<../.gitbook/assets/2022-01-27 (10).png>)
+
 Here the Catalyst community, Catalyst Circle & IOG Catalyst Team innovate through the Catalyst experiment. This is an iterative process which probes for ideas, senses what is occurring and responds with community innovation.
 
 This is where the complex systems of distributed governance emerge and the only way to understand what is going on is to interact with the experiment.&#x20;
 
 ### The Chaotic
+
+![](<../.gitbook/assets/2022-01-27 (11).png>)
 
 Here the Catalyst community, Catalyst Circle & IOG Catalyst Team react to unforeseen events that cause turbulence or instability in the Catalyst experiment.
 
