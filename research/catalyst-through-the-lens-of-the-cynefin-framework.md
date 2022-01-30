@@ -124,7 +124,7 @@ A danger with the Obvious domain is complacency where standard procedures start 
 
 Here the IOG Catalyst research Team, the Technical Council & Catalyst Community academic research conduct in-depth analysis and research into discrete solutions.
 
-They Analyze data, make Sense of this through discrete solutions and Respond with completed research.&#x20;
+The Technical Council, for example, Analyses data, make Sense of this through discrete solutions and Responds with completed research.
 
 ### The Complex
 
@@ -204,9 +204,9 @@ Feedback surveys are used to source data about Catalyst Parameter changes & is i
 
 The Probe, Sense and Respond function of Circle (Complex domain) is pre-empted by the "best practice" of Sense, Categorize and Respond (Obvious domain).
 
-The Complicated domain
+#### The Complicated domain
 
-
+The Technical Council performs its Analyze, Sense and Respond role (Complicated domain) through reseach into discrete solutions and research conclusions.
 
 
 
