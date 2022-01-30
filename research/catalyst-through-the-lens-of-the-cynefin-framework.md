@@ -180,6 +180,8 @@ From left to right.&#x20;
 
 8\) Depending on the vote outcome the parameter change is either recommended for change or not and the community is notified.
 
+9\) The parameter change is or is not implemented in the next fund round.
+
 
 
 
