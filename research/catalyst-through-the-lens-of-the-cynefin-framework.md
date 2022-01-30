@@ -174,6 +174,10 @@ From left to right.&#x20;
 
 5\) The Catalyst Technical Council  proposes a change to a parameter and passes this on to Catalyst Circle.
 
+6\) Catalyst Circle deliberates the proposed change and shares opinions with the Catalyst Community to assess how this aligns with the feedback survey.
+
+7\) &#x20;
+
 
 
 ### Some questions about the current draft
