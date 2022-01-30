@@ -160,7 +160,7 @@ In Cardano this is where many newcomers find themselves. It is the latent potent
 
 ![](<../.gitbook/assets/2022-01-27 (15).png>)
 
-This is a brief overview of a proposed Governance process to handle changes to Catalyst Parameters.
+This is a brief overview of a proposed Governance process drafted by Harris Warren to handle changes to Catalyst Parameters.
 
 From left to right.&#x20;
 
@@ -168,7 +168,7 @@ From left to right.&#x20;
 
 2\) The surveyed feedback is shared with Catalyst Circle&#x20;
 
-3\) Catalyst Circle deliberates the feedback and shares any consequent parameter change proposal with the Catalyst Techical Council.
+3\) Catalyst Circle deliberates the feedback and shares any consequent parameter change proposal with the Catalyst Technical Council.
 
 4\) The Catalyst Technical Council reviews the proposal and performs research drawing on feedback from the Catalyst Community.
 
@@ -176,7 +176,11 @@ From left to right.&#x20;
 
 6\) Catalyst Circle deliberates the proposed parameter change and shares opinions with the Catalyst Community to assess how this aligns with the feedback survey.
 
-7\) &#x20;
+7\)  Catalyst Circle and the Technical Council puts the proposed parameter change to a vote.
+
+8\) Depending on the vote outcome the parameter change is either recommended for change or not and the community is notified.
+
+
 
 
 
