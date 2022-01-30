@@ -160,7 +160,11 @@ In Cardano this is where many newcomers find themselves. It is the latent potent
 
 ![](<../.gitbook/assets/2022-01-27 (15).png>)
 
-This is a brief overview of a proposed Governance process drafted by Harris Warren to handle changes to Catalyst Parameters.
+This is a brief overview of a proposed Governance process drafted by Harris Warren to handle changes to Catalyst Parameters.&#x20;
+
+{% hint style="info" %}
+The original presentation may be viewed [here](https://quality-assurance-dao.gitbook.io/catalyst-circle-oversight-v2/ccv2-meetings/meeting-2-november-25th-2021#presentation-slides).
+{% endhint %}
 
 From left to right.&#x20;
 
