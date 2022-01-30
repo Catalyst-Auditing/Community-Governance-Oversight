@@ -194,6 +194,8 @@ From left to right.&#x20;
 
 ![](<../.gitbook/assets/2022-01-27 (16).png>)
 
+### Domain mapping
+
 So what Cynefin domains does the current draft process cover ?
 
 #### The Obvious domain -
@@ -202,17 +204,29 @@ Feedback surveys are used to source data about Catalyst Parameter changes & is i
 
 #### The Complex domain
 
-The Probe, Sense and Respond function of Circle (Complex domain) is pre-empted by the "best practice" of Sense, Categorize and Respond (Obvious domain).
+The Probe, Sense and Respond function of Circle & the Community (Complex domain) is pre-empted by the "best practice" of Sense, Categorize and Respond (Obvious domain).
 
 #### The Complicated domain
 
-The Technical Council performs its Analyze, Sense and Respond role (Complicated domain) through reseach into discrete solutions and research conclusions.
+The Technical Council performs its Analyze, Sense and Respond role (Complicated domain) through research into discrete solutions and research conclusions.
 
+### Questions
 
+#### 1) Sensing what the community wants and acting ?
 
+How should the unstructured, complex domain of Catalyst Circle and the Community initiate their own sense making ?
 
+#### 2) No provision for community interaction – e.g. workshops
 
+How can the unstructured, complex domain of Catalyst Circle and the Community organize workshops to engage participants in the process in a relational sense ?
 
+#### 3) Sensing whether parameter change works in practice
+
+How can the unstructured, complex domain of Catalyst Circle and the Community continue to monitor parameter changes after they are implemented ?
+
+#### 4) Technical monitoring of parameter change
+
+How can the structured, complicated domain of the Technical Council continue to monitor parameter changes after they are implemented ?
 
 ## Comments
 
