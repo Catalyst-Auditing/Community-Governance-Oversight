@@ -8,9 +8,9 @@ description: Stephen Whitenstall, QADAO
 
 ## Introduction
 
-This presentation is the latest of a series of community research initiatives in support of the F7 Community Governance Oversight Proposal.&#x20;
+This presentation is the latest of a series of community research initiatives in support of the [F7 Community Governance Oversight Proposal](https://cardano.ideascale.com/c/idea/383517).&#x20;
 
-Previous events have covered Antifragile Success criteria & How to nurture a listening culture in Catalyst ? And today we will look at oversight of Catalyst parameter changes through the lens of the Cynefin Framework.
+Previous events have covered _Antifragile Success criteria_ & _How to nurture a listening culture in Catalyst ?_ And today we will look at oversight of Catalyst parameter changes through the lens of the Cynefin Framework.
 
 [The Cynefin Framework](https://en.wikipedia.org/wiki/Cynefin\_framework) is a conceptual framework used to aid decision-making. It was created in 1999 by [Dave Snowden](https://en.wikipedia.org/wiki/Dave\_Snowden) when he worked for IBM Global Services. Cynefin is a Welsh word that can be translated as habitat but its meaning extends to the domains we live in and the places you come from.
 
