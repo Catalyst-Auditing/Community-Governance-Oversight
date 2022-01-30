@@ -122,7 +122,9 @@ A danger with the Obvious domain is complacency where standard procedures start 
 
 ![](<../.gitbook/assets/2022-01-27 (13).png>)
 
-Here the IOG Catalyst research Team, the Technical Council & Catalyst Community academic research conduct in-depth analysis and research into discrete solutions
+Here the IOG Catalyst research Team, the Technical Council & Catalyst Community academic research conduct in-depth analysis and research into discrete solutions.
+
+They Analyze data, make Sense of this through discrete solutions and Respond with completed research.&#x20;
 
 ### The Complex
 
@@ -131,6 +133,8 @@ Here the IOG Catalyst research Team, the Technical Council & Catalyst Community 
 Here the Catalyst community, Catalyst Circle & IOG Catalyst Team innovate through the Catalyst experiment. This is an iterative process which probes for ideas, senses what is occurring and responds with community innovation.
 
 This is where the complex systems of distributed governance emerge and the only way to understand what is going on is to interact with the experiment.&#x20;
+
+An emergent example is Catalyst Circle a “human sensor array” that monitors the current state and future plans regarding governance in Project Catalyst. Circle's function in the Cynefin context is to Probe, Sense and Respond.
 
 ### The Chaotic
 
@@ -186,15 +190,27 @@ From left to right.&#x20;
 
 9\) The parameter change is or is not implemented in the next fund round.
 
-
-
-
-
 ### Some questions about the current draft
 
-
-
 ![](<../.gitbook/assets/2022-01-27 (16).png>)
+
+So what Cynefin domains does the current draft process cover ?
+
+#### The Obvious domain -
+
+Feedback surveys are used to source data about Catalyst Parameter changes & is initiated only from the IOG Catalyst team.
+
+#### The Complex domain
+
+The Probe, Sense and Respond function of Circle (Complex domain) is pre-empted by the "best practice" of Sense, Categorize and Respond (Obvious domain).
+
+The Complicated domain
+
+
+
+
+
+
 
 
 
