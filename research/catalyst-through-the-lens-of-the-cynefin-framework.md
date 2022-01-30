@@ -142,7 +142,31 @@ In Cardano this is where many newcomers find themselves. It is the latent potent
 
 ## Catalyst Parameters – Governance Process
 
+**Glossary** -
+
+**Catalyst Community** - all stateholders in Catalyst - ADA Holders & Voters, Community Advisors, Proposers, Funded Co-Ordinators, Toolmakers & Maintainers and Statepool Operators.
+
+**IOG Catalyst Team** - tba
+
+**Catalyst Circle** - A sense making group comprising representatives from the Catalyst Community (see above), IOG and the Cardano Foundation.
+
+**Catalyst Technical Council** -&#x20;
+
 ![](<../.gitbook/assets/2022-01-27 (15).png>)
+
+This is a brief overview of a proposed Governance process to handle changes to Catalyst Parameters.
+
+From left to right.&#x20;
+
+1\) The IOG Catalyst Team sends out a feedback survey to the Catalyst Community.
+
+2\) The surveyed feedback is shared with Catalyst Circle&#x20;
+
+3\) Catalyst Circle deliberates the feedback and shares any consquent parameter change proposal with the Catalyst Techical Council.
+
+&#x20;
+
+
 
 ![](<../.gitbook/assets/2022-01-27 (16).png>)
 
