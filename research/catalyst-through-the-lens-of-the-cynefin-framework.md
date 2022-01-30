@@ -1,3 +1,7 @@
+---
+description: Stephen Whitenstall, QADAO
+---
+
 # Catalyst through the lens of the Cynefin Framework
 
 {% embed url="https://youtu.be/PZcAHssclA4" %}
