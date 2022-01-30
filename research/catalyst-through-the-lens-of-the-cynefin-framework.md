@@ -168,6 +168,8 @@ From left to right.&#x20;
 
 4\) The Catalyst Technical Council reviews the proposal and performs research drawing on feedback from the Catalyst Community.
 
+5\) The Catalyst Technical Council  proposes a change to a parameter and passes this on to Catalyst Circle.
+
 
 
 ### Some questions about the current draft
