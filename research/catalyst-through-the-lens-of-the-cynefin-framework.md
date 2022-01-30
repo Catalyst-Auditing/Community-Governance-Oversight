@@ -32,15 +32,13 @@ On the right-hand side are Structured domains which include
 
 ![](<../.gitbook/assets/2022-01-27 (3).png>)
 
-Here live ordered systems with clear cause, and effect relationships.
+Here live ordered systems with clear cause, and effect relationships. In this situation it is appropriate to
 
-In this situation it is appropriate to
+**Sense** - establish the facts
 
-Sense - establish the facts
+**Categorize** –
 
-Categorize –
-
-Respond – by following the rule or appropriate best practice
+**Respond** – by following the rule or appropriate best practice
 
 Obvious approaches are standard operating procedures such as completing a form or requiring a field be completed on Ideascale.
 
@@ -48,35 +46,31 @@ Obvious approaches are standard operating procedures such as completing a form o
 
 ![](<../.gitbook/assets/2022-01-27 (4) (1).png>)
 
-Here live ordered systems whose cause, and effect relationships are discoverable through analysis.
+Here live ordered systems whose cause, and effect relationships are discoverable through analysis. In this situation it is appropriate to
 
-In this situation it is appropriate to
+**Analyze** – assess the facts
 
-Analyze – assess the facts
+**Categorize** –
 
-Categorize –
-
-Respond – apply the appropriate good operating practice
+**Respond** – apply the appropriate good operating practice
 
 Complicated approaches are where it is possible to rationally work towards a decision, but this requires research and technical expertise.
 
-Moving to the left-hand side – here are Unstructured domains which include
+Moving to the left-hand side – here are _Unstructured_ domains which include
 
 ### The Complex
 
 ![](<../.gitbook/assets/2022-01-27 (5).png>)
 
-Here complex systems live, where the only way to understand the system is to interact with phenomena.
+Here complex systems live, where the only way to understand the system is to interact with phenomena. In this situation it is appropriate to
 
-In this situation it is appropriate to
+**Probe** the situation
 
-Probe the situation
+**Sense** what is occurring
 
-Sense what is occurring
+And **respond**
 
-And respond
-
-With Complex approaches cause and effect can only be deduced in retrospect, there are no right answers. Rather instructive patterns emerge from sensemaking.
+With Complex approaches cause and effect can only be deduced in retrospect, there are no right answers. Rather instructive patterns emerge from sense making.
 
 ### The Chaotic
 
@@ -88,9 +82,9 @@ In this situation it is appropriate to
 
 Act to establish order
 
-Sense where stability lies
+**Sense** where stability lies
 
-And respond to turn the chaotic into the complex
+And **respond** to turn the chaotic into the complex
 
 In Chaotic situations cause and effect are unclear, but it is essential to act. So, a series of ad hoc actions may occur simply to establish order and restore some stability.
 
@@ -112,7 +106,7 @@ Returning to the domains
 
 ![](<../.gitbook/assets/2022-01-27 (9).png>)
 
-Here the IOG Catalyst Team & the Catalyst community routinely apply straightforward solutions such as KPI reports, surveys, quantitative retrospectives & reports.
+In this structured, Obvious domain the IOG Catalyst Team & the Catalyst community routinely apply straightforward solutions such as KPI reports, surveys, quantitative retrospectives & reports.
 
 These standard operating procedures help support the day to day running of Catalyst and are essential to provide continuity of information.
 
@@ -122,7 +116,7 @@ A danger with the Obvious domain is complacency where standard procedures start 
 
 ![](<../.gitbook/assets/2022-01-27 (13).png>)
 
-Here the IOG Catalyst research Team, the Technical Council & Catalyst Community academic research conduct in-depth analysis and research into discrete solutions.
+In this structured, complicated domain the IOG Catalyst research Team, the Technical Council & Catalyst Community academic research conduct in-depth analysis and research into discrete solutions.
 
 The Technical Council, for example, Analyses data, make Sense of this through discrete solutions and Responds with completed research.
 
@@ -130,7 +124,7 @@ The Technical Council, for example, Analyses data, make Sense of this through di
 
 ![](<../.gitbook/assets/2022-01-27 (10).png>)
 
-Here the Catalyst community, Catalyst Circle & IOG Catalyst Team innovate through the Catalyst experiment. This is an iterative process which probes for ideas, senses what is occurring and responds with community innovation.
+In this unstructured, complex domain the Catalyst community, Catalyst Circle & IOG Catalyst Team innovate through the Catalyst experiment. This is an iterative process which probes for ideas, senses what is occurring and responds with community innovation.
 
 This is where the complex systems of distributed governance emerge and the only way to understand what is going on is to interact with the experiment.&#x20;
 
@@ -140,7 +134,7 @@ An emergent example is Catalyst Circle a “human sensor array” that monitors 
 
 ![](<../.gitbook/assets/2022-01-27 (11).png>)
 
-Here the Catalyst community, Catalyst Circle & IOG Catalyst Team react to unforeseen events that cause turbulence or instability in the Catalyst experiment.
+In this unstructured, chaotic domain the Catalyst community, Catalyst Circle & IOG Catalyst Team react to unforeseen events that cause turbulence or instability in the Catalyst experiment.
 
 A recent example is the filtered-out CA assessments where urgent action was needed to establish reliable assessment scores. The vCA community acted spontaneously to sense how stability could be restored. And their response turned the chaos back into the complex domain of governance. Where decentralized voting could now proceed.
 
@@ -154,7 +148,7 @@ In Cardano this is where many newcomers find themselves. It is the latent potent
 
 **Catalyst Community** - all stateholders in Catalyst - ADA Holders & Voters, Community Advisors, Proposers, Funded Co-Ordinators, Toolmakers & Maintainers and Stakepool Operators.
 
-**IOG Catalyst Team** - tba
+**IOG Catalyst Team** - Harris Warren, Kriss Baird, Daniel Ribar & team.
 
 **Catalyst Circle** - A sense making group comprising representatives from the Catalyst Community (see above), IOG and the Cardano Foundation.
 
