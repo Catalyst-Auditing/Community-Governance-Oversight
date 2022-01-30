@@ -158,7 +158,7 @@ In Cardano this is where many newcomers find themselves. It is the latent potent
 
 **Catalyst Circle** - A sense making group comprising representatives from the Catalyst Community (see above), IOG and the Cardano Foundation.
 
-**Catalyst Technical Council** -&#x20;
+**Catalyst Technical Council** - he Catalyst Technical Council will comprise of [Dor Garbash](https://iohk.io/en/team/dor-garbash), [Kevin Hammond](https://iohk.io/en/team/kevin-hammond) and [Professor Roman Oliynykov](https://iohk.io/en/team/roman-oliynykov) . These experts will initially be appointed by IOG with the intention that, in time, they will be elected and establish a bicameral governance system with Catalyst Circle.
 
 ### Current process draft
 
