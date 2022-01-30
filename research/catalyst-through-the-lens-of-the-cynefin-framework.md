@@ -222,6 +222,10 @@ How can the unstructured, complex domain of Catalyst Circle and the Community co
 
 How can the structured, complicated domain of the Technical Council continue to monitor parameter changes after they are implemented ?
 
+## Miro Board
+
+{% embed url="https://miro.com/app/board/uXjVOT9BFbM=?cot=14&moveToWidget=3458764517480311268" %}
+
 ## Comments
 
 19:06:04 From Tevo Saks : https://miro.com/app/board/uXjVOT9BFbM=/?moveToWidget=3458764517480311268\&cot=14 Will try to take notes on Miro Board&#x20;
