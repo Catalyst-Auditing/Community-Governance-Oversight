@@ -222,6 +222,14 @@ How can the unstructured, complex domain of Catalyst Circle and the Community co
 
 How can the structured, complicated domain of the Technical Council continue to monitor parameter changes after they are implemented ?
 
+## References
+
+### Complexity, citizen engagement in a Post-Social Media time
+
+#### David Snowden | TEDxUniversityofNicosia
+
+{% embed url="https://www.youtube.com/watch?v=JkJDyPh9phc" %}
+
 ## Miro Board
 
 {% embed url="https://miro.com/app/board/uXjVOT9BFbM=?cot=14&moveToWidget=3458764517480311268" %}
