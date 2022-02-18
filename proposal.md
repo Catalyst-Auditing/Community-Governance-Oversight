@@ -4,7 +4,7 @@ description: 'F7: Improve and Grow Auditability - Community Governance Oversight
 
 # Fund 7 Proposal
 
-Here is the text of a proposal entitled "Community Governance Oversight" that was submitted in Fund 7 under the Improve and Grow Auditability Challenge.
+Here is the text of a proposal entitled "[Community Governance Oversight](https://cardano.ideascale.com/c/idea/383517)" that was submitted in Fund 7 under the [Improve and Grow Auditability Challenge](https://cardano.ideascale.com/c/campaigns/26253/about).
 
 ## **Problem statement :**
 
