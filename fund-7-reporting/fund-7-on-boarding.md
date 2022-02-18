@@ -84,7 +84,7 @@ Stephen
 
 This is to ensure of a back in case of unavailability of primary contact.
 
-
+Hidden
 
 ### Please, provide your project's public website URL (if you have one).
 
