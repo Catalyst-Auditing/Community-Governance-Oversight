@@ -10,7 +10,13 @@
 
 ## December 2021
 
+### Antifragile Success criteria
 
+#### Community Research&#x20;
+
+#### 15th December 2021
+
+[https://quality-assurance-dao.gitbook.io/community-governance-oversight/research/antifragile-success-criteria](https://quality-assurance-dao.gitbook.io/community-governance-oversight/research/antifragile-success-criteria)
 
 ## January 2022
 
