@@ -22,3 +22,7 @@
 ## Project
 
 * [Overview](project/overview.md)
+
+***
+
+* [Team](team.md)
