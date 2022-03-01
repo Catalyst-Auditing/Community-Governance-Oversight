@@ -12,15 +12,17 @@
 
 ### Antifragile Success criteria
 
-#### Community Research&#x20;
-
-#### 15th December 2021
+#### 15th December 2021 - Community Research&#x20;
 
 [https://quality-assurance-dao.gitbook.io/community-governance-oversight/research/antifragile-success-criteria](https://quality-assurance-dao.gitbook.io/community-governance-oversight/research/antifragile-success-criteria)
 
 ## January 2022
 
+### How to nurture a listening culture in Catalyst ?
 
+#### 12th January 2022 - Community Research
+
+[https://quality-assurance-dao.gitbook.io/community-governance-oversight/research/how-to-nurture-a-listening-culture-in-catalyst](https://quality-assurance-dao.gitbook.io/community-governance-oversight/research/how-to-nurture-a-listening-culture-in-catalyst)
 
 ## February 2022
 
