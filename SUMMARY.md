@@ -28,3 +28,4 @@
 * [Team](team.md)
 * [Process](process.md)
 * [Timetable](timetable.md)
+* [Meetings](meetings.md)
