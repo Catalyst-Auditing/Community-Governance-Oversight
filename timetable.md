@@ -24,6 +24,12 @@
 
 [https://quality-assurance-dao.gitbook.io/community-governance-oversight/research/how-to-nurture-a-listening-culture-in-catalyst](https://quality-assurance-dao.gitbook.io/community-governance-oversight/research/how-to-nurture-a-listening-culture-in-catalyst)
 
+### Catalyst through the lens of the Cynefin Framework
+
+#### 26th January 2022 - Community Research
+
+[https://quality-assurance-dao.gitbook.io/community-governance-oversight/research/catalyst-through-the-lens-of-the-cynefin-framework](https://quality-assurance-dao.gitbook.io/community-governance-oversight/research/catalyst-through-the-lens-of-the-cynefin-framework)
+
 ## February 2022
 
 
