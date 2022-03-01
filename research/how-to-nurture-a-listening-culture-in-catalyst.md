@@ -1,5 +1,7 @@
 ---
-description: A Catalyst After Town Hall Presentation & Discussion hosted by QA-DAO
+description: >-
+  A Catalyst After Town Hall Presentation & Discussion. 12th January 2022 -
+  Community Research
 ---
 
 # How to nurture a listening culture in Catalyst ?
