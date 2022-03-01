@@ -32,6 +32,10 @@
 
 ## February 2022
 
+### Blockchain Governance Principles
 
+#### 16th February 2022 - Community Research ([ekphrasis](https://quality-assurance-dao.gitbook.io/ekphrasis/))
+
+[https://quality-assurance-dao.gitbook.io/ekphrasis/february-2022/blockchain-governance-principles](https://quality-assurance-dao.gitbook.io/ekphrasis/february-2022/blockchain-governance-principles)
 
 ## March 2022
