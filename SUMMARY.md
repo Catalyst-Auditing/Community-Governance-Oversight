@@ -2,6 +2,7 @@
 
 * [Community-Governance-Oversight](README.md)
 * [Fund 7 Proposal](proposal.md)
+* [Fund 8 Proposal](fund-8-proposal.md)
 
 ## Background
 
