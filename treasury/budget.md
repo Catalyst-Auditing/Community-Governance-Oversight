@@ -2,6 +2,8 @@
 
 ## Costs
 
+### To be charged against fixed cost budget
+
 
 
 | Expense                  | GBP    | Date           |
