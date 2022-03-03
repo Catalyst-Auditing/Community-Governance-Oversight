@@ -19,6 +19,7 @@
 ## Fund 7 Reporting
 
 * [Fund 7 On-Boarding](fund-7-reporting/fund-7-on-boarding.md)
+* [Monthly Reports](fund-7-reporting/monthly-reports.md)
 
 ## Project
 
