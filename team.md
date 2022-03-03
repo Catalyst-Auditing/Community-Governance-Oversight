@@ -1,12 +1,38 @@
 # Team
 
-Team
+## Fund 7
+
+### Bi-weekly Meetings
+
+
+
+### Surveys
+
+
+
+### Facilitation
+
+
+
+### **Reports**
+
+****
+
+### **Preparation for a Fund 8 proposal**
+
+****
+
+### Treasury & Administration&#x20;
 
 | Name                | Role           | Status    |
 | ------------------- | -------------- | --------- |
 | Andre Diamond       | Treasury       | Confirmed |
 | Miroslav Rajh       | Treasury       | Confirmed |
 | Stephen Whitenstall | Proposal Admin | Confirmed |
+
+
+
+## TBA
 
 Eric Helms - SCATDAO
 
