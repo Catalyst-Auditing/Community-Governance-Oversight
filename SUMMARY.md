@@ -30,3 +30,7 @@
 * [Process](process.md)
 * [Timetable](timetable.md)
 * [Meetings](meetings.md)
+
+## Treasury
+
+* [Budget](treasury/budget.md)
