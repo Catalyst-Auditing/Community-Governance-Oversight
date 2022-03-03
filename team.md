@@ -2,7 +2,11 @@
 
 Team
 
-
+| Name                | Role           | Status    |
+| ------------------- | -------------- | --------- |
+| Andre Diamond       | Treasury       | Confirmed |
+| Miroslav Rajh       | Treasury       | Confirmed |
+| Stephen Whitenstall | Proposal Admin | Confirmed |
 
 Eric Helms - SCATDAO
 
