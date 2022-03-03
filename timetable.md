@@ -39,3 +39,7 @@
 [https://quality-assurance-dao.gitbook.io/ekphrasis/february-2022/blockchain-governance-principles](https://quality-assurance-dao.gitbook.io/ekphrasis/february-2022/blockchain-governance-principles)
 
 ## March 2022
+
+### Pre-Planning Meeting
+
+#### 3rd March 2022
