@@ -1,5 +1,7 @@
 # Timetable
 
+## Summary
+
 | Date          | Event                                   | Status   |
 | ------------- | --------------------------------------- | -------- |
 | November 2021 | F7 Proposal Submitted                   | Complete |
