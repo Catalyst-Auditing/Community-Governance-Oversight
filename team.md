@@ -13,12 +13,19 @@
 | Jo Allum             |      | TBA                   |
 | Kenric Nelson        |      | Confirmed             |
 | Matthias Sieber      |      | TBA - 17th March 2022 |
+| Phil Khoo            |      | Confirmed             |
 | Stephen Whitenstall  |      | Confirmed             |
 | Tevo Saks            |      | Confirmed             |
 | Vanessa Cardui       |      | Confirmed             |
 |                      |      |                       |
 
+#### Second Choice
 
+| Name     | Role | Status        |
+| -------- | ---- | ------------- |
+| Ron Hill |      | Second Choice |
+|          |      |               |
+|          |      |               |
 
 ### Surveys
 
