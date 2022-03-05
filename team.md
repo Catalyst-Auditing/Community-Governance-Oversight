@@ -9,6 +9,7 @@
 | Name                 | Role | Status                |
 | -------------------- | ---- | --------------------- |
 | Allison Fromm        |      | Confirmed             |
+| Harris Warren        |      | TBA                   |
 | Jo Allum             |      | TBA                   |
 | Kenric Nelson        |      | Confirmed             |
 | Matthias Sieber      |      | TBA - 17th March 2022 |
