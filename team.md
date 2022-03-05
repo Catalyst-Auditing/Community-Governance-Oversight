@@ -4,6 +4,19 @@
 
 ### Bi-weekly Meetings
 
+#### Alphabetical Order
+
+| Name                 | Role | Status                |
+| -------------------- | ---- | --------------------- |
+| Allison Fromm        |      | Confirmed             |
+| Jo Allum             |      | TBA                   |
+| Kenric Nelson        |      | Confirmed             |
+| Matthias Sieber      |      | TBA - 17th March 2022 |
+| Stephen Whitenstall  |      | Confirmed             |
+| Tevo Saks            |      | Confirmed             |
+| Vanessa Cardui       |      | Confirmed             |
+|                      |      |                       |
+
 
 
 ### Surveys
