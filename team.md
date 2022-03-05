@@ -21,11 +21,11 @@
 
 #### Second Choice
 
-| Name     | Role | Status        |
-| -------- | ---- | ------------- |
-| Ron Hill |      | Second Choice |
-| Thorsten |      | Second Choice |
-|          |      |               |
+| Name               | Role | Status        |
+| ------------------ | ---- | ------------- |
+| Ron Hill           |      | Second Choice |
+| Thorsten Pottebaum |      | Second Choice |
+|                    |      |               |
 
 ### Surveys
 
