@@ -24,12 +24,12 @@
 ## Project
 
 * [Overview](project/overview.md)
+* [Team](project/team.md)
+* [Process](project/process.md)
+* [Timetable](project/timetable.md)
 
 ***
 
-* [Team](team.md)
-* [Process](process.md)
-* [Timetable](timetable.md)
 * [Meetings](meetings.md)
 
 ## Treasury
