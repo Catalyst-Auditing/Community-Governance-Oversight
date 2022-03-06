@@ -27,10 +27,7 @@
 * [Team](project/team.md)
 * [Process](project/process.md)
 * [Timetable](project/timetable.md)
-
-***
-
-* [Meetings](meetings.md)
+* [Meetings](project/meetings.md)
 
 ## Treasury
 
