@@ -4,6 +4,8 @@
 
 ### Bi-weekly Meetings
 
+#### Starting 1600 UTC on Thursday 10th March 2022&#x20;
+
 #### Alphabetical Order
 
 | Name                 | Role | Status                |
