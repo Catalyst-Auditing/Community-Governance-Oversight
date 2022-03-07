@@ -34,7 +34,9 @@ https://quality-assurance-dao.gitbook.io/catalyst-audit-circle/
 
 ![](<../.gitbook/assets/2022-03-07 (9).png>)
 
+### General Setup of Proposals
 
+![](<../.gitbook/assets/2022-03-07 (10).png>)
 
 
 
