@@ -1,4 +1,4 @@
-# Meetings
+# Meetings & Town Halls
 
 ## March 2022
 
@@ -12,9 +12,13 @@
 
 [Link to Slides](https://docs.google.com/presentation/d/1tTm19KzxpjRfN\_VOLhdQYhVoEEd5e5SjMpS7lOSM9Y0/edit?usp=sharing)
 
+![](<../.gitbook/assets/2022-03-07 (7).png>)
 
+### Links
 
+![](<../.gitbook/assets/2022-03-07 (8).png>)
 
+##
 
 ## 9th March Town Hall
 
