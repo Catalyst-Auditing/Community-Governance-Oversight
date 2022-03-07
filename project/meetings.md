@@ -26,7 +26,7 @@ Link to Agenda
 
 
 
-### 24th March, 1600 UTC
+## 24th March, 1600 UTC
 
 #### Community Governance Oversight
 
