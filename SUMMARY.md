@@ -14,6 +14,7 @@
 * [Antifragile Success criteria](research/antifragile-success-criteria.md)
 * [How to nurture a listening culture in Catalyst ?](research/how-to-nurture-a-listening-culture-in-catalyst.md)
 * [Catalyst through the lens of the Cynefin Framework](research/catalyst-through-the-lens-of-the-cynefin-framework.md)
+* [Delegated Voting](research/delegated-voting.md)
 * [Feedback](research/feedback.md)
 
 ## Fund 7 Reporting
