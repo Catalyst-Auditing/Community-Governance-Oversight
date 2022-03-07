@@ -6,7 +6,7 @@ description: Materials relating to the IOG DRep initiative
 
 ## Overview
 
-At the Towen of Dor did a presentation of a dRep Representive Pilot
+At the Town Hall of Dor did a presentation of a dRep Representive Pilot
 
 &#x20;
 
