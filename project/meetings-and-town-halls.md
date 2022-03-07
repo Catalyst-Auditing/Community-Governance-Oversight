@@ -42,6 +42,10 @@ https://quality-assurance-dao.gitbook.io/catalyst-audit-circle/
 
 ![](<../.gitbook/assets/2022-03-07 (11).png>)
 
+### Deliverables
+
+![](<../.gitbook/assets/2022-03-07 (12).png>)
+
 ## 9th March Town Hall
 
 
