@@ -30,6 +30,14 @@ https://cardano.ideascale.com/c/idea/381354
 
 https://quality-assurance-dao.gitbook.io/catalyst-audit-circle/
 
+### Scope of Proposals
+
+![](<../.gitbook/assets/2022-03-07 (9).png>)
+
+
+
+
+
 ## 9th March Town Hall
 
 
