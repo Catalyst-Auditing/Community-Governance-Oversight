@@ -37,3 +37,5 @@ Note: This form will require you to submit a motivation letter with a minimum ch
 #### Are you interested in becoming a Delegate Representative (dRep)?&#x20;
 
 A core part of making Liquid Democracy successful is delegation - where an ada holder delegates their voting power (some or all) to a Delegate Representative (dRep). dReps commit to a code of conduct and strive to collaborate, which in turn positively impacts the future direction of Cardano.dReps will coordinate and form policies together, source and review data, consult with experts, and ultimately vote on an array of projects and topics, from Project Catalyst proposals to Voltaire council elections.
+
+![](<../.gitbook/assets/2022-03-08 (1).png>)
