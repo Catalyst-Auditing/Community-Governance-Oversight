@@ -31,3 +31,9 @@ Anyone can be a dRep, and if you are excited about decentralized governance and 
 Access to the first dRep cohort will be limited due to onboarding. We will be reviewing all expressions of interest on the 28th February. To register your interest to join the first dRep cohort, please complete this form and we will be in touch in the first week of March with next steps.
 
 Note: This form will require you to submit a motivation letter with a minimum character limit at the end (about 500 words). Please take time and diligence to write a thoughtful submission.
+
+![](../.gitbook/assets/2022-03-08.png)
+
+#### Are you interested in becoming a Delegate Representative (dRep)?&#x20;
+
+A core part of making Liquid Democracy successful is delegation - where an ada holder delegates their voting power (some or all) to a Delegate Representative (dRep). dReps commit to a code of conduct and strive to collaborate, which in turn positively impacts the future direction of Cardano.dReps will coordinate and form policies together, source and review data, consult with experts, and ultimately vote on an array of projects and topics, from Project Catalyst proposals to Voltaire council elections.
