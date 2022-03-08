@@ -6,7 +6,9 @@ description: Materials relating to the IOG DRep initiative
 
 ## Overview
 
-At the Town Hall of Dor did a presentation of a dRep Representive Pilot
+At the [Town Hall #1 of Fund 8 on 16th Febraury 2022 ](https://catalyst-swarm.gitbook.io/catalyst-swarm-2022/february-2022/catalyst-town-halls-february-2022#16th-february)of Dor presented the dRep (Delegated Representative) Pilot.
+
+
 
 &#x20;
 
