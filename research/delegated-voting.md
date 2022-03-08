@@ -12,9 +12,9 @@ At the [Town Hall #1 of Fund 8 on 16th Febraury 2022 ](https://catalyst-swarm.gi
 
 {% embed url="https://docs.google.com/presentation/d/1hfpHzhVl0Mu8xrMy5f6fFG0O0iJHx9qIp9kOBrcWNN8/edit?usp=sharing" %}
 
-## Become a dRep - Delegate Representative in Catalyst
+## Registration Form
 
-#### Registration Form
+#### Become a dRep - Delegate Representative in Catalyst
 
 [Link to form](https://docs.google.com/forms/d/e/1FAIpQLSfPSb\_cDlIxN6cnnbOrJN\_oxDBmxB3kENbsE\_\_pmMAw8yJk0w/viewform)
 
