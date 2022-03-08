@@ -14,6 +14,8 @@ At the Town Hall of Dor did a presentation of a dRep Representive Pilot
 
 #### Registration Form
 
+[Link to form](https://docs.google.com/forms/d/e/1FAIpQLSfPSb\_cDlIxN6cnnbOrJN\_oxDBmxB3kENbsE\_\_pmMAw8yJk0w/viewform)
+
 ![](<../.gitbook/assets/2022-03-07 (15).png>)
 
 Today we are welcoming interest to join the first cohort of dReps. This group will play a pivotal role in shaping Cardano's governance, and will work with IOG and others to grow a lively and collaborative team. Joining the cohort will support your future candidacy and dRep profile, and develop your position as future leaders of Cardano. You will have opportunities to share ideas, process improvements, and engage your fellow peers - truly teaming up to define the early stages of governance. As we move through the next few weeks, there will be organized workshops, training, and support on-hand.
