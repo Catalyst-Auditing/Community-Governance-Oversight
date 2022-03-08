@@ -39,3 +39,7 @@ Note: This form will require you to submit a motivation letter with a minimum ch
 A core part of making Liquid Democracy successful is delegation - where an ada holder delegates their voting power (some or all) to a Delegate Representative (dRep). dReps commit to a code of conduct and strive to collaborate, which in turn positively impacts the future direction of Cardano.dReps will coordinate and form policies together, source and review data, consult with experts, and ultimately vote on an array of projects and topics, from Project Catalyst proposals to Voltaire council elections.
 
 ![](<../.gitbook/assets/2022-03-08 (1).png>)
+
+#### What is your motivation for wanting to be a dRep or involved in Cardano's future governance?
+
+This is your time to write a thoughtful and impactful motivational letter on how you aspire to be a dRep. What drives you, how do you see the role of dRep evolving, and what are you hoping to achieve for Cardano. There is a minimum 500 word limit (2,500 characters). Note: this will remain confidential at this stage and will not be published. Your public facing profile will be created at a later stage.
