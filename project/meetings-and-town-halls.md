@@ -52,6 +52,8 @@ https://quality-assurance-dao.gitbook.io/catalyst-audit-circle/
 
 ## 9th March Town Hall
 
+{% embed url="https://youtu.be/_mY4pHBgDp4?t=2804" %}
+
 ### Slides presented by Allison Fromm
 
 ![](<../.gitbook/assets/2022-03-10 (4).png>)
