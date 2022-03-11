@@ -8,6 +8,12 @@ Stephen Whitenstall shared recovery phrase for Community Governance Oversight & 
 
 ## Funds Received
 
+| Date               | ADA |   |
+| ------------------ | --- | - |
+| 21st February 2022 | 1   |   |
+| 3rd March 2022     | 69  |   |
+|                    |     |   |
+
 
 
 ## Sent
