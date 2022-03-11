@@ -32,4 +32,5 @@
 
 ## Treasury
 
+* [Treasury Process](treasury/treasury-process.md)
 * [Budget](treasury/budget.md)
