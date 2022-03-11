@@ -1,5 +1,11 @@
 # Budget
 
+## Activities
+
+### Friday, 11th March 2022
+
+Stephen Whitenstall shared recovery phrase for Community Governance Oversight & Audit Circle wallets with Andre Diamond of Treasury Guild.
+
 ## Funds Received
 
 
