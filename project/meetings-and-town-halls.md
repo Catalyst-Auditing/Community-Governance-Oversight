@@ -72,7 +72,9 @@ https://quality-assurance-dao.gitbook.io/catalyst-audit-circle/
 
 ## 10th March, 1600 UTC
 
-### Recording&#x20;
+### F7 Community Governance Oversight Meeting #1
+
+{% embed url="https://youtu.be/kQWPb25P5II" %}
 
 ### Agenda
 
