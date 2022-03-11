@@ -1,5 +1,15 @@
 # Budget
 
+## Funds Received
+
+
+
+## Sent
+
+
+
+## Balance
+
 ## Costs
 
 ### To be charged against fixed cost budget
