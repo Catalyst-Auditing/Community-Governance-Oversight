@@ -1,3 +1,3 @@
 # Treasury Process
 
-Treasury Process
+This proposal uses Treasury Guild
