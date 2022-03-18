@@ -8,9 +8,11 @@ Stephen Whitenstall shared recovery phrase for Community Governance Oversight & 
 
 ## Treasury Guild
 
-Fund details can be seen here -
+### Transactions
 
-{% embed url="https://treasury-guild.gitbook.io/community-governance-oversight" %}
+Fund transaction details can be seen here -
+
+{% embed url="https://treasury-guild.gitbook.io/community-governance-oversight/transactions/community-governance-oversight" %}
 
 ## Costs
 
