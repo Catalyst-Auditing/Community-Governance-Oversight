@@ -11,7 +11,6 @@
 | Name                 | Role | Status    |
 | -------------------- | ---- | --------- |
 | Allison Fromm        |      | Confirmed |
-| Harris Warren        |      | TBA       |
 | Jo Allum             |      | Confirmed |
 | Kenric Nelson        |      | Confirmed |
 | Matthias Sieber      |      | Confirmed |
@@ -19,7 +18,6 @@
 | Stephen Whitenstall  |      | Confirmed |
 | Tevo Saks            |      | Confirmed |
 | Vanessa Cardui       |      | Confirmed |
-|                      |      |           |
 
 #### IOG Liason
 
@@ -27,7 +25,6 @@
 | ------------- | ---- | ------ |
 | Harris Warren |      |        |
 | Daniel Ribar  |      |        |
-|               |      |        |
 
 #### Second Choice
 
@@ -35,7 +32,6 @@
 | ------------------ | ---- | ------------- |
 | Ron Hill           |      | Second Choice |
 | Thorsten Pottebaum |      | Second Choice |
-|                    |      |               |
 
 ### Surveys
 
