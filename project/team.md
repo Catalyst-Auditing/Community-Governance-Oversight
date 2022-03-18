@@ -8,18 +8,26 @@
 
 #### Alphabetical Order
 
-| Name                 | Role | Status                |
-| -------------------- | ---- | --------------------- |
-| Allison Fromm        |      | Confirmed             |
-| Harris Warren        |      | TBA                   |
-| Jo Allum             |      | TBA                   |
-| Kenric Nelson        |      | Confirmed             |
-| Matthias Sieber      |      | TBA - 17th March 2022 |
-| Phil Khoo            |      | Confirmed             |
-| Stephen Whitenstall  |      | Confirmed             |
-| Tevo Saks            |      | Confirmed             |
-| Vanessa Cardui       |      | Confirmed             |
-|                      |      |                       |
+| Name                 | Role | Status    |
+| -------------------- | ---- | --------- |
+| Allison Fromm        |      | Confirmed |
+| Harris Warren        |      | TBA       |
+| Jo Allum             |      | Confirmed |
+| Kenric Nelson        |      | Confirmed |
+| Matthias Sieber      |      | Confirmed |
+| Phil Khoo            |      | Confirmed |
+| Stephen Whitenstall  |      | Confirmed |
+| Tevo Saks            |      | Confirmed |
+| Vanessa Cardui       |      | Confirmed |
+|                      |      |           |
+
+#### IOG Liason
+
+| Name          | Role | Status |
+| ------------- | ---- | ------ |
+| Harris Warren |      |        |
+| Daniel Ribar  |      |        |
+|               |      |        |
 
 #### Second Choice
 
