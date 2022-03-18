@@ -10,7 +10,7 @@ Stephen Whitenstall shared recovery phrase for Community Governance Oversight & 
 
 Fund details can be seen here -
 
-
+{% embed url="https://treasury-guild.gitbook.io/community-governance-oversight" %}
 
 ## Costs
 
