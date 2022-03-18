@@ -6,21 +6,11 @@
 
 Stephen Whitenstall shared recovery phrase for Community Governance Oversight & Audit Circle wallets with Andre Diamond of Treasury Guild.
 
-## Funds Received
+## Treasury Guild
 
-| Date               | ADA |   |
-| ------------------ | --- | - |
-| 21st February 2022 | 1   |   |
-| 3rd March 2022     | 69  |   |
-|                    |     |   |
+Fund details can be seen here -
 
 
-
-## Sent
-
-
-
-## Balance
 
 ## Costs
 
