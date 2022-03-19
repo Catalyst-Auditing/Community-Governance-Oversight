@@ -4,12 +4,13 @@
 * [Fund 7 Proposal](proposal.md)
 * [Fund 8 Proposal](fund-8-proposal.md)
 
-## Background
+## Oversight
 
-* [The Voltaire Principles](background/the-voltaire-principles.md)
+* [Overview](oversight/overview.md)
 
 ## Research
 
+* [The Voltaire Principles](research/the-voltaire-principles.md)
 * [Antifragile - Nassim Nicholas Taleb](research/antifragile-nassim-nicholas-taleb.md)
 * [Antifragile Success criteria](research/antifragile-success-criteria.md)
 * [How to nurture a listening culture in Catalyst ?](research/how-to-nurture-a-listening-culture-in-catalyst.md)
@@ -34,7 +35,3 @@
 
 * [Treasury Process](treasury/treasury-process.md)
 * [Budget](treasury/budget.md)
-
-## Oversight
-
-* [Overview](oversight/overview.md)
