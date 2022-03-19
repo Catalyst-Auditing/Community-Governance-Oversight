@@ -22,10 +22,10 @@
 * [Delegated Voting](research/delegated-voting.md)
 * [Feedback](research/feedback.md)
 
-## Fund 7 Reporting
+## Proposal Reporting
 
-* [Fund 7 On-Boarding](fund-7-reporting/fund-7-on-boarding.md)
-* [Monthly Reports](fund-7-reporting/monthly-reports.md)
+* [Fund 7 On-Boarding](proposal-reporting/fund-7-on-boarding.md)
+* [Monthly Reports](proposal-reporting/monthly-reports.md)
 
 ## Project Management
 
