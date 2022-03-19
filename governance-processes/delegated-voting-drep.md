@@ -78,9 +78,13 @@ The Project Catalyst Team
 #### March 3rd 2022
 
 {% embed url="https://quality-assurance-dao.gitbook.io/catalyst-circle-oversight-v3/ccv3-meetings/meeting-1-march-3rd-2022-05-00-utc#d-reps-letter-joey-33-37" %}
-**Letter**
-{% endembed %}
 
-### **d-Reps letter**
+**Joey Chessner** presented an open letter from the Catalyst community to IOG, covering three key issues:&#x20;
+
+1. Designated Representatives (dReps);
+2. Treasury Structure, Control and functionality; and&#x20;
+3. Treasury Transparency.&#x20;
+
+### **d-Reps letter (**[**link**](https://docs.google.com/document/d/10Naaxx7fH2aL\_8YUFzqMBB8RBlzYLwPE1H3pkU4GgRw/edit?usp=sharing)**)**&#x20;
 
 {% embed url="https://docs.google.com/document/d/10Naaxx7fH2aL_8YUFzqMBB8RBlzYLwPE1H3pkU4GgRw/edit?usp=sharing" %}
