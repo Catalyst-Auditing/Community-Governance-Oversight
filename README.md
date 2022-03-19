@@ -1,13 +1,15 @@
 ---
 description: >-
-  Without oversight we risk stagnation and we lack accountability in our
-  governance.
+  "If you want to know who controls you, look at who you are not allowed to
+  criticize." ~ Voltaire
 cover: >-
   .gitbook/assets/1024px-Nicolas_de_Largillière,_François-Marie_Arouet_dit_Voltaire_adjusted.png
 coverY: 0
 ---
 
-# Community-Governance-Oversight
+# Oversight of Governance Processes
+
+Without oversight we risk stagnation and we lack accountability in our governance.
 
 This GitBook documents the development of a **Community Governance Oversight group** (hereafter "Oversight Group") tasked to examine changes in Project Catalyst Governance.
 
