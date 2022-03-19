@@ -24,13 +24,17 @@
 
 ## Project Management
 
-* [Overview](project-management/overview.md)
-* [Team](project-management/team.md)
-* [Process](project-management/process.md)
-* [Timetable](project-management/timetable.md)
-* [Meetings & Town Halls](project-management/meetings-and-town-halls.md)
+* [Overview](project/overview.md)
+* [Team](project/team.md)
+* [Process](project/process.md)
+* [Timetable](project/timetable.md)
+* [Meetings & Town Halls](project/meetings-and-town-halls.md)
 
 ## Treasury
 
 * [Treasury Process](treasury/treasury-process.md)
 * [Budget](treasury/budget.md)
+
+## Oversight
+
+* [Overview](oversight/overview.md)
