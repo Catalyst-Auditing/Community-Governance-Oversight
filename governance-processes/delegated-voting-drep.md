@@ -2,7 +2,7 @@
 description: Materials relating to the IOG DRep initiative
 ---
 
-# Delegated Voting
+# Delegated Voting (dRep)
 
 ## Overview
 
@@ -47,3 +47,26 @@ A core part of making Liquid Democracy successful is delegation - where an ada h
 #### What is your motivation for wanting to be a dRep or involved in Cardano's future governance?
 
 This is your time to write a thoughtful and impactful motivational letter on how you aspire to be a dRep. What drives you, how do you see the role of dRep evolving, and what are you hoping to achieve for Cardano. There is a minimum 500 word limit (2,500 characters). Note: this will remain confidential at this stage and will not be published. Your public facing profile will be created at a later stage.
+
+
+
+## Joining the first dRep cohort
+
+#### email registration acknowledgement - 17th March 2022
+
+**Hello!**\
+\
+Thank you for expressing your interest in becoming a dRep - your initial application has been received.
+
+\
+We're incredibly excited to get started on this journey and have been overwhelmed with interest so far. Over the coming weeks, we’ll be sending out invites via email to a series of exploratory workshops designed to provide both a deeper insight into the dRep role and offer further support.
+
+\
+As we move into delegation, you will play a pivotal role in championing and safeguarding the future of Catalyst and Cardano. So, in the meantime we would encourage you (if you haven’t done so already) to read a recent [blockchain governance paper](https://iohk.us20.list-manage.com/track/click?u=26d3b656ecc43aa6f3063eaed\&id=9201c74d34\&e=6bc8455536) written by two senior IOHK researchers and additionally the initial treasury paper [A Treasury System for Cryptocurrencies: Enabling Better Collaborative Intelligence](https://iohk.us20.list-manage.com/track/click?u=26d3b656ecc43aa6f3063eaed\&id=89ba0125fb\&e=6bc8455536). \
+\
+More broadly, study on collaboration and communication are always net-positive endeavors. Some recommendations; [The Power of Experiments](https://iohk.us20.list-manage.com/track/click?u=26d3b656ecc43aa6f3063eaed\&id=6e061973b2\&e=6bc8455536), [Reinventing Organizations](https://iohk.us20.list-manage.com/track/click?u=26d3b656ecc43aa6f3063eaed\&id=704b3cda9c\&e=6bc8455536), and [Reinventing Discovery](https://iohk.us20.list-manage.com/track/click?u=26d3b656ecc43aa6f3063eaed\&id=591c208e07\&e=6bc8455536).
+
+\
+Stay tuned for the workshop invites!\
+\
+The Project Catalyst Team
