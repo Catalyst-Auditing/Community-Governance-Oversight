@@ -2,6 +2,9 @@
 description: >-
   Without oversight we risk stagnation and we lack accountability in our
   governance.
+cover: >-
+  .gitbook/assets/1024px-Nicolas_de_Largillière,_François-Marie_Arouet_dit_Voltaire_adjusted.png
+coverY: 0
 ---
 
 # Community-Governance-Oversight
