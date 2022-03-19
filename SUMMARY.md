@@ -22,13 +22,13 @@
 * [Fund 7 On-Boarding](fund-7-reporting/fund-7-on-boarding.md)
 * [Monthly Reports](fund-7-reporting/monthly-reports.md)
 
-## Project
+## Project Management
 
-* [Overview](project/overview.md)
-* [Team](project/team.md)
-* [Process](project/process.md)
-* [Timetable](project/timetable.md)
-* [Meetings & Town Halls](project/meetings-and-town-halls.md)
+* [Overview](project-management/overview.md)
+* [Team](project-management/team.md)
+* [Process](project-management/process.md)
+* [Timetable](project-management/timetable.md)
+* [Meetings & Town Halls](project-management/meetings-and-town-halls.md)
 
 ## Treasury
 
