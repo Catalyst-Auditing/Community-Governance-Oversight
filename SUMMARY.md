@@ -4,13 +4,13 @@
 * [Fund 7 Proposal](proposal.md)
 * [Fund 8 Proposal](fund-8-proposal.md)
 
-## Oversight
+## Oversight Areas
 
-* [Overview](oversight/overview.md)
-* [Governance parameters](oversight/governance-parameters.md)
-* [Challenge Setting](oversight/challenge-setting.md)
-* [Circle problem sensing](oversight/circle-problem-sensing.md)
-* [d-Reps](oversight/d-reps.md)
+* [Overview](oversight-areas/overview.md)
+* [Governance parameters](oversight-areas/governance-parameters.md)
+* [Challenge Setting](oversight-areas/challenge-setting.md)
+* [Circle problem sensing](oversight-areas/circle-problem-sensing.md)
+* [d-Reps](oversight-areas/d-reps.md)
 
 ## Research
 
