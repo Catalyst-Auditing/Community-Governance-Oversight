@@ -52,6 +52,8 @@ This is your time to write a thoughtful and impactful motivational letter on how
 
 ## Joining the first dRep cohort
 
+![](<../.gitbook/assets/2022-03-19 (1).png>)
+
 #### email registration acknowledgement - 17th March 2022
 
 **Hello!**\
