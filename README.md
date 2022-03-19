@@ -13,7 +13,7 @@ Without oversight we risk stagnation and we lack accountability in our governanc
 
 This GitBook documents the development of a **Community Governance Oversight group** (hereafter "Oversight Group") tasked to examine changes in Project Catalyst Governance.
 
-The need for an Oversight Group was identified in a [presentation ](https://quality-assurance-dao.gitbook.io/catalyst-circle-oversight-v2/meetings/meeting-2-november-25th-2021#presentation-slides)to and [discussed ](https://quality-assurance-dao.gitbook.io/catalyst-circle-oversight-v2/meetings/meeting-2-november-25th-2021#harris-warren-presentation-on-catalyst-parameters-governance-process-29-22)by the Catalyst Circle V2  by Harris Warren, IOG on a Catalyst Parameters governance process.
+The need for an Oversight Group was identified in a [presentation ](https://quality-assurance-dao.gitbook.io/catalyst-circle-oversight-v2/meetings/meeting-2-november-25th-2021#presentation-slides)to and [discussed ](https://quality-assurance-dao.gitbook.io/catalyst-circle-oversight-v2/meetings/meeting-2-november-25th-2021#harris-warren-presentation-on-catalyst-parameters-governance-process-29-22)by the Catalyst Circle V2  by Harris Warren, IOG on a Catalyst Parameters governance process. Subsquently a proposal entitled "[Community Governance Oversight](https://cardano.ideascale.com/c/idea/383517)" was submitted in Catalyst Fund 7 under the [Improve and Grow Auditability Challenge](https://cardano.ideascale.com/c/campaigns/26253/about).
 
 
 
