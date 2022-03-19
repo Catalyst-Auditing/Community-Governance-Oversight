@@ -8,7 +8,7 @@
 * [Governance parameters](governance-processes/governance-parameters.md)
 * [Challenge Setting](governance-processes/challenge-setting.md)
 * [Circle problem sensing](governance-processes/circle-problem-sensing.md)
-* [d-Reps](governance-processes/d-reps.md)
+* [Delegated Voting (dRep)](governance-processes/delegated-voting-drep.md)
 
 ## Research
 
@@ -17,7 +17,6 @@
 * [Antifragile Success criteria](research/antifragile-success-criteria.md)
 * [How to nurture a listening culture in Catalyst ?](research/how-to-nurture-a-listening-culture-in-catalyst.md)
 * [Catalyst through the lens of the Cynefin Framework](research/catalyst-through-the-lens-of-the-cynefin-framework.md)
-* [Delegated Voting](research/delegated-voting.md)
 * [Feedback](research/feedback.md)
 
 ## Proposal Reporting
