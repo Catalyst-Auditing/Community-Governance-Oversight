@@ -17,6 +17,7 @@
 * [Antifragile Success criteria](research/antifragile-success-criteria.md)
 * [How to nurture a listening culture in Catalyst ?](research/how-to-nurture-a-listening-culture-in-catalyst.md)
 * [Catalyst through the lens of the Cynefin Framework](research/catalyst-through-the-lens-of-the-cynefin-framework.md)
+* [Cardano Improvement Proposals (CIPs)](research/cardano-improvement-proposals-cips.md)
 * [Feedback](research/feedback.md)
 
 ## Proposal Reporting
