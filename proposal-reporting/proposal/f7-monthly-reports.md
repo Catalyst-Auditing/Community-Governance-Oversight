@@ -1,16 +1,24 @@
 # F7 Monthly Reports
 
+## Overview
+
+Monthly reports are submitted to the Catalyst Team at IOHK.&#x20;
+
+As of March 2022 they use this format -&#x20;
+
 ## 24th March 2022
 
 ![](../../.gitbook/assets/2022-03-24.png)
 
-| Field                                                             | Data                                                                                                             |
-| ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| **Email**                                                         | Private                                                                                                          |
-| **Project ID**                                                    | 700075                                                                                                           |
-| **Which fund is your challenge in ?**                             | Fund 7                                                                                                           |
-| **In which Challenge is your proposal? (one report per project)** | [F7: Improve and Grow Auditability](https://cardano.ideascale.com/c/campaigns/26253/stage/all/ideas/unspecified) |
-| **Is the project still in progress / launched / complete ?**      |                                                                                                                  |
+| Field                                                                                          | Data                                                                                                             |
+| ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| **Email**                                                                                      | Private                                                                                                          |
+| **Project ID**                                                                                 | 700075                                                                                                           |
+| **Which fund is your challenge in ?**                                                          | Fund 7                                                                                                           |
+| **In which Challenge is your proposal? (one report per project)**                              | [F7: Improve and Grow Auditability](https://cardano.ideascale.com/c/campaigns/26253/stage/all/ideas/unspecified) |
+| **Is the project still in progress / launched / complete ?**                                   | Still in Progress                                                                                                |
+| **Is the project on track?**                                                                   | No                                                                                                               |
+| **If you answered No to the above question, what are the issues or blockages you are having?** | Part of the F7 Proposal Scope "Oversight of the Catalyst Parameters Pilot" has been placed on hold by IOG.       |
 
 
 
