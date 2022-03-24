@@ -4,7 +4,7 @@
 
 Monthly reports are submitted to the Catalyst Team at IOHK.&#x20;
 
-As of March 2022 they use this format -&#x20;
+As of March 2022 they [use this format](https://docs.google.com/forms/d/e/1FAIpQLSdS6wAzKdSR1mAwCHP0EkVqOVlszvU5E45B0G2-0HmjO6qgbA/viewform).&#x20;
 
 ## 24th March 2022
 
