@@ -24,7 +24,7 @@
 
 * [Fund 7 Proposal](proposal-reporting/proposal/README.md)
   * [Fund 7 On-Boarding](proposal-reporting/proposal/fund-7-on-boarding.md)
-  * [Monthly Reports](proposal-reporting/proposal/monthly-reports.md)
+  * [F7 Monthly Reports](proposal-reporting/proposal/f7-monthly-reports.md)
 * [Fund 8 Proposal](proposal-reporting/fund-8-proposal.md)
 
 ## Project Management
