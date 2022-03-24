@@ -33,10 +33,10 @@
 * [Team](project/team.md)
 * [Process](project/process.md)
 * [Timetable](project/timetable.md)
-* [Meetings & Town Halls](project/meetings-and-town-halls.md)
-* [Pre Planning - 3rd March 2022](project-management/pre-planning-3rd-march-2022.md)
-* [Town Hall - 9th March 2022](project-management/town-hall-9th-march-2022.md)
-* [F7 Meeting 1 - 10th March 2022](project-management/f7-meeting-1-10th-march-2022.md)
+* [Meetings & Town Halls](project-management/meetings-and-town-halls/README.md)
+  * [Pre Planning - 3rd March 2022](project-management/meetings-and-town-halls/pre-planning-3rd-march-2022.md)
+  * [Town Hall - 9th March 2022](project-management/meetings-and-town-halls/town-hall-9th-march-2022.md)
+  * [F7 Meeting 1 - 10th March 2022](project-management/meetings-and-town-halls/f7-meeting-1-10th-march-2022.md)
 
 ## Treasury
 
