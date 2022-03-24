@@ -8,7 +8,7 @@ Fund 7 Challenge : [Improve and Grow Auditability Challenge](https://cardano.ide
 
 ## Cohort On-boarding
 
-![](../.gitbook/assets/2022-02-18.png)
+![](../../.gitbook/assets/2022-02-18.png)
 
 ### What is your project title as it appears on Ideascale? \*
 
@@ -147,5 +147,3 @@ Catalyst is committed to adding value to as many projects as possible. We have l
 Please select as many as are relevant to your project
 
 > Atala Prism Pioneers Programme: An educational course to support using Atala Prism identity solution
-
-&#x20;

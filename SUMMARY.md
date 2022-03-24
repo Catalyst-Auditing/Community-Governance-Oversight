@@ -22,9 +22,9 @@
 
 ## Proposal Reporting
 
-* [Fund 7 Proposal](proposal-reporting/proposal.md)
-* [Fund 7 On-Boarding](proposal-reporting/fund-7-on-boarding.md)
-* [Monthly Reports](proposal-reporting/monthly-reports.md)
+* [Fund 7 Proposal](proposal-reporting/proposal/README.md)
+  * [Fund 7 On-Boarding](proposal-reporting/proposal/fund-7-on-boarding.md)
+  * [Monthly Reports](proposal-reporting/proposal/monthly-reports.md)
 * [Fund 8 Proposal](proposal-reporting/fund-8-proposal.md)
 
 ## Project Management
