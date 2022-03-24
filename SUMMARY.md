@@ -34,6 +34,7 @@
 * [Process](project/process.md)
 * [Timetable](project/timetable.md)
 * [Meetings & Town Halls](project/meetings-and-town-halls.md)
+* [Pre Planning - 3rd March 2022](project-management/pre-planning-3rd-march-2022.md)
 
 ## Treasury
 
