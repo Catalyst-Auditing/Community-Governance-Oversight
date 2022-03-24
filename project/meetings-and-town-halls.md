@@ -2,7 +2,7 @@
 
 ## Overview
 
-|                 |                  |   |
+| Date            | Subject          |   |
 | --------------- | ---------------- | - |
 | 3rd March 2022  | Pre-Planning     |   |
 | 9th March 2022  | Town Hall Slides |   |
