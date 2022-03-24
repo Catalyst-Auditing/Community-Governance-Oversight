@@ -4,11 +4,13 @@
 
 ![](../../.gitbook/assets/2022-03-24.png)
 
-| Field      | Data    |
-| ---------- | ------- |
-| Email      | Private |
-| Project ID | 700075  |
-|            |         |
+| Field                                                         | Data                                                                                                             |
+| ------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| Email                                                         | Private                                                                                                          |
+| Project ID                                                    | 700075                                                                                                           |
+| Which fund is your challenge in ?                             | Fund 7                                                                                                           |
+| In which Challenge is your proposal? (one report per project) | [F7: Improve and Grow Auditability](https://cardano.ideascale.com/c/campaigns/26253/stage/all/ideas/unspecified) |
+|                                                               |                                                                                                                  |
 
 
 
