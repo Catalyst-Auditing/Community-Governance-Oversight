@@ -17,3 +17,17 @@ The plans presented looks attainable with definite timelines and broad deliverab
 ### Auditability
 
 Given the problem statement the solutions provided, the plans and the experiences I think the proposal can be a success. It's clear there are some KPIs presented and they were obviously they can paint a picture of the success of the project.
+
+## Assessment Two
+
+### Impact / Alignment
+
+Providing the community oversight of Catalyst governance processes is certainly an audit issue that needs addressing as lack of it we are told by this team, we will stagnate and lack accountability which is a risk that needs to be mitigated
+
+### Feasibility
+
+The team comprises of a wide range of expertise from various fields of study and experience in areas such as finance, academic research, accountancy, project management, entrepreneurship, community outreach, facilitation and development. This team seems to have a lot of goodwill towards the community and does not want it to fail in any way, I am confident that they will implement what they outline in the plan outlines as the oversight process and timelines outlined in the proposal
+
+### Auditability
+
+The proposal outlines the methods that they will use for the Oversight group to allow the Cardano community to have more information at a high level on the effectiveness of the proposal process & the Catalyst innovation fund in general. This group plays a critical role in the evolving decentralized Catalyst governance process, and will serve as an important area to test experiments that will flow into the Voltaire processes. The team has provided a detailed and sufficient plan for this to work
