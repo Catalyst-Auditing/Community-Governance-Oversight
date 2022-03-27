@@ -4,8 +4,6 @@
 Flagged or filtered out assessments not included
 {% endhint %}
 
-{% embed url="https://docs.google.com/spreadsheets/d/162PIuxLEm61NL6-nktbgzTl7HQYpqg_Ty6GT3jDTx_o/edit?usp=sharing" %}
-
 [Link to proposal assessments](https://docs.google.com/spreadsheets/d/162PIuxLEm61NL6-nktbgzTl7HQYpqg\_Ty6GT3jDTx\_o/edit?usp=sharing)
 
 ## Assessment One
