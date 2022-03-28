@@ -43,34 +43,25 @@ GitBook - [https://quality-assurance-dao.gitbook.io/community-governance-oversig
 
 ### 1 Audit Circle Treasury
 
-Andre & Mirolav - updates on Treasury setup, member payments, costs & expenses.
+**Andre & Mirolav** - updates on Treasury setup, member payments, costs & expenses.
 
 5 minutes
-
-\
-
 
 Funds paid for CGO Meeting #1 - Any issues ?
 
 Payments for first 3 meetings. Last 3 meetings paid at end. Surveys can be paid immediately
 
-\
-
-
 To be charged against Preparation for a Fund 8 proposal budget : &#x20;
 
-Allison, Andre, Kenric, Stephen & Vanessa share $500&#x20;
+**Allison, Andre, Kenric, Stephen & Vanessa** share $500&#x20;
 
 ### 2 Town Hall Slides
 
-Allison - Updates on Town Hall Slides
+**Allison** - Updates on Town Hall Slides
 
 5 minutes
 
-\
-
-
-https://docs.google.com/presentation/d/1vyWhMVlXunuqn8JwmTxJL-tn84yHZnXVlhLOYH2iLa4/edit?usp=sharing
+{% embed url="https://docs.google.com/presentation/d/1vyWhMVlXunuqn8JwmTxJL-tn84yHZnXVlhLOYH2iLa4/edit?usp=sharing" %}
 
 ### 3 Fund 8 - CGO Proposal
 
