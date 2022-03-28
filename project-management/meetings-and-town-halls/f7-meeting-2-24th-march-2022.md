@@ -139,9 +139,11 @@ Deliverables : Keeping track and documenting the ongoing community engagement wi
 
 ### 4.4 Governance parameters
 
-Scope : Modifying the governance parameters in Catalyst via Catalyst Circle and a Technical **Council.**
+**Scope : Modifying the governance parameters in Catalyst via Catalyst Circle and a Technical Council.**
 
-Deliverables : This scope area is on hold. Some documentation work may be done.  - Allison / Stephen
+{% hint style="info" %}
+**Deliverables :** This scope area is on hold. Some documentation work may be done.  - Allison / Stephen
+{% endhint %}
 
 Actions from last meeting : Chase Harris on scope - Allison, Chase Marek on scope - Tevo
 
@@ -179,7 +181,7 @@ Action from previous meeting: For F7 budget focus on outreach and preparation fo
 
 #### CGO Project Management and Administration
 
-5 minutes
+#### 5 minutes
 
 Action from previous meeting: Alternate a secretary role to take notes at each meeting
 
@@ -208,7 +210,7 @@ Is anyone interested in participating in a training session in the next two week
 
 ## Over run time&#x20;
 
-5 minutes
+#### 5 minutes
 
 Individual can attend - CGO will not facilitate - document - Vanessa&#x20;
 
