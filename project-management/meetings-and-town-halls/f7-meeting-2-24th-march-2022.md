@@ -63,12 +63,7 @@ To be charged against Preparation for a Fund 8 proposal budget : &#x20;
 
 ## 3 Fund 8 - CGO Proposal
 
-Stephen - The Fund 8 CGO Proposal has been submitted (https://cardano.ideascale.com/c/idea/398225) and is based on the Fund 7 proposal.&#x20;
-
-5 minutes
-
-\
-
+Stephen - The Fund 8 CGO Proposal has been submitted (https://cardano.ideascale.com/c/idea/398225) and is based on the Fund 7 proposal. 5 minutes
 
 Recruit secretary to support CGO - Allison
 
