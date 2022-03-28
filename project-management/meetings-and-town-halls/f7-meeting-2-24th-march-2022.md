@@ -37,11 +37,9 @@ F8 Ideascale Proposal - [https://cardano.ideascale.com/c/idea/398225](https://ca
 
 GitBook - [https://quality-assurance-dao.gitbook.io/community-governance-oversight/](https://quality-assurance-dao.gitbook.io/community-governance-oversight/)
 
-## Proposed Agenda
-
 (Please amend or comment)
 
-### 1 Audit Circle Treasury
+## 1 Audit Circle Treasury
 
 **Andre & Mirolav** - updates on Treasury setup, member payments, costs & expenses.
 
@@ -55,7 +53,7 @@ To be charged against Preparation for a Fund 8 proposal budget : &#x20;
 
 **Allison, Andre, Kenric, Stephen & Vanessa** share $500&#x20;
 
-### 2 Town Hall Slides
+## 2 Town Hall Slides
 
 **Allison** - Updates on Town Hall Slides
 
@@ -63,9 +61,9 @@ To be charged against Preparation for a Fund 8 proposal budget : &#x20;
 
 {% embed url="https://docs.google.com/presentation/d/1vyWhMVlXunuqn8JwmTxJL-tn84yHZnXVlhLOYH2iLa4/edit?usp=sharing" %}
 
-### 3 Fund 8 - CGO Proposal
+## 3 Fund 8 - CGO Proposal
 
-Stephen - The Fund CGO Proposal has been submitted (https://cardano.ideascale.com/c/idea/398225) and is based on the Fund 7 proposal.&#x20;
+Stephen - The Fund 8 CGO Proposal has been submitted (https://cardano.ideascale.com/c/idea/398225) and is based on the Fund 7 proposal.&#x20;
 
 5 minutes
 
@@ -74,21 +72,23 @@ Stephen - The Fund CGO Proposal has been submitted (https://cardano.ideascale.co
 
 Recruit secretary to support CGO - Allison
 
-### 4 F7 CGO Scope & Deliverables
+## 4 F7 CGO Scope & Deliverables
 
 All members - Progress under each scope area :  25 minutes
 
-#### 4.1 Challenge Setting
+### 4.1 Challenge Setting
 
 Scope : Including community contributed challenges and the creation and expanding role of challenge teams - Stephen
 
 Deliverables : TBA
 
-#### 4.2 Catalyst Circle problem sensing
+### 4.2 Catalyst Circle problem sensing
 
-Scope : Effectiveness of prioritized problem sensing
+#### Scope : Effectiveness of prioritized problem sensing
 
-Deliverables : Catalyst Circle - “Removal of Circle Representative” process
+{% hint style="info" %}
+**Deliverables :** Catalyst Circle - “Removal of Circle Representative” process
+{% endhint %}
 
 Oversight of community discussion - Which criteria not met - code of conduct&#x20;
 
@@ -98,61 +98,35 @@ Oversight of community discussion - Which criteria not met - code of conduct&#x2
 
 [https://miro.com/app/board/uXjVOCpbtAE=/](https://miro.com/app/board/uXjVOCpbtAE=/)
 
-\
-
-
 Action : Designing a process to address oversight of CC members - Facilitate process implementation - Petition CGO to address concerns - Allison
 
 Although the meeting did agree that our role should be oversight / documentation not active governing so is complainants petitioning CGO appropriate?
-
-\
-
 
 Who are CGO - how do we get here - Phil
 
 Change narrative - there is issue here - no specific person - need for a process for dispute resolution and replacement - Tevo&#x20;
 
-\
-
-
 Facilitating it is questionable -  examining process - Vanessa
-
-\
-
 
 Two approaches 1) CGO documents - makes transparent / 2) design process and getting involved - Allison&#x20;
 
-\
-
-
 Elected board come from community - Jo
-
-\
-
 
 Community discussion to be arranged at next After Town Hall to address deselection process  - 30th March 2022 - to be assigned
 
-\
-
-
-provide the platform so that parties can go to mediation on their termsFind a mediator - Matthias
-
-\
-
+Provide the platform so that parties can go to mediation on their terms  Find a mediator - Matthias
 
 CGO should not facilitate only attend next ATH - All
 
-\
+{% hint style="info" %}
+**Deliverables :** How effectively is the prioritized problem board working ? How can CGO survey, assist and report on this ?
+{% endhint %}
 
+To be addressed
 
-Deliverables : How effectively is the prioritized problem board working ? How can CGO survey, assist and report on this ?
+### 4.3 d-Reps
 
-\
-
-
-#### 4.3 d-Reps
-
-Scope : Oversight of delegated voting innovations
+#### Scope : Oversight of delegated voting innovations
 
 Deliverables : The Survey deliverable will be used for a literature search contrasting “liquid democracy “ and “illiquid plutocracy “. The purpose is to provide measurable definitions for these terms. This would support the research for F8 CGO and provide some context for the interviews conducted within the community. - Kenric
 
@@ -162,10 +136,9 @@ To participate in bibliography contact Kenric - Kenric
 
 Facilitate conversation with IOG teams - Kenric
 
-\
-
-
+{% hint style="info" %}
 Deliverables : Keeping track and documenting the ongoing community engagement with the d-Rep issue - Stephen
+{% endhint %}
 
 #### 4.4 Governance parameters
 
