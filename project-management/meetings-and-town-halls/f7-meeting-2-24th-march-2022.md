@@ -65,7 +65,9 @@ To be charged against Preparation for a Fund 8 proposal budget : &#x20;
 
 Stephen - The Fund 8 CGO Proposal has been submitted (https://cardano.ideascale.com/c/idea/398225) and is based on the Fund 7 proposal. 5 minutes
 
-Recruit secretary to support CGO - Allison
+{% hint style="info" %}
+**Action :** Recruit secretary to support CGO - Allison
+{% endhint %}
 
 ## 4 F7 CGO Scope & Deliverables
 
@@ -73,9 +75,11 @@ All members - Progress under each scope area :  25 minutes
 
 ### 4.1 Challenge Setting
 
-Scope : Including community contributed challenges and the creation and expanding role of challenge teams - Stephen
+**Scope : Including community contributed challenges and the creation and expanding role of challenge teams - Stephen**
 
-Deliverables : TBA
+{% hint style="info" %}
+**Deliverables :** TBA
+{% endhint %}
 
 ### 4.2 Catalyst Circle problem sensing
 
