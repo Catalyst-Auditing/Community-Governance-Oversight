@@ -139,46 +139,25 @@ Deliverables : Keeping track and documenting the ongoing community engagement wi
 
 ### 4.4 Governance parameters
 
-Scope : Modifying the governance parameters in Catalyst via Catalyst Circle and a Technical Council.
+Scope : Modifying the governance parameters in Catalyst via Catalyst Circle and a Technical **Council.**
 
 Deliverables : This scope area is on hold. Some documentation work may be done.  - Allison / Stephen
 
 Actions from last meeting : Chase Harris on scope - Allison, Chase Marek on scope - Tevo
 
-\
-
-
 Why on hold ?  - Kenric
-
-\
-
 
 Only parameters related to fund apportion to roles - Tevo
 
-\
-
-
 May not prevent feedback from community - surveys from community - current allocation of treasury apportion - educating community on parameters - Kenric
-
-\
-
 
 Miro Board which has funding parameter percents
 
 [https://miro.com/app/board/o9J\_ljPS0hg=/?moveToWidget=3458764519526918582\&cot=10](https://miro.com/app/board/o9J\_ljPS0hg=/?moveToWidget=3458764519526918582\&cot=10) - Tevo
 
-\
+I think in Survey we also want to involve questions for community for them to suggest more impactful parameters they think there should be - Tevo
 
-
-I think in Survay we also want to involve questions for community for them to suggest more impactful parameters they think there should be - tevo
-
-\
-
-
-Also ask how current allocation “feels” - tevo
-
-\
-
+Also ask how current allocation “feels” - Tevo
 
 ### 5 Fund 7 Proposal Reporting
 
@@ -190,19 +169,11 @@ Report for 24th March 2022 submitted - text transcription here - [https://qualit
 
 What efforts can we make to reach different language communities ?  5 minutes
 
-\
-\
-
-
 Action from previous meeting: Incorporate funding for translation in F8 proposal
 
 Not completed : Forgot to add this to the F8 proposal - we could possibly fund from another resource - Stephen
 
 Action from previous meeting: For F7 budget focus on outreach and preparation for different language communities - unassigned
-
-\
-\
-
 
 ### 7 Any Other Business
 
@@ -212,15 +183,9 @@ Action from previous meeting: For F7 budget focus on outreach and preparation fo
 
 Action from previous meeting: Alternate a secretary role to take notes at each meeting
 
-\
-
-
 Action from previous meeting: Add resourcing for a dedicated secretary to the F8 proposal - Stephen
 
-Completed : Added this Budget line :
-
-\
-
+Completed : Added this Budget line -
 
 D - Project Management & Administration
 
@@ -239,33 +204,15 @@ Subtotal : $ 2,000 for 4 months ($ 500 per month)
 This project is being managed using he beta feature of GitHub Project Boards. See here - [https://github.com/orgs/Catalyst-Auditing/projects/3](https://github.com/orgs/Catalyst-Auditing/projects/3)
 
 \
-
-
 Is anyone interested in participating in a training session in the next two weeks ? - Stephen
 
-\
-
-
-#### Over run time&#x20;
-
-\
-\
-
-
-Individual can attend - CGO will not facilitate - document - Vanessa&#x20;
-
-\
-
-
-Feedback &#x20;
-
-\
-
+## Over run time&#x20;
 
 5 minutes
 
-\
+Individual can attend - CGO will not facilitate - document - Vanessa&#x20;
 
+### Feedback&#x20;
 
 Next Meeting : 1600 UTC, 7th April 2022
 
