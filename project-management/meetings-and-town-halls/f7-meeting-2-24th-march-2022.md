@@ -214,7 +214,9 @@ Individual can attend - CGO will not facilitate - document - Vanessa&#x20;
 
 ### Feedback&#x20;
 
-Next Meeting : 1600 UTC, 7th April 2022
+{% hint style="info" %}
+**Next Meeting :** 1600 UTC, 7th April 2022
+{% endhint %}
 
 \
 \
