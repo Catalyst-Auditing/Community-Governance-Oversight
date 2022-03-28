@@ -134,7 +134,7 @@ To participate in bibliography contact Kenric - Kenric
 Facilitate conversation with IOG teams - Kenric
 
 {% hint style="info" %}
-Deliverables : Keeping track and documenting the ongoing community engagement with the d-Rep issue - Stephen
+**Deliverables :** Keeping track and documenting the ongoing community engagement with the d-Rep issue - Stephen
 {% endhint %}
 
 ### 4.4 Governance parameters
