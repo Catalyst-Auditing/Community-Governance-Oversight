@@ -98,7 +98,7 @@ Oversight of community discussion - Which criteria not met - code of conduct&#x2
 
 [https://miro.com/app/board/uXjVOCpbtAE=/](https://miro.com/app/board/uXjVOCpbtAE=/)
 
-Action : Designing a process to address oversight of CC members - Facilitate process implementation - Petition CGO to address concerns - Allison
+Designing a process to address oversight of CC members - Facilitate process implementation - Petition CGO to address concerns - Allison
 
 Although the meeting did agree that our role should be oversight / documentation not active governing so is complainants petitioning CGO appropriate?
 
@@ -116,7 +116,9 @@ Community discussion to be arranged at next After Town Hall to address deselecti
 
 Provide the platform so that parties can go to mediation on their terms  Find a mediator - Matthias
 
-CGO should not facilitate only attend next ATH - All
+{% hint style="success" %}
+**Decision :** CGO should not facilitate only attend next ATH - All
+{% endhint %}
 
 {% hint style="info" %}
 **Deliverables :** How effectively is the prioritized problem board working ? How can CGO survey, assist and report on this ?
