@@ -137,7 +137,7 @@ Facilitate conversation with IOG teams - Kenric
 Deliverables : Keeping track and documenting the ongoing community engagement with the d-Rep issue - Stephen
 {% endhint %}
 
-#### 4.4 Governance parameters
+### 4.4 Governance parameters
 
 Scope : Modifying the governance parameters in Catalyst via Catalyst Circle and a Technical Council.
 
