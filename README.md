@@ -19,7 +19,7 @@ The need for an Oversight Group was identified in a [presentation ](https://qual
 
 **Transparency** - [meetings](https://quality-assurance-dao.gitbook.io/community-governance-oversight/project-management/meetings-and-town-halls), [proposal reporting](https://quality-assurance-dao.gitbook.io/community-governance-oversight/proposal-reporting/proposal/f7-monthly-reports) and [deliverables ](https://quality-assurance-dao.gitbook.io/community-governance-oversight/governance-processes/overview)are all documented in this GitBook.
 
-**Accountability** -&#x20;
+**Accountability** - Community Governance Oversight is accountable to ADA holders who voted for it's proposal to deliver surveys, retrospectives and a final report by end of May 2022.
 
 
 
