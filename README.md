@@ -17,7 +17,9 @@ The need for an Oversight Group was identified in a [presentation ](https://qual
 
 **Legitimacy** - the proposal together with the team listed were successfully voted for in February 2022.
 
-Transparency -&#x20;
+**Transparency** - [meetings](https://quality-assurance-dao.gitbook.io/community-governance-oversight/project-management/meetings-and-town-halls), [proposal reporting](https://quality-assurance-dao.gitbook.io/community-governance-oversight/proposal-reporting/proposal/f7-monthly-reports) and deliverables are all documented in this GitBook.
+
+**Accountability** -&#x20;
 
 
 
