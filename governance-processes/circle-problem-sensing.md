@@ -94,11 +94,15 @@ Submit to the Board under “Problem Backlog”
 
 ### Well-Defined Problems (Ready)
 
-* ### Schedule time to present the problem during Town Hall
-* ### **Define solving strategy with Circle (Presentation? Challenge? Proposal? Facilitate problem solving sessions?)**
-* ### **Prepare a presentation.**
-* ### **Present it.**
-* **Move to “Shared with Community” section**
+Schedule time to present the problem during Town Hall&#x20;
+
+Define solving strategy with Circle (Presentation? Challenge? Proposal? Facilitate problem solving sessions?)&#x20;
+
+Prepare a presentation.&#x20;
+
+Present it.&#x20;
+
+Move to “Shared with Community” section
 
 ### Shared with Community
 
