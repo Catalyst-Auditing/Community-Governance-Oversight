@@ -6,6 +6,8 @@ description: Oversight of Catalyst Circle problem sensing
 
 ## DRAFT
 
+[Source document](https://docs.google.com/document/d/1vdQjER\_\_0ZZWq4oGGiA8vVZtG2zOgoFGySgp1sE0uSI/edit?usp=sharing)
+
 ## Catalyst Circle V3 & Community Governance Oversight V1
 
 ## Working group
