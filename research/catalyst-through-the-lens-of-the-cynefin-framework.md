@@ -1,10 +1,12 @@
 ---
-description: Stephen Whitenstall, QADAO
+description: After Town Hall, 26th January 2022 - Stephen Whitenstall, QADAO
 ---
 
 # Catalyst through the lens of the Cynefin Framework
 
 {% embed url="https://youtu.be/PZcAHssclA4" %}
+
+#### After Town Hall, 26th January 2022
 
 ## Introduction
 
