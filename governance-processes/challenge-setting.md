@@ -4,4 +4,6 @@
 
 {% embed url="https://youtu.be/cMOwhpbO-Og" %}
 
-Insert Miro link here
+### Miro Board
+
+{% embed url="https://miro.com/app/board/uXjVOdpYqTI=" %}
