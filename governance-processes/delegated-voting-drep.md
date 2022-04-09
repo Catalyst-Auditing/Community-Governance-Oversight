@@ -88,3 +88,7 @@ The Project Catalyst Team
 ### **d-Reps letter (**[**link**](https://docs.google.com/document/d/10Naaxx7fH2aL\_8YUFzqMBB8RBlzYLwPE1H3pkU4GgRw/edit?usp=sharing)**)**&#x20;
 
 {% embed url="https://docs.google.com/document/d/10Naaxx7fH2aL_8YUFzqMBB8RBlzYLwPE1H3pkU4GgRw/edit?usp=sharing" %}
+
+## IOG Response to d-Rep letter
+
+{% embed url="https://docs.google.com/document/d/1kD_iVBZaq5As6O60_TUqj-0pbm0QIdlSIG_UF7B_4kk/edit?usp=sharing" %}
