@@ -94,3 +94,21 @@ The Project Catalyst Team
 [**Link to IOG Response**](https://docs.google.com/document/d/1kD\_iVBZaq5As6O60\_TUqj-0pbm0QIdlSIG\_UF7B\_4kk/edit?usp=sharing)****
 
 {% embed url="https://docs.google.com/document/d/1kD_iVBZaq5As6O60_TUqj-0pbm0QIdlSIG_UF7B_4kk/edit?usp=sharing" %}
+
+Dear signatories, Circle members, and the entire Cardano community,
+
+Input Output Global, Inc. (IOG) would like to thank you for your coordinated effort to compose [Community Letter to IOG - D-reps & Treasury](https://docs.google.com/document/d/10Naaxx7fH2aL\_8YUFzqMBB8RBlzYLwPE1H3pkU4GgRw/edit?usp=sharing), which has been shared across the organization. It is encouraging to see the level of enthusiasm from the community for Cardano's journey and the roadmap ahead. Yet, IOG acknowledges that some areas might need expansion and a clearer definition on the path forward.
+
+The product team has considered many of the questions and issues raised in the letter, and shared the feedback with IOG's research and engineering teams. The initial approach to Delegated Representatives (dReps) will be in the form of a pilot program, allowing for a degree of experimentation and learning with the first cohort. As the details are being worked out, IOG supports the idea of exploratory workshops to clarify some of the issues and questions you raised, and will be sharing relevant plans soon. We also recognize that, where possible, themes expressed in the letter should be elaborated on, notably the role of a dRep and how absolute liquid democracy will work for Project Catalyst.
+
+dReps will operate wholly within Project Catalyst. IOG, along with many in the Cardano community, understand the critical importance of voter participation, either directly or via delegation, when allocating treasury funds. To increase the validity of Project Catalyst proposals coming through each fund, there is a clear desire to drive voter participation and reduce apathy within the broader ada holder ecosystem. To illustrate this, on average in Fund7, current voting wallets cast ballots on just 8 proposals out of 934. Incorporating delegated democracy and dReps into the core enactment of governance - that of casting a vote - can drive proposal engagement up and strengthen the mandate Project Catalyst has for using Cardano Treasury funds. This also supports greater engagement, allowing the more passive ada holder to contribute without barriers.&#x20;
+
+The solutions presented in your letter align with IOG's plans. We will collaborate with the first cohort of dReps to shape a code of conduct and, essential for transparency, share updates to the wider Project Catalyst ecosystem. In response to questions and issues regarding the treasury, and taking a similar approach to that of dReps, we agree with your solution and will organize a series of workshops to clarify the structure and inner workings of the treasury.
+
+IOG hugely appreciates the level of thought and consideration invested in the letter, and we are grateful for the feedback. It has given us a greater level of insight into current thinking (and mood in general) among the Catalyst community. This can only support a synergistic relationship going forward.
+
+Delegation and dReps are exciting concepts, and IOG is very much looking forward to  bringing all this together with the help of the Cardano community. We are working towards the first cohort of dReps being fully onboarded and operational for voting in Fund9 (mid-July) with future iterations likely in Fund10 and beyond. Invites to workshops and further details will be issued in the coming weeks.&#x20;
+
+Yours sincerely,
+
+IOG
