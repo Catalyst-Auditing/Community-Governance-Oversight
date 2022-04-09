@@ -91,4 +91,6 @@ The Project Catalyst Team
 
 ## IOG Response to d-Rep letter
 
+[**Link to IOG Response**](https://docs.google.com/document/d/1kD\_iVBZaq5As6O60\_TUqj-0pbm0QIdlSIG\_UF7B\_4kk/edit?usp=sharing)****
+
 {% embed url="https://docs.google.com/document/d/1kD_iVBZaq5As6O60_TUqj-0pbm0QIdlSIG_UF7B_4kk/edit?usp=sharing" %}
