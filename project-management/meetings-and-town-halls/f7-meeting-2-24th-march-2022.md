@@ -14,7 +14,7 @@ description: >-
 
 ## Attendees
 
-|                     | Role     |
+| Name                | Role     |
 | ------------------- | -------- |
 | Allison Fromm       | Member   |
 | Kenric Nelson       | Member   |
