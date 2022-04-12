@@ -10,22 +10,22 @@ description: >-
 
 ## Agenda
 
-[Link to Agenda](https://docs.google.com/document/d/134R7zzFoHw3E1DhULOU2EWp3i2ktAyY28QzsgpJHr\_M/edit?usp=sharing)&#x20;
+[Link to Agenda](https://docs.google.com/document/d/134R7zzFoHw3E1DhULOU2EWp3i2ktAyY28QzsgpJHr\_M/edit?usp=sharing)
 
 ## Attendees
 
-|                     | Role     |   |
-| ------------------- | -------- | - |
-| Allison Fromm       | Member   |   |
-| Kenric Nelson       | Member   |   |
-| Jo Allum            | Member   |   |
-| Matthias Sieber     | Member   |   |
-| Phil Khoo           | Member   |   |
-| Stephen Whitenstall | Member   |   |
-| Tevo Saks           | Member   |   |
-| Vanessa Cardui      | Member   |   |
-| Andre Diamond       | Treasury |   |
-| Miroslav Rajh       | Treasury |   |
+|                     | Role     |
+| ------------------- | -------- |
+| Allison Fromm       | Member   |
+| Kenric Nelson       | Member   |
+| Jo Allum            | Member   |
+| Matthias Sieber     | Member   |
+| Phil Khoo           | Member   |
+| Stephen Whitenstall | Member   |
+| Tevo Saks           | Member   |
+| Vanessa Cardui      | Member   |
+| Andre Diamond       | Treasury |
+| Miroslav Rajh       | Treasury |
 
 ## Information
 
@@ -49,9 +49,9 @@ Funds paid for CGO Meeting #1 - Any issues ?
 
 Payments for first 3 meetings. Last 3 meetings paid at end. Surveys can be paid immediately
 
-To be charged against Preparation for a Fund 8 proposal budget : &#x20;
+To be charged against Preparation for a Fund 8 proposal budget :
 
-**Allison, Andre, Kenric, Stephen & Vanessa** share $500&#x20;
+**Allison, Andre, Kenric, Stephen & Vanessa** share $500
 
 ## 2 Town Hall Slides
 
@@ -71,7 +71,7 @@ Stephen - The Fund 8 CGO Proposal has been submitted (https://cardano.ideascale.
 
 ## 4 F7 CGO Scope & Deliverables
 
-All members - Progress under each scope area :  25 minutes
+All members - Progress under each scope area : 25 minutes
 
 ### 4.1 Challenge Setting
 
@@ -89,7 +89,7 @@ All members - Progress under each scope area :  25 minutes
 **Deliverables :** Catalyst Circle - “Removal of Circle Representative” process
 {% endhint %}
 
-Oversight of community discussion - Which criteria not met - code of conduct&#x20;
+Oversight of community discussion - Which criteria not met - code of conduct
 
 [COMMUNITY MODERATION GUIDELINES](https://docs.google.com/document/d/1G\_\_eWrmsUxecET2e3zIniPSQJ-FWI1YAGJ-vLwzm8U8/edit?usp=sharing)
 
@@ -103,17 +103,17 @@ Although the meeting did agree that our role should be oversight / documentation
 
 Who are CGO - how do we get here - Phil
 
-Change narrative - there is issue here - no specific person - need for a process for dispute resolution and replacement - Tevo&#x20;
+Change narrative - there is issue here - no specific person - need for a process for dispute resolution and replacement - Tevo
 
-Facilitating it is questionable -  examining process - Vanessa
+Facilitating it is questionable - examining process - Vanessa
 
-Two approaches 1) CGO documents - makes transparent / 2) design process and getting involved - Allison&#x20;
+Two approaches 1) CGO documents - makes transparent / 2) design process and getting involved - Allison
 
 Elected board come from community - Jo
 
-Community discussion to be arranged at next After Town Hall to address deselection process  - 30th March 2022 - to be assigned
+Community discussion to be arranged at next After Town Hall to address deselection process - 30th March 2022 - to be assigned
 
-Provide the platform so that parties can go to mediation on their terms  Find a mediator - Matthias
+Provide the platform so that parties can go to mediation on their terms Find a mediator - Matthias
 
 {% hint style="success" %}
 **Decision :** CGO should not facilitate only attend next ATH - All
@@ -146,12 +146,12 @@ Facilitate conversation with IOG teams - Kenric
 **Scope : Modifying the governance parameters in Catalyst via Catalyst Circle and a Technical Council.**
 
 {% hint style="info" %}
-**Deliverables :** This scope area is on hold. Some documentation work may be done.  - Allison / Stephen
+**Deliverables :** This scope area is on hold. Some documentation work may be done. - Allison / Stephen
 {% endhint %}
 
 Actions from last meeting : Chase Harris on scope - Allison, Chase Marek on scope - Tevo
 
-Why on hold ?  - Kenric
+Why on hold ? - Kenric
 
 Only parameters related to fund apportion to roles - Tevo
 
@@ -169,11 +169,11 @@ Also ask how current allocation “feels” - Tevo
 
 Report for 24th March 2022 submitted - 5 minutes
 
-Report for 24th March 2022 submitted - text transcription here - [https://quality-assurance-dao.gitbook.io/community-governance-oversight/proposal-reporting/proposal/f7-monthly-reports#24th-march-2022](https://quality-assurance-dao.gitbook.io/community-governance-oversight/proposal-reporting/proposal/f7-monthly-reports#24th-march-2022) - Stephen&#x20;
+Report for 24th March 2022 submitted - text transcription here - [https://quality-assurance-dao.gitbook.io/community-governance-oversight/proposal-reporting/proposal/f7-monthly-reports#24th-march-2022](https://quality-assurance-dao.gitbook.io/community-governance-oversight/proposal-reporting/proposal/f7-monthly-reports#24th-march-2022) - Stephen
 
 ### 6 Governance Oversight Outreach
 
-What efforts can we make to reach different language communities ?  5 minutes
+What efforts can we make to reach different language communities ? 5 minutes
 
 Action from previous meeting: Incorporate funding for translation in F8 proposal
 
@@ -212,13 +212,13 @@ This project is being managed using he beta feature of GitHub Project Boards. Se
 \
 Is anyone interested in participating in a training session in the next two weeks ? - Stephen
 
-## Over run time&#x20;
+## Over run time
 
 #### 5 minutes
 
-Individual can attend - CGO will not facilitate - document - Vanessa&#x20;
+Individual can attend - CGO will not facilitate - document - Vanessa
 
-### Feedback&#x20;
+### Feedback
 
 {% hint style="info" %}
 **Next Meeting :** 1600 UTC, 7th April 2022
@@ -226,4 +226,4 @@ Individual can attend - CGO will not facilitate - document - Vanessa&#x20;
 
 \
 \
-\
+\\
