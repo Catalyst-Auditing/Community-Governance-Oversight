@@ -10,31 +10,28 @@ description: 'Community Governance Oversight Meeting #3 - 1500 UTC, Thursday, 7t
 
 [Link to Agenda](https://docs.google.com/document/d/1Ty0gKl4T6cefiNymm0K5lb5TuCBct-lG6dXCh\_MDrSA/edit?usp=sharing)
 
-## Invitees :
+## Attendees:
 
-Allison Fromm
+| Name                | Role |
+| ------------------- | ---- |
+| Allison Fromm       |      |
+| Kenric Nelson       |      |
+| Kenric Nelson       |      |
+| Matthias Sieber     |      |
+| Phil Khoo           |      |
+| Stephen Whitenstall |      |
+| Tevo Saks           |      |
+| Vanessa Cardui      |      |
+| Andre Diamond       |      |
+| Miroslav Rajh       |      |
 
-Kenric Nelson&#x20;
+#### Apologies
 
-Jo Allum&#x20;
+| Name      | Role |
+| --------- | ---- |
+| Jo Allum  |      |
 
-Matthias Sieber
-
-Phil Khoo&#x20;
-
-Stephen Whitenstall
-
-Tevo Saks&#x20;
-
-Vanessa Cardui
-
-### Treasury
-
-Andre Diamond
-
-Miroslav Rajh
-
-## Information
+## &#x20;Information
 
 ### Community Governance Oversight (CGO)
 
