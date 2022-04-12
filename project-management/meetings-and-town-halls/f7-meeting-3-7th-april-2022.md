@@ -12,24 +12,23 @@ description: 'Community Governance Oversight Meeting #3 - 1500 UTC, Thursday, 7t
 
 ## Attendees:
 
-| Name                | Role |
-| ------------------- | ---- |
-| Allison Fromm       |      |
-| Kenric Nelson       |      |
-| Kenric Nelson       |      |
-| Matthias Sieber     |      |
-| Phil Khoo           |      |
-| Stephen Whitenstall |      |
-| Tevo Saks           |      |
-| Vanessa Cardui      |      |
-| Andre Diamond       |      |
-| Miroslav Rajh       |      |
+| Name                | Role     |
+| ------------------- | -------- |
+| Allison Fromm       | Member   |
+| Kenric Nelson       | Member   |
+| Matthias Sieber     | Member   |
+| Phil Khoo           | Member   |
+| Stephen Whitenstall | Member   |
+| Tevo Saks           | Member   |
+| Vanessa Cardui      | Member   |
+| Andre Diamond       | Treasury |
+| Miroslav Rajh       | Treasury |
 
 #### Apologies
 
-| Name      | Role |
-| --------- | ---- |
-| Jo Allum  |      |
+| Name      | Role   |
+| --------- | ------ |
+| Jo Allum  | Member |
 
 ## &#x20;Information
 
