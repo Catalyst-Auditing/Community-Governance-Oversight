@@ -43,13 +43,11 @@ GitBook - [https://quality-assurance-dao.gitbook.io/community-governance-oversig
 
 ## Proposed Agenda
 
-(Please amend or comment)
-
 ### 1 Audit Circle Treasury
 
-Andre & Mirolav - updates on Treasury setup, member payments, costs & expenses.
+**Andre & Mirolav** - updates on Treasury setup, member payments, costs & expenses.
 
-5 minutes
+
 
 \
 
