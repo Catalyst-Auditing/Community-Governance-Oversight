@@ -1,11 +1,12 @@
+---
+description: 'Community Governance Oversight Meeting #3 - 1500 UTC, Thursday, 7th April 2022'
+---
+
 # F7 Meeting 3 - 7th April 2022
 
-Agenda - Community Governance Oversight Meeting #3
-
-\
 
 
-Scheduled date/time of meeting : 1500 UTC, Thursday, 7th April 2022
+Agenda
 
 ## Invitees :
 
