@@ -48,7 +48,7 @@ GitBook - [https://quality-assurance-dao.gitbook.io/community-governance-oversig
 
 
 
-{% hint style="warning" %}
+{% hint style="info" %}
 **Action -** Pay for the next 3 meetings
 {% endhint %}
 
