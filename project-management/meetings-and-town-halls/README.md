@@ -9,5 +9,7 @@
 | 10th March 2022 | [CGO Meeting 1](https://quality-assurance-dao.gitbook.io/community-governance-oversight/project-management/meetings-and-town-halls/f7-meeting-1-10th-march-2022) |
 | 23rd March 2022 | [Town Hall Slides](https://quality-assurance-dao.gitbook.io/community-governance-oversight/project-management/meetings-and-town-halls/town-hall-23rd-march-2022) |
 | 24th March 2022 | [CGO Meeting 2](https://quality-assurance-dao.gitbook.io/community-governance-oversight/project-management/meetings-and-town-halls/f7-meeting-2-24th-march-2022) |
+| 6th April 2022  | Town Hall Slides                                                                                                                                                 |
+| 7th April 2022  | CGO Meeting 3                                                                                                                                                    |
 
 ###
