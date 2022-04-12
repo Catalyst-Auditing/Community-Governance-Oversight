@@ -48,10 +48,9 @@ GitBook - [https://quality-assurance-dao.gitbook.io/community-governance-oversig
 
 
 
-\
-
-
-Pay for the next 3 meetings
+{% hint style="warning" %}
+**Action -** Pay for the next 3 meetings
+{% endhint %}
 
 ### 2 Town Hall Slides
 
