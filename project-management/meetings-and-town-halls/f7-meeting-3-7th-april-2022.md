@@ -46,10 +46,11 @@ GitBook - [https://quality-assurance-dao.gitbook.io/community-governance-oversig
 
 **Andre & Mirolav** - updates on Treasury setup, member payments, costs & expenses.
 
-
+* 01:06 Andre - there are several new ADA Due labels on the project board; this is yet to be resolved/discussed.
+* 02:40 Stephen/Andre - this month’s funding has been paid, so next 3 meetings will be paid now.
 
 {% hint style="info" %}
-**Action -** Pay for the next 3 meetings
+**Action -** Treasury to pay members for the next 3 meetings
 {% endhint %}
 
 ### 2 Town Hall Slides
