@@ -4,9 +4,11 @@ description: 'Community Governance Oversight Meeting #3 - 1500 UTC, Thursday, 7t
 
 # F7 Meeting 3 - 7th April 2022
 
+{% embed url="https://youtu.be/qN06nH6jmlE" %}
 
+## Agenda
 
-Agenda
+[Link to Agenda](https://docs.google.com/document/d/1Ty0gKl4T6cefiNymm0K5lb5TuCBct-lG6dXCh\_MDrSA/edit?usp=sharing)
 
 ## Invitees :
 
