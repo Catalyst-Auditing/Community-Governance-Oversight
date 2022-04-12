@@ -40,6 +40,7 @@
   * [F7 Meeting 1 - 10th March 2022](project-management/meetings-and-town-halls/f7-meeting-1-10th-march-2022.md)
   * [Town Hall - 23rd March 2022](project-management/meetings-and-town-halls/town-hall-23rd-march-2022.md)
   * [F7 Meeting 2 - 24th March 2022](project-management/meetings-and-town-halls/f7-meeting-2-24th-march-2022.md)
+  * [Town Hall - 6th March 2022](project-management/meetings-and-town-halls/town-hall-6th-march-2022.md)
 
 ## Treasury
 
