@@ -246,17 +246,17 @@ I think in Survey we also want to involve questions for community for them to su
 **Action**: Vanessa to do this in an informal way and ask people’s permission
 {% endhint %}
 
-* 45:05 Allison - Is the question about who decides what counts as a parameter change, or about who makes the change? For the VCA change, was that IOG’s unilateral decision?
-* 45:30 Kenric - As CA rep for Circle v2, I know IOG took input from CA community e.g. via the iterative Dropbox; then IOG implements the change, but they also collect community feedback.
-* 46:36 Allison - I was following the iterative dropbox, but I was still caught by surprise by the VCA eligibility decision. Although CA/VCA processes may be out of scope for us, it would still be interesting to know how that decision was made.  If there was community input, it’s useful to document it; and if there wasn’t, it’s useful to note that.
-* 48:01 Phil - How the process went and how the communication happened is a valid discussion. It was announced on Telegram; but the survey question could be whether Telegram is the clearest communication channel for  community feedback.
-* 48:50 Stephen - need to liaise with Nadia and CA community on this
-* 49:07 Matthias - Note the work that's being done on setting up a Catalyst constitution - ATH sessions led by Jo (Allum), and Gimbalabs now has a working group. Would it address some of the issues of inclusion in governance?
-* 50:58 Stephen - You could relate a constitution to parameter changes per se. But as Oversight, we can’t get involved in defining a constitution; but we should be documenting as much governance stuff as possible. Suggestion: Anyone who discovers news will let the group know, and it will be documented. You also raise the question of - does IOG only accept solutions that align with their view?
-* 51:46 Phil - RE not stepping on people’s toes - the best way to run the surveys is in consultation with a relevant voted representative in the Circle; best way to ensure broader participation.
-* 52:32 Vanessa - Note that a code of conduct for Circle is being discussed; it’s governance related so we should be aware
+* 45:05 **Allison** - Is the question about who decides what counts as a parameter change, or about who makes the change? For the VCA change, was that IOG’s unilateral decision?
+* 45:30 **Kenric** - As CA rep for Circle v2, I know IOG took input from CA community e.g. via the iterative Dropbox; then IOG implements the change, but they also collect community feedback.
+* 46:36 **Allison** - I was following the iterative dropbox, but I was still caught by surprise by the VCA eligibility decision. Although CA/VCA processes may be out of scope for us, it would still be interesting to know how that decision was made.  If there was community input, it’s useful to document it; and if there wasn’t, it’s useful to note that.
+* 48:01 **Phil** - How the process went and how the communication happened is a valid discussion. It was announced on Telegram; but the survey question could be whether Telegram is the clearest communication channel for  community feedback.
+* 48:50 **Stephen** - need to liaise with Nadia and CA community on this
+* 49:07 **Matthias** - Note the work that's being done on setting up a Catalyst constitution - ATH sessions led by Jo (Allum), and Gimbalabs now has a working group. Would it address some of the issues of inclusion in governance?
+* 50:58 **Stephen** - You could relate a constitution to parameter changes per se. But as Oversight, we can’t get involved in defining a constitution; but we should be documenting as much governance stuff as possible. Suggestion: Anyone who discovers news will let the group know, and it will be documented. You also raise the question of - does IOG only accept solutions that align with their view?
+* 51:46 **Phil** - RE not stepping on people’s toes - the best way to run the surveys is in consultation with a relevant voted representative in the Circle; best way to ensure broader participation.
+* 52:32 **Vanessa** - Note that a code of conduct for Circle is being discussed; it’s governance related so we should be aware
 * 53:22: It is a Prioritized Problem, so maybe look at it in that category; our role would be to oversee how it’s working.
-* 53:48 Matthias - There is concern that IOG presents a solution that is not in line with what was proposed earlier. Idea of community being involved in “policing” a code of conduct - has it happened?
+* 53:48 **Matthias** - There is concern that IOG presents a solution that is not in line with what was proposed earlier. Idea of community being involved in “policing” a code of conduct - has it happened?
 
 ## 6 Fund 7 Proposal Reporting
 
