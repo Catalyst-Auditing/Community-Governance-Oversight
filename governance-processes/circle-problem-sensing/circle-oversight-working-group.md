@@ -24,3 +24,6 @@ Stephen Whitenstall - CCv2 Funded Proposer Rep&#x20;
 
 {% embed url="https://miro.com/app/board/uXjVO9jQA3w=" %}
 
+## Circle Problem - Review and Revise the Prioritized-Problems Workflow
+
+{% embed url="https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/86" %}
