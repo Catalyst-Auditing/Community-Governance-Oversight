@@ -26,10 +26,10 @@ description: 'Community Governance Oversight Meeting #3 - 1500 UTC, Thursday, 7t
 
 ### Minutes
 
-| Name           | Role  |
-| -------------- | ----- |
-| Livia Corcino  | Admin |
-|                |       |
+| Name           | Role      |
+| -------------- | --------- |
+| Livia Corcino  | Secretary |
+|                |           |
 
 ### Apologies
 
@@ -90,6 +90,8 @@ GitBook - [https://quality-assurance-dao.gitbook.io/community-governance-oversig
 
 Hold over item for future updates
 
+* 09:20 **Stephen** - Fund 8 proposal is currently in the evaluation review (VCA) stage, so no further updates yet.&#x20;
+
 {% hint style="info" %}
 **Stephen** - The Fund CGO Proposal is in the vCA stage ([https://cardano.ideascale.com/c/idea/398225](https://cardano.ideascale.com/c/idea/398225))
 {% endhint %}
@@ -97,6 +99,8 @@ Hold over item for future updates
 ## 4 Recruit secretary to support CGO
 
 Allison / Stephen / Vanessa
+
+* The transcription of meetings by a new secretary, Livia Corcino, is also being tested.
 
 {% hint style="info" %}
 Livia Corcino to summarize this week from a meeting recording.
