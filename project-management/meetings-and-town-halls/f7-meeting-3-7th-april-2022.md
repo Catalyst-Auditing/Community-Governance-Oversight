@@ -26,9 +26,9 @@ description: 'Community Governance Oversight Meeting #3 - 1500 UTC, Thursday, 7t
 
 ### Minutes
 
-| Name          | Admin |
+| Name          | Role  |
 | ------------- | ----- |
-| Livia Corcini |       |
+| Livia Corcini | Admin |
 |               |       |
 
 ### Apologies
@@ -62,39 +62,25 @@ GitBook - [https://quality-assurance-dao.gitbook.io/community-governance-oversig
 
 ### 2 Town Hall Slides
 
-Allison - Updates on Town Hall Slides
+**Allison** - Updates on Town Hall Slides
 
 5 minutes
 
-\
+{% embed url="https://docs.google.com/presentation/d/1WtE1hfvc5XuKF8ZG9ai7YyGwmGQALsNDwLY3FMhJeVU/edit?usp=sharing" %}
 
-
-[https://docs.google.com/presentation/d/1WtE1hfvc5XuKF8ZG9ai7YyGwmGQALsNDwLY3FMhJeVU/edit?usp=sharing](https://docs.google.com/presentation/d/1WtE1hfvc5XuKF8ZG9ai7YyGwmGQALsNDwLY3FMhJeVU/edit?usp=sharing)
-
-\
-
-
-Decision : The TH Slide work (Allison) should be charged for from CGO Budget - All
-
-\
-
+{% hint style="success" %}
+**Decision :** The TH Slide work (Allison) should be charged for from CGO Budget - All
+{% endhint %}
 
 Who is this group and how did it come together ? - Vanessa
 
-\
-
-
 Invite and volunteered - Phil
-
-\
-
 
 Objection principle - No objections
 
-\
-
-
-Decision : Project management (Stephen) should be charged as well but there is insufficient budget - a budget line was included in the F8 proposal. Will put it down to experience for now.
+{% hint style="success" %}
+**Decision :** Project management (Stephen) should be charged as well but there is insufficient budget - a budget line was included in the F8 proposal. Will put it down to experience for now.
+{% endhint %}
 
 ### 3 Fund 8 - CGO Proposal
 
