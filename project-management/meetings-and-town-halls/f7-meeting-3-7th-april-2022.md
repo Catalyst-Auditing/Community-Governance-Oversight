@@ -179,6 +179,18 @@ All members - Progress under each scope area :  25 minutes
 **Updates** - IOG have published a response to the community on d-Reps [here ](https://docs.google.com/document/d/1kD\_iVBZaq5As6O60\_TUqj-0pbm0QIdlSIG\_UF7B\_4kk/edit?usp=sharing)- see transcript [here ](https://quality-assurance-dao.gitbook.io/community-governance-oversight/governance-processes/delegated-voting-drep#iog-response-to-d-rep-letter)
 {% endhint %}
 
+{% hint style="success" %}
+**Action:** Letter to be discussed fully next meeting
+{% endhint %}
+
+* 25:13 **Stephen** - Stephen will be documenting info coming from IOG about dReps; will talk with Kenric outside the meeting re how to document what Kenric is doing with Zotero etc.
+* 25:36 **Kenric** - The goal is to enable the community to be better educated/informed; and to invite the community to participate.
+* 27:12 **Stephen** - Something is due to be released soon from IOG about dReps. This might change our approach - we thought dReps were on hold, so  we chose to go with the deliverable of a literature review; but if dReps are implemented, we will have to look at the process around them.
+* 28:18 **Phil** - what are our deliverables for each of the governance processes?
+* 29:00 **Stephen** The deliverables inherited from IOG are the 3 part approach of surveys, retrospectives, and a final report in May/June. But what a survey/ retrospective is, is quite open.
+* 31:40 **Vanessa/Stephen** - Defining what is external/internal survey; do we include those who have signed up to be a dRep? “External” is “external to IOG”?&#x20;
+* 32:09 **Kenric** - Talking to D-Reps themselves is out of scope for this funded proposal, but if we are funded in fund 8 there will be a more complex white paper on the concept of liquid democracy/illiquid plutocracy.
+
 #### What are Internal & External surveys ?
 
 #### Internal surveys
