@@ -141,41 +141,33 @@ Joint working party with Catalyst Circle V3 on the Problems process. - Allison, 
 
 ### 5.3 d-Reps
 
-Scope : Oversight of delegated voting innovations
+{% hint style="info" %}
+**Scope :** Oversight of delegated voting innovations
+{% endhint %}
 
-Deliverables : The Survey deliverable will be used for a literature search contrasting “liquid democracy “ and “illiquid plutocracy “. The purpose is to provide measurable definitions for these terms. This would support the research for F8 CGO and provide some context for the interviews conducted within the community. - Kenric
-
-* Kenric set-up Zotero bibliography with by-invitation Group Libaries: Liquid Democracy, Enterprise Governance, DAO Governance, Centralized Plutocracy. To participate in bibliography contact Kenric - Kenric
+{% hint style="info" %}
+**Deliverables :** The Survey deliverable will be used for a literature search contrasting “liquid democracy “ and “illiquid plutocracy “. The purpose is to provide measurable definitions for these terms. This would support the research for F8 CGO and provide some context for the interviews conducted within the community. - Kenric
+{% endhint %}
 
 Facilitate conversation with IOG teams - Kenric&#x20;
 
 * discussion with Jack Briggs, IOG Voltaire Product Marketer, and a planned discussion with the Wolfram Catalyst Governance Analysis team.  - Kenric&#x20;
 
-Updates - IOG have published a response to the community on d-Reps here - [https://docs.google.com/document/d/1kD\_iVBZaq5As6O60\_TUqj-0pbm0QIdlSIG\_UF7B\_4kk/edit?usp=sharing](https://docs.google.com/document/d/1kD\_iVBZaq5As6O60\_TUqj-0pbm0QIdlSIG\_UF7B\_4kk/edit?usp=sharing)
+**Updates** - IOG have published a response to the community on d-Reps here - [https://docs.google.com/document/d/1kD\_iVBZaq5As6O60\_TUqj-0pbm0QIdlSIG\_UF7B\_4kk/edit?usp=sharing](https://docs.google.com/document/d/1kD\_iVBZaq5As6O60\_TUqj-0pbm0QIdlSIG\_UF7B\_4kk/edit?usp=sharing)
 
-Internal survey - IOG&#x20;
+#### What are Internal & External surveys ?
 
-External survey -&#x20;
-
-\
-
-
-Internal surveys
+#### Internal surveys
 
 Internal surveys will be directed at self assessment / lessons learnt by those who organize each governance process (the governance processes are Challenge Teams, Catalyst Circle & the Technical Council.)
 
-External surveys
+#### External surveys
 
 External surveys will be directed at the Catalyst community and their reception of each governance process ( e.g. The governance processes are Challenge Setting, Catalyst Circle Problem Sensing & governance parameters setting.)
 
-\
-
-
-Deliverables : Keeping track and documenting the ongoing community engagement with the d-Rep issue - Stephen
-
-\
-\
-
+{% hint style="info" %}
+**Deliverables :** Keeping track and documenting the ongoing community engagement with the d-Rep issue - Stephen
+{% endhint %}
 
 ### 5.4 Governance parameters
 
