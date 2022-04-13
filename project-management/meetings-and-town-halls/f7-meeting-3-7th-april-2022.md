@@ -26,10 +26,10 @@ description: 'Community Governance Oversight Meeting #3 - 1500 UTC, Thursday, 7t
 
 ### Minutes
 
-| Name          | Role  |
-| ------------- | ----- |
-| Livia Corcini | Admin |
-|               |       |
+| Name           | Role  |
+| -------------- | ----- |
+| Livia Corcino  | Admin |
+|                |       |
 
 ### Apologies
 
@@ -86,19 +86,17 @@ Objection principle - No objections
 
 Hold over item for future updates
 
-\
-
-
-Stephen - The Fund CGO Proposal is in the vCA stage ([https://cardano.ideascale.com/c/idea/398225](https://cardano.ideascale.com/c/idea/398225))
+{% hint style="info" %}
+**Stephen** - The Fund CGO Proposal is in the vCA stage ([https://cardano.ideascale.com/c/idea/398225](https://cardano.ideascale.com/c/idea/398225))
+{% endhint %}
 
 ### 4 Recruit secretary to support CGO
 
 Allison / Stephen / Vanessa
 
-\
-
-
+{% hint style="info" %}
 Livia Corcino to summarize this week from a meeting recording.
+{% endhint %}
 
 ### 5 F7 CGO Scope & Deliverables
 
