@@ -104,24 +104,31 @@ All members - Progress under each scope area :  25 minutes
 
 ### 5.1 Challenge Setting - 10 minutes
 
-Scope : Including community contributed challenges and the creation and expanding role of challenge teams - Stephen
+{% hint style="success" %}
+**Scope :** Including community contributed challenges and the creation and expanding role of challenge teams - Stephen
+{% endhint %}
 
-Deliverables : TBA - Need to consider approach to CT survey
-
-\
-
+{% hint style="success" %}
+**Deliverables :** TBA - Need to consider approach to CT survey
+{% endhint %}
 
 Ro - ADAGOV - Ideascale replacement - platform limits - Phil
 
 Insight sharing stage underrepresented - Phil
 
-Challenge setting need better communication between community - phil&#x20;
+Challenge setting need better communication between community - Phil&#x20;
 
-Action - talk to George Lovegrove about oversight - consolidate challenges into smaller categories - Stephen
+{% hint style="info" %}
+**Action** - talk to George Lovegrove about oversight - consolidate challenges into smaller categories - Stephen
+{% endhint %}
 
-Action - Phil to feedback to Ro of Adagov. Maybe come and speak to oversight.
+{% hint style="info" %}
+**Action** - Phil to feedback to Ro of Adagov. Maybe come and speak to oversight.
+{% endhint %}
 
-Updates - Challenge Team Round table 4 - will be documented here https://quality-assurance-dao.gitbook.io/community-governance-oversight/governance-processes/challenge-setting
+{% hint style="info" %}
+**Updates** - Challenge Team Round table 4 - will be documented here https://quality-assurance-dao.gitbook.io/community-governance-oversight/governance-processes/challenge-setting
+{% endhint %}
 
 ### 5.2 Catalyst Circle problem sensing - 10 minutes
 
@@ -134,7 +141,7 @@ Updates - Challenge Team Round table 4 - will be documented here https://quality
 {% endhint %}
 
 {% hint style="info" %}
-Action - Joint working party with Catalyst Circle V3 on the Problems process. - Allison, Stephen, Tevo
+**Action** - Joint working party with Catalyst Circle V3 on the Problems process. - Allison, Stephen, Tevo
 {% endhint %}
 
 [https://docs.google.com/document/d/1vdQjER\_\_0ZZWq4oGGiA8vVZtG2zOgoFGySgp1sE0uSI/edit?usp=sharing](https://docs.google.com/document/d/1vdQjER\_\_0ZZWq4oGGiA8vVZtG2zOgoFGySgp1sE0uSI/edit?usp=sharing) (comment link)
