@@ -47,9 +47,9 @@ F8 Ideascale Proposal - [https://cardano.ideascale.com/c/idea/398225](https://ca
 
 GitBook - [https://quality-assurance-dao.gitbook.io/community-governance-oversight/](https://quality-assurance-dao.gitbook.io/community-governance-oversight/)
 
-## Proposed Agenda
+## Agenda
 
-### 1 Audit Circle Treasury
+## 1 Audit Circle Treasury
 
 **Andre & Mirolav** - updates on Treasury setup, member payments, costs & expenses.
 
@@ -60,7 +60,7 @@ GitBook - [https://quality-assurance-dao.gitbook.io/community-governance-oversig
 **Action -** Treasury to pay members for the next 3 meetings
 {% endhint %}
 
-### 2 Town Hall Slides
+## 2 Town Hall Slides
 
 **Allison** - Updates on Town Hall Slides
 
@@ -82,7 +82,7 @@ Objection principle - No objections
 **Decision :** Project management (Stephen) should be charged as well but there is insufficient budget - a budget line was included in the F8 proposal. Will put it down to experience for now.
 {% endhint %}
 
-### 3 Fund 8 - CGO Proposal
+## 3 Fund 8 - CGO Proposal
 
 Hold over item for future updates
 
@@ -90,7 +90,7 @@ Hold over item for future updates
 **Stephen** - The Fund CGO Proposal is in the vCA stage ([https://cardano.ideascale.com/c/idea/398225](https://cardano.ideascale.com/c/idea/398225))
 {% endhint %}
 
-### 4 Recruit secretary to support CGO
+## 4 Recruit secretary to support CGO
 
 Allison / Stephen / Vanessa
 
@@ -98,11 +98,11 @@ Allison / Stephen / Vanessa
 Livia Corcino to summarize this week from a meeting recording.
 {% endhint %}
 
-### 5 F7 CGO Scope & Deliverables
+## 5 F7 CGO Scope & Deliverables
 
 All members - Progress under each scope area :  25 minutes
 
-#### 5.1 Challenge Setting - 10 minutes
+### 5.1 Challenge Setting - 10 minutes
 
 Scope : Including community contributed challenges and the creation and expanding role of challenge teams - Stephen
 
@@ -123,7 +123,7 @@ Action - Phil to feedback to Ro of Adagov. Maybe come and speak to oversight.
 
 Updates - Challenge Team Round table 4 - will be documented here https://quality-assurance-dao.gitbook.io/community-governance-oversight/governance-processes/challenge-setting
 
-#### 5.2 Catalyst Circle problem sensing - 10 minutes
+### 5.2 Catalyst Circle problem sensing - 10 minutes
 
 Scope : Effectiveness of prioritized problem sensing
 
@@ -139,7 +139,7 @@ Joint working party with Catalyst Circle V3 on the Problems process. - Allison, 
 \
 
 
-#### 5.3 d-Reps
+### 5.3 d-Reps
 
 Scope : Oversight of delegated voting innovations
 
@@ -177,7 +177,7 @@ Deliverables : Keeping track and documenting the ongoing community engagement wi
 \
 
 
-#### 5.4 Governance parameters
+### 5.4 Governance parameters
 
 Scope : Modifying the governance parameters in Catalyst via Catalyst Circle and a Technical Council.
 
@@ -257,11 +257,11 @@ Conflict of interest in Code of Conduct - Matthias
 \
 
 
-### 6 Fund 7 Proposal Reporting
+## 6 Fund 7 Proposal Reporting
 
 Hold over item for future updates
 
-### 7 Governance Oversight Outreach
+## 7 Governance Oversight Outreach
 
 What efforts can we make to reach different language communities ?  5 minutes
 
@@ -278,15 +278,15 @@ Action from previous meeting: For F7 budget focus on outreach and preparation fo
 \
 
 
-### 8 Any Other Business
+## 8 Any Other Business
 
-#### GitHub Project Board
+### GitHub Project Board
 
 5 minutes
 
 This project is being managed using the beta feature of GitHub Project Boards. See here - [https://github.com/orgs/Catalyst-Auditing/projects/3](https://github.com/orgs/Catalyst-Auditing/projects/3)
 
-#### Summary of CGO meeting for Catalyst Weekly Newsletter
+### Summary of CGO meeting for Catalyst Weekly Newsletter
 
 5 minutes
 
@@ -295,7 +295,7 @@ This project is being managed using the beta feature of GitHub Project Boards. S
 
 Agree a short paragraph summarizing today's meeting - All
 
-#### Over run time&#x20;
+### Over run time&#x20;
 
 \
 
