@@ -176,7 +176,7 @@ All members - Progress under each scope area :  25 minutes
 * 23:38 **Stephen** - note that IOG have just published a response to the community’s letter about dReps
 
 {% hint style="info" %}
-**Updates** - IOG have published a response to the community on d-Reps here - [https://docs.google.com/document/d/1kD\_iVBZaq5As6O60\_TUqj-0pbm0QIdlSIG\_UF7B\_4kk/edit?usp=sharing](https://docs.google.com/document/d/1kD\_iVBZaq5As6O60\_TUqj-0pbm0QIdlSIG\_UF7B\_4kk/edit?usp=sharing)
+**Updates** - IOG have published a response to the community on d-Reps [here ](https://docs.google.com/document/d/1kD\_iVBZaq5As6O60\_TUqj-0pbm0QIdlSIG\_UF7B\_4kk/edit?usp=sharing)- see transcript [here ](https://quality-assurance-dao.gitbook.io/community-governance-oversight/governance-processes/delegated-voting-drep#iog-response-to-d-rep-letter)
 {% endhint %}
 
 #### What are Internal & External surveys ?
