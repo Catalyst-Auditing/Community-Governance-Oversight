@@ -281,6 +281,12 @@ Action from previous meeting: For F7 budget focus on outreach and preparation fo
 
 ## 8 Any Other Business
 
+* 55:02 **Stephen** - Final agenda items:&#x20;
+* a placeholder on Fund 7 proposal reporting - to be carried over to next meeting.&#x20;
+* Ongoing issue of how we communicate with different language communities - will carry this over to next meeting, or discuss on Discord if anyone has any ideas.&#x20;
+* On the Project Board, Stephen is starting to track what we are doing, and ADA costs against each item; starting at a high level on deliverables for oversight of Challenge Settings, dReps and governance parameters.
+* 56:53 Stephen - Danny has asked for a short summary paragraph for his weekly newsletter after each of our meetings. Newsletter goes out on Fridays.&#x20;
+
 ### GitHub Project Board
 
 5 minutes
