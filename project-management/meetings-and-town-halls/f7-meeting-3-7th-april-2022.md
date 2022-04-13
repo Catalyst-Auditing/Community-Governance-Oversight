@@ -179,12 +179,16 @@ Deliverables : Keeping track and documenting the ongoing community engagement wi
 
 ### 5.4 Governance parameters
 
-Scope : Modifying the governance parameters in Catalyst via Catalyst Circle and a Technical Council.
-
-Deliverables : This scope area is on hold. Some documentation work may be done.  - Allison / Stephen
+{% hint style="info" %}
+**Scope :** Modifying the governance parameters in Catalyst via Catalyst Circle and a Technical Council.
+{% endhint %}
 
 {% hint style="info" %}
-Actions from last meeting : Chase Harris on scope - Allison, Chase Marek on scope - Tevo
+**Deliverables :** This scope area is on hold. Some documentation work may be done.  - Allison / Stephen
+{% endhint %}
+
+{% hint style="info" %}
+**Actions from last meeting** : Chase Harris on scope - Allison, Chase Marek on scope - Tevo
 {% endhint %}
 
 Why on hold ?  - Kenric
