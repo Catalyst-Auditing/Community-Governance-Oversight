@@ -254,29 +254,26 @@ Code of Conduct CC - Vanessa
 
 Conflict of interest in Code of Conduct - Matthias
 
-\
-
-
 ## 6 Fund 7 Proposal Reporting
 
 Hold over item for future updates
 
 ## 7 Governance Oversight Outreach
 
-What efforts can we make to reach different language communities ?  5 minutes
-
-\
-\
+What efforts can we make to reach different language communities ?  5 minutes\
 
 
+{% hint style="danger" %}
 Action from previous meeting: Incorporate funding for translation in F8 proposal
+{% endhint %}
 
-Not completed : Forgot to add this to the F8 proposal - we could possibly fund from another resource - Stephen
+{% hint style="danger" %}
+**Not completed** : Forgot to add this to the F8 proposal - we could possibly fund from another resource - Stephen
+{% endhint %}
 
+{% hint style="info" %}
 Action from previous meeting: For F7 budget focus on outreach and preparation for different language communities - unassigned
-
-\
-
+{% endhint %}
 
 ## 8 Any Other Business
 
