@@ -125,27 +125,27 @@ Updates - Challenge Team Round table 4 - will be documented here https://quality
 
 ### 5.2 Catalyst Circle problem sensing - 10 minutes
 
-Scope : Effectiveness of prioritized problem sensing
+{% hint style="success" %}
+**Scope :** Effectiveness of prioritized problem sensing
+{% endhint %}
 
-Deliverables : How effectively is the prioritized problem board working ? How can CGO survey, assist and report on this ?
-
-\
-
-
-Joint working party with Catalyst Circle V3 on the Problems process. - Allison, Stephen, Tevo
-
-[https://docs.google.com/document/d/1vdQjER\_\_0ZZWq4oGGiA8vVZtG2zOgoFGySgp1sE0uSI/edit?usp=sharing](https://docs.google.com/document/d/1vdQjER\_\_0ZZWq4oGGiA8vVZtG2zOgoFGySgp1sE0uSI/edit?usp=sharing) (comment link)
-
-\
-
-
-### 5.3 d-Reps
-
-{% hint style="info" %}
-**Scope :** Oversight of delegated voting innovations
+{% hint style="success" %}
+**Deliverables :** How effectively is the prioritized problem board working ? How can CGO survey, assist and report on this ?
 {% endhint %}
 
 {% hint style="info" %}
+Action - Joint working party with Catalyst Circle V3 on the Problems process. - Allison, Stephen, Tevo
+{% endhint %}
+
+[https://docs.google.com/document/d/1vdQjER\_\_0ZZWq4oGGiA8vVZtG2zOgoFGySgp1sE0uSI/edit?usp=sharing](https://docs.google.com/document/d/1vdQjER\_\_0ZZWq4oGGiA8vVZtG2zOgoFGySgp1sE0uSI/edit?usp=sharing) (comment link)
+
+### 5.3 d-Reps
+
+{% hint style="success" %}
+**Scope :** Oversight of delegated voting innovations
+{% endhint %}
+
+{% hint style="success" %}
 **Deliverables :** The Survey deliverable will be used for a literature search contrasting “liquid democracy “ and “illiquid plutocracy “. The purpose is to provide measurable definitions for these terms. This would support the research for F8 CGO and provide some context for the interviews conducted within the community. - Kenric
 {% endhint %}
 
@@ -171,15 +171,15 @@ External surveys will be directed at the Catalyst community and their reception 
 
 ### 5.4 Governance parameters
 
-{% hint style="info" %}
+{% hint style="success" %}
 **Scope :** Modifying the governance parameters in Catalyst via Catalyst Circle and a Technical Council.
 {% endhint %}
 
-{% hint style="info" %}
+{% hint style="success" %}
 **Deliverables :** This scope area is on hold. Some documentation work may be done.  - Allison / Stephen
 {% endhint %}
 
-{% hint style="success" %}
+{% hint style="info" %}
 **Actions from last meeting** : Chase Harris on scope - Allison, Chase Marek on scope - Tevo - Harris announced parameters on hold at CCv3 meeting
 {% endhint %}
 
