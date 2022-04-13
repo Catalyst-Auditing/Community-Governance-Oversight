@@ -8,7 +8,7 @@ description: Oversight of Catalyst Circle problem sensing - Working group
 
 ## Oversight of Catalyst Circle problem sensing - Working group
 
-&#x20;Monday 11th April 2022&#x20;
+#### &#x20;Monday 11th April 2022&#x20;
 
 Nadia Hopkins - CCv3 Community Advisor Rep&#x20;
 
