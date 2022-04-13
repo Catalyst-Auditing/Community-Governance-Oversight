@@ -120,18 +120,17 @@ All members - Progress under each scope area :  25 minutes
 **Deliverables :** TBA - Need to consider approach to CT survey
 {% endhint %}
 
-Ro - ADAGOV - Ideascale replacement - platform limits - Phil
-
-Insight sharing stage underrepresented - Phil
-
-Challenge setting need better communication between community - Phil&#x20;
-
-{% hint style="info" %}
-**Action** - talk to George Lovegrove about oversight - consolidate challenges into smaller categories - Stephen
-{% endhint %}
+* 10:00 **Stephen** - Our deliverables on the subject of Challenge Settings need to be defined. For now I attended the Challenge Team roundtable and started documenting that.
+* 10:55 - **Phil** - Ro’s ATH session last week: he has essentially built an Ideascale replacement. Part of the Challenge Setting issues is the limitations of  Ideascale; so there could be process changes soon.
+* 11:27 **Stephen** - from an oversight perspective, what should we be reporting on/surveying?
+* 11:42 **Phil** - One problem is that people put Challenge Setting proposals on IdeaScale in the same way as ordinary proposals. He affirms how fundamental the insights sharing phase is for challenge setting proposals.&#x20;
 
 {% hint style="info" %}
 **Action** - Phil to feedback to Ro of Adagov. Maybe come and speak to oversight.
+{% endhint %}
+
+{% hint style="info" %}
+**Action** - talk to George Lovegrove about oversight - consolidate challenges into smaller categories - Stephen / Allison
 {% endhint %}
 
 {% hint style="info" %}
