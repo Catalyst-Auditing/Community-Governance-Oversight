@@ -166,11 +166,18 @@ All members - Progress under each scope area :  25 minutes
 **Deliverables :** The Survey deliverable will be used for a literature search contrasting “liquid democracy “ and “illiquid plutocracy “. The purpose is to provide measurable definitions for these terms. This would support the research for F8 CGO and provide some context for the interviews conducted within the community. - Kenric
 {% endhint %}
 
-Facilitate conversation with IOG teams - Kenric&#x20;
+* 17:51 **Stephen** - on dReps; Kenric is focusing on the deliverable for  this.
+* 18:39 **Kenric** - in Zotero (a bibliography tool) Kenric has imported c. 40 articles on governance aspects and divided them into categories:1. blockchain governance, 2. centralized plutocracy, 3. corporate governance, 4. liquid democracy. Anyone interested to see should email Kenric.
+* **Kenric** also recommends Google Scholar (specialised academic search engine within the Google suite).
+* 21:18 - **Kenric** met Jack Briggs from IOG, who is responsible for product marketing for Voltaire.&#x20;
+* 22:00 Kenric is meeting with the Wolfram Mathematica group, who provide computational tools to monitor governance within the Catalyst program.
+* 22:13 **Stephen** - the deliverables here are a literature review of liquid democracy and issues related to dReps, with a focus on measurable definitions.
+* 23:22 **Kenric** - the point of the literature review is to enable the community to be better informed for conversations with IOG’s research team
+* 23:38 **Stephen** - note that IOG have just published a response to the community’s letter about dReps
 
-* discussion with Jack Briggs, IOG Voltaire Product Marketer, and a planned discussion with the Wolfram Catalyst Governance Analysis team.  - Kenric&#x20;
-
+{% hint style="info" %}
 **Updates** - IOG have published a response to the community on d-Reps here - [https://docs.google.com/document/d/1kD\_iVBZaq5As6O60\_TUqj-0pbm0QIdlSIG\_UF7B\_4kk/edit?usp=sharing](https://docs.google.com/document/d/1kD\_iVBZaq5As6O60\_TUqj-0pbm0QIdlSIG\_UF7B\_4kk/edit?usp=sharing)
+{% endhint %}
 
 #### What are Internal & External surveys ?
 
