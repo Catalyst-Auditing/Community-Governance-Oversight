@@ -290,28 +290,16 @@ This project is being managed using the beta feature of GitHub Project Boards. S
 
 5 minutes
 
-\
-
-
+{% hint style="info" %}
 Agree a short paragraph summarizing today's meeting - All
+{% endhint %}
 
 ### Over run time&#x20;
 
-\
-
+5 minutes
 
 Feedback &#x20;
 
-\
-
-
-5 minutes
-
-\
-
-
-Next Meeting : 1500 UTC, 21st April 2022
-
-\
-\
-\
+{% hint style="info" %}
+**Next Meeting :** 1500 UTC, 21st April 2022
+{% endhint %}
