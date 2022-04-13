@@ -183,44 +183,23 @@ Scope : Modifying the governance parameters in Catalyst via Catalyst Circle and 
 
 Deliverables : This scope area is on hold. Some documentation work may be done.  - Allison / Stephen
 
+{% hint style="info" %}
 Actions from last meeting : Chase Harris on scope - Allison, Chase Marek on scope - Tevo
-
-\
-
+{% endhint %}
 
 Why on hold ?  - Kenric
 
-\
-
-
 Only parameters related to fund apportion to roles - Tevo
 
-\
-
-
 May not prevent feedback from community - surveys from community - current allocation of treasury apportion - educating community on parameters - Kenric
-
-\
-
 
 Miro Board which has funding parameter percents
 
 [https://miro.com/app/board/o9J\_ljPS0hg=/?moveToWidget=3458764519526918582\&cot=10](https://miro.com/app/board/o9J\_ljPS0hg=/?moveToWidget=3458764519526918582\&cot=10) - Tevo
 
-\
-
-
 I think in Survey we also want to involve questions for community for them to suggest more impactful parameters they think there should be - tevo
 
-\
-
-
 Also ask how current allocation “feels” - tevo
-
-\
-
-
-—-
 
 We should not be hold - because IOG put on hold - kenric
 
