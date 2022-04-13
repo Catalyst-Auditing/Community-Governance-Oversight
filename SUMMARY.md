@@ -7,7 +7,8 @@
 * [Overview](governance-processes/overview.md)
 * [Governance parameters](governance-processes/governance-parameters.md)
 * [Challenge Setting](governance-processes/challenge-setting.md)
-* [Circle problem sensing](governance-processes/circle-problem-sensing.md)
+* [Circle problem sensing](governance-processes/circle-problem-sensing/README.md)
+  * [Circle / Oversight Working group](governance-processes/circle-problem-sensing/circle-oversight-working-group.md)
 * [Delegated Voting (dRep)](governance-processes/delegated-voting-drep.md)
 
 ## Research
@@ -47,3 +48,7 @@
 
 * [Treasury Process](treasury/treasury-process.md)
 * [Budget](treasury/budget.md)
+
+## Sandbox
+
+* [Sandbox](sandbox/sandbox.md)
