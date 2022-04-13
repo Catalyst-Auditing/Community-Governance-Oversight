@@ -148,6 +148,8 @@ All members - Progress under each scope area :  25 minutes
 **Deliverables :** How effectively is the prioritized problem board working ? How can CGO survey, assist and report on this ?
 {% endhint %}
 
+* 15:57 **Stephen** - on Catalyst Circle problem sensing: our deliverable is looking at effectiveness of prioritised problem sensing. By coincidence, CCv3 has raised this as an issue themselves. A working group has been set up between Community Governance Oversight and Circle v3 to work on improving the problems process. On Circle side, Nadia and Joey; from this group, Stephen, Allison and Tevo. Particularly focusing on Voltaire principles; and on accessibility and plain language so the community can understand the process better.
+
 {% hint style="info" %}
 **Action** - Joint working party with Catalyst Circle V3 on the Problems process. - Allison, Stephen, Tevo
 {% endhint %}
