@@ -16,6 +16,10 @@ Tevo Saks - CCv2 Toolmakers Rep&#x20;
 
 Stephen Whitenstall - CCv2 Funded Proposer Rep&#x20;
 
+## Working document
+
+{% embed url="https://docs.google.com/document/d/1vdQjER__0ZZWq4oGGiA8vVZtG2zOgoFGySgp1sE0uSI/edit?usp=sharing" %}
+
 ## Miro Board - ([link](https://miro.com/app/board/uXjVO9jQA3w=/))
 
 {% embed url="https://miro.com/app/board/uXjVO9jQA3w=" %}
