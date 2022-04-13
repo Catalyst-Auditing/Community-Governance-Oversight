@@ -124,6 +124,7 @@ All members - Progress under each scope area :  25 minutes
 * 10:55 - **Phil** - Ro’s ATH session last week: he has essentially built an Ideascale replacement. Part of the Challenge Setting issues is the limitations of  Ideascale; so there could be process changes soon.
 * 11:27 **Stephen** - from an oversight perspective, what should we be reporting on/surveying?
 * 11:42 **Phil** - One problem is that people put Challenge Setting proposals on IdeaScale in the same way as ordinary proposals. He affirms how fundamental the insights sharing phase is for challenge setting proposals.&#x20;
+* 13:56 **Matthias** - His understanding of what George is doing is: consolidating the challenges, making them bigger and broader, so that the proposals don't have to compete with each other (lower degree of specificity, so there wouldn't be as many proposals trying to better solve a well-defined problem).
 
 {% hint style="info" %}
 **Action** - Phil to feedback to Ro of Adagov. Maybe come and speak to oversight.
