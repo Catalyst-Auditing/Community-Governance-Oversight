@@ -242,7 +242,9 @@ I think in Survey we also want to involve questions for community for them to su
 
 * 42:25 Vanessa - Document/capture what the community says on e.g. Telegram about parameter changes? rather than using Google forms etc to collect community opinion?
 
-ACTION: Vanessa to do this in an informal way and ask people’s permission
+{% hint style="info" %}
+**Action**: Vanessa to do this in an informal way and ask people’s permission
+{% endhint %}
 
 * 45:05 Allison - Is the question about who decides what counts as a parameter change, or about who makes the change? For the VCA change, was that IOG’s unilateral decision?
 * 45:30 Kenric - As CA rep for Circle v2, I know IOG took input from CA community e.g. via the iterative Dropbox; then IOG implements the change, but they also collect community feedback.
@@ -253,34 +255,8 @@ ACTION: Vanessa to do this in an informal way and ask people’s permission
 * 50:58 Stephen - You could relate a constitution to parameter changes per se. But as Oversight, we can’t get involved in defining a constitution; but we should be documenting as much governance stuff as possible. Suggestion: Anyone who discovers news will let the group know, and it will be documented. You also raise the question of - does IOG only accept solutions that align with their view?
 * 51:46 Phil - RE not stepping on people’s toes - the best way to run the surveys is in consultation with a relevant voted representative in the Circle; best way to ensure broader participation.
 * 52:32 Vanessa - Note that a code of conduct for Circle is being discussed; it’s governance related so we should be aware
-* 53:22: It is a Prioritised Problem, so maybe look at it in that category; our role would be to oversee how it’s working.
+* 53:22: It is a Prioritized Problem, so maybe look at it in that category; our role would be to oversee how it’s working.
 * 53:48 Matthias - There is concern that IOG presents a solution that is not in line with what was proposed earlier. Idea of community being involved in “policing” a code of conduct - has it happened?
-
-
-
-
-
-Agree VCA is a parameter change - Vanessa
-
-Documenting parameter change discussions - Vanessa
-
-Huge amount of discussion on democratic ideas in Telegram - Allison
-
-Community was involved - iterative dropbox - IOG design takes input and decides - Kenric
-
-Taken by surprise by VCA decision / parameter - Allison
-
-Survey question - How discussions went and is communication clear ?  - Phil
-
-Catalyst constitution - Gimbalabs working group - Matthias
-
-Only solutions that align with IOG  ? - Matthias&#x20;
-
-Run survey in consultation in interested group or CC rep - Phil
-
-Code of Conduct CC - Vanessa
-
-Conflict of interest in Code of Conduct - Matthias
 
 ## 6 Fund 7 Proposal Reporting
 
