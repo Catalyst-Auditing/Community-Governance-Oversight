@@ -240,7 +240,7 @@ Miro Board which has funding parameter percents
 I think in Survey we also want to involve questions for community for them to suggest more impactful parameters they think there should be - Tevo
 {% endhint %}
 
-* 42:25 Vanessa - Document/capture what the community says on e.g. Telegram about parameter changes? rather than using Google forms etc to collect community opinion?
+* 42:25 **Vanessa** - Document/capture what the community says on e.g. Telegram about parameter changes? rather than using Google forms etc to collect community opinion?
 
 {% hint style="info" %}
 **Action**: Vanessa to do this in an informal way and ask people’s permission
