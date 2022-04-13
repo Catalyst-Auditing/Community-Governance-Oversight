@@ -229,10 +229,16 @@ External surveys will be directed at the Catalyst community and their reception 
 * 41:08 **Stephen** - Interesting points to think about: what is a parameter change? What is a parameter? Who decides this?
 
 {% hint style="info" %}
-Action - Tevo and Stephen will work on what is a parameter change? What is a parameter? Who decides this?
+**Action** - Tevo and Stephen will work on what is a parameter change? What is a parameter? Who decides this?
 {% endhint %}
 
+{% hint style="info" %}
+Miro Board which has funding parameter percents
 
+[https://miro.com/app/board/o9J\_ljPS0hg=/?moveToWidget=3458764519526918582\&cot=10](https://miro.com/app/board/o9J\_ljPS0hg=/?moveToWidget=3458764519526918582\&cot=10) - Tevo
+
+I think in Survey we also want to involve questions for community for them to suggest more impactful parameters they think there should be - Tevo
+{% endhint %}
 
 * 42:25 Vanessa - Document/capture what the community says on e.g. Telegram about parameter changes? rather than using Google forms etc to collect community opinion?
 
@@ -252,27 +258,7 @@ ACTION: Vanessa to do this in an informal way and ask people’s permission
 
 
 
-Only parameters related to fund apportion to roles - Tevo
 
-May not prevent feedback from community - surveys from community - current allocation of treasury apportion - educating community on parameters - Kenric
-
-Miro Board which has funding parameter percents
-
-[https://miro.com/app/board/o9J\_ljPS0hg=/?moveToWidget=3458764519526918582\&cot=10](https://miro.com/app/board/o9J\_ljPS0hg=/?moveToWidget=3458764519526918582\&cot=10) - Tevo
-
-I think in Survey we also want to involve questions for community for them to suggest more impactful parameters they think there should be - tevo
-
-Also ask how current allocation “feels” - tevo
-
-We should not be hold - because IOG put on hold - kenric
-
-Specific parameters to look at ? What work to do ? - Tevo, Stephen
-
-Use case to look at - all of the rules eg VCA - Tevo
-
-What is a parameter change and who decides what is ?
-
-Survey what should be a parameter -&#x20;
 
 Agree VCA is a parameter change - Vanessa
 
