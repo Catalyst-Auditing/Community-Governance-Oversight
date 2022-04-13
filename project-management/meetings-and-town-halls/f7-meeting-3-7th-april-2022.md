@@ -72,11 +72,15 @@ GitBook - [https://quality-assurance-dao.gitbook.io/community-governance-oversig
 **Decision :** The TH Slide work (Allison) should be charged for from CGO Budget - All
 {% endhint %}
 
-Who is this group and how did it come together ? - Vanessa
+* 03:03 **Allison** - the Town Hall slides were shared on April 6th. There were many discussions about decentralized governance, principles and immediate actions.
+* 03:52 **Allison** - trying to make the whole thing clearer to the community (people involved don't understand everything).
+* 04:15 **Stephen** - it is necessary to update people on what is being done, what the philosophies of it are and any major announcements on governance processes.
+* 04:47 **Vanessa/Allison/Phil** - People often ask what the group is and how it came together (at first, through voluntary action, and then they were financed) so it is useful to clarify this.
+* 8:15 **Stephen** - we should take some money from the budget to pay Allison for doing Town Hall slides each week (Agreed)
 
-Invite and volunteered - Phil
-
-Objection principle - No objections
+{% hint style="success" %}
+**Decision principle** - Ask if there are no objections
+{% endhint %}
 
 {% hint style="success" %}
 **Decision :** Project management (Stephen) should be charged as well but there is insufficient budget - a budget line was included in the F8 proposal. Will put it down to experience for now.
