@@ -187,8 +187,8 @@ Deliverables : Keeping track and documenting the ongoing community engagement wi
 **Deliverables :** This scope area is on hold. Some documentation work may be done.  - Allison / Stephen
 {% endhint %}
 
-{% hint style="info" %}
-**Actions from last meeting** : Chase Harris on scope - Allison, Chase Marek on scope - Tevo
+{% hint style="success" %}
+**Actions from last meeting** : Chase Harris on scope - Allison, Chase Marek on scope - Tevo - Harris announced parameters on hold at CCv3 meeting
 {% endhint %}
 
 Why on hold ?  - Kenric
