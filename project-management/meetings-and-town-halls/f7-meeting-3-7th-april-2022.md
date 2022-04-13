@@ -294,6 +294,14 @@ This project is being managed using the beta feature of GitHub Project Boards. S
 Agree a short paragraph summarizing today's meeting - All
 {% endhint %}
 
+**The Community Governance Oversight (CGO)**\
+\
+The Community Governance Oversight (CGO) group holds biweekly meetings to examine changes and developments in Catalyst governance processes.
+
+On Thursday 7th April, the CGO group had its 3rd meeting. This focused on how to research and survey existing or planned governance processes from Catalyst Circle problem sensing to dReps to parameter changes. There was also some interesting discussion about what constitutes a governance process – for example, is a change to who can become a VCA an example of one, or not?\
+\
+Kenric Nelson of Photrek introduced Zotero ([www.zotero.org](https://iohk.us20.list-manage.com/track/click?u=26d3b656ecc43aa6f3063eaed\&id=222ea3738b\&e=4fd4da823e)) and Google Scholar as tools for development of a literature review on Liquid Democracy & Decentralized Governance. Meetings with Jack Briggs (IOG Product Marketing) and the Wolfram Mathematica team were held on governance and governance measurement, respectively. &#x20;
+
 ### Over run time&#x20;
 
 5 minutes
