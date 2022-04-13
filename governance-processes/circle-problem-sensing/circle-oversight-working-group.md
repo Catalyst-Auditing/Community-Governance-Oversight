@@ -27,3 +27,7 @@ Stephen Whitenstall - CCv2 Funded Proposer Rep&#x20;
 ## Circle Problem - Review and Revise the Prioritized-Problems Workflow
 
 {% embed url="https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/86" %}
+
+## Oversight of Catalyst Circle problem sensing
+
+{% embed url="https://github.com/Catalyst-Auditing/Audit-and-Oversight-Coordination/issues/47" %}
