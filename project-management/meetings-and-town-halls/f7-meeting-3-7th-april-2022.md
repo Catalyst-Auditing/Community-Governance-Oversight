@@ -193,6 +193,9 @@ All members - Progress under each scope area :  25 minutes
 
 #### What are Internal & External surveys ?
 
+* 33:20 Phil - on what is external/internal - it’s obvious from IOG’s point of view, but from ours, it’s about “closeness to the governance process”?
+* 35:30 Stephen - That is actually quite close to the original definition in the proposal. External surveys: aimed at the Catalyst community and their reception of each governance process.
+
 #### Internal surveys
 
 Internal surveys will be directed at self assessment / lessons learnt by those who organize each governance process (the governance processes are Challenge Teams, Catalyst Circle & the Technical Council.)
@@ -218,6 +221,14 @@ External surveys will be directed at the Catalyst community and their reception 
 {% hint style="info" %}
 **Actions from last meeting** : Chase Harris on scope - Allison, Chase Marek on scope - Tevo - Harris announced parameters on hold at CCv3 meeting
 {% endhint %}
+
+* 36:37 **Stephen** - re deliverables on Governance Parameters - this process is on hold, unless anyone has any new info?
+* 37:11 **Tevo** - If there is going to be any kind of integration, then parameter changes have to be considered; but this is speculation..
+* 38:11 **Kenric** - Even if IOG are still responsible for the parameters, we can still conduct some oversight of that. Parameters still exist so the community needs to understand them. We could survey how IOG is currently managing the parameters.
+* 40:10 **Tevo** - We could look at the way new parameters are introduced, for example, new rule on who can be a VCA - to me that is a parameter.
+* 41:08 **Stephen** - Interesting points to think about: what is a parameter change? What is a parameter? Who decides this?
+
+
 
 Why on hold ?  - Kenric
 
