@@ -24,7 +24,14 @@ description: 'Community Governance Oversight Meeting #3 - 1500 UTC, Thursday, 7t
 | Andre Diamond       | Treasury |
 | Miroslav Rajh       | Treasury |
 
-#### Apologies
+### Minutes
+
+| Name          | Admin |
+| ------------- | ----- |
+| Livia Corcini |       |
+|               |       |
+
+### Apologies
 
 | Name      | Role   |
 | --------- | ------ |
