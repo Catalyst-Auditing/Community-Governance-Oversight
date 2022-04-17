@@ -59,6 +59,18 @@ The Problem solution requires alignment on a specific decision. Stakeholders mus
 
 The issue of Problem Ownership was discussed. Ownership is typically assigned naturally as a Circle Representative brings a Problem to Circle. But where there is ambiguity or the scope of the problem does not obviously align with a particular Circle Representative then someone must volunteer to steward the Problem.
 
+### Taximony
+
+![](<../../.gitbook/assets/2022-04-17 (6).png>)
+
+Clarity is needed on what specific terms mean. For example -
+
+A **sub-circle** - is some kind of community organization that supports problem sensing for a Circle Representative.
+
+A **\[Community] issue** - is an issue posted to Circle but not raised as a Prioritized Problem.
+
+A **Prioritized Problem or Problem** - is an issue that meets the Problem statement rubrik (above).
+
 ## References
 
 ### Circle Problem - Review and Revise the Prioritized-Problems Workflow
