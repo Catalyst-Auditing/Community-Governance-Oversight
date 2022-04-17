@@ -4,7 +4,9 @@ description: 'F7: Improve and Grow Auditability - Community Governance Oversight
 
 # Fund 7 Proposal
 
-Here is the text of a proposal entitled "[Community Governance Oversight](https://cardano.ideascale.com/c/idea/383517)" that was submitted in Fund 7 under the [Improve and Grow Auditability Challenge](https://cardano.ideascale.com/c/campaigns/26253/about).
+Ideascale link to the Fund 7 proposal entitled "[Community Governance Oversight](https://cardano.ideascale.com/c/idea/383517)"&#x20;
+
+Submitted under the [Improve and Grow Auditability Challenge](https://cardano.ideascale.com/c/campaigns/26253/about).
 
 ## **Problem statement :**
 
@@ -124,9 +126,9 @@ The Oversight group will seek to ensure that :
 * c) robust methodologies,
 * d) clear rules and policies.
 
-&#x20;     7\. Formal security and emergency mechanisms are developed and implemented.
+7\. Formal security and emergency mechanisms are developed and implemented.
 
-&#x20;     8\. Governance culture is legitimate, stable and lively.
+8\. Governance culture is legitimate, stable and lively.
 
 \-----------------------------------------------------------------------------------------
 
@@ -251,9 +253,6 @@ _Subtotal : 10,900_
 
 The Oversight group recognises that this is a pilot project and one of its KPIs is to prepare a Fund 8 proposal to resource its ongoing activities in proportion to the scope of Catalyst governance changes.
 
-### **Requested funds in USD**&#x20;
+### **Requested funds in USD**
 
 19100
-
-
-
