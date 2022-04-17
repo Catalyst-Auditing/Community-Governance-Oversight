@@ -35,6 +35,24 @@ The Problem statement rubrik was intended to clarify the Circle Problem Sensing 
 * Can you articulate the gap between the current state and the expected or envisioned state?&#x20;
 * How might the value of solving this problem be quantified and/or measured?
 
+### How the rubrik aligns with Circle
+
+![](<../../.gitbook/assets/2022-04-17 (4).png>)
+
+After some discussion the working group identified the following workflow for categoriztion of solutions to Prioritized Problems&#x20;
+
+### 1) A Proposal or Challenge
+
+Research questions and problem refinement&#x20;
+
+The Problem solution is either a Catalyst Proposal or Challenge Setting.
+
+### 2) A specific decision.
+
+Decision making body and coordination for problem&#x20;
+
+The Problem solution requires alignment on a specific decision. Stakeholders must be consulted on a parameter or process change
+
 ## References
 
 ### Circle Problem - Review and Revise the Prioritized-Problems Workflow
