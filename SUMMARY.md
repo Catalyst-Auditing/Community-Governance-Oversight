@@ -9,6 +9,7 @@
 * [Challenge Setting](governance-processes/challenge-setting.md)
 * [Circle problem sensing](governance-processes/circle-problem-sensing/README.md)
   * [Circle / Oversight Working group](governance-processes/circle-problem-sensing/circle-oversight-working-group.md)
+* [Working document](governance-processes/working-document.md)
 * [Delegated Voting (dRep)](governance-processes/delegated-voting-drep.md)
 
 ## Research
