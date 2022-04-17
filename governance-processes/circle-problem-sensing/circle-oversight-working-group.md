@@ -4,7 +4,7 @@ description: Oversight of Catalyst Circle problem sensing - Working group
 
 # Circle / Oversight Working group
 
-## Miro Board - ([link](https://miro.com/app/board/uXjVO9jQA3w=/))
+## Miro Board - ([link](https://miro.com/app/board/uXjVO9jQA3w=/)) - ideation
 
 {% embed url="https://miro.com/app/board/uXjVO9jQA3w=" %}
 
