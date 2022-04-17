@@ -8,7 +8,7 @@ description: Oversight of Catalyst Circle problem sensing - Working group
 
 {% embed url="https://miro.com/app/board/uXjVO9jQA3w=" %}
 
-## Working group meeting #1&#x20;
+## Working group meeting #1
 
 #### Monday 11th April 2022
 
@@ -22,7 +22,7 @@ description: Oversight of Catalyst Circle problem sensing - Working group
 
 ### Overview
 
-This meeting sought to clarify the problem sensing process. It referred back to the original "[Problem statement rubrik](https://catalyst-swarm.gitbook.io/catalyst-circle/activities/mvp-lists-of-prioritized-problems#catalyst-circle-aim)" defined by GovernanceAlive in July 2021. This was then compared with Nadia Hopkin's [CA/vCA Issues Log, Fund 8](https://docs.google.com/document/d/1lwJI3pv8esPCSPRPc4b2HEnrSd9xnwU8B5kQooJ89Q4/edit?usp=sharing).&#x20;
+This meeting sought to clarify the problem sensing process. It referred back to the original "[Problem statement rubrik](https://catalyst-swarm.gitbook.io/catalyst-circle/activities/mvp-lists-of-prioritized-problems#catalyst-circle-aim)" defined by GovernanceAlive in July 2021. This was then compared with Nadia Hopkin's [CA/vCA Issues Log, Fund 8](https://docs.google.com/document/d/1lwJI3pv8esPCSPRPc4b2HEnrSd9xnwU8B5kQooJ89Q4/edit?usp=sharing).
 
 ### The Problem statement rubrik
 
@@ -31,25 +31,27 @@ This meeting sought to clarify the problem sensing process. It referred back to 
 The Problem statement rubrik was intended to clarify the Circle Problem Sensing process by providing criteria to assess a Prioritized Problem.
 
 * What problem do you see?
-* Why is solving this problem important to the mission of Project Catalyst?&#x20;
-* Can you articulate the gap between the current state and the expected or envisioned state?&#x20;
+* Why is solving this problem important to the mission of Project Catalyst?
+* Can you articulate the gap between the current state and the expected or envisioned state?
 * How might the value of solving this problem be quantified and/or measured?
 
 ### How the rubrik aligns with Circle
 
 ![](<../../.gitbook/assets/2022-04-17 (4).png>)
 
-After some discussion the working group identified the following workflow for categoriztion of solutions to Prioritized Problems&#x20;
+After some discussion the working group identified the following workflow for categoriztion of solutions to Prioritized Problems
 
 ### 1) A Proposal or Challenge
-> Research questions and problem refinement&#x20;
+
+> Research questions and problem refinement
 
 The Problem solution is either a Catalyst Proposal or Challenge Setting.
 
 ### 2) A specific decision.
-> Decision making body and coordination for problem&#x20;
 
-The Problem solution requires alignment on a specific decision. Stakeholders must be consulted on a parameter or process change
+> Decision making body and coordination for problem
+
+The Problem solution requires alignment on a specific decision. Stakeholders must be consulted on a parameter or process change.
 
 ## References
 
