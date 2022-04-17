@@ -53,6 +53,12 @@ The Problem solution is either a Catalyst Proposal or Challenge Setting.
 
 The Problem solution requires alignment on a specific decision. Stakeholders must be consulted on a parameter or process change.
 
+### Problem Ownership
+
+![](<../../.gitbook/assets/2022-04-17 (5).png>)
+
+The issue of Problem Ownership was discussed. Mostly ownership is assigned naturally as a Circle Representative brings a Problem to Circle. Where there is ambiguity or the scope of the problem does not obviously align with a particular Circle Representative then someone must volunteer to steward the Problem.
+
 ## References
 
 ### Circle Problem - Review and Revise the Prioritized-Problems Workflow
