@@ -18,7 +18,7 @@ description: >-
 
 ### How to nurture a listening culture in Catalyst
 
-**Stephen Whitenstall,** [**QA-DAO**](https://quality-assurance-dao.github.io)****
+**Stephen Whitenstall,** [**QA-DAO**](https://quality-assurance-dao.github.io)\*\*\*\*
 
 I do not regard myself as an expert or even a good listener myself.
 
@@ -191,7 +191,7 @@ Nurturing a culture of listening will assist a shift from centralized to distrib
 
 ## References
 
-![](<../.gitbook/assets/2022-01-13 (16).png>)
+![](<../.gitbook/assets/2022-01-13 (16) (1).png>)
 
 ### Catalyst Circle Prioritized Problem
 
@@ -199,7 +199,7 @@ Nurturing a culture of listening will assist a shift from centralized to distrib
 
 * Catalyst Circle has now raised the following prioritized problem : _How to nurture a listening culture in Catalyst_ ([link](https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/69))
 
-### Fund 7 Community Governance Oversight proposal &#x20;
+### Fund 7 Community Governance Oversight proposal
 
 * This presentation will documented in the Gitbook ([link](https://quality-assurance-dao.gitbook.io/community-governance-oversight/research/how-to-nurture-a-listening-culture-in-catalyst)) for the _Fund 7 Community Governance Oversight proposal_ ([link](https://cardano.ideascale.com/a/dtd/Community-Governance-Oversight/383517-48088))
 
@@ -207,13 +207,13 @@ Nurturing a culture of listening will assist a shift from centralized to distrib
 
 ### You’re Not Listening
 
-* Murphy, Kate. You’re Not Listening. 2020. Random House.&#x20;
+* Murphy, Kate. You’re Not Listening. 2020. Random House.
 
 {% embed url="https://www.penguin.co.uk/books/1116206/you_re-not-listening/9781784709402.html" %}
 
 ### Research cited
 
-### Project Aristotle -&#x20;
+### Project Aristotle -
 
 #### … what Google learned from its quest to build the perfect team … group dynamics, emotional intelligence and psychological safety
 
@@ -287,7 +287,7 @@ The Pursuit of Attention, Power and Ego in Everyday Life. Charles Derber.
 
 **Allison Fromm** : @Andrii my experience has been the same as yours.
 
-**John Wellesz** : A good way to startle a toxic person is to ask something like:  "What was your intent in saying that?"
+**John Wellesz** : A good way to startle a toxic person is to ask something like: "What was your intent in saying that?"
 
 **James Meidinger** : some are aggressive due to a underlying fear and it then is relatedinto their tone and how they speak to others
 
@@ -327,7 +327,7 @@ The Pursuit of Attention, Power and Ego in Everyday Life. Charles Derber.
 
 **Allison Fromm** : 👍
 
-&#x20;**Matthias Sieber** : Streamlined and concise communication is a communication style. Some more narrative communication styles favor stolytelling.
+**Matthias Sieber** : Streamlined and concise communication is a communication style. Some more narrative communication styles favor stolytelling.
 
 **Stephen Lockhart** : Thanks everyone, gotta go!!
 
@@ -403,7 +403,7 @@ The Pursuit of Attention, Power and Ego in Everyday Life. Charles Derber.
 
 **A W G** : Fight club!
 
-**Kriss Baird** : Guys, I hope I’ve been listening intently. Its given me a lot of food for thought. Those opportunities  for reflection are so important. 🕊 I have to drop off now unfortunately - thanks for the openness Stephen and for everyone being open to vulnerability here. Not an easy thing to do in 2D. Take care everyone.
+**Kriss Baird** : Guys, I hope I’ve been listening intently. Its given me a lot of food for thought. Those opportunities for reflection are so important. 🕊 I have to drop off now unfortunately - thanks for the openness Stephen and for everyone being open to vulnerability here. Not an easy thing to do in 2D. Take care everyone.
 
 **Allison Fromm** : @AWG - The first Rule of Catalyst…..
 
@@ -437,7 +437,7 @@ Conflict is necessary for growth, importantthat it happens in proper (restorativ
 
 **John Wellesz** : A useful mindset in dire situations is to always look for the positive aspect or discovery brought by that situation because there is always something positive about any situation that you can find if you look.
 
-**Johnny Nguyen** : Thank you everyone. many positive affirmations and lovely reminders.  I've got to step out for another call but I heart you all.
+**Johnny Nguyen** : Thank you everyone. many positive affirmations and lovely reminders. I've got to step out for another call but I heart you all.
 
 **Jonathan Adjei** : Cheers Johnny!
 
@@ -471,8 +471,4 @@ https://soliya.net/
 
 **Jonathan Adjei** : Cheers Allison!
 
-&#x20;
-
-&#x20;
-
-\
+\\
