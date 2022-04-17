@@ -30,9 +30,20 @@ This meeting sought to clarify the problem sensing process. It referred back to 
 
 The Problem statement rubrik was intended to clarify the Circle Problem Sensing process by providing criteria to assess a Prioritized Problem.
 
+### Identify
+
 * What problem do you see?
+
+### Problem Statement
+
 * Why is solving this problem important to the mission of Project Catalyst?
+
+### Solution articulation&#x20;
+
 * Can you articulate the gap between the current state and the expected or envisioned state?
+
+### Metrics
+
 * How might the value of solving this problem be quantified and/or measured?
 
 ### How the rubrik aligns with Circle
