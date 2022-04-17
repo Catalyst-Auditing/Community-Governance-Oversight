@@ -4,7 +4,7 @@ description: Oversight of Catalyst Circle problem sensing - Working group
 
 # Circle / Oversight Working group
 
-{% embed url="https://youtu.be/7c_6ZTGiBpE" %}
+
 
 ## Oversight of Catalyst Circle problem sensing - Working group
 
@@ -15,6 +15,8 @@ Nadia Hopkins - CCv3 Community Advisor Rep&#x20;
 Tevo Saks - CCv2 Toolmakers Rep&#x20;
 
 Stephen Whitenstall - CCv2 Funded Proposer Rep&#x20;
+
+{% embed url="https://youtu.be/7c_6ZTGiBpE" %}
 
 ## Working document
 
