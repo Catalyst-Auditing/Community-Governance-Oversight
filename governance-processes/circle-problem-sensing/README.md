@@ -8,4 +8,4 @@ The intent of this [Fund 7 deliverable](https://cardano.ideascale.com/c/idea/383
 
 A [working document ](https://quality-assurance-dao.gitbook.io/community-governance-oversight/governance-processes/circle-problem-sensing/working-document)is being built to provide background on the Catalyst Circle Problem Sensing process called "Prioritized Problems".
 
-The Community Governance Oversight group is colloboarting with Catalyst Circle Version 3 in a working group to clarfify Circle problem sensing and the Priorizterised Problem process.
+The Community Governance Oversight group is collaborating with Catalyst Circle Version 3 in a working group to clarify Circle problem sensing and the Prioritized Problem process.
