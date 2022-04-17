@@ -20,7 +20,7 @@ description: Oversight of Catalyst Circle problem sensing - Working group
 
 {% embed url="https://youtu.be/7c_6ZTGiBpE" %}
 
-This meeting sought to clarify the problem sensing process. It referred back to the original "[Problem statement rubrik](https://catalyst-swarm.gitbook.io/catalyst-circle/activities/mvp-lists-of-prioritized-problems#catalyst-circle-aim)" defined by GovernanceAlive in July 2021.
+This meeting sought to clarify the problem sensing process. It referred back to the original "[Problem statement rubrik](https://catalyst-swarm.gitbook.io/catalyst-circle/activities/mvp-lists-of-prioritized-problems#catalyst-circle-aim)" defined by GovernanceAlive in July 2021. This was then compared with Nadia Hopkin's [CA/vCA Issues Log, Fund 8](https://docs.google.com/document/d/1lwJI3pv8esPCSPRPc4b2HEnrSd9xnwU8B5kQooJ89Q4/edit?usp=sharing).&#x20;
 
 ## References
 
