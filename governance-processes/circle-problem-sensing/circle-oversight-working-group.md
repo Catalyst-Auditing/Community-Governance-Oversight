@@ -57,7 +57,7 @@ The Problem solution requires alignment on a specific decision. Stakeholders mus
 
 ![](<../../.gitbook/assets/2022-04-17 (5).png>)
 
-The issue of Problem Ownership was discussed. Mostly ownership is assigned naturally as a Circle Representative brings a Problem to Circle. Where there is ambiguity or the scope of the problem does not obviously align with a particular Circle Representative then someone must volunteer to steward the Problem.
+The issue of Problem Ownership was discussed. Ownership is typically assigned naturally as a Circle Representative brings a Problem to Circle. But where there is ambiguity or the scope of the problem does not obviously align with a particular Circle Representative then someone must volunteer to steward the Problem.
 
 ## References
 
