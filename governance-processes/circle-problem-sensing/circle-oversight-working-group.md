@@ -12,13 +12,15 @@ description: Oversight of Catalyst Circle problem sensing - Working group
 
 #### Monday 11th April 2022
 
-Nadia Hopkins - CCv3 Community Advisor Rep
+**Nadia Hopkins** - CCv3 Community Advisor Rep
 
-Tevo Saks - CCv2 Toolmakers Rep
+**Tevo Saks** - CCv2 Toolmakers Rep
 
-Stephen Whitenstall - CCv2 Funded Proposer Rep
+**Stephen Whitenstall** - CCv2 Funded Proposer Rep
 
 {% embed url="https://youtu.be/7c_6ZTGiBpE" %}
+
+##
 
 ## References
 
