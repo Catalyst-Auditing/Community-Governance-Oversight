@@ -14,7 +14,7 @@ description: Oversight of Catalyst Circle problem sensing
 
 CCV3 - Nadia Hopkins, Joey Chessner
 
-CGO V1 - Stephen Whitenstall
+CGO V1 - Tevo Saks, Stephen Whitenstall
 
 ## Overview
 
@@ -22,7 +22,7 @@ The purpose of this document is to oversee changes to the Catalyst Circle proble
 
 ## Background
 
-### Governance Alive&#x20;
+### Governance Alive
 
 The original Prioritised Problem Board was designed in collaboration with Governance Alive (see [https://catalyst-swarm.gitbook.io/catalyst-circle/activities/mvp-lists-of-prioritized-problems](https://catalyst-swarm.gitbook.io/catalyst-circle/activities/mvp-lists-of-prioritized-problems)).
 
@@ -32,7 +32,7 @@ In Meeting 5 of Catalyst Circle 1 on September 9th 2021 Dor & Victor presented a
 
 ### Catalyst Circle 2
 
-In Meeting 2 of Catalyst Circle 2 on  November 25th, 2021 Dor & Harris drafted “stub” proposals to “Introduce a second new body, called “Cardano Governance, Oversight and Improvements”, to provide oversight of CC and Catalyst Expert Council” (see https://quality-assurance-dao.gitbook.io/catalyst-circle-oversight-v2/ccv2-meetings/meeting-2-november-25th-2021#harris-warren-proposals-to-support-the-above-59-11). This was picked up by Stephen as the Fund 7 Proposal - Community Governance Oversight ([https://cardano.ideascale.com/c/idea/383517](https://cardano.ideascale.com/c/idea/383517)).
+In Meeting 2 of Catalyst Circle 2 on November 25th, 2021 Dor & Harris drafted “stub” proposals to “Introduce a second new body, called “Cardano Governance, Oversight and Improvements”, to provide oversight of CC and Catalyst Expert Council” (see https://quality-assurance-dao.gitbook.io/catalyst-circle-oversight-v2/ccv2-meetings/meeting-2-november-25th-2021#harris-warren-proposals-to-support-the-above-59-11). This was picked up by Stephen as the Fund 7 Proposal - Community Governance Oversight ([https://cardano.ideascale.com/c/idea/383517](https://cardano.ideascale.com/c/idea/383517)).
 
 ### Catalyst Circle 3
 
@@ -40,7 +40,7 @@ Nadia has raised the Prioritized Problem “Review and Revise the Prioritized-Pr
 
 ### Community Governance Oversight
 
-Part of the scope of Community Governance Oversight is to oversee changes to the governance processes that define Catalyst Circle and the effectiveness of Catalyst Circle problem sensing in particular. The broad approach to this takes the form of :&#x20;
+Part of the scope of Community Governance Oversight is to oversee changes to the governance processes that define Catalyst Circle and the effectiveness of Catalyst Circle problem sensing in particular. The broad approach to this takes the form of :
 
 **Surveys**
 
@@ -73,7 +73,7 @@ This is a suggested starting point for revisions to the process. Please bear in 
 7. Formal security and emergency mechanisms are developed and implemented.
 8. Governance culture is legitimate, stable and lively.
 
-Based on Dor & Victor revised guidelines as follows -&#x20;
+Based on Dor & Victor revised guidelines as follows -
 
 ### Problem Sensing (before the board)
 
@@ -96,13 +96,13 @@ Submit to the Board under “Problem Backlog”
 
 ### Well-Defined Problems (Ready)
 
-Schedule time to present the problem during Town Hall&#x20;
+Schedule time to present the problem during Town Hall
 
-Define solving strategy with Circle (Presentation? Challenge? Proposal? Facilitate problem solving sessions?)&#x20;
+Define solving strategy with Circle (Presentation? Challenge? Proposal? Facilitate problem solving sessions?)
 
-Prepare a presentation.&#x20;
+Prepare a presentation.
 
-Present it.&#x20;
+Present it.
 
 Move to “Shared with Community” section
 
