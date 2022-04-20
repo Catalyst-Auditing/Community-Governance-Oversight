@@ -82,6 +82,28 @@ A **\[Community] issue** - is an issue posted to Circle but not raised as a Prio
 
 A **Prioritized Problem or Problem** - is an issue that meets the Problem statement rubrik (above).
 
+## Working group meeting #2
+
+#### Tuesday 19th April 2022, 1200 UTC
+
+**Nadia Hopkins** - CCv3 Community Advisor Rep
+
+**Allison Fromm** - CCv2 General ADA Holders Rep
+
+**Tevo Saks** - CCv2 Toolmakers Rep
+
+**Stephen Whitenstall** - CCv2 Funded Proposer Rep
+
+### **Problem Sensing**
+
+\
+Is the Problem Sensing rubrik discussed previously sufficient as a minimum to move forward ?&#x20;
+
+### **Prioritized Problem Process**
+
+\
+How does the Problem Sensing rubrik structure the Prioritized Problem Process ?&#x20;
+
 ## References
 
 ### Circle Problem - Review and Revise the Prioritized-Problems Workflow
