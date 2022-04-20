@@ -130,7 +130,9 @@ Ideation of a workflow for structuring this stage of the Problem process focused
 
 > Is it sufficient for a Problem to just address the importance to the Catalyst mission of it's resolution ?
 
+{% hint style="info" %}
 The conclusion was that 1) **importance to the Catalyst mission** & 2) some **articulation of the gap between the current state and an expected solution** be the minimum required to be placed in the Problem backlog.
+{% endhint %}
 
 ![](<../../.gitbook/assets/Screenshot 2022-04-20 132721.png>)
 
