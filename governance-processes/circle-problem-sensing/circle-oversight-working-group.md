@@ -108,6 +108,8 @@ Is the Problem Sensing rubrik discussed previously sufficient as a minimum to mo
 
 How does the Problem Sensing rubrik structure the Prioritized Problem Process ?&#x20;
 
+![](<../../.gitbook/assets/Screenshot 2022-04-20 124146.png>)
+
 ## References
 
 ### Circle Problem - Review and Revise the Prioritized-Problems Workflow
