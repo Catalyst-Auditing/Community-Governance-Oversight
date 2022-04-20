@@ -104,11 +104,11 @@ This meeting built on the work of the previous meeting. We looked at how to desc
 
 Is the Problem Sensing rubrik discussed previously sufficient as a minimum to move forward ?&#x20;
 
+![](<../../.gitbook/assets/Screenshot 2022-04-20 124146.png>)
+
 ### **Prioritized Problem Process**
 
 How does the Problem Sensing rubrik structure the Prioritized Problem Process ?&#x20;
-
-![](<../../.gitbook/assets/Screenshot 2022-04-20 124146.png>)
 
 ## References
 
