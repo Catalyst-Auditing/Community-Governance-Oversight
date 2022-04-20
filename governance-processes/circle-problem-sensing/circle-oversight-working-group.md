@@ -96,6 +96,10 @@ A **Prioritized Problem or Problem** - is an issue that meets the Problem statem
 
 {% embed url="https://youtu.be/ylTi12h0eEo" %}
 
+### **Overview**
+
+This meeting built on the work of the previous meeting. We looked at how to describe the problem sensing rubrik in accessible language and how to design a workflow for raising and reviewing a problem at a Circle meeting.
+
 ### **Problem Sensing**
 
 \
