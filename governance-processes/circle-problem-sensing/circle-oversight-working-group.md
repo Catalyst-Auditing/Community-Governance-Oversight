@@ -98,11 +98,17 @@ A **Prioritized Problem or Problem** - is an issue that meets the Problem statem
 
 ### **Overview**
 
-This meeting built on the work of the previous meeting. We looked at how to describe the problem sensing rubrik in accessible language and how to design a workflow for raising and reviewing a problem at a Circle meeting. Nadia Hopkins updated the group on how she had used the rubrik while raising CA Prioritized Problems.
+This meeting built on the work of the previous meeting. We looked at how to describe the problem sensing rubric in accessible language and how to design a workflow for raising and reviewing a problem at a Circle meeting. Nadia Hopkins updated the group on how she had used the rubric while raising CA Prioritized Problems.
 
 ### **Problem Sensing**
 
-Is the Problem Sensing rubrik discussed previously sufficient as a minimum to move forward ?&#x20;
+Is the Problem Sensing rubric discussed previously sufficient as a minimum to move forward ?&#x20;
+
+### How do we describe the rubric ?
+
+Discussion about how to describe the problem sensing rubric in simple language led to _categorizations_ such as -
+
+Problem scaffolding, Problem expression and framing a Problem
 
 ![](<../../.gitbook/assets/Screenshot 2022-04-20 124146.png>)
 
