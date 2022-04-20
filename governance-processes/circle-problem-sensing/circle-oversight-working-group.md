@@ -108,7 +108,7 @@ Is the Problem Sensing rubric discussed previously sufficient as a minimum to mo
 
 Discussion about how to describe the problem sensing rubric in simple language led to _categorizations_ such as -
 
-Problem scaffolding, Problem expression and framing a Problem
+> Problem scaffolding, Problem expression and framing a Problem
 
 ![](<../../.gitbook/assets/Screenshot 2022-04-20 125920.png>)
 
