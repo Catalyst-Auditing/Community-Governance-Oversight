@@ -136,7 +136,13 @@ The conclusion was that 1) **importance to the Catalyst mission** & 2) some **ar
 
 ![](<../../.gitbook/assets/Screenshot 2022-04-20 132721.png>)
 
-### value quantitative / qualitative (metrics)
+### The value of solving the problem&#x20;
+
+#### Quantitative / qualitative (metrics)
+
+![](<../../.gitbook/assets/Screenshot 2022-04-20 133447.png>)
+
+Therefore the value of solving the problem comes after its placing in the backlog. Given that Circle has identified 1) **importance to the Catalyst mission** & 2) some **articulation of the gap between the current state and an expected solution** then 3) some **quantitative and/or qualitative metrics** should be applied before the problem progresses any further.
 
 ## References
 
