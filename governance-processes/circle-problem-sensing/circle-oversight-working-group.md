@@ -120,9 +120,9 @@ How does the Problem Sensing rubric structure the Prioritized Problem Process ?
 
 Ideation of a workflow for structuring this stage of the Problem process focused on the rubric expressed concisely as -
 
-* importance to Catalyst mission
-* the gap and the solution
-* value quantitative / qualitative (metrics)
+* 1\) importance to Catalyst mission
+* 2\) the gap and the solution
+* 3\) value quantitative / qualitative (metrics)
 
 ![](<../../.gitbook/assets/Screenshot 2022-04-20 131307.png>)
 
@@ -135,6 +135,8 @@ The conclusion was that 1) **importance to the Catalyst mission** & 2) some **ar
 {% endhint %}
 
 ![](<../../.gitbook/assets/Screenshot 2022-04-20 132721.png>)
+
+### value quantitative / qualitative (metrics)
 
 ## References
 
