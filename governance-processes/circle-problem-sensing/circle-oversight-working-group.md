@@ -22,13 +22,13 @@ description: Oversight of Catalyst Circle problem sensing - Working group
 
 ### Overview
 
-This meeting sought to clarify the problem sensing process. It referred back to the original "[Problem statement rubrik](https://catalyst-swarm.gitbook.io/catalyst-circle/activities/mvp-lists-of-prioritized-problems#catalyst-circle-aim)" defined by GovernanceAlive in July 2021. This was then compared with Nadia Hopkin's [CA/vCA Issues Log, Fund 8](https://docs.google.com/document/d/1lwJI3pv8esPCSPRPc4b2HEnrSd9xnwU8B5kQooJ89Q4/edit?usp=sharing).
+This meeting sought to clarify the problem sensing process. It referred back to the original "[Problem statement rubric](https://catalyst-swarm.gitbook.io/catalyst-circle/activities/mvp-lists-of-prioritized-problems#catalyst-circle-aim)" defined by GovernanceAlive in July 2021. This was then compared with Nadia Hopkin's [CA/vCA Issues Log, Fund 8](https://docs.google.com/document/d/1lwJI3pv8esPCSPRPc4b2HEnrSd9xnwU8B5kQooJ89Q4/edit?usp=sharing).
 
-### The Problem statement rubrik
+### The Problem statement rubric
 
 ![](<../../.gitbook/assets/2022-04-17 (3).png>)
 
-The Problem statement rubrik was intended to clarify the Circle Problem Sensing process by providing criteria to assess a Prioritized Problem.
+The Problem statement rubric was intended to clarify the Circle Problem Sensing process by providing criteria to assess a Prioritized Problem.
 
 ### Identify
 
@@ -46,11 +46,11 @@ The Problem statement rubrik was intended to clarify the Circle Problem Sensing 
 
 * How might the value of solving this problem be quantified and/or measured?
 
-### How the rubrik aligns with Circle
+### How the rubric aligns with Circle
 
 ![](<../../.gitbook/assets/2022-04-17 (4).png>)
 
-After some discussion the working group identified the following workflow for categoriztion of solutions to Prioritized Problems
+After some discussion the working group identified the following workflow for categorization of solutions to Prioritized Problems
 
 ### 1) A Proposal or Challenge
 
@@ -110,11 +110,11 @@ Discussion about how to describe the problem sensing rubric in simple language l
 
 Problem scaffolding, Problem expression and framing a Problem
 
-![](<../../.gitbook/assets/Screenshot 2022-04-20 124146.png>)
+![](<../../.gitbook/assets/Screenshot 2022-04-20 125920.png>)
 
 ### **Prioritized Problem Process**
 
-How does the Problem Sensing rubrik structure the Prioritized Problem Process ?&#x20;
+How does the Problem Sensing rubric structure the Prioritized Problem Process ?&#x20;
 
 ## References
 
