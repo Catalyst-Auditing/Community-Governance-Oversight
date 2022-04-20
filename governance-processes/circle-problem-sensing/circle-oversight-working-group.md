@@ -94,6 +94,8 @@ A **Prioritized Problem or Problem** - is an issue that meets the Problem statem
 
 **Stephen Whitenstall** - CCv2 Funded Proposer Rep
 
+{% embed url="https://youtu.be/ylTi12h0eEo" %}
+
 ### **Problem Sensing**
 
 \
