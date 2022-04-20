@@ -116,15 +116,13 @@ Problem scaffolding, Problem expression and framing a Problem
 
 How does the Problem Sensing rubric structure the Prioritized Problem Process ?&#x20;
 
-The group's first approach to the Prioritized Problem Process addressed entry onto the Problems Board and review of new Problems by Circle.&#x20;
+> The group's first approach to the Prioritized Problem Process addressed entry onto the Problems Board and review of new Problems by Circle.&#x20;
 
 A workflow for structuring this stage of the Problem process was ideated focusing on the rubric expressed concisely as -&#x20;
 
-importance to Catalyst mission
-
-the gap and the solution
-
-value quantiive / qulaitative (metrics)
+- importance to Catalyst mission
+- the gap and the solution
+- value quantiive / qulaitative (metrics)
 
 ![](<../../.gitbook/assets/Screenshot 2022-04-20 131307.png>)
 
