@@ -38,7 +38,7 @@ The Problem statement rubric was intended to clarify the Circle Problem Sensing 
 
 * Why is solving this problem important to the mission of Project Catalyst?
 
-### Solution articulation&#x20;
+### Solution articulation
 
 * Can you articulate the gap between the current state and the expected or envisioned state?
 
@@ -102,7 +102,7 @@ This meeting built on the work of the previous meeting. We looked at how to desc
 
 ### **Problem Sensing**
 
-Is the Problem Sensing rubric discussed previously sufficient as a minimum to move forward ?&#x20;
+Is the Problem Sensing rubric discussed previously sufficient as a minimum to move forward ?
 
 ### How do we describe the rubric ?
 
@@ -114,17 +114,21 @@ Discussion about how to describe the problem sensing rubric in simple language l
 
 ### **Prioritized Problem Process**
 
-How does the Problem Sensing rubric structure the Prioritized Problem Process ?&#x20;
+How does the Problem Sensing rubric structure the Prioritized Problem Process ?
 
-> The group's first approach to the Prioritized Problem Process addressed entry onto the Problems Board and review of new Problems by Circle.&#x20;
+> The group's first approach to the Prioritized Problem Process addressed entry onto the Problems Board and review of new Problems by Circle.
 
-A workflow for structuring this stage of the Problem process was ideated focusing on the rubric expressed concisely as -&#x20;
+Ideation of a workflow for structuring this stage of the Problem process focused on the rubric expressed concisely as -
 
-- importance to Catalyst mission
-- the gap and the solution
-- value quantiive / qulaitative (metrics)
+* importance to Catalyst mission
+* the gap and the solution
+* value quantitative / qualitative (metrics)
 
 ![](<../../.gitbook/assets/Screenshot 2022-04-20 131307.png>)
+
+### The question of what minimum part of the rubric should be required to be put on the Problem Board backlog.
+
+Is it sufficent for a Problem to just address the importance to the Catalyst mission of it's resolution ?
 
 ## References
 
