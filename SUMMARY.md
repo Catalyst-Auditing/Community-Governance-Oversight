@@ -6,6 +6,7 @@
 
 * [Overview](governance-processes/overview.md)
 * [Governance parameters](governance-processes/governance-parameters.md)
+* [Oversight workshop on parameters](governance-processes/oversight-workshop-on-parameters.md)
 * [Challenge Setting](governance-processes/challenge-setting.md)
 * [Circle problem sensing](governance-processes/circle-problem-sensing/README.md)
   * [Working document](governance-processes/circle-problem-sensing/working-document.md)
