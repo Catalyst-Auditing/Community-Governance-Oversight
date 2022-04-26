@@ -1,5 +1,7 @@
 # Governance parameters
 
+## Overview
+
 The intent of the Fund 7 Community Governance Overisght proposal is to provide community oversight of improvements to and innovations in Catalyst Governance by collecting feedback and providing tracking, documentation and analysis of any proposed changes.
 
 This was originally motivated by the Catalyst Parameters Pilot. See extract from the[ Fund 7 proposal](https://cardano.ideascale.com/c/idea/383517) below -
@@ -10,3 +12,8 @@ This was originally motivated by the Catalyst Parameters Pilot. See extract from
 >
 > The strategy is to iterate a parameter change process between Catalyst Circle, a Catalyst Technical Council and the wider community.
 
+## **Success criteria**
+
+The success criteria for the Catalyst Pararmeters Pilot were presented by Dor Gorbash on 8th December 2021 at Fund 7 Town Hall #5.&#x20;
+
+\
