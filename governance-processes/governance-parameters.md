@@ -14,6 +14,12 @@ This was originally motivated by the Catalyst Parameters Pilot. See extract from
 
 ## **Success criteria**
 
-The success criteria for the Catalyst Pararmeters Pilot were presented by Dor Gorbash on 8th December 2021 at Fund 7 Town Hall #5.&#x20;
+The success criteria for the Catalyst Parameter Pilot were presented by Dor Gorbash on 8th December 2021 at Fund 7 Town Hall #5.&#x20;
+
+These were presented as the Voltaire Principles & Catalyst Parameters -&#x20;
+
+### Parameter Pilot Slides
+
+{% embed url="https://docs.google.com/presentation/d/1ikMLaCmgSDnM12-F5XquvXGbIJdhqwg_4SiolT--YHc/edit?usp=sharing" %}
 
 \
