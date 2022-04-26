@@ -16,5 +16,11 @@ description: Oversight workshop on parameters. 25th April 2022
 
 ## Overview
 
+This meeting sought to clarify the questions -
 
+What is a parameter change ?&#x20;
+
+What is a parameter ?
+
+Who decides this ?
 
