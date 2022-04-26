@@ -24,3 +24,7 @@ What is a parameter ?
 
 Who decides this ?
 
+This [task ](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/67)was assigned to Tevo Saks & Stephen Whitenstall by Community Governance Oversight Meeting 4
+
+
+
