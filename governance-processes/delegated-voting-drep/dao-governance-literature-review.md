@@ -38,7 +38,7 @@ This meeting aimed to address tough questions for governance design.
 
 ### Brief intro to Zotero tool
 
-Kenric gave a short introduction to the Zotero research reference tool&#x20;
+Kenric gave a short introduction to the Zotero research reference tool
 
 {% embed url="https://www.zotero.org" %}
 
@@ -72,31 +72,26 @@ Kenric gave a short introduction to the Zotero research reference tool&#x20;
 
 A focus on -
 
-- Metrics - pros / cons of different measurements
-- Rollout / implementation
-- How to score capabilities of d-reps
+* Metrics - pros / cons of different measurements
+* Rollout / implementation
+* How to score capabilities of d-reps
 
 ### 2) selecting a few key articles to provide 1-3 page reviews.
 
-\\
+For example in the "Liquid democracy" category the paper "Power in Liquid Democracy", Yuzhe Zhang and Davide Grossi (2010)
 
-Liquid democracy category
-
-Paper - Power in liquid democracy - Zhang, Grossi
-
-What is the power of my vote - in context
+What is the power of my vote ?&#x20;
 
 Vote on proposals - what point do I not have a voice ?
 
-Voting power not proportional to a weighting but ti an approx quadric measure
+Voting power not proportional to a weighting but to an approx quadratic measure ?
+
+### 3) Planning for a community white paper
+
+This is contingent on a successful Fund 8 vote for [Community Governance Oversight](https://cardano.ideascale.com/c/idea/398225).
 
 \
-\\
 
-### 3) planning for a community white paper; contingent on F8 funding for Gov. Oversight
-
-\
-\\
 
 ### References
 
@@ -112,7 +107,7 @@ Voting power not proportional to a weighting but ti an approx quadric measure
 
 {% embed url="https://scholar.google.co.uk" %}
 
-Useful features include -&#x20;
+Useful features include -
 
 Related articles\
 \
