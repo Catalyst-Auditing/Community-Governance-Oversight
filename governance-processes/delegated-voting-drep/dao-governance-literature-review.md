@@ -29,18 +29,15 @@
 
 ### Overview
 
-\
+This meeting aimed to address tough questions for governance design.&#x20;
 
+To investigate bottom up principles and tensions that arise in a community with natural competitiveness
 
-Tough questions for governance design - Kenric
-
-Bottom up principles - tension with natural competitiveness
-
-What type of organisation is most effective ?
+What type of decentralised organisation is most effective ?
 
 How to uphold principles of decentralised governance and stay competitive ?
 
-Shift from invite to general community involvement
+How to shift from invite to general community involvement
 
 ### Brief intro to Zotero tool
 
