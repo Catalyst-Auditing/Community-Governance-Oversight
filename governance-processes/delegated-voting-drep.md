@@ -131,7 +131,7 @@ The introduction of dReps is another exciting step forward as the community cont
 
 Over the coming weeks, IOG will be organizing a series of workshops that go into greater detail on what it means to be a dRep, the incentive model, and what impact dReps will have on Project Catalyst.
 
-## ADA Twitterspace
+## ADAO Twitterspace
 
 #### April 23rd 2022
 
