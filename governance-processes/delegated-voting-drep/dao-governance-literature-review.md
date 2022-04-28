@@ -31,24 +31,19 @@
 
 This meeting aimed to address tough questions for governance design.&#x20;
 
-To investigate bottom up principles and tensions that arise in a community with natural competitiveness
-
-What type of decentralised organisation is most effective ?
-
-How to uphold principles of decentralised governance and stay competitive ?
-
-How to shift from invite to general community involvement
+- To investigate bottom up principles and tensions that arise in a community with natural competitiveness
+- What type of decentralised organisation is most effective ?
+- How to uphold principles of decentralised governance and stay competitive ?
+- How to shift from invite to general community involvement
 
 ### Brief intro to Zotero tool
 
 [https://www.zotero.org/](https://www.zotero.org)
 
-\
-
-
 Paper - Power in liquid democracy
 
-\
+https://www.aaai.org/AAAI21Papers/AAAI-7700.ZhangY.pdf
+
 
 
 White paper over 3 to 4 month period
