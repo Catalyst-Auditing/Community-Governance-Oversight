@@ -49,15 +49,27 @@ White paper over 3 to 4 month period
 
 ### Actions arising from meeting
 
-To do : install Zotero application
+{% hint style="success" %}
+**Action :** install Zotero application & explore functionality - All
+{% endhint %}
 
-To do : Identify questions & challenges - literature review
+{% hint style="success" %}
+**Action :** identify questions & challenges for literature review - All
+{% endhint %}
 
-To do : add tags to identify papers relevant to measurement of d-rep implementation
+{% hint style="success" %}
+**Action :** add tags to identify papers relevant to measurement of d-rep implementation
+{% endhint %}
 
-To do - setup biweekly meeting
+{% hint style="success" %}
+**Action :** setup biweekly meeting for DAO literature review - Kenric / Stephen
+{% endhint %}
 
-Focus : "Measuring voting power in Catalyst D-reps"
+{% hint style="info" %}
+**Our Focus :** "Measuring voting power in Catalyst D-reps"
+{% endhint %}
+
+
 
 ### Google Scholar
 
