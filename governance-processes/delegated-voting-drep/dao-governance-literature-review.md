@@ -130,25 +130,15 @@ Voting power not proportional to a weighting but ti an approx quadric measure
 
 ### References
 
-\
+#### 1 Example of liquid democracy at google
+
+{% embed url="https://www.youtube.com/watch?v=F4lkCECSBFw" %}
+
+#### 2 Current Catalyst d-rep materials Community Oversight has tracked -&#x20;
+
+{% embed url="https://quality-assurance-dao.gitbook.io/community-governance-oversight/governance-processes/delegated-voting-drep" %}
 
 
-Example of liquid democracy at google
-
-\
-
-
-[https://www.youtube.com/watch?v=F4lkCECSBFw](https://www.youtube.com/watch?v=F4lkCECSBFw)
-
-\
-
-
-Current Catalyst materials Community Oversight has tracked -&#x20;
-
-\
-
-
-https://quality-assurance-dao.gitbook.io/community-governance-oversight/governance-processes/delegated-voting-drep
 
 \
 \
