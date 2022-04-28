@@ -24,47 +24,40 @@
 
 #### Meeting GitHub Task
 
-[https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/70](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/70)\
-
+[https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/70](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/70)\\
 
 ### Overview
 
-This meeting aimed to address tough questions for governance design.&#x20;
+This meeting aimed to address tough questions for governance design.
 
-- To investigate bottom up principles and tensions that arise in a community with natural competitiveness
-- What type of decentralised organisation is most effective ?
-- How to uphold principles of decentralised governance and stay competitive ?
-- How to shift from invite to general community involvement
+* To investigate bottom up principles and tensions that arise in a community with natural competitiveness
+* What type of decentralised organisation is most effective ?
+* How to uphold principles of decentralised governance and stay competitive ?
+* How to shift from invite to general community involvement
 
 ### Brief intro to Zotero tool
 
-[https://www.zotero.org/](https://www.zotero.org)
+Kenric gave a short introduction to the Zotero research reference tool&#x20;
 
-Paper - Power in liquid democracy
+{% embed url="https://www.zotero.org" %}
+
+### Paper - Power in liquid democracy
 
 https://www.aaai.org/AAAI21Papers/AAAI-7700.ZhangY.pdf
 
-
-
 White paper over 3 to 4 month period
 
-Questions & Challenges - literature review
-
-\
-
+### Actions arising from meeting
 
 To do : install Zotero application
 
-To do : add tags to identify papers relevant to measurement of d-rep implementation&#x20;
+To do : Identify questions & challenges - literature review
 
-To do - biweekly meeting
+To do : add tags to identify papers relevant to measurement of d-rep implementation
 
-"Measuring voting power in Catalyst D-reps"! suggestion
+To do - setup biweekly meeting
 
-\
-\
-\
-
+Focus : "Measuring voting power in Catalyst D-reps"
 
 ### Google Scholar
 
@@ -72,20 +65,15 @@ Useful features - cite tree
 
 Related articles
 
-\
-
-
-&#x20;
+\\
 
 ### 1) recommendations for searches and/or papers to add to the database
 
-\
+\\
 
+Interests
 
-Interests&#x20;
-
-\
-
+\\
 
 Metric - pros /cons
 
@@ -95,13 +83,11 @@ Use of tags to categories
 
 How to score capabilities of d-reps
 
-\
-
+\\
 
 ### 2) selecting a few key articles to provide 1-3 page reviews.
 
-\
-
+\\
 
 Liquid democracy category
 
@@ -114,14 +100,12 @@ Vote on proposals - what point do I not have a voice ?
 Voting power not proportional to a weighting but ti an approx quadric measure
 
 \
-\
-
+\\
 
 ### 3) planning for a community white paper; contingent on F8 funding for Gov. Oversight
 
 \
-\
-
+\\
 
 ### References
 
@@ -129,13 +113,11 @@ Voting power not proportional to a weighting but ti an approx quadric measure
 
 {% embed url="https://www.youtube.com/watch?v=F4lkCECSBFw" %}
 
-#### 2 Current Catalyst d-rep materials Community Oversight has tracked -&#x20;
+#### 2 Current Catalyst d-rep materials Community Oversight has tracked -
 
 {% embed url="https://quality-assurance-dao.gitbook.io/community-governance-oversight/governance-processes/delegated-voting-drep" %}
 
-
-
 \
 \
 \
-\
+\\
