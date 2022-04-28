@@ -53,14 +53,6 @@ Kenric gave a short introduction to the Zotero research reference tool&#x20;
 {% endhint %}
 
 {% hint style="success" %}
-**Action :** identify questions & challenges for literature review - All
-{% endhint %}
-
-{% hint style="success" %}
-**Action :** add tags to identify papers relevant to measurement of d-rep implementation
-{% endhint %}
-
-{% hint style="success" %}
 **Action :** setup biweekly meeting for DAO literature review - Kenric / Stephen
 {% endhint %}
 
@@ -68,17 +60,15 @@ Kenric gave a short introduction to the Zotero research reference tool&#x20;
 **Our Focus :** "Measuring voting power in Catalyst D-reps"
 {% endhint %}
 
-### Google Scholar
-
-Useful features - cite tree
-
-Related articles
-
-\\
-
 ### 1) recommendations for searches and/or papers to add to the database
 
-\\
+{% hint style="success" %}
+**Action :** identify questions & challenges for literature review - All
+{% endhint %}
+
+{% hint style="success" %}
+**Action :** add tags to identify papers relevant to measurement of d-rep implementation
+{% endhint %}
 
 Interests
 
@@ -126,7 +116,13 @@ Voting power not proportional to a weighting but ti an approx quadric measure
 
 {% embed url="https://quality-assurance-dao.gitbook.io/community-governance-oversight/governance-processes/delegated-voting-drep" %}
 
-\
+#### 3 Google Scholar
+
+{% embed url="https://scholar.google.co.uk" %}
+
+Useful features include -&#x20;
+
+Related articles\
 \
 \
 \\
