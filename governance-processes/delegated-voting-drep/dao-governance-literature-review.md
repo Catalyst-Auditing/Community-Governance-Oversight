@@ -72,11 +72,9 @@ Kenric gave a short introduction to the Zotero research reference tool&#x20;
 
 A focus on -
 
-Metrics - pros / cons of different measurements
-
-Rollout / implementation
-
-How to score capabilities of d-reps
+- Metrics - pros / cons of different measurements
+- Rollout / implementation
+- How to score capabilities of d-reps
 
 ### 2) selecting a few key articles to provide 1-3 page reviews.
 
