@@ -80,17 +80,14 @@ A focus on -
 
 For example in the "Liquid democracy" category the paper "Power in Liquid Democracy", Yuzhe Zhang and Davide Grossi (2010)
 
-What is the power of my vote ?&#x20;
-
-Vote on proposals - what point do I not have a voice ?
-
-Voting power not proportional to a weighting but to an approx quadratic measure ?
+- What is the power of my vote ?&#x20;
+- Vote on proposals - what point do I not have a voice ?
+- Voting power not proportional to a weighting but to an approx quadratic measure ?
 
 ### 3) Planning for a community white paper
 
-This is contingent on a successful Fund 8 vote for [Community Governance Oversight](https://cardano.ideascale.com/c/idea/398225).
+> This is contingent on a successful Fund 8 vote for [Community Governance Oversight](https://cardano.ideascale.com/c/idea/398225).
 
-\
 
 
 ### References
