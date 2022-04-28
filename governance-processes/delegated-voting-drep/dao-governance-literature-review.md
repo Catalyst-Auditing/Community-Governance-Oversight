@@ -34,6 +34,7 @@ This meeting aimed to address tough questions for governance design.
 * What type of decentralised organisation is most effective ?
 * How to uphold principles of decentralised governance and stay competitive ?
 * How to shift from invite to general community involvement
+* Produce a white paper over a 3 to 4 month period
 
 ### Brief intro to Zotero tool
 
@@ -43,9 +44,7 @@ Kenric gave a short introduction to the Zotero research reference tool&#x20;
 
 ### Paper - Power in liquid democracy
 
-https://www.aaai.org/AAAI21Papers/AAAI-7700.ZhangY.pdf
-
-White paper over 3 to 4 month period
+{% embed url="https://www.aaai.org/AAAI21Papers/AAAI-7700.ZhangY.pdf" %}
 
 ### Actions arising from meeting
 
@@ -68,8 +67,6 @@ White paper over 3 to 4 month period
 {% hint style="info" %}
 **Our Focus :** "Measuring voting power in Catalyst D-reps"
 {% endhint %}
-
-
 
 ### Google Scholar
 
