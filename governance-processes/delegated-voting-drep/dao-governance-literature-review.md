@@ -14,7 +14,7 @@
 | Jack Brigg          | IOG           |
 | Stephen Whitenstall | QADAO         |
 | Steph Macurdy       | Wolfram Alpha |
-| Thorsten Pottenbaum |               |
+| Thorsten Pottebaum  |               |
 
 ## Information
 
@@ -115,7 +115,5 @@ $ 10,000 for 4 months' research work ($ 2,500 per month)
 
 Useful features include -
 
-- How many citations
-- Related articles\
-\
-\
+* How many citations
+* Related articles
