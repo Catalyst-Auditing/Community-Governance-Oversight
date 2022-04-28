@@ -18,7 +18,7 @@ At the [Town Hall #1 of Fund 8 on 16th February 2022 ](https://catalyst-swarm.gi
 
 [Link to form](https://docs.google.com/forms/d/e/1FAIpQLSfPSb\_cDlIxN6cnnbOrJN\_oxDBmxB3kENbsE\_\_pmMAw8yJk0w/viewform)
 
-![](<../../.gitbook/assets/2022-03-07 (15).png>)
+![](<../.gitbook/assets/2022-03-07 (15).png>)
 
 Today we are welcoming interest to join the first cohort of dReps. This group will play a pivotal role in shaping Cardano's governance, and will work with IOG and others to grow a lively and collaborative team. Joining the cohort will support your future candidacy and dRep profile, and develop your position as future leaders of Cardano. You will have opportunities to share ideas, process improvements, and engage your fellow peers - truly teaming up to define the early stages of governance. As we move through the next few weeks, there will be organized workshops, training, and support on-hand.
 
@@ -34,13 +34,13 @@ Access to the first dRep cohort will be limited due to onboarding. We will be re
 
 Note: This form will require you to submit a motivation letter with a minimum character limit at the end (about 500 words). Please take time and diligence to write a thoughtful submission.
 
-![](../../.gitbook/assets/2022-03-08.png)
+![](../.gitbook/assets/2022-03-08.png)
 
 #### Are you interested in becoming a Delegate Representative (dRep)?
 
 A core part of making Liquid Democracy successful is delegation - where an ada holder delegates their voting power (some or all) to a Delegate Representative (dRep). dReps commit to a code of conduct and strive to collaborate, which in turn positively impacts the future direction of Cardano.dReps will coordinate and form policies together, source and review data, consult with experts, and ultimately vote on an array of projects and topics, from Project Catalyst proposals to Voltaire council elections.
 
-![](<../../.gitbook/assets/2022-03-08 (1).png>)
+![](<../.gitbook/assets/2022-03-08 (1).png>)
 
 #### What is your motivation for wanting to be a dRep or involved in Cardano's future governance?
 
@@ -48,7 +48,7 @@ This is your time to write a thoughtful and impactful motivational letter on how
 
 ## Joining the first dRep cohort
 
-![](<../../.gitbook/assets/2022-03-19 (1).png>)
+![](<../.gitbook/assets/2022-03-19 (1).png>)
 
 #### email registration acknowledgement - 17th March 2022
 

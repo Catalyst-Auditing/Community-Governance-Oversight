@@ -2,23 +2,19 @@
 
 ## Literature Review - Meeting 26th April 2022
 
-\
-Jack Briggs - IOG
+{% embed url="https://youtu.be/bGmGgJUKewg" %}
 
-Kenric - Photrek
+### Attendees
 
-Stephen - QADAO
-
-Thorsten - Audit Circle
-
-Steph Macurdy - Wolfram
-
-George Ramayya -
-
-Amar Khan -&#x20;
-
-\
-
+|                     |               |
+| ------------------- | ------------- |
+| Amar Khan           |               |
+| George Ramayya      |               |
+| Kenric -            | Photrek       |
+| Jack Brigg          | IOG           |
+| Stephen Whitenstall | QADAO         |
+| Steph Macurdy       | Wolfram Alpha |
+| Thorsten Pottenbaum |               |
 
 ## Community Governance Group
 
