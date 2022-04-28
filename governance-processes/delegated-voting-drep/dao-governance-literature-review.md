@@ -70,19 +70,13 @@ Kenric gave a short introduction to the Zotero research reference tool&#x20;
 **Action :** add tags to identify papers relevant to measurement of d-rep implementation
 {% endhint %}
 
-Interests
+A focus on -
 
-\\
+Metrics - pros / cons of different measurements
 
-Metric - pros /cons
-
-Focus on rollout / implementation
-
-Use of tags to categories
+Rollout / implementation
 
 How to score capabilities of d-reps
-
-\\
 
 ### 2) selecting a few key articles to provide 1-3 page reviews.
 
