@@ -16,11 +16,15 @@
 | Steph Macurdy       | Wolfram Alpha |
 | Thorsten Pottenbaum |               |
 
-## Community Governance Group
+## Information
+
+#### Community Governance Group
 
 [https://quality-assurance-dao.gitbook.io/community-governance-oversight/](https://quality-assurance-dao.gitbook.io/community-governance-oversight/)
 
-\
+#### Meeting GitHub Task
+
+[https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/70](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/70)\
 
 
 ### Overview
