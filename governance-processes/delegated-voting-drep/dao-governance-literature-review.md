@@ -80,17 +80,26 @@ A focus on -
 
 For example in the "Liquid democracy" category the paper "Power in Liquid Democracy", Yuzhe Zhang and Davide Grossi (2010)
 
-- What is the power of my vote ?&#x20;
-- Vote on proposals - what point do I not have a voice ?
-- Voting power not proportional to a weighting but to an approx quadratic measure ?
+* What is the power of my vote ?
+* Vote on proposals - what point do I not have a voice ?
+* Voting power not proportional to a weighting but to an approx quadratic measure ?
 
 ### 3) Planning for a community white paper
 
 > This is contingent on a successful Fund 8 vote for [Community Governance Oversight](https://cardano.ideascale.com/c/idea/398225).
 
+**4 Research**
 
+The Oversight group will facilitate literature reviews and meta-analysis of decentralized governance methods and practices. This research will be used to facilitate informed feedback on design proposals regarding delegated representatives and Catalyst parameter changes.
 
-### References
+* **May 2022** - Establish Gitbook and Zotero resources
+* **June 2022** - Gather literature and interview inputs
+* **July 2022** - Draft “Securing Decentralized Governance”
+* **August 2022** - Publish first version of “Securing Decentralized Governance”
+
+$ 10,000 for 4 months' research work ($ 2,500 per month)
+
+## References
 
 #### 1 Example of liquid democracy at google
 
