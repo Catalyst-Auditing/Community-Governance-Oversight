@@ -11,8 +11,8 @@
 * [Circle problem sensing](governance-processes/circle-problem-sensing/README.md)
   * [Working document](governance-processes/circle-problem-sensing/working-document.md)
   * [Circle / Oversight Working group](governance-processes/circle-problem-sensing/circle-oversight-working-group.md)
-* [Delegated Voting (dRep)](governance-processes/delegated-voting-drep.md)
-* [DAO Governance Literature Review](governance-processes/dao-governance-literature-review.md)
+* [Delegated Voting (dRep)](governance-processes/delegated-voting-drep/README.md)
+  * [DAO Governance Literature Review](governance-processes/delegated-voting-drep/dao-governance-literature-review.md)
 
 ## Research
 
