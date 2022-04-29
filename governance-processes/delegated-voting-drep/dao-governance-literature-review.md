@@ -10,7 +10,7 @@
 | ------------------- | ------------- |
 | Amar Khan           |               |
 | George Ramayya      |               |
-| Kenric -            | Photrek       |
+| Kenric Nelson       | Photrek       |
 | Jack Briggs         | IOG           |
 | Stephen Whitenstall | QADAO         |
 | Steph Macurdy       | Wolfram Alpha |
