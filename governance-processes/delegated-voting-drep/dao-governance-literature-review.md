@@ -11,7 +11,7 @@
 | Amar Khan           |               |
 | George Ramayya      |               |
 | Kenric -            | Photrek       |
-| Jack Brigg          | IOG           |
+| Jack Briggs         | IOG           |
 | Stephen Whitenstall | QADAO         |
 | Steph Macurdy       | Wolfram Alpha |
 | Thorsten Pottebaum  |               |
