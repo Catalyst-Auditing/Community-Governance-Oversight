@@ -36,6 +36,12 @@ In terms of what must be documented, sufficient information should be available 
 
 Who "owns" the parameter?
 
+Scope of change - what is being changed (includes current state and expected state)
+
+Why this parameter is set in place? (How does it benefits the Cardano Mission?)
+
+How is the parameter effectiveness measured?
+
 
 
 ### How to make decision in quorum?
