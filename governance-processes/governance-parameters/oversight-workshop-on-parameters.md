@@ -30,17 +30,17 @@ A necessary process or change.
 
 ![What is a parameter change ?](<../../.gitbook/assets/Screenshot 2022-05-03 100117.png>)
 
-There will be quantitatively and qualitative parameters.&#x20;
+There will be quantitatively and qualitative parameters.
 
 In terms of what must be documented, sufficient information should be available on current / expected state and who owns the change.
 
-- Who "owns" the parameter?
-- Scope of change - what is being changed (includes current state and expected state)
-- Why this parameter is set in place? (How does it benefits the Cardano Mission?)
-- How is the parameter effectiveness measured?
+* Who "owns" the parameter?
+* Scope of change - what is being changed (includes current state and expected state)
+* Why this parameter is set in place? (How does it benefits the Cardano Mission?)
+* How is the parameter effectiveness measured?
 
-### How to make decision in quorum?
+### How to make decisions in quorum?
 
-Preferance for a prime number to avoid vote splits.
+Preference for a prime number to avoid vote splits.
 
 {% embed url="https://youtu.be/yG0lifQOaFk" %}
