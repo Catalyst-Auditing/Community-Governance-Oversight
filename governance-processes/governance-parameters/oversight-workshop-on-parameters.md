@@ -28,11 +28,15 @@ This [task ](https://github.com/Catalyst-Auditing/Community-Governance-Oversight
 
 A necessary process or change.
 
-![](<../../.gitbook/assets/Screenshot 2022-05-03 100117.png>)
+![What is a parameter change ?](<../../.gitbook/assets/Screenshot 2022-05-03 100117.png>)
 
 There will be quantitatively and qualitative parameters.&#x20;
 
 In terms of what must be documented, sufficient information should be available on current / expected state and who owns the change.
+
+Who "owns" the parameter?
+
+
 
 ### How to make decision in quorum?
 
