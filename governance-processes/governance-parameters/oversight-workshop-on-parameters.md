@@ -40,4 +40,6 @@ Who "owns" the parameter?
 
 ### How to make decision in quorum?
 
+Preferance for a prime number to avoid vote splits.
+
 {% embed url="https://youtu.be/yG0lifQOaFk" %}
