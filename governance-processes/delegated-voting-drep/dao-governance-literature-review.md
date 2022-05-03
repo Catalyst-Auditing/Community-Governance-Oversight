@@ -6,15 +6,15 @@
 
 ### Attendees
 
-|                     |               |
-| ------------------- | ------------- |
-| Amar Khan           |               |
-| George Ramayya      |               |
-| Kenric Nelson       | Photrek       |
-| Jack Briggs         | IOG           |
-| Stephen Whitenstall | QADAO         |
-| Steph Macurdy       | Wolfram Alpha |
-| Thorsten Pottebaum  |               |
+|                     |         |
+| ------------------- | ------- |
+| Amar Khan           |         |
+| George Ramayya      |         |
+| Kenric Nelson       | Photrek |
+| Jack Briggs         | IOG     |
+| Stephen Whitenstall | QADAO   |
+| Steph Macurdy       | Wolfram |
+| Thorsten Pottebaum  |         |
 
 ## Information
 
