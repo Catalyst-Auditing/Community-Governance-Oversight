@@ -18,11 +18,22 @@ description: Oversight workshop on parameters. 25th April 2022
 
 This meeting sought to clarify the questions -
 
-- What is a parameter change ?&#x20;
-- What is a parameter ?
-- Who decides this ?
+* What is a parameter change ?
+* What is a parameter ?
+* Who decides this ?
 
 This [task ](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/67)was assigned to Tevo Saks & Stephen Whitenstall by [Community Governance Oversight Meeting 4](https://quality-assurance-dao.gitbook.io/community-governance-oversight/project-management/meetings-and-town-halls/f7-meeting-3-7th-april-2022#5.4-governance-parameters).
 
+### What is a parameter change ?
 
+A necessary process or change.
 
+![](<../../.gitbook/assets/Screenshot 2022-05-03 100117.png>)
+
+There will be quantitatively and qualitative parameters.&#x20;
+
+In terms of what must be documented, sufficient information should be available on current / expected state and who owns the change.
+
+### How to make decision in quorum?
+
+{% embed url="https://youtu.be/yG0lifQOaFk" %}
