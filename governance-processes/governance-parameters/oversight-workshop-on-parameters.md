@@ -24,7 +24,7 @@ This meeting sought to clarify the questions -
 
 This [task ](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/67)was assigned to Tevo Saks & Stephen Whitenstall by [Community Governance Oversight Meeting 4](https://quality-assurance-dao.gitbook.io/community-governance-oversight/project-management/meetings-and-town-halls/f7-meeting-3-7th-april-2022#5.4-governance-parameters).
 
-### What is a parameter ?
+## What is a parameter ?
 
 A necessary process or change.
 
@@ -39,11 +39,11 @@ In terms of what must be documented, sufficient information should be available 
 * Why this parameter is set in place? (How does it benefit the Cardano Mission?)
 * How is the parameter effectiveness measured?
 
-### **What is a parameter change?**
+## **What is a parameter change?**
 
 ![](<../../.gitbook/assets/Screenshot 2022-05-03 134921.png>)
 
-### How to make decisions in quorum?
+## How to make decisions in quorum?
 
 Preference for a prime number to avoid vote splits.
 
