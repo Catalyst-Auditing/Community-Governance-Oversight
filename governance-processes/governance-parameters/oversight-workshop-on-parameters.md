@@ -39,13 +39,17 @@ In terms of what must be documented, sufficient information should be available 
 * Why this parameter is set in place? (How does it benefit the Cardano Mission?)
 * How is the parameter effectiveness measured?
 
+### Operational Parameters
 
+![](<../../.gitbook/assets/Screenshot 2022-05-04 110504.png>)
+
+**Examples** - minimum pool cost, increasing block size.
 
 ## What types of parameter change are there ?
 
 ![](<../../.gitbook/assets/Screenshot 2022-05-04 103311 (1).png>)
 
-### Fixed values&#x20;
+### Fixed values
 
 discrete, particular, atomistic. A change to a fixed value or constant.
 
@@ -55,16 +59,16 @@ discrete, particular, atomistic. A change to a fixed value or constant.
 
 Change to rules of how to conduct a process. Either a new or current process / parameter.
 
-Example - vCA has to submit Quality Control assessments trough Google Form using Google Sheet link.&#x20;
+Example - vCA has to submit Quality Control assessments trough Google Form using Google Sheet link.
 
 ## Consequence of changing the parameter
 
 ![](<../../.gitbook/assets/Screenshot 2022-05-04 105506.png>)
 
-- **Low impact** - change to a fault tolerant process
-- **High impact** - change to a fragile process
-- **Low Auditability** - Lack of information and about the project and how the goals are achieved
-- **High Auditability** - we have better view how the proposal will be completed
+* **Low impact** - change to a fault tolerant process
+* **High impact** - change to a fragile process
+* **Low Auditability** - Lack of information and about the project and how the goals are achieved
+* **High Auditability** - we have better view how the proposal will be completed
 
 ## **What is a parameter change?**
 
