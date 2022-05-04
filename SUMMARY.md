@@ -7,7 +7,7 @@
 * [Overview](governance-processes/overview.md)
 * [Governance parameters](governance-processes/governance-parameters.md)
   * [Oversight workshop on parameters](governance-processes/governance-parameters/oversight-workshop-on-parameters.md)
-* [Cardano Treasury with Kevin Hammond](governance-processes/cardano-treasury-with-kevin-hammond.md)
+  * [Cardano Treasury with Kevin Hammond](governance-processes/governance-parameters/cardano-treasury-with-kevin-hammond.md)
 * [Challenge Setting](governance-processes/challenge-setting.md)
 * [Circle problem sensing](governance-processes/circle-problem-sensing/README.md)
   * [Working document](governance-processes/circle-problem-sensing/working-document.md)
