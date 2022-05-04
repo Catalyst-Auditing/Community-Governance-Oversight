@@ -61,13 +61,10 @@ Example - vCA has to submit Quality Control assessments trough Google Form using
 
 ![](<../../.gitbook/assets/Screenshot 2022-05-04 105506.png>)
 
-**Low impac**t - change to a fault tolerant process
-
-**High impact** - change to a fragile process
-
-**Low Auditability** - Lack of information and about the project and how the goals are achieved
-
-**High Auditability** - we have better view how the proposal will be completed
+- **Low impact** - change to a fault tolerant process
+- **High impact** - change to a fragile process
+- **Low Auditability** - Lack of information and about the project and how the goals are achieved
+- **High Auditability** - we have better view how the proposal will be completed
 
 ## **What is a parameter change?**
 
