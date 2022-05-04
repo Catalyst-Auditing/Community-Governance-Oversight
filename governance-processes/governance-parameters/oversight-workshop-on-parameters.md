@@ -43,11 +43,15 @@ In terms of what must be documented, sufficient information should be available 
 
 ## What types of parameter change are there ?
 
-![](<../../.gitbook/assets/Screenshot 2022-05-04 103311.png>)
+![](<../../.gitbook/assets/Screenshot 2022-05-04 103311 (1).png>)
 
-Fixed values - discrete, particular, atomistic. A change to a fixed value or constant.
+### Fixed values&#x20;
 
+discrete, particular, atomistic. A change to a fixed value or constant.
 
+### Change to a process
+
+![](<../../.gitbook/assets/Screenshot 2022-05-04 103828.png>)
 
 ## **What is a parameter change?**
 
