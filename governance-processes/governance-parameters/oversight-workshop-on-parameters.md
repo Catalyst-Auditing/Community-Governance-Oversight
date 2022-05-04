@@ -45,6 +45,14 @@ In terms of what must be documented, sufficient information should be available 
 
 A parameter change is a change from a current state to a new state with a process of consultation.
 
+## Who decides ?
+
+![](<../../.gitbook/assets/Screenshot 2022-05-04 101539.png>)
+
+**Stakeholders** who will be impacted by the parameter change. Anyone who controls the Intellectual Property.
+
+If decision process is defined for the parameter then Ownership & scope.
+
 ## How to make decisions in quorum?
 
 Preference for a prime number to avoid vote splits.
