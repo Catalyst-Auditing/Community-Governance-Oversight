@@ -57,11 +57,9 @@ A decision process is defined for the parameter that assigns ownership & identfi
 
 ![](<../../.gitbook/assets/Screenshot 2022-05-04 101946.png>)
 
-A specific parameter is identified.
-
-Temporary ownership of the parameter is assigned to a decision making body.
-
-The change is voted on.
+- A specific parameter is identified.
+- Temporary ownership of the parameter is assigned to a decision making body.
+- The change is voted on.
 
 ## How to make decisions in quorum?
 
