@@ -39,6 +39,16 @@ In terms of what must be documented, sufficient information should be available 
 * Why this parameter is set in place? (How does it benefit the Cardano Mission?)
 * How is the parameter effectiveness measured?
 
+
+
+## What types of parameter change are there ?
+
+![](<../../.gitbook/assets/Screenshot 2022-05-04 103311.png>)
+
+Fixed values - discrete, particular, atomistic. A change to a fixed value or constant.
+
+
+
 ## **What is a parameter change?**
 
 ![](<../../.gitbook/assets/Screenshot 2022-05-03 134921.png>)
