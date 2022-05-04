@@ -53,6 +53,10 @@ discrete, particular, atomistic. A change to a fixed value or constant.
 
 ![](<../../.gitbook/assets/Screenshot 2022-05-04 103828.png>)
 
+Change to rules of how to conduct a process. Either a new or current process / parameter.
+
+Example - vCA has to submit Quality Control assessments trough Google Form using Google Sheet link.&#x20;
+
 ## **What is a parameter change?**
 
 ![](<../../.gitbook/assets/Screenshot 2022-05-03 134921.png>)
