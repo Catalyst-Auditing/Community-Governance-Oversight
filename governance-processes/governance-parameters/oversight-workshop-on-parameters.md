@@ -63,4 +63,4 @@ A decision process is defined for the parameter that assigns ownership & identfi
 
 ## How to make decisions in quorum?
 
-See Cardano Treasury with Kevin Hammond
+See [Cardano Treasury with Kevin Hammond](https://quality-assurance-dao.gitbook.io/community-governance-oversight/governance-processes/governance-parameters/cardano-treasury-with-kevin-hammond)
