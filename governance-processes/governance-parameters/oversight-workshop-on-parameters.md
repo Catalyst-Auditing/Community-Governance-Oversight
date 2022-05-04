@@ -57,9 +57,9 @@ A decision process is defined for the parameter that assigns ownership & identfi
 
 ![](<../../.gitbook/assets/Screenshot 2022-05-04 101946.png>)
 
-A specfic parameter is identified.
+A specific parameter is identified.
 
-Tempoary ownership of the parameter is assigned to a decision making body.
+Temporary ownership of the parameter is assigned to a decision making body.
 
 The change is voted on.
 
