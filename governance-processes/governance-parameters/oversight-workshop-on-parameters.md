@@ -43,6 +43,8 @@ In terms of what must be documented, sufficient information should be available 
 
 ![](<../../.gitbook/assets/Screenshot 2022-05-03 134921.png>)
 
+A parameter change is a change from a current state to a new state with a process of consultation.
+
 ## How to make decisions in quorum?
 
 Preference for a prime number to avoid vote splits.
