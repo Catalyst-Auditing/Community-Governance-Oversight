@@ -51,7 +51,17 @@ A parameter change is a change from a current state to a new state with a proces
 
 **Stakeholders** who will be impacted by the parameter change. Anyone who controls the Intellectual Property.
 
-If decision process is defined for the parameter then Ownership & scope.
+A decision process is defined for the parameter that assigns ownership & identfies its scope.
+
+### Example
+
+![](<../../.gitbook/assets/Screenshot 2022-05-04 101946.png>)
+
+A specfic parameter is identified.
+
+Tempoary ownership of the parameter is assigned to a decision making body.
+
+The change is voted on.
 
 ## How to make decisions in quorum?
 
