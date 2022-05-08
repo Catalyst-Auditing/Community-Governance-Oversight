@@ -80,6 +80,8 @@ Then there are a series of audit checks and validations to make sure the funds w
 
 Having gone through the audit checks and validation we prepare a funding plan. This is passed onto our DevOps team  who prepare a number of MIR transactions (MIR = Make it rain).
 
+The MIR transactions are signed by a set of 7 governance keys. Then the proposal funds are submitted on the mainnet.
+
 ![](<../../.gitbook/assets/Screenshot 2022-05-08 220526.png>)
 
 
