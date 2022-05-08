@@ -8,7 +8,13 @@
 
 ![](<../../.gitbook/assets/Screenshot 2022-05-08 180746.png>)
 
+### What is the Cardano Treasury ?
+
 ![](<../../.gitbook/assets/Screenshot 2022-05-08 180913.png>)
+
+### Treasury Growth
+
+![](<../../.gitbook/assets/Screenshot 2022-05-08 181222.png>)
 
 ## Cardano Treasury with Kevin Hammond - After Town Hall
 
