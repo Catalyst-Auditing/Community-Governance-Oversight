@@ -138,6 +138,8 @@ You can query the balance, if you have a running Node, there is a command line u
 
 02:51 - Who is making the governance decisions ? - Allison
 
+Who is in charge of that process that you laid out? Not from a technical standpoint, but from a making a decision? Who holds the governance keys ? What audit steps are necessary? What documentation is required ?&#x20;
+
 
 
 
