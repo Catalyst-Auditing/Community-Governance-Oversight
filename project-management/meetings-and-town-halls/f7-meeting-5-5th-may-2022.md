@@ -51,8 +51,8 @@ Andre & Mirolav - updates on Treasury setup, member payments, costs & expenses.&
 
 **5 minutes**&#x20;
 
-* 0:55 Stephen – The last meeting has already been paid for. A later meeting is needed to discuss this topic&#x20;
-* 01:35 Stephen – There's enough to pay for the slides and everything else
+* 0:55 Andre – We've paid everything except the surveys, retrospectives and reports. We need to do the math on that tomorrow, to be ready for when funds go in on 9th May.&#x20;
+* 01:35 Stephen – We've already paid for Town Hall slides and everything else
 
 {% hint style="info" %}
 **Action -** Deliverables budgeting - Andre & Stephen
@@ -84,10 +84,10 @@ Issue&#x20;
 
 {% embed url="https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/65" %}
 
-* 02:26 Stephen – Links to the proposal have been removed from the platforms at Town Hall. However, not all proposers did this during the voting period.&#x20;
+* 02:26 Stephen – Links to our F8 proposal have been removed from the Town Hall slides. However, not everyone presenting at Town Hall did this during the voting period.&#x20;
 * 03:03 Phil – Probably because some people were showing videos that were already pre-recorded before this was mentioned.&#x20;
-* 04:48 Phil – There needs to be a survey at some point on what people are thinking about this group.&#x20;
-* 04:55 Stephen – We will know next week if the F8 proposal has been funded.
+* 03:35 Phil – Might be interesting to know what external people are thinking about this group - perhaps a survey?
+* 04:53 Matthias – Voting on our F8 proposal might tell us that.
 
 {% hint style="info" %}
 **Action -**&#x20;
@@ -105,8 +105,9 @@ Stephen - Brief Review of the Project Board to check overall progress
 
 * 05:36 Stephen – There is a final report to be made, related to the report in progress. What was done is a literature review. There is progress across the board.
 * 6:49 Allison – There was communication with George, who would be interested in talking to the group and seeing if there is any synergy.&#x20;
-* 07:20 Stephen – It is necessary to get a context about what is happening in the challenge configuration, what to put in the final report and leave it there until the end of Fund 8.&#x20;
-* 08:08 Stephen – A meeting with George is valid so that information related to his funding can be added to the final report.
+* 07:20 Stephen – Need to get some context about what is happening in the challenge configuration, put that in our final report for this proposal, and leave it at that until Fund 8.&#x20;
+* 7:46 Phil - And we could report on the fund 8 vote, and how George approached it; whether voters understood what he was doing and, for example, whether equal wallets voted for all his challenge settings.
+* 08:08 Stephen – Best to meet with George to hear from him what information can be added to our final report.
 
 ## 5. F7 CGO Scope and Deliverables
 
@@ -171,19 +172,21 @@ Lack of clarity on cc terms - clarified at start of CCv3 - Vanessa
 * 13:48 Phil – Ro is more focused on data and system structures than defining challenges.&#x20;
 * 15:04 Stephen – We are having regular meetings about the circle and looking at the problem process.&#x20;
 * 15:34 Allison – It's an interesting project to help circle reps be more effective.
-* 16:10 Tevo – We are halfway there and the next sessions will be about the trouble phase the circuit is working on.&#x20;
+* 16:10 Tevo – We are halfway there and the next sessions will be about the prioritised problem stage the Circle is working on.&#x20;
 * 16:44 Stephen – We should look at how problems are coming up on the board, if there's community evidence behind it. In the Circle we are trying to come up with a method for measuring problems and then moving them around.&#x20;
-* 18:34 Stephen – It's interesting to combine a report that we have to deliver as part of the proposal and also the final report.&#x20;
+* 18:34 Stephen – Suggest combining the report that we have to deliver as part of the proposal and the final report.&#x20;
 * 19:04 Stephen – A shared document has been created that can be completed offline or at the next meeting.&#x20;
-* 20:20 Allison – As the circle is very transparent and shares its processes and content with the community, someone can comment on the absence of an election.&#x20;
-* 20:52 Vanessa – It's probably clarified that the circle would last for 6 months.
-* 21:29 Allison – A reminder about that would be nice.&#x20;
-* 22:21 Stephen – There's a huge oversight of the Alpha circle and similar issues at the next town hall, which won't be next week.&#x20;
-* 23:20 Vanessa – There was no consensus.&#x20;
+* 20:20 Allison – As this group is working to increase transparency of governance across Catalyst, maybe we should comment in our next town hall slides that there is not a Circle election happening now.&#x20;
+* 20:52 Vanessa – There was some confusion; was clarified at the start of CCv3 that CCv3 would last for 6 months.
+* 21:29 Allison – Useful to give a reminder to the community, especially as there was some confusion about it at the time of the last election.&#x20;
+* 22:21 Stephen – I think it's valid to mention it in our next Town Hall slides, the week after next.&#x20;
 * 24:08 Allison – There was indeed a lot of confusion and even some candidates didn't understand what the term was.&#x20;
-* 24:42 Vanessa – Most of the community is aware of the 6 month term and that there will be no upcoming election, but how it got to this point is not so clear.
-* 26:34 Vanessa – There may be some kind of question going on in CCP 3 at the time of the electoral process.&#x20;
-* 28:11 Phil – It's not official but the cadence period is 4 months based on the new schedule.
+* 24:42 Vanessa – Most of the community is probably aware of the 6 month term and that there will be no upcoming election, but how it got to this point is not so clear.
+* 26:34 Vanessa – There is discussion in CCv3 now about the electoral process for CCv4.&#x20;
+* 27:15 Phil – Cadence of the funding rounds is now effectively 4 months - should CC cadence stay in step with that?
+* 27:33 Allison -  That change of fund cadence is a parameter change
+* 28:39 Matthias - the change to fund 9 being in ADA is also a parameter change
+* 28:56 Stephen - let's hold those 2 things for the agenda item on parameter changes
 
 ### 5.3 D-reps
 
@@ -207,7 +210,7 @@ Meeting 10th May 2022
 **Action -**&#x20;
 {% endhint %}
 
-* 29:10 Stephen – D-reps rep Kendric is not present at the meeting. A first DAO governance literature review meeting took place with Steph from Wolfram and others, where the Zotero tool was reviewed; we're going to start holding these meetings regularly so they're likely to overlap with the fund 8 proposal.
+* 29:10 Stephen – Kenric is not here, so quick update: A first DAO governance literature review meeting took place with Steph from Wolfram and others, where the Zotero tool was reviewed; we're going to start holding these meetings regularly so they're likely to overlap with the fund 8 proposal.
 
 ### 5.4 **Governance parameters**
 
@@ -215,9 +218,7 @@ Meeting 10th May 2022
 
 Scope: Modifying the governance parameters in Catalyst via Catalyst Circle and a Technical Council
 
-Deliverables: This scope area is on hold. Some documentation work may be done
-
-We are thinking about what the parameter change would be
+Deliverables: This scope area is on hold from IOG's side. CGO are focusing on defining what a parameter change is, and documenting how parameter changes occur.
 
 Issue
 
@@ -237,16 +238,16 @@ Issue
 * Cost to submit proposals - different sources captured - Tevo&#x20;
 * Who decides - feedback to community - Phil&#x20;
 * Access to the research team ie the “Technical Council” and whoever else at IOG is involved in researching parameter changes? - PhilDocument parameter changes - to present back to IOG&#x20;
-* Alignment on what a parameter is between IOG, Oversight & communit&#x20;
-* Define a paramete&#x20;
+* Alignment on what a parameter is between IOG, Oversight & community
+* Define a parameter&#x20;
 * Catalogue existing parameters / new parameters Document where new parameters came from and where/how they were announced?
 
 
 
 * 30:30 Tevo – We have divided the parameters into two types, about the process and specific terms like number, date or some limit.&#x20;
-* 31:00 Tevo – To modify a parameter you must have a brief description and how it can be changed. 32:33 Stephen – A transcript of Kevin Hammond's meeting has been made, and will be turned into a frequently asked question about the Treasury. Two parameters emerged in this meeting. The first is the cadence format and the second is the idea.&#x20;
+* 31:00 Tevo – To modify a parameter you must have a brief description and how it can be changed. 32:33 Stephen – A transcript of Kevin Hammond's meeting has been made, and will be turned into an FAQ about the Treasury. Two parameters emerged in this meeting. The first is the cadence format and the second is the idea.&#x20;
 * 34:09 Phil – Now there is a way to ask for a review. Whether the reviews were unfairly removed or the VCAs are not working well.&#x20;
-* 34:32 Allison – There are two more associated with BCAAs. 1) is who is eligible to be a VCA. That was a parameter to change this background. 2) the introduction of a reputation model for BCAAs.&#x20;
+* 34:32 Allison – There are two more associated with VCAs. 1) is who is eligible to be a VCA. That was a parameter to change this background. 2) the introduction of a reputation model for VCAs.&#x20;
 * 34:51 Phil – A permissionless system was created for this petition process, we operate it, but we've been hamstrung. We don't have any community agency, we get things started but we don't have control over the effects and the existing processes. We have a team doing research, but so is the community.&#x20;
 * 36:39 Stephen – It's not clear how the parameter changes are made. The order that was perceived is: community design a petition process > getting results > which are taken to IOG > next step is unknown.&#x20;
 * 37:10 Phil – We as a community need IOG to take some steps forward. It gets to a point where the community has already developed these posts well but IOG needs to provide feedback.&#x20;
@@ -266,12 +267,12 @@ Issue
 * 54:09 Stephen – Danny was invited to the meeting, but there was a time conflict with another appointment of his.&#x20;
 * 56:37 Phil – The parameter needs some time to be created, discussed, changed and moved. Our purpose as a group is to start looking at this and informing the community as transparently as possible.&#x20;
 * 57:23 Tevo – An example of this would be taking this four-month cadence, for example, and then turning it into a parameter. It would be interesting to document this process.&#x20;
-* 58:52 Stephen – The big question is, like, what is an alignment of parameters through the IG oversight committee? What is the parameter? And do we have a perception of what a parameter is?&#x20;
+* 58:52 Stephen – The big question is, like, what is an alignment of parameters through the IOG oversight committee? What is the parameter? And do we have a perception of what a parameter is?&#x20;
 * 59:24 Phil – We need to set a parameter both internally and externally, catalog the ones that already exist and how we see them.&#x20;
 * 01:00:31 Vanessa – We can list about the parameters where they came from, where they were first mentioned, or released and so on.&#x20;
 * 01:01:12 Allison – It would be important to bring someone to IOG for this conversation.&#x20;
-* 01:01:46 Stephen – A meeting is needed before the next CTO meeting.&#x20;
-* 01:02:16 Phil – At this meeting we would discuss what we define as parameters and a categorized list of those we identify, and we would like to present that at the next Townhall.
+* 01:01:46 Stephen – A meeting is needed before the next CGO meeting.&#x20;
+* 01:02:16 Phil – At this meeting we would discuss what we define as parameters and a categorized list of those we identify, and we would like to present that at the next Town Hall.
 
 {% hint style="info" %}
 **Action -** Hold a CGO meeting to discuss next week.
