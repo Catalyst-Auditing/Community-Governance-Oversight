@@ -322,13 +322,15 @@ High level visual representation to see roles, actives and relations 3 sessions 
 
 Overview video planned
 
-Open data meeting with Harris Phil - Lidonation, Ro etc LATAM Community are working on creating a manifesto&#x20;
+Open data meeting with Harris Phil - Lidonation, Ro etc&#x20;
+
+LATAM Community are working on creating a manifesto&#x20;
 
 After Townhall breakout rooms are not yet decided
 
-* 01:10:04 Stephen – The reporting proposal is for the 24th. We'll have another meeting on another business, there's a summary of today's meeting for the weekly newsletter. This summary can be edited collaboratively.&#x20;
+* 01:10:04 Stephen – Proposal reporting is not until 24th; so to be discussed next meeting. On AOB, there's a Discord thread for creating summary of today's meeting for the weekly newsletter. This summary can be edited collaboratively.&#x20;
 * 01:10:43 Stephen – The draw is already there too.&#x20;
 * 01:11:01 Stephen – We are discussing parameter changes, twittering all our meetings. We've done a lot of production in the last couple of weeks and I can sum it all up. Any AOP is also geared towards this type of last update as to what else is going on as well. So the Constitutional Working Group retires, for example.
-* 01:12:00 Vanessa – Other Catalyst communities (for example, those that speak other languages) are also having governance initiatives. For example, the Latino community is creating a manifesto, doing ongoing and interesting work on it. It is important that people are aware of this.
+* 01:12:00 Vanessa – Other Catalyst communities are also having governance initiatives. For example, the LatAm community is creating a Catalyst manifesto, doing ongoing and interesting work on it - they will be sharing that more widely when it's ready.
 
 **Next Meeting: 15:00 UTC, 19th May 2022**
