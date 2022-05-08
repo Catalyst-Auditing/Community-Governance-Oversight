@@ -78,11 +78,17 @@ At present we have voting on the Catalyst Sidechain. Votes are automatically tal
 
 Then there are a series of audit checks and validations to make sure the funds will be dispersed as expected.
 
-Having gone through the audit checks and validation we prepare a funding plan. This is passed onto our DevOps team  who prepare a number of MIR transactions (MIR = Make it rain).
+Having gone through the audit checks and validation we prepare a funding plan. This is passed onto our DevOps team  who prepare a number of MIR transactions (MIR = central fund transfer).
 
 The MIR transactions are signed by a set of 7 governance keys. Then the proposal funds are submitted on the mainnet.
 
 ![](<../../.gitbook/assets/Screenshot 2022-05-08 220526.png>)
+
+### Central Funds Transfers (MIRS)
+
+[1:06:32](https://youtu.be/ppM\_ogWPcJw?t=3992)
+
+![](<../../.gitbook/assets/Screenshot 2022-05-09 002016.png>)
 
 
 
