@@ -144,7 +144,7 @@ At an Catalyst After Town Hall of April 20th 2022, [Kevin Hammond](https://iohk.
 
 > In terms of the decision making process, we're evolving. At the moment we're transitioning from the bootstrapping process where IOG has had de facto control over the system using authority delegated to it by the Cardano Foundation to one where we will have an open governance system.
 
-I don't know exactly at this point of time how that open governance system is going to work out. So you need to stay tuned to this.
+I don't know exactly at this point of time how that open governance system is going to work out. So you need to stay tuned to this. But the intention is very much that IO will be part of the process but not controlling the process.
 
 ## References
 
