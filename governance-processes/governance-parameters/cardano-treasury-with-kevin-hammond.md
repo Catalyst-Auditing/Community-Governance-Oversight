@@ -16,6 +16,10 @@
 
 ![](<../../.gitbook/assets/Screenshot 2022-05-08 181222.png>)
 
+### How is the Treasury Funded ?
+
+![](<../../.gitbook/assets/Screenshot 2022-05-08 183923.png>)
+
 ## After Town Hall - Q\&A
 
 {% embed url="https://youtu.be/yG0lifQOaFk" %}
