@@ -72,7 +72,13 @@ In addition there are Governance and System Managements costs. And scope for cha
 
 [1:04:20](https://youtu.be/ppM\_ogWPcJw?t=3860)
 
+How are our decisions taken ?&#x20;
 
+At present we have voting on the Catalyst Sidechain. Votes are automatically tallied in an extensive process.&#x20;
+
+Then there are a series of audit checks and validations to make sure the funds will be dispersed as expected.
+
+Having gone through the audit checks and validation we prepare a funding plan. This is passed onto our DevOps team  who prepare a number of MIR transactions (MIR = Make it rain).
 
 ![](<../../.gitbook/assets/Screenshot 2022-05-08 220526.png>)
 
