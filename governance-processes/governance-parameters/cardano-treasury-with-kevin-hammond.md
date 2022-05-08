@@ -1,3 +1,9 @@
+---
+description: >-
+  A Catalyst Town Hall Presentation on the Cardano Treasury with an After Town
+  Hall Q&A
+---
+
 # Cardano Treasury with Kevin Hammond
 
 ## Catalyst Town Hall Presentation
