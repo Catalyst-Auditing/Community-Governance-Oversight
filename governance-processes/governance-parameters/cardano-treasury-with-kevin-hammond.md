@@ -18,6 +18,8 @@
 
 [1:00:12](https://youtu.be/ppM\_ogWPcJw?t=3612)
 
+The Treasury has healthy growth from the Shelley to the Alonzo eras. This is important because the Treasury is a war chest to help fund work we need to do on Cardano.
+
 ![](<../../.gitbook/assets/Screenshot 2022-05-08 181222.png>)
 
 ### How is the Treasury Funded ?
