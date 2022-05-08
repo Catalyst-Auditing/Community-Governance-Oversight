@@ -12,7 +12,11 @@ At an Catalyst After Town Hall of April 20th 2022, [Kevin Hammond](https://iohk.
 
 
 
+## Questions
 
+### Is there a Treasury Address ? How can it be queried ?
 
+On Cardano we have addresses that are controlled by private and public keys. So Treasury has some sort of multi SIG functionality. But I've never seen a treasury address. Is it an address? Can we query it somewhere? - Filip
 
+0:51 - Is there a Treasury Address ? How can it be queried ? - Filip
 
