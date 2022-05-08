@@ -134,6 +134,10 @@ There are special rules that govern it. In order to draw from the treasury, it d
 
 You can query the balance, if you have a running Node, there is a command line utility or Cardano. CLI that you can get the balance of the Treasury and the reserves at any time.&#x20;
 
+### Who is making the governance decisions ?
+
+02:51 - Who is making the governance decisions ? - Allison
+
 
 
 
