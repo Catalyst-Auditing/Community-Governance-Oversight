@@ -34,6 +34,14 @@ The Treasury has healthy growth from the Shelley to the Alonzo eras. This is imp
 
 [1:00:53](https://youtu.be/ppM\_ogWPcJw?t=3653)
 
+We are currently at about 800 million ADA. This comes from two places&#x20;
+
+1\) monetary expansion from the Cardano reserves. The Cardano reserve is a fixed amount of ADA put aside when blockchain created which is gradually being burnt down to expand the treasury.
+
+2\) blockchain fees to process transactions
+
+The proportion of the treasury funded from blockchain fees rather than from Cardano reserves will increase over time.
+
 ![](<../../.gitbook/assets/Screenshot 2022-05-08 183923.png>)
 
 ## After Town Hall - Q\&A
