@@ -10,9 +10,13 @@
 
 ### What is the Cardano Treasury ?
 
+[59:37](https://youtu.be/ppM\_ogWPcJw?t=3577)
+
 ![](<../../.gitbook/assets/Screenshot 2022-05-08 180913.png>)
 
 ### Treasury Growth
+
+[1:00:12](https://youtu.be/ppM\_ogWPcJw?t=3612)
 
 ![](<../../.gitbook/assets/Screenshot 2022-05-08 181222.png>)
 
