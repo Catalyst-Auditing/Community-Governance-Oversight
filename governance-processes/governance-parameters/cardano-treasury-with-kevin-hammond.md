@@ -2,6 +2,8 @@
 
 ## Catalyst Town Hall Presentation
 
+At a Catalyst Town Hall of April 20th 2022, [Kevin Hammond](https://iohk.io/en/team/kevin-hammond) an IOHK Technology manager supported by [ared Corduan](https://iohk.io/en/team/jared-corduan) an IOHK Software Engineering gave a presentation on the Cardano Treasury.
+
 {% embed url="https://youtu.be/ppM_ogWPcJw?t=3526" %}
 
 ## Slides
