@@ -40,7 +40,7 @@ We are currently at about 800 million ADA. This comes from two places&#x20;
 
 2\) blockchain fees to process transactions
 
-The proportion of the treasury funded from blockchain fees rather than from Cardano reserves will increase over time. There is also the unspent treasury carried forward from the previous period. The temporal units in Cardano are Epochs, which means the treasury gets topped up evrey Epoch.
+The proportion of the treasury funded from blockchain fees rather than from Cardano reserves will increase over time. There is also the unspent treasury carried forward from the previous period. The temporal units in Cardano are Epochs. Which means the treasury gets topped up evrey Epoch by expansion from the reserves and fees.
 
 ![](<../../.gitbook/assets/Screenshot 2022-05-08 183923.png>)
 
