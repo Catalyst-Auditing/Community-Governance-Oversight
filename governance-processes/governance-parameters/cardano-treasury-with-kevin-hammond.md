@@ -124,27 +124,27 @@ On Cardano we have addresses that are controlled by private and public keys. So 
 
 01:28 - Jared Corduan
 
-Its not an address in the usual sense. All 45 billion ADA are a part of one of what I like to call the six pots of ADA.&#x20;
+> Its not an address in the usual sense. All 45 billion ADA are a part of one of what I like to call the six pots of ADA.&#x20;
 
-The reserves in the treasury are two of those pots of ADA.&#x20;
+> The reserves in the treasury are two of those pots of ADA.&#x20;
 
-Even though they're not technically an address, they don't show up in the UTXO set, they are not one of the unspent transaction outputs.&#x20;
+> Even though they're not technically an address, they don't show up in the UTXO set, they are not one of the unspent transaction outputs.&#x20;
 
-There are special rules that govern it. In order to draw from the treasury, it does require quorum many signatures from the governance nodes.&#x20;
+> There are special rules that govern it. In order to draw from the treasury, it does require quorum many signatures from the governance nodes.&#x20;
 
-You can query the balance, if you have a running Node, there is a command line utility or Cardano. CLI that you can get the balance of the Treasury and the reserves at any time.&#x20;
+> You can query the balance, if you have a running Node, there is a command line utility or Cardano. CLI that you can get the balance of the Treasury and the reserves at any time.&#x20;
 
 ### Who is making the governance decisions ?
 
 02:51 - Who is making the governance decisions ? - Allison
 
-Who is in charge of that process that you laid out? Not from a technical standpoint, but from a making a decision? Who holds the governance keys ? What audit steps are necessary? What documentation is required ?&#x20;
+> Who is in charge of that process that you laid out? Not from a technical standpoint, but from a making a decision? Who holds the governance keys ? What audit steps are necessary? What documentation is required ?&#x20;
 
-Where are these funds considered to be legally domiciled ? So if I'm running a business and getting funds, where is my counterparty located? Who is doing customer due diligence typical of a business that's dispersing funds ?
+> Where are these funds considered to be legally domiciled ? So if I'm running a business and getting funds, where is my counterparty located? Who is doing customer due diligence typical of a business that's dispersing funds ?
 
 04:13 - Kevin Hammond
 
-In terms of the decision making process, we're evolving. At the moment we're transitioning from the bootstrapping process where IOG has had de facto control over the system using authority delegated to it by the Cardano Foundation.
+> In terms of the decision making process, we're evolving. At the moment we're transitioning from the bootstrapping process where IOG has had de facto control over the system using authority delegated to it by the Cardano Foundation.
 
 
 
