@@ -146,6 +146,10 @@ At an Catalyst After Town Hall of April 20th 2022, [Kevin Hammond](https://iohk.
 
 I don't know exactly at this point of time how that open governance system is going to work out. So you need to stay tuned to this. But the intention is very much that IO will be part of the process but not controlling the process.
 
+05:13 - Jared
+
+There are seven keys. IO has three, Emurgo has two and Cardano Foundation has two and the quorum is five.
+
 ## References
 
 ### [Understanding the Extended UTXO model](https://docs.cardano.org/plutus/eutxo-explainer)
