@@ -142,7 +142,9 @@ Who is in charge of that process that you laid out? Not from a technical standpo
 
 Where are these funds considered to be legally domiciled ? So if I'm running a business and getting funds, where is my counterparty located? Who is doing customer due diligence typical of a business that's dispersing funds ?
 
+04:13 - Kevin Hammond
 
+In terms of the decision making process, we're evolving. At the moment we're transitioning from the bootstrapping process where IOG has had de facto control over the system using authority delegated to it by the Cardano Foundation.
 
 
 
