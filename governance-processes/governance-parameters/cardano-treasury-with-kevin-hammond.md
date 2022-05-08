@@ -90,19 +90,13 @@ The MIR transactions are signed by a set of 7 governance keys. Then the proposal
 
 A central fund transfer can work in two ways -
 
-A transfer between treasury and the reserves. These are periodic accounting moves made to balance the books. Analougous to central bank transactions.
+1\) A transfer between treasury and the reserves. These are periodic accounting moves made to balance the books. Analougous to central bank transactions.
 
-The MIR transactions transfer funds to a series of rewards addresses. A single MIR  transaction can transfer funds to 300 reward addresses.
+2\) The MIR transactions transfer funds to a series of rewards addresses. A single MIR  transaction can transfer funds to 300 reward addresses.
 
 
 
 ![](<../../.gitbook/assets/Screenshot 2022-05-09 002016.png>)
-
-
-
-
-
-
 
 ## After Town Hall - Q\&A
 
