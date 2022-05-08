@@ -56,6 +56,18 @@ How are the rewards calculated ? What happens is that the reserves and the fees 
 
 ![](<../../.gitbook/assets/Screenshot 2022-05-08 215727.png>)
 
+### What is the Treasury used for ?
+
+[1:02:55](https://youtu.be/ppM\_ogWPcJw?t=3775)
+
+
+
+
+
+
+
+
+
 ## After Town Hall - Q\&A
 
 {% embed url="https://youtu.be/yG0lifQOaFk" %}
