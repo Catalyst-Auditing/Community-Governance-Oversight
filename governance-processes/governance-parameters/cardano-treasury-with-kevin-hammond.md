@@ -32,6 +32,8 @@ The Treasury has healthy growth from the Shelley to the Alonzo eras. This is imp
 
 ### How is the Treasury Funded ?
 
+[1:00:53](https://youtu.be/ppM\_ogWPcJw?t=3653)
+
 ![](<../../.gitbook/assets/Screenshot 2022-05-08 183923.png>)
 
 ## After Town Hall - Q\&A
