@@ -44,6 +44,12 @@ The proportion of the treasury funded from blockchain fees rather than from Card
 
 ![](<../../.gitbook/assets/Screenshot 2022-05-08 183923.png>)
 
+## Rewards distribution
+
+[1:02:07](https://youtu.be/ppM\_ogWPcJw?t=3727)
+
+![](<../../.gitbook/assets/Screenshot 2022-05-08 215727.png>)
+
 ## After Town Hall - Q\&A
 
 {% embed url="https://youtu.be/yG0lifQOaFk" %}
