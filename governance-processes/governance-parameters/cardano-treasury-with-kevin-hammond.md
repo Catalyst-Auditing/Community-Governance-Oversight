@@ -60,6 +60,12 @@ How are the rewards calculated ? What happens is that the reserves and the fees 
 
 [1:02:55](https://youtu.be/ppM\_ogWPcJw?t=3775)
 
+![](<../../.gitbook/assets/Screenshot 2022-05-08 221637.png>)
+
+
+
+How are Funds Allocated ?
+
 ![](<../../.gitbook/assets/Screenshot 2022-05-08 220526.png>)
 
 
