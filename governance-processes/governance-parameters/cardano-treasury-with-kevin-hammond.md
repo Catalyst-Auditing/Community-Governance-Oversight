@@ -50,9 +50,9 @@ The proportion of the treasury funded from blockchain fees rather than from Card
 
 How are the rewards calculated ? What happens is that the reserves and the fees are put into a rewards pot. This is distributed in two ways -&#x20;
 
-1\) 80% goes into Pool rewards distrubuted via charges to each Stake Pool and given out as User Rewards.
+1\) 80% goes into Pool rewards distributed via charges to each Stake Pool and given out as User Rewards.
 
-&#x20;
+2\) 20% goes into the Treasury.&#x20;
 
 ![](<../../.gitbook/assets/Screenshot 2022-05-08 215727.png>)
 
