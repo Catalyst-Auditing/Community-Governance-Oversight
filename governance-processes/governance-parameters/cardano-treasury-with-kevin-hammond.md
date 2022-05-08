@@ -142,7 +142,7 @@ On Cardano we have addresses that are controlled by private and public keys. So 
 
 04:13 - Kevin Hammond
 
-> In terms of the decision making process, we're evolving. At the moment we're transitioning from the bootstrapping process where IOG has had de facto control over the system using authority delegated to it by the Cardano Foundation.
+> In terms of the decision making process, we're evolving. At the moment we're transitioning from the bootstrapping process where IOG has had de facto control over the system using authority delegated to it by the Cardano Foundation to one where we will have an open governance syste
 
 ## References
 
