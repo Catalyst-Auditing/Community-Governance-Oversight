@@ -40,7 +40,7 @@ We are currently at about 800 million ADA. This comes from two places&#x20;
 
 2\) blockchain fees to process transactions
 
-The proportion of the treasury funded from blockchain fees rather than from Cardano reserves will increase over time.
+The proportion of the treasury funded from blockchain fees rather than from Cardano reserves will increase over time. There is also the unspent treasury carried foward from the previous period.
 
 ![](<../../.gitbook/assets/Screenshot 2022-05-08 183923.png>)
 
