@@ -168,7 +168,7 @@ Lack of clarity on cc terms - clarified at start of CCv3 - Vanessa
 {% endhint %}
 
 * 12:43 Phil – Due to the time difference between Ro and the rest of the members, a separate meeting can also be held for him.&#x20;
-* 13:28 Stephen – There could be about 6 meetings that would not need to be recorded.&#x20;
+* 13:28 Stephen – Probably best to have a separate meeting that we can record.
 * 13:48 Phil – Ro is more focused on data and system structures than defining challenges.&#x20;
 * 15:04 Stephen – We are having regular meetings about the circle and looking at the problem process.&#x20;
 * 15:34 Allison – It's an interesting project to help circle reps be more effective.
