@@ -16,7 +16,7 @@
 
 ![](<../../.gitbook/assets/Screenshot 2022-05-08 181222.png>)
 
-## Cardano Treasury with Kevin Hammond - After Town Hall
+## After Town Hall - Q\&A
 
 {% embed url="https://youtu.be/yG0lifQOaFk" %}
 
