@@ -62,7 +62,9 @@ How are the rewards calculated ? What happens is that the reserves and the fees 
 
 **Catalyst Projects** - supporting the Cardano Ecosystem.
 
-**Core Cardano Development** - we will need to start dipping into Treasury to fund Core Cardano Development. At present IO is funding all the development on Cardano but this will change to come from Treasury and allocated to various developers to propell things forward.
+**Core Cardano Development** - we will need to start dipping into Treasury to fund Core Cardano Development. At present IO is funding all the development on Cardano but this will change to come from Treasury and allocated to various developers to propel things forward.
+
+In addition there are Governance and System Managements costs. And scope for charitable or academiuc funding.
 
 ![](<../../.gitbook/assets/Screenshot 2022-05-08 221637.png>)
 
