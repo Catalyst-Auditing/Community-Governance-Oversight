@@ -22,7 +22,7 @@ On Cardano we have addresses that are controlled by private and public keys. So 
 
 0:51 - Is there a Treasury Address ? How can it be queried ? - Filip
 
-Jared Corduan
+01:28 - Jared Corduan
 
 Its not an address in the usual sense. All 45 billion ADA are a part of one of what I like to call the six pots of ADA.&#x20;
 
