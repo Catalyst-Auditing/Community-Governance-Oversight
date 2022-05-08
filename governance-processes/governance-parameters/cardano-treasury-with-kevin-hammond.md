@@ -118,7 +118,7 @@ At an Catalyst After Town Hall of April 20th 2022, [Kevin Hammond](https://iohk.
 
 0:51 - Is there a Treasury Address ? How can it be queried ? - Filip
 
-On Cardano we have addresses that are controlled by private and public keys. So Treasury has some sort of multi SIG functionality. But I've never seen a treasury address. Is it an address? Can we query it somewhere? - Filip
+> On Cardano we have addresses that are controlled by private and public keys. So Treasury has some sort of multi SIG functionality. But I've never seen a treasury address. Is it an address? Can we query it somewhere? - Filip
 
 01:28 - Jared Corduan
 
@@ -142,7 +142,7 @@ On Cardano we have addresses that are controlled by private and public keys. So 
 
 04:13 - Kevin Hammond
 
-> In terms of the decision making process, we're evolving. At the moment we're transitioning from the bootstrapping process where IOG has had de facto control over the system using authority delegated to it by the Cardano Foundation to one where we will have an open governance syste
+> In terms of the decision making process, we're evolving. At the moment we're transitioning from the bootstrapping process where IOG has had de facto control over the system using authority delegated to it by the Cardano Foundation to one where we will have an open governance system.
 
 ## References
 
