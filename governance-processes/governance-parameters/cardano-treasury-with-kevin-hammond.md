@@ -34,7 +34,7 @@ The Treasury has healthy growth from the Shelley to the Alonzo eras. This is imp
 
 [1:00:53](https://youtu.be/ppM\_ogWPcJw?t=3653)
 
-We are currently at about 800 million ADA. This comes from two places&#x20;
+We are currently at about 800 million ADA. This comes from two places
 
 1\) monetary expansion from the Cardano reserves. The Cardano reserve is a fixed amount of ADA put aside when blockchain created which is gradually being burnt down to expand the treasury.
 
@@ -48,11 +48,11 @@ The proportion of the treasury funded from blockchain fees rather than from Card
 
 [1:02:07](https://youtu.be/ppM\_ogWPcJw?t=3727)
 
-How are the rewards calculated ? What happens is that the reserves and the fees are put into a rewards pot. This is distributed in two ways -&#x20;
+How are the rewards calculated ? What happens is that the reserves and the fees are put into a rewards pot. This is distributed in two ways -
 
 1\) 80% goes into Pool rewards distributed via charges to each Stake Pool and given out as User Rewards.
 
-2\) 20% goes into the Treasury.&#x20;
+2\) 20% goes into the Treasury.
 
 ![](<../../.gitbook/assets/Screenshot 2022-05-08 215727.png>)
 
@@ -72,13 +72,13 @@ In addition there are Governance and System Managements costs. And scope for cha
 
 [1:04:20](https://youtu.be/ppM\_ogWPcJw?t=3860)
 
-How are our decisions taken ?&#x20;
+How are our decisions taken ?
 
-At present we have voting on the Catalyst Sidechain. Votes are automatically tallied in an extensive process.&#x20;
+At present we have voting on the Catalyst Sidechain. Votes are automatically tallied in an extensive process.
 
 Then there are a series of audit checks and validations to make sure the funds will be dispersed as expected.
 
-Having gone through the audit checks and validation we prepare a funding plan. This is passed onto our DevOps team  who prepare a number of MIR transactions (MIR = central fund transfer).
+Having gone through the audit checks and validation we prepare a funding plan. This is passed onto our DevOps team who prepare a number of MIR transactions (MIR = central fund transfer).
 
 The MIR transactions are signed by a set of 7 governance keys. Then the proposal funds are submitted on the mainnet.
 
@@ -92,9 +92,7 @@ A central fund transfer can work in two ways -
 
 1\) A transfer between treasury and the reserves. These are periodic accounting moves made to balance the books. Analougous to central bank transactions.
 
-2\) The MIR transactions transfer funds to a series of rewards addresses. A single MIR  transaction can transfer funds to 300 reward addresses.
-
-
+2\) The MIR transactions transfer funds to a series of rewards addresses. A single MIR transaction can transfer funds to 300 reward addresses.
 
 ![](<../../.gitbook/assets/Screenshot 2022-05-09 002016.png>)
 
@@ -118,35 +116,33 @@ At an Catalyst After Town Hall of April 20th 2022, [Kevin Hammond](https://iohk.
 
 ### Is there a Treasury Address ? How can it be queried ?
 
-On Cardano we have addresses that are controlled by private and public keys. So Treasury has some sort of multi SIG functionality. But I've never seen a treasury address. Is it an address? Can we query it somewhere? - Filip
-
 0:51 - Is there a Treasury Address ? How can it be queried ? - Filip
+
+On Cardano we have addresses that are controlled by private and public keys. So Treasury has some sort of multi SIG functionality. But I've never seen a treasury address. Is it an address? Can we query it somewhere? - Filip
 
 01:28 - Jared Corduan
 
-> Its not an address in the usual sense. All 45 billion ADA are a part of one of what I like to call the six pots of ADA.&#x20;
+> Its not an address in the usual sense. All 45 billion ADA are a part of one of what I like to call the six pots of ADA.
 
-> The reserves in the treasury are two of those pots of ADA.&#x20;
+> The reserves in the treasury are two of those pots of ADA.
 
-> Even though they're not technically an address, they don't show up in the UTXO set, they are not one of the unspent transaction outputs.&#x20;
+> Even though they're not technically an address, they don't show up in the UTXO set, they are not one of the unspent transaction outputs.
 
-> There are special rules that govern it. In order to draw from the treasury, it does require quorum many signatures from the governance nodes.&#x20;
+> There are special rules that govern it. In order to draw from the treasury, it does require quorum many signatures from the governance nodes.
 
-> You can query the balance, if you have a running Node, there is a command line utility or Cardano. CLI that you can get the balance of the Treasury and the reserves at any time.&#x20;
+> You can query the balance, if you have a running Node, there is a command line utility or Cardano. CLI that you can get the balance of the Treasury and the reserves at any time.
 
 ### Who is making the governance decisions ?
 
 02:51 - Who is making the governance decisions ? - Allison
 
-> Who is in charge of that process that you laid out? Not from a technical standpoint, but from a making a decision? Who holds the governance keys ? What audit steps are necessary? What documentation is required ?&#x20;
+> Who is in charge of that process that you laid out? Not from a technical standpoint, but from a making a decision? Who holds the governance keys ? What audit steps are necessary? What documentation is required ?
 
 > Where are these funds considered to be legally domiciled ? So if I'm running a business and getting funds, where is my counterparty located? Who is doing customer due diligence typical of a business that's dispersing funds ?
 
 04:13 - Kevin Hammond
 
 > In terms of the decision making process, we're evolving. At the moment we're transitioning from the bootstrapping process where IOG has had de facto control over the system using authority delegated to it by the Cardano Foundation.
-
-
 
 ## References
 
