@@ -33,3 +33,13 @@ Even though they're not technically an address, they don't show up in the UTXO s
 There are special rules that govern it. In order to draw from the treasury, it does require quorum many signatures from the governance nodes.&#x20;
 
 You can query the balance, if you have a running Node, there is a command line utility or Cardano. CLI that you can get the balance of the Treasury and the reserves at any time.&#x20;
+
+
+
+
+
+## References
+
+### [Understanding the Extended UTXO model](https://docs.cardano.org/plutus/eutxo-explainer)
+
+Cardano (like Bitcoin) is an Unspent Transaction Output (UTXO)-based blockchain, which utilizes a different accounting model for its ledger from other account-based blockchains like Ethereum. Cardano implements an innovative [Extended Unspent Transaction Output (EUTXO) model](https://iohk.io/en/blog/posts/2021/03/11/cardanos-extended-utxo-accounting-model/), which is introduced by the Alonzo upgrade to support multi-assets and smart contracts.
