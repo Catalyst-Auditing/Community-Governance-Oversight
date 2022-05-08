@@ -68,9 +68,11 @@ In addition there are Governance and System Managements costs. And scope for cha
 
 ![](<../../.gitbook/assets/Screenshot 2022-05-08 221637.png>)
 
+### How are Funds Allocated ?
+
+[1:04:20](https://youtu.be/ppM\_ogWPcJw?t=3860)
 
 
-How are Funds Allocated ?
 
 ![](<../../.gitbook/assets/Screenshot 2022-05-08 220526.png>)
 
