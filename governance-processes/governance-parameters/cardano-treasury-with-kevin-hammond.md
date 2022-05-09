@@ -334,6 +334,10 @@ So this \[CIP] process where ideas are being surfaced by the community has some 
 
 I'm very aware of the extraordinary expense that IOG has borne and is continuing to bear. At some point the Treasury will have to begin to bear that. Is IOG simply going to hang on and keep spending until this whole governance system is in place and vetted, functional and 100% blissfully glorious, or is there something else that we should know?
 
+24:30 - Kevin Hammond
+
+You're asking me here a question about IoT is company's strategy. The the reality is there has to come a point when IOG stop spending its money because it's a profit making company.
+
 ## References
 
 ### Cardano Improvement Proposals (CIPs) <a href="#cardanoimprovementproposalscips" id="cardanoimprovementproposalscips"></a>
