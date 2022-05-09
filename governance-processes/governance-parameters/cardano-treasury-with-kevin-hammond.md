@@ -453,11 +453,15 @@ Kevin's is actually the gentleman behind the giant spreadsheet that tracks every
 
 ### Is there an agreement that exchanges do not vote ?
 
-38:34 - Filip
+[38:34](https://www.youtube.com/watch?v=yG0lifQOaFk\&t=2314s) - Filip
 
 We know that exchanges have pools. If exchanges have pools they have normal Shelly staking addresses. If they have normal Shelly staking addresses they have voting rights with those addresses. If they don't use Enterprise addresses, they can vote.&#x20;
 
 So my question is there an agreement? They don't do that? Is there some sort of filtering if they do that?
+
+40:11 - Kevin Hammond
+
+Any ADA holder can vote.
 
 ## References
 
