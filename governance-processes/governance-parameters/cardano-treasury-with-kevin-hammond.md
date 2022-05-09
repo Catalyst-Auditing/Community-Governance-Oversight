@@ -443,6 +443,14 @@ You can transfer ADA in an asset, but it's not broken down. As Jared mentioned t
 
 Unfortunately there is not a super easy way to do it. There is a query command. It's called ledger, state query, space ledger state. That command is unfortunately massive. It produces a gigantic JSON blob.&#x20;
 
+Kevin will give you the jQuery command and filter out just the number you want?
+
+### Background
+
+[36:54](https://www.youtube.com/watch?v=yG0lifQOaFk\&t=2194s) - Daniel Ribar
+
+Kevin's is actually the gentleman behind the giant spreadsheet that tracks everything that changes in each epoch. If you've seen that floating around. What's the Treasury balance, and like, what are the different movements and whatnot? Well, that's his work. And it was actually the first source of information that we ever had. And I remember arranging it into our Google Spreadsheets, and we still do to these dates. So just in case, just just the fun fact. It's his hobby now.
+
 ## References
 
 ### A Treasury System for Cryptocurrencies
