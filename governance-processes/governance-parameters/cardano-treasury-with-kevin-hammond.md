@@ -344,6 +344,8 @@ It is very expensive to develop and maintain blockchains, particularly to very h
 
 There's going to be a transition at some point. How this develops in terms of who pays for what, because IOG will always have some things that IOG wants to do and that maybe the community is less interested in. Well, if IOG is prepared to pay for that, why shouldn't it ?
 
+But equally, there will be things that the community feels should be done. The community paying for that will need to work out the best way to get those things done going forward.
+
 ## References
 
 ### Cardano Improvement Proposals (CIPs) <a href="#cardanoimprovementproposalscips" id="cardanoimprovementproposalscips"></a>
