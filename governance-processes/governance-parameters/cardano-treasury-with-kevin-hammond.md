@@ -405,11 +405,21 @@ At the moment it's lopsided. But the transaction volume is growing. We're buildi
 
 The margin expansion that I mentioned, the reserves expansion, this is not on a constant rate is declining over time. So the funding coming from the reserves is declining. The expectation is that fees will balance out and there's a plan for a crossover at some point in the future. Obviously, we need to keep building up the volumes and we need to make sure we can take sufficient value from the system.
 
-Do you give any consideration to the value of ADA ?
+### Do you give any consideration to the value of ADA ?
 
 32:39 -&#x20;
 
 Do you give any consideration to the value of ADA when funds are distributed and where the Treasury is being used?
+
+32:49 - Kevin Hammond
+
+In terms of disbursement? Yes, absolutely its going to be critical.
+
+Because although the treasuries are denominated in ADA, in fact, we'll see that Catalyst is moving to ADA disbursement of funds. Outside the ADA ecosystem, our people pay their bills in dollars, or Sterling, or Yen or whatever the currency is.
+
+&#x20;So the reality is that the bills that will come in for Core Cardano development will certainly be in terms of some Fiat value.
+
+, they'll be eight valence transferred, is going to need to be converted are either off on the card on his side or on the side of the recipient, the party that's carrying out the work. What I would imagine happening is, so the question then is is, where's the risk lie? Does? Is it with the with the current system? Is it with the vendor, the provider to make sure that their costs are covered properly? We'll need something we need to debate.
 
 ## References
 
