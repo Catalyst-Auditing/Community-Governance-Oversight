@@ -158,7 +158,13 @@ Just delegated from CF to IOG. So IOG basically handles five.
 
 Yes. I know for a fact that the delegation at the moment is to IOG staff who are very carefully vetted and follow very strict security and operational process. This is the de facto rather than  de jure position.
 
+### Who decided that it's a five of seven quorum ?
 
+06:25 - Allison
+
+I do come at this as in a position of being very appreciative of the work IOG is doing to move towards true Decentralized Governance. My questions are more as a business person trying to understand the status quo. So I can answer some questions for my accountant and satisfy my intellectual curiosity.&#x20;
+
+Using this example of the keys. Who decided that it's a five of seven quorum.
 
 
 
