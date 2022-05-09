@@ -459,15 +459,19 @@ We know that exchanges have pools. If exchanges have pools they have normal Shel
 
 So my question is there an agreement? They don't do that? Is there some sort of filtering if they do that?
 
-40:11 - Kevin Hammond
+40:02 - Kevin Hammond
 
 Any ADA holder can vote.
 
-40:00 - Matthew
+40:11 - Matthew
 
 You might find that there are fiduciary and custodial obligations that would prevent voting of normal shareholdings by a mutual fund administrator. Those kinds of considerations might apply.
 
 So there might be an abundance of caution and reluctance to vote in Catalyst by those large pool operators or large, centralized entities.&#x20;
+
+40:53 - Kevin Hammond
+
+Thank you, Matthew.There's nothing technically to prevent it. And if you think about it, you couldn't do that easily because we have an anonymous blockchain.&#x20;
 
 
 
