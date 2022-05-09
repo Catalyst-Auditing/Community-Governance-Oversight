@@ -419,7 +419,9 @@ Because although the treasuries are denominated in ADA, in fact, we'll see that 
 
 &#x20;So the reality is that the bills that will come in for Core Cardano development will certainly be in terms of some Fiat value.
 
-, they'll be eight valence transferred, is going to need to be converted are either off on the card on his side or on the side of the recipient, the party that's carrying out the work. What I would imagine happening is, so the question then is is, where's the risk lie? Does? Is it with the with the current system? Is it with the vendor, the provider to make sure that their costs are covered properly? We'll need something we need to debate.
+Any ADA balance transferred, is going to need to be converted are either on the Cardano side or on the side of the recipient, the party that's carrying out the work.&#x20;
+
+What I would imagine happening is, so the question then is is, where's the risk lie? Does? Is it with the with the current system? Is it with the vendor, the provider to make sure that their costs are covered properly? We'll need something we need to debate.
 
 ## References
 
