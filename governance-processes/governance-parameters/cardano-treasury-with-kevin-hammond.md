@@ -304,6 +304,10 @@ The great thing is that we're starting to get to a stage where there's alignment
 
 So you will see lots of things happening over the coming months as we go to the transition. And the goal is to establish process and to establish mechanisms. So that although everything is properly scrutinized, all opinions are taken into account, we'll have a process that allows us to keep moving forwards as we go to Voltaire, as we move towards an open governance system.
 
+21:03 - Kevin Hammond
+
+And you'll start to see more transparency. We're setting up mechanisms where we're recording the reasons & rationale for the decisions and are planning explanations for why decisions being taken.
+
 
 
 ## References
