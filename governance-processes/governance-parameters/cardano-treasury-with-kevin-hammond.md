@@ -150,6 +150,10 @@ I don't know exactly at this point of time how that open governance system is go
 
 There are seven keys. IO has three, Emurgo has two and Cardano Foundation has two and the quorum is five.
 
+05:34 - Filip
+
+Just delegated from CF to IOG. So IOG basically handles five.
+
 
 
 
