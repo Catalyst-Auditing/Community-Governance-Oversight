@@ -284,7 +284,11 @@ Part of governance processes precisely is to define what is the executive split?
 
 Have you had situations to date where you've needed to reach a quorum? Where you've actually tried to make decisions, and there hasn't been an agreement ? Just think about topics that might come up as we go down to distributing this decision?
 
+18:36 - Kevin Hammond
 
+Every decision is discussed in detail. Every change that's being made to the Cardano parameters.
+
+This is subject of hot debate, within Cardano. Its informed within IO, within the Cardano Foundation. It's informed by lots of information about how the blockchain is operating. It's informed by research that's going on.
 
 
 
