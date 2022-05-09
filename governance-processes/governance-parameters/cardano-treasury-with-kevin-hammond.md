@@ -324,11 +324,17 @@ What we've had to do to date is to follow the path we'd set out with Cardano Fou
 
 And we're going through a process at the moment called "Get Cardano done". So we are in a position where we're handing off.
 
-I was talking earlier today with [Vito Silva](https://iohk.io/en/team/vitor-silva). He is the Product manager for Cardano. What he is doing at the moment is to sift through the CIP.
+I was talking earlier today with [Vito Silva](https://iohk.io/en/team/vitor-silva). He is the Product manager for Cardano. What he is doing at the moment is to sift through the CIP ([Cardano Improvement Proposals](https://cips.cardano.org)).
 
 So this \[CIP] process where ideas are being surfaced by the community has some very good ideas coming up. We're cognizant of these but we haven't been able to take all of them forward yet simply because the normal pipeline for doing things is so full.
 
 ## References
+
+### Cardano Improvement Proposals (CIPs) <a href="#cardanoimprovementproposalscips" id="cardanoimprovementproposalscips"></a>
+
+{% embed url="https://cips.cardano.org" %}
+
+Cardano Improvement Proposals (CIPs) describe standards, processes; or provide general guidelines or information to the Cardano Community. It is a formal, technical communication process that exists off-chain. CIPs do **not** represent a commitment of any form towards existing projects. Rather, they are a collection of sensible and sound solutions to common problems within the Cardano ecosystem.
 
 ### [Understanding the Extended UTXO model](https://docs.cardano.org/plutus/eutxo-explainer)
 
