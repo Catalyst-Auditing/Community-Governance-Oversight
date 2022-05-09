@@ -324,6 +324,10 @@ What we've had to do to date is to follow the path we'd set out with Cardano Fou
 
 And we're going through a process at the moment called "Get Cardano done". So we are in a position where we're handing off.
 
+I was talking earlier today with [Vito Silva](https://iohk.io/en/team/vitor-silva). He is the Product manager for Cardano. What he is doing at the moment is to sift through the CIP.
+
+So this \[CIP] process where ideas are being surfaced by the community has some very good ideas coming up. We're cognizant of these but we haven't been able to take all of them forward yet simply because the normal pipeline for doing things is so full.
+
 ## References
 
 ### [Understanding the Extended UTXO model](https://docs.cardano.org/plutus/eutxo-explainer)
