@@ -296,6 +296,10 @@ We can't reveal all of that which is frustrating to us, because you can see the 
 
 We're starting to make changes to some of the operating parameters. It's taken a while to get to that position, not because we've not wanted to, but because we have to get the system up and running in a stable way.
 
+And what we've been able to start increasing things like block sizes, etc.
+
+We're also starting to debate some of the other parameters. There is a survey gone out about things like the minimum cost, the minimum pool cost. We are taking that into account. Lots of debate going on.
+
 ## References
 
 ### [Understanding the Extended UTXO model](https://docs.cardano.org/plutus/eutxo-explainer)
