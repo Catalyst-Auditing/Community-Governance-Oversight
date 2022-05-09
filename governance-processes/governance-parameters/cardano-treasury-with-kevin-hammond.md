@@ -339,3 +339,7 @@ Cardano Improvement Proposals (CIPs) describe standards, processes; or provide g
 ### [Understanding the Extended UTXO model](https://docs.cardano.org/plutus/eutxo-explainer)
 
 Cardano (like Bitcoin) is an Unspent Transaction Output (UTXO)-based blockchain, which utilizes a different accounting model for its ledger from other account-based blockchains like Ethereum. Cardano implements an innovative [Extended Unspent Transaction Output (EUTXO) model](https://iohk.io/en/blog/posts/2021/03/11/cardanos-extended-utxo-accounting-model/), which is introduced by the Alonzo upgrade to support multi-assets and smart contracts.
+
+### Vitor Silva, Product Manager Operations
+
+{% embed url="https://iohk.io/en/team/vitor-silva" %}
