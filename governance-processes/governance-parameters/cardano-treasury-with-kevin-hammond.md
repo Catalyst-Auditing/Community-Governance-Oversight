@@ -254,7 +254,7 @@ So the public keys could be could be representative.
 
 [14:23](https://youtu.be/yG0lifQOaFk?t=863) - George Ramayya
 
-From the Treasury standpoint, when you look at foundations and the cost structure, there is always the number between six to eight persons. Is that number defined for this treasury too? And when we look at the division of the Treasury distributed out to the Catalyst project, Core Development or governance costs  is there a number to show the division between them?&#x20;
+From the Treasury standpoint, when you look at foundations and the cost structure, there is always the number between six to eight persons. Is that number defined for this treasury too? And when we look at the division of the Treasury distributed out to the Catalyst project, Core Development or governance costs is there a number to show the division between them?
 
 15:11 - Kevin Hammond
 
@@ -262,17 +262,17 @@ No, there is no defined number. This is something that needs to be agreed as par
 
 As you can imagine the split between the different activities could vary depending on need.
 
-The operating costs for some parts of the blockchain are going to be fixed. But that might change over time.&#x20;
+The operating costs for some parts of the blockchain are going to be fixed. But that might change over time.
 
 But it's not going to be constant over time, particularly because the costs we are incurring are in fiat and the Treasury is denominated in ADA.
 
 In terms of the split between Catalyst projects, Core Development. That is going to depend on the agreement between it and the governance body.
 
-And I imagine some of those discussions are going to be quite heated, because people always want to spend on one thing rather than another.&#x20;
+And I imagine some of those discussions are going to be quite heated, because people always want to spend on one thing rather than another.
 
-But the reality is that you've got to spend enough on the Cardano core development. If you don't spend on the core development, there isn't going to be a blockchain or it's not going to evolve, it's not going to do what people want. So there's going to be some level of spend that you have to incur there.&#x20;
+But the reality is that you've got to spend enough on the Cardano core development. If you don't spend on the core development, there isn't going to be a blockchain or it's not going to evolve, it's not going to do what people want. So there's going to be some level of spend that you have to incur there.
 
-And then the ecosystem spend will be doing exciting things beyond the core of the development. I can't give you a percentage or guess what I think the percentages are.&#x20;
+And then the ecosystem spend will be doing exciting things beyond the core of the development. I can't give you a percentage or guess what I think the percentages are.
 
 17:42 - Kevin Hammond
 
@@ -336,7 +336,7 @@ I'm very aware of the extraordinary expense that IOG has borne and is continuing
 
 24:30 - Kevin Hammond
 
-You're asking me here a question about IOG's company's strategy ? The reality is there has to come a point when IOG stop spending its money because it's a profit making company. It has to get a return on the money that's been spent.&#x20;
+You're asking me here a question about IOG's company's strategy ? The reality is there has to come a point when IOG stop spending its money because it's a profit making company. It has to get a return on the money that's been spent.
 
 The Treasury has been it's been built up. You've seen the good level of Treasury. It's building up, which is great, we are going to have to start dipping into that.
 
@@ -348,15 +348,15 @@ But equally, there will be things that the community feels should be done. The c
 
 I think it's obvious that IOG is going to be a major contributor to that simply because of its position. But we're absolutely going to involve other vendors, other providers as part of that process. It's not just going to fall on IOG's shoulders to do the future development of Cardano.
 
-### Do we have an end goal?&#x20;
+### Do we have an end goal?
 
 [26:34](https://www.youtube.com/watch?v=yG0lifQOaFk\&t=1594s) - Filip
 
 I noticed a little bit of a lack of scientific papers regarding governance in the IOHK research library. There is one on the Cardano Treasury from 2017 or 19. ([A Treasury System for Cryptocurrencies (2019)](https://iohk.io/en/research/library/papers/a-treasury-system-for-cryptocurrenciesenabling-better-collaborative-intelligence/). And there's the latest one from a couple of months ago, the SLK paper ([SoK: Blockchain Governance - Kiayias & Lazos](https://docs.google.com/viewerng/viewer?url=https://arxiv.org/pdf/2201.07188.pdf))
 
-But is this solvable? A fantastic, wonderful system that everybody's happy with and there is no adversity in it,  that just doesn't seem you know, realistic.&#x20;
+But is this solvable? A fantastic, wonderful system that everybody's happy with and there is no adversity in it, that just doesn't seem you know, realistic.
 
-At some point we have to just accept this is what we have. Do we have an end goal?&#x20;
+At some point we have to just accept this is what we have. Do we have an end goal?
 
 27:37 - Kevin Hammond
 
@@ -369,6 +369,7 @@ There are research papers that they've produced and a lot of the work they've do
 And we've even come up with prototypes of four automated forms of governance. We're probably not in a position where we're going to enact those tomorrow.
 
 > "Results from PRIViLEDGE are demonstrated through four ledger-based solutions:
+>
 > 1 verifiable online voting;\
 > 2 contract validation and execution for insurance;\
 > 3 university diploma record ledger;\
