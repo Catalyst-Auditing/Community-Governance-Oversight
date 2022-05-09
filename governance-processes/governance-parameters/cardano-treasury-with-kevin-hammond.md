@@ -144,35 +144,29 @@ At an Catalyst After Town Hall of April 20th 2022, [Kevin Hammond](https://iohk.
 
 > In terms of the decision making process, we're evolving. At the moment we're transitioning from the bootstrapping process where IOG has had de facto control over the system using authority delegated to it by the Cardano Foundation to one where we will have an open governance system.
 
-I don't know exactly at this point of time how that open governance system is going to work out. So you need to stay tuned to this. But the intention is very much that IO will be part of the process but not controlling the process.
+> I don't know exactly at this point of time how that open governance system is going to work out. So you need to stay tuned to this. But the intention is very much that IO will be part of the process but not controlling the process.
 
 05:13 - Jared Corduan
-
-There are seven keys. IO has three, Emurgo has two and Cardano Foundation has two and the quorum is five.
+> There are seven keys. IO has three, Emurgo has two and Cardano Foundation has two and the quorum is five.
 
 05:34 - Filip
-
-Just delegated from CF to IOG. So IOG basically handles five.
+> Just delegated from CF to IOG. So IOG basically handles five.
 
 05:48 - Kevin Hammond
-
-Yes. I know for a fact that the delegation at the moment is to IOG staff who are very carefully vetted and follow very strict security and operational process. This is the de facto rather than  de jure position.
+> Yes. I know for a fact that the delegation at the moment is to IOG staff who are very carefully vetted and follow very strict security and operational process. This is the de facto rather than  de jure position.
 
 ### Who decided that it's a five of seven quorum ?
 
 06:25 - Allison
+> I do come at this as in a position of being very appreciative of the work IOG is doing to move towards true Decentralized Governance. My questions are more as a business person trying to understand the status quo. So I can answer some questions for my accountant and satisfy my intellectual curiosity.&#x20;
 
-I do come at this as in a position of being very appreciative of the work IOG is doing to move towards true Decentralized Governance. My questions are more as a business person trying to understand the status quo. So I can answer some questions for my accountant and satisfy my intellectual curiosity.&#x20;
-
-Using this example of the keys. Who decided that it's a five of seven quorum ?
+> Using this example of the keys. Who decided that it's a five of seven quorum ?
 
 07:15 - Kevin Hammond
-
-It was a decision taken very early in the existence of the blockchain. So I imagine that was taken at the meeting where the blockchain was was set up.
+> It was a decision taken very early in the existence of the blockchain. So I imagine that was taken at the meeting where the blockchain was was set up.
 
 07:31 - Jared&#x20;
-
-Yeah, it goes back to Byron, it goes back to the very, very, very beginning.
+> Yeah, it goes back to Byron, it goes back to the very, very, very beginning.
 
 
 
