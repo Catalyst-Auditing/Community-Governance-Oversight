@@ -340,6 +340,8 @@ You're asking me here a question about IOG's company's strategy ? The reality is
 
 The Treasury has been it's been built up. You've seen the good level of Treasury. It's building up, which is great, we are going to have to start dipping into that.
 
+It is very expensive to develop and maintain blockchains, particularly to very high standards.
+
 ## References
 
 ### Cardano Improvement Proposals (CIPs) <a href="#cardanoimprovementproposalscips" id="cardanoimprovementproposalscips"></a>
