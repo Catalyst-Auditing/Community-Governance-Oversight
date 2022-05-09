@@ -385,6 +385,10 @@ To give you some idea? I have previously run EU projects of about 50 people, abo
 
 And very importantly, how you deal with conflict resolution. We have to build in very carefully into the system a monitoring system to make sure the governance processes are working properly. We've got to build in a system that is there to resolve disputes between different parts of the governance process.
 
+30:46 - Jared
+
+IOG still does a lot of research for some of the cryptographic techniques that might be used for governance. A lot of stuff on zero knowledge proofs, specifically related to voting.
+
 ## References
 
 ### A Treasury System for Cryptocurrencies
