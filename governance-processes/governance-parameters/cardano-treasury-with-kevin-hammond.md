@@ -379,6 +379,8 @@ And we've even come up with prototypes of four automated forms of governance. We
 
 We have done research,and we've exposed a lot of interesting questions through research. We've also formed a research team dedicated to the IOG governance team. They are going to inform us about various aspects of governance process, things to do with incentives, rewards, etc
 
+In addition, we have a rich history of successful democracies and other organizations to draw on. Successful or less successful examples, positive examples and negative examples.
+
 ## References
 
 ### A Treasury System for Cryptocurrencies
