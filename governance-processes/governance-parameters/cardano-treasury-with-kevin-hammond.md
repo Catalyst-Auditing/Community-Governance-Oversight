@@ -435,9 +435,13 @@ No, the Treasury cannot be staked, it doesn't have an address. So it has no stak
 
 You can transfer ADA in an asset, but it's not broken down. As Jared mentioned the unsent transaction outputs, these are what drives the ADA system. The Treasury is not an unspent transaction output. It's a fixed sum.&#x20;
 
-### Is the is the CLI command in the documentation&#x20;
+### Is the is the CLI command in the documentation ?
 
 [35:36](https://www.youtube.com/watch?v=yG0lifQOaFk\&t=2136s) - Is the is the CLI (Command Line Interface) command in the documentation that you can see on the help?
+
+36:05 - Jared
+
+Unfortunately there is not a super easy way to do it. There is a query command. It's called ledger, state query, space ledger state. That command is unfortunately massive. It produces a gigantic JSON blob.&#x20;
 
 ## References
 
