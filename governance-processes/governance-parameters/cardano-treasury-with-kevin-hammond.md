@@ -188,6 +188,10 @@ Yeah I don't think they are \[domiciled].
 
 And I believe that as well. It's just very interesting to fit that into legacy processes
 
+08:20 - Kevin Hammond
+
+It is extremely interesting how this fits into legacy processes. Regulators and national authorities are becoming aware of the existence of blockchains and cryptocurrencies and are starting to evolve legislation. So what we can expect is that there will be changes in this area. What Cardano is doing is to make itself as decentralized as possible. The goal is very much not for there to be a central authority for Cardano.
+
 
 
 
