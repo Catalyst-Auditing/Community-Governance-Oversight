@@ -433,9 +433,7 @@ Bearing in mind what was said previously about the Treasury funds not being in a
 
 No, the Treasury cannot be staked, it doesn't have an address. So it has no stake address. The Treasury is a static part.
 
-
-
-
+You can transfer ADA in an asset, but it's not broken down. As Jared mentioned the unsent transaction outputs, these are what drives the ADA system. The Treasury is not an unspent transaction output. It's a fixed sum.&#x20;
 
 ## References
 
