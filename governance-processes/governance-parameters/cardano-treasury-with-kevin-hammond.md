@@ -180,6 +180,18 @@ At an Catalyst After Town Hall of April 20th 2022, [Kevin Hammond](https://iohk.
 
 As to the question where are the funds domiciled ? I would need to I need to pass that onto the legal team to give you your correct answer.
 
+08:09 - Jared&#x20;
+
+Yeah I don't think they are \[domiciled].
+
+08:12 - Allison
+
+And I believe that as well. It's just very interesting to fit that into legacy processes
+
+
+
+
+
 ## References
 
 ### [Understanding the Extended UTXO model](https://docs.cardano.org/plutus/eutxo-explainer)
