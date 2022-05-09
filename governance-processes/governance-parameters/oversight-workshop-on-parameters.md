@@ -14,6 +14,10 @@ description: Oversight workshop on parameters. 25th April 2022
 
 {% embed url="https://youtu.be/yzSZ14g9nzI" %}
 
+## Miro Board
+
+{% embed url="https://miro.com/app/board/uXjVO6JggRs=" %}
+
 ## Overview
 
 This meeting sought to clarify the questions -
