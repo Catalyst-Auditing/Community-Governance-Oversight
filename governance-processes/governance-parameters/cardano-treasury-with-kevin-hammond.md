@@ -348,6 +348,16 @@ But equally, there will be things that the community feels should be done. The c
 
 I think it's obvious that IOG is going to be a major contributor to that simply because of its position. But we're absolutely going to involve other vendors, other providers as part of that process. It's not just going to fall on IOG's shoulders to do the future development of Cardano.
 
+### Do we have an end goal?&#x20;
+
+26:34 - Filip
+
+I noticed a little bit of a lack of scientific papers regarding governance in the IOHK research library. There is one on the Cardano Treasury from 2017 or 19. And there's the latest one from a couple of months ago, the SLK paper.
+
+But is this solvable? A fantastic, wonderful system that everybody's happy with and there is no adversity in it,  that just doesn't seem you know, realistic.&#x20;
+
+At some point we have to just accept this is what we have. Do we have an end goal?&#x20;
+
 ## References
 
 ### Cardano Improvement Proposals (CIPs) <a href="#cardanoimprovementproposalscips" id="cardanoimprovementproposalscips"></a>
