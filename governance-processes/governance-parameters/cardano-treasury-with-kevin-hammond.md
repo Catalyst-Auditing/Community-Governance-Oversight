@@ -360,7 +360,7 @@ At some point we have to just accept this is what we have. Do we have an end goa
 
 27:37 - Kevin Hammond
 
-Voltaire is not a point is a process. And it's a process that we're going to start on and what we're going to do is to gradually transition.
+Voltaire is not a point is a process. And it's a process that we're going to start on and what we're going to do is to gradually transition. So we're gradually transitioning from the current position where we're in to one which is a system of open governance.
 
 ## References
 
