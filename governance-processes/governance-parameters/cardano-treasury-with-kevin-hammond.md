@@ -429,6 +429,10 @@ So the question then is is, where's the risk lie? Is it with the with the Cardan
 
 Bearing in mind what was said previously about the Treasury funds not being in an address, per se, but being a separate pool of funds. Is it technically possible for the Treasury itself to be staked? Or is that too recursive?
 
+34:36 - Kevin Hammond
+
+No, the Treasury cannot be staked, it doesn't have an address. So it has no stake address. The Treasury is a static part.
+
 
 
 
