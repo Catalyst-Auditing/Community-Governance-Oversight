@@ -342,7 +342,7 @@ The Treasury has been it's been built up. You've seen the good level of Treasury
 
 It is very expensive to develop and maintain blockchains, particularly to very high standards.
 
-There's going to be a transition at some point. How this develops in terms of who pays for what, because IOG will always have some things that IOG wants to do.
+There's going to be a transition at some point. How this develops in terms of who pays for what, because IOG will always have some things that IOG wants to do and that maybe the community is less interested in. Well, if IOG is prepared to pay for that, why shouldn't it ?
 
 ## References
 
