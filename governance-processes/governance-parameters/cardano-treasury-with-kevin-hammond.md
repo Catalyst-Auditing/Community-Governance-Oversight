@@ -463,6 +463,14 @@ So my question is there an agreement? They don't do that? Is there some sort of 
 
 Any ADA holder can vote.
 
+40:00 - Matthew
+
+You might find that there are fiduciary and custodial obligations that would prevent voting of normal shareholdings by a mutual fund administrator. Those kinds of considerations might apply.
+
+So there might be an abundance of caution and reluctance to vote in Catalyst by those large pool operators or large, centralized entities.&#x20;
+
+
+
 ## References
 
 ### A Treasury System for Cryptocurrencies
