@@ -451,6 +451,14 @@ Kevin will give you the jQuery command and filter out just the number you want?
 
 Kevin's is actually the gentleman behind the giant spreadsheet that tracks everything that changes in each epoch. If you've seen that floating around. What's the Treasury balance, and like, what are the different movements and whatnot? Well, that's his work. And it was actually the first source of information that we ever had. And I remember arranging it into our Google Spreadsheets, and we still do to these dates. So just in case, just just the fun fact. It's his hobby now.
 
+### Is there an agreement that exchanges do not vote ?
+
+38:34 - Filip
+
+We know that exchanges have pools. If exchanges have pools they have normal Shelly staking addresses. If they have normal Shelly staking addresses they have voting rights with those addresses. If they don't use Enterprise addresses, they can vote.&#x20;
+
+So my question is there an agreement? They don't do that? Is there some sort of filtering if they do that?
+
 ## References
 
 ### A Treasury System for Cryptocurrencies
