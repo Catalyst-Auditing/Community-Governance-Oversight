@@ -270,7 +270,7 @@ The operating costs for some parts of the blockchain are going to be fixed. But 
 
 But it's not going to be constant over time, particularly because the costs we are incurring are in fiat and the Treasury is denominated in ADA.
 
-
+In terms of the split between Catalyst projects, Core Development. That is going to depend on the agreement between it and the governance body.
 
 
 
