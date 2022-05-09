@@ -6,6 +6,8 @@ description: >-
 
 # Cardano Treasury with Kevin Hammond
 
+#### Compiled, annotated and timestamped by Stephen Whitenstall, QADAO.
+
 ## Catalyst Town Hall Presentation
 
 At a Catalyst Town Hall of April 20th 2022, [Kevin Hammond](https://iohk.io/en/team/kevin-hammond) an IOHK Technology manager supported by [Jared Corduan](https://iohk.io/en/team/jared-corduan) an IOHK Software Engineering gave a presentation on the Cardano Treasury.
