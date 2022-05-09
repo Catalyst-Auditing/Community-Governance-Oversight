@@ -330,13 +330,15 @@ So this \[CIP] process where ideas are being surfaced by the community has some 
 
 ### &#x20;Is IOG simply going to hang on and keep spending until this whole governance system is in place ?
 
-23:45 - Steven
+[23:45](https://www.youtube.com/watch?v=yG0lifQOaFk\&t=1425s) - Steven
 
 I'm very aware of the extraordinary expense that IOG has borne and is continuing to bear. At some point the Treasury will have to begin to bear that. Is IOG simply going to hang on and keep spending until this whole governance system is in place and vetted, functional and 100% blissfully glorious, or is there something else that we should know?
 
 24:30 - Kevin Hammond
 
-You're asking me here a question about IOG's company's strategy ? The reality is there has to come a point when IOG stop spending its money because it's a profit making company.
+You're asking me here a question about IOG's company's strategy ? The reality is there has to come a point when IOG stop spending its money because it's a profit making company. It has to get a return on the money that's been spent.&#x20;
+
+The Treasury has been it's been built up. You've seen the good level of Treasury. It's been holding up, which is great, we are going to have to start dipping into that.
 
 ## References
 
