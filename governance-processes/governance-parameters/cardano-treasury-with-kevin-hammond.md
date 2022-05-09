@@ -260,6 +260,18 @@ So the public keys could be could be representative.
 
 From the Treasury standpoint, when you look at foundations and the cost structure, there is always the number between six to eight persons. Is that number defined for this treasury too? And when we look at the division of the Treasury distributed out to the Catalyst project, Core Development or governance costs  is there a number to show the division between them?&#x20;
 
+15:11 - Kevin Hammond
+
+No, there is no defined number. This is something that needs to be agreed as part of the governance process.
+
+As you can imagine the split between the different activities could vary depending on need.
+
+The operating costs for some parts of the blockchain are going to be fixed. But that might change over time.&#x20;
+
+But it's not going to be constant over time, particularly because the costs we are incurring are in fiat and the Treasury is denominated in ADA.
+
+
+
 
 
 
