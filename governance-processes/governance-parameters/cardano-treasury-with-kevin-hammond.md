@@ -336,7 +336,7 @@ I'm very aware of the extraordinary expense that IOG has borne and is continuing
 
 24:30 - Kevin Hammond
 
-You're asking me here a question about IoT is company's strategy. The the reality is there has to come a point when IOG stop spending its money because it's a profit making company.
+You're asking me here a question about IOG's company's strategy ? The reality is there has to come a point when IOG stop spending its money because it's a profit making company.
 
 ## References
 
