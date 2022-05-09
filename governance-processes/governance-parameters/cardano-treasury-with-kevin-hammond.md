@@ -292,6 +292,10 @@ This is subject of hot debate, within Cardano. Its informed within IO, within th
 
 We can't reveal all of that which is frustrating to us, because you can see the community saying, oh, you should do this. And you should do that. And we're thinking well, yes, we agree. We know exactly where you're coming from. But guys, we can't. We can't tell you why we can't.
 
+19:40 - Kevin Hammond
+
+We're starting to make changes to some of the operating parameters. It's taken a while to get to that position
+
 ## References
 
 ### [Understanding the Extended UTXO model](https://docs.cardano.org/plutus/eutxo-explainer)
