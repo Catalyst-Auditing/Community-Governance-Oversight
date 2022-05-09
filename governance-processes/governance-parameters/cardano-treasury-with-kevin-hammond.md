@@ -6,10 +6,6 @@ description: >-
 
 # Cardano Treasury with Kevin Hammond
 
-##
-
-##
-
 ## Catalyst Town Hall Presentation
 
 At a Catalyst Town Hall of April 20th 2022, [Kevin Hammond](https://iohk.io/en/team/kevin-hammond) an IOHK Technology manager supported by [Jared Corduan](https://iohk.io/en/team/jared-corduan) an IOHK Software Engineering gave a presentation on the Cardano Treasury.
@@ -271,6 +267,12 @@ The operating costs for some parts of the blockchain are going to be fixed. But 
 But it's not going to be constant over time, particularly because the costs we are incurring are in fiat and the Treasury is denominated in ADA.
 
 In terms of the split between Catalyst projects, Core Development. That is going to depend on the agreement between it and the governance body.
+
+And I imagine some of those discussions are going to be quite heated, because people always want to spend on one thing rather than another.&#x20;
+
+But the reality is that you've got to spend enough on the Cardano core development. If you don't spend on the core development, there isn't going to be a blockchain or it's not going to evolve, it's not going to do what people want. So there's going to be some level of spend that you have to incur there.&#x20;
+
+And then the ecosystem spend will be doing exciting things beyond the core of the development. I can't give you a percentage or guess what I think the percentages are.&#x20;
 
 
 
