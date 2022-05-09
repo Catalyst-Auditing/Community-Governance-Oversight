@@ -278,6 +278,12 @@ And then the ecosystem spend will be doing exciting things beyond the core of th
 
 Part of governance processes precisely is to define what is the executive split? What should be the spend on each of the different parts that make up Cardano?
 
+### Have you had situations to date where you've needed to reach a quorum?
+
+[18:11](https://youtu.be/yG0lifQOaFk?t=1092) - Jonathan
+
+Have you had situations to date where you've needed to reach a quorum? Where you've actually tried to make decisions, and there hasn't been an agreement ? Just think about topics that might come up as we go down to distributing this decision?
+
 
 
 
