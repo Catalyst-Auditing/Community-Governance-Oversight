@@ -294,7 +294,7 @@ We can't reveal all of that which is frustrating to us, because you can see the 
 
 19:40 - Kevin Hammond
 
-We're starting to make changes to some of the operating parameters. It's taken a while to get to that position
+We're starting to make changes to some of the operating parameters. It's taken a while to get to that position, not because we've not wanted to, but because we have to get the system up and running in a stable way.
 
 ## References
 
