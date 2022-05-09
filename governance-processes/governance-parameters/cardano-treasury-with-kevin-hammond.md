@@ -427,13 +427,13 @@ So the question then is is, where's the risk lie? Is it with the with the Cardan
 
 34:19 - Allison
 
-Bearing in mind what was said previously about the Treasury funds not being in an address, per se, but being a separate pool of funds. Is it technically possible for the Treasury itself to be staked? Or is that too recursive?
+> Bearing in mind what was said previously about the Treasury funds not being in an address, per se, but being a separate pool of funds. Is it technically possible for the Treasury itself to be staked? Or is that too recursive?
 
 34:36 - Kevin Hammond
 
-No, the Treasury cannot be staked, it doesn't have an address. So it has no stake address. The Treasury is a static part.
+> No, the Treasury cannot be staked, it doesn't have an address. So it has no stake address. The Treasury is a static part.
 
-You can transfer ADA in an asset, but it's not broken down. As Jared mentioned the unsent transaction outputs, these are what drives the ADA system. The Treasury is not an unspent transaction output. It's a fixed sum.&#x20;
+> You can transfer ADA in an asset, but it's not broken down. As Jared mentioned the unsent transaction outputs, these are what drives the ADA system. The Treasury is not an unspent transaction output. It's a fixed sum.&#x20;
 
 ### Is the CLI command in the documentation ?
 
@@ -441,9 +441,9 @@ You can transfer ADA in an asset, but it's not broken down. As Jared mentioned t
 
 36:05 - Jared
 
-Unfortunately there is not a super easy way to do it. There is a query command. It's called ledger, state query, space ledger state. That command is unfortunately massive. It produces a gigantic JSON blob.&#x20;
+> Unfortunately there is not a super easy way to do it. There is a query command. It's called ledger, state query, space ledger state. That command is unfortunately massive. It produces a gigantic JSON blob.&#x20;
 
-Kevin will give you the jQuery command and filter out just the number you want?
+> Kevin will give you the jQuery command and filter out just the number you want?
 
 ### Background
 
@@ -455,23 +455,23 @@ Kevin's is actually the gentleman behind the giant spreadsheet that tracks every
 
 [38:34](https://www.youtube.com/watch?v=yG0lifQOaFk\&t=2314s) - Filip
 
-We know that exchanges have pools. If exchanges have pools they have normal Shelly staking addresses. If they have normal Shelly staking addresses they have voting rights with those addresses. If they don't use Enterprise addresses, they can vote.&#x20;
+> We know that exchanges have pools. If exchanges have pools they have normal Shelly staking addresses. If they have normal Shelly staking addresses they have voting rights with those addresses. If they don't use Enterprise addresses, they can vote.&#x20;
 
-So my question is there an agreement? They don't do that? Is there some sort of filtering if they do that?
+> So my question is there an agreement? They don't do that? Is there some sort of filtering if they do that?
 
 40:02 - Kevin Hammond
 
-Any ADA holder can vote.
+> Any ADA holder can vote.
 
 40:11 - Matthew
 
-You might find that there are fiduciary and custodial obligations that would prevent voting of normal shareholdings by a mutual fund administrator. Those kinds of considerations might apply.
+> You might find that there are fiduciary and custodial obligations that would prevent voting of normal shareholdings by a mutual fund administrator. Those kinds of considerations might apply.
 
-So there might be an abundance of caution and reluctance to vote in Catalyst by those large pool operators or large, centralized entities.&#x20;
+> So there might be an abundance of caution and reluctance to vote in Catalyst by those large pool operators or large, centralized entities.&#x20;
 
 40:53 - Kevin Hammond
 
-Thank you, Matthew.There's nothing technically to prevent it. And if you think about it, you couldn't do that easily because we have an anonymous blockchain.&#x20;
+> Thank you, Matthew.There's nothing technically to prevent it. And if you think about it, you couldn't do that easily because we have an anonymous blockchain.&#x20;
 
 
 
