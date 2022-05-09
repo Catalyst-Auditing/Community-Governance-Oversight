@@ -210,11 +210,25 @@ The position in the UK is that they don't care where the cryptocurrency is domic
 
 Who's doing the due diligence around the release of funds? Not from a technical standpoint, but from a regulatory standpoint?
 
-10:57 - Kevin
+10:57 - Kevin Hammond
 
 I'll pass it on to the legal team. They will give you the proper answer to that.
 
+### What do you see as the evolution of the 7 keys ?
 
+11:10 - George Lovegrove
+
+What do you see as the evolution of the 7 keys ? Do you see it going through a number,like 11 ? Or is it going to be like a big transition to  a democratic system and those governance keys become a separate thing? How are you going to see that changing over time?
+
+11:36 - Kevin Hammond
+
+It's going to depend on how the system evolves. We anticipate the number increasing. We can't say exactly how many it will increase to.
+
+I would still discussing that with Harris, governance team and with the Cardano foundation.&#x20;
+
+It's going to have to increase to meet the structures that are set up and and over time. The numbers could vary. It depends a lot on where we end up with the governance structures.
+
+What we like is having a prime number. We need an odd number, so that we don't have problems with splits in decision making. What we like is for there to be a substantial quorum. And ideally, again, a prime number
 
 ## References
 
