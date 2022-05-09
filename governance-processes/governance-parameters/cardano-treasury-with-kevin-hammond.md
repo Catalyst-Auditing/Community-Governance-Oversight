@@ -389,6 +389,20 @@ And very importantly, how you deal with conflict resolution. We have to build in
 
 IOG still does a lot of research for some of the cryptographic techniques that might be used for governance. A lot of stuff on zero knowledge proofs, specifically related to voting.
 
+
+
+31:14 - Matthew
+
+So you have gone through the process of how the cash flows from one epoch to the next, including disbursement from the Treasury and transaction fees.&#x20;
+
+When you look at the transaction fees per block, it doesn't seem to be enough to really constitute the bulk of the rewards that then go to delegated ADA holders.&#x20;
+
+Do you have a breakdown of how much of the Treasury is funding ADA rewards versus transaction fees? It's must be incredibly lopsided.
+
+
+
+
+
 ## References
 
 ### A Treasury System for Cryptocurrencies
