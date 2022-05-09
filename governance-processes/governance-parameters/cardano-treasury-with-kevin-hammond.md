@@ -6,10 +6,6 @@ description: >-
 
 # Cardano Treasury with Kevin Hammond
 
-##
-
-##
-
 ## Catalyst Town Hall Presentation
 
 At a Catalyst Town Hall of April 20th 2022, [Kevin Hammond](https://iohk.io/en/team/kevin-hammond) an IOHK Technology manager supported by [Jared Corduan](https://iohk.io/en/team/jared-corduan) an IOHK Software Engineering gave a presentation on the Cardano Treasury.
@@ -379,7 +375,7 @@ And we've even come up with prototypes of four automated forms of governance. We
 > 3 university diploma record ledger;\
 > 4 update mechanism for stake-based ledgers."
 
-We have done research,and we've exposed a lot of interesting questions through research. We've also formed a research team dedicated to the IOG governance team.
+We have done research,and we've exposed a lot of interesting questions through research. We've also formed a research team dedicated to the IOG governance team. They are going to inform us about various aspects of governance process, things to do with incentives, rewards, etc
 
 ## References
 
