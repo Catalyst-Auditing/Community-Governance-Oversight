@@ -346,6 +346,8 @@ There's going to be a transition at some point. How this develops in terms of wh
 
 But equally, there will be things that the community feels should be done. The community paying for that will need to work out the best way to get those things done going forward.
 
+I think it's obvious that IOG is going to be a major contributor to that simply because of its position. But we're absolutely going to involve other vendors, other providers as part of that process. It's not just going to fall on IOG's shoulders to do the future development of Cardano.
+
 ## References
 
 ### Cardano Improvement Proposals (CIPs) <a href="#cardanoimprovementproposalscips" id="cardanoimprovementproposalscips"></a>
