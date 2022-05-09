@@ -204,7 +204,15 @@ It's a question everybody has to answer from miners to stake pools. I mean, do I
 
 The position in the UK is that they don't care where the cryptocurrency is domiciled if you make a profit, you get taxed on it.
 
+### Who's doing the due diligence around the release of funds?
 
+10:33 - Allison
+
+Who's doing the due diligence around the release of funds? Not from a technical standpoint, but from a regulatory standpoint?
+
+10:57 - Kevin
+
+I'll pass it on to the legal team. They will give you the proper answer to that.
 
 
 
