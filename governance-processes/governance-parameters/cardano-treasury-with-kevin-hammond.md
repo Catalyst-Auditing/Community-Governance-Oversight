@@ -164,7 +164,15 @@ Yes. I know for a fact that the delegation at the moment is to IOG staff who are
 
 I do come at this as in a position of being very appreciative of the work IOG is doing to move towards true Decentralized Governance. My questions are more as a business person trying to understand the status quo. So I can answer some questions for my accountant and satisfy my intellectual curiosity.&#x20;
 
-Using this example of the keys. Who decided that it's a five of seven quorum.
+Using this example of the keys. Who decided that it's a five of seven quorum ?
+
+07:15 - Kevin Hammond
+
+It was a decision taken very early in the existence of the blockchain. So I imagine that was taken at the meeting where the blockchain was was set up.
+
+07:31 - Jared&#x20;
+
+Yeah, it goes back to Byron, it goes back to the very, very, very beginning.
 
 
 
