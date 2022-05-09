@@ -274,6 +274,10 @@ But the reality is that you've got to spend enough on the Cardano core developme
 
 And then the ecosystem spend will be doing exciting things beyond the core of the development. I can't give you a percentage or guess what I think the percentages are.&#x20;
 
+17:42 - Kevin Hammond
+
+Part of governance processes precisely is to define what is the executive split? What should be the spend on each of the different parts that make up Cardano?
+
 
 
 
