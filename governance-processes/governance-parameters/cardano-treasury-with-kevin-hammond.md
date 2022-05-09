@@ -290,7 +290,7 @@ Every decision is discussed in detail. Every change that's being made to the Car
 
 This is subject of hot debate, within Cardano. Its informed within IO, within the Cardano Foundation. It's informed by lots of information about how the blockchain is operating. It's informed by research that's going on.
 
-
+We can't reveal all of that which is frustrating to us, because you can see the community saying, oh, you should do this. And you should do that. And we're thinking well, yes, we agree. We know exactly where you're coming from. But guys, we can't. We can't tell you why we can't.
 
 ## References
 
