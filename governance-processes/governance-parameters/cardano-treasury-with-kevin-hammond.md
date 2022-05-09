@@ -360,11 +360,23 @@ At some point we have to just accept this is what we have. Do we have an end goa
 
 ## References
 
+### Blockchain Governance Principles
+
+Blockchain Governance Principles & Catalyst : An overview of Prof Aggelos Kiayias & Philip Lazos recent paper. Stephen Whitenstall
+
+{% embed url="https://quality-assurance-dao.gitbook.io/ekphrasis/february-2022/blockchain-governance-principles" %}
+
 ### Cardano Improvement Proposals (CIPs) <a href="#cardanoimprovementproposalscips" id="cardanoimprovementproposalscips"></a>
 
 {% embed url="https://cips.cardano.org" %}
 
 Cardano Improvement Proposals (CIPs) describe standards, processes; or provide general guidelines or information to the Cardano Community. It is a formal, technical communication process that exists off-chain. CIPs do **not** represent a commitment of any form towards existing projects. Rather, they are a collection of sensible and sound solutions to common problems within the Cardano ecosystem.
+
+### SoK: Blockchain Governance
+
+Kiayias & Lazos
+
+{% embed url="https://quality-assurance-dao.gitbook.io/ekphrasis/january-2022/page-1" %}
 
 ### [Understanding the Extended UTXO model](https://docs.cardano.org/plutus/eutxo-explainer)
 
