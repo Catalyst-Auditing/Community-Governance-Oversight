@@ -154,6 +154,10 @@ There are seven keys. IO has three, Emurgo has two and Cardano Foundation has tw
 
 Just delegated from CF to IOG. So IOG basically handles five.
 
+05:48 - Kevin Hammond
+
+Yes. I know for a fact that the delegation at the moment is to IOG staff who are very carefully vetted and follow very strict security and operational process. This is the de facto rather than  de jure position.
+
 
 
 
