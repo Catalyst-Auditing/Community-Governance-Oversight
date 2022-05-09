@@ -403,6 +403,8 @@ Do you have a breakdown of how much of the Treasury is funding ADA rewards versu
 
 At the moment it's lopsided. But the transaction volume is growing. We're building additional capacity. We're essentially in a bootstrapping bootstrapping phase.
 
+The margin expansion that I mentioned, the reserves expansion, this is not on a constant rate is declining over time. So the funding coming from the reserves is declining. The expectation is that fees will balance out and there's a plan for a crossover at some point in the future.
+
 
 
 ## References
