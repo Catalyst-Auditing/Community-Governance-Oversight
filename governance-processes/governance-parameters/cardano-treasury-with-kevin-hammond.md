@@ -409,19 +409,19 @@ The margin expansion that I mentioned, the reserves expansion, this is not on a 
 
 32:39 -&#x20;
 
-Do you give any consideration to the value of ADA when funds are distributed and where the Treasury is being used?
+> Do you give any consideration to the value of ADA when funds are distributed and where the Treasury is being used?
 
 32:49 - Kevin Hammond
 
-In terms of disbursement? Yes, absolutely its going to be critical.
+> In terms of disbursement? Yes, absolutely its going to be critical.
 
-Because although the treasuries are denominated in ADA, in fact, we'll see that Catalyst is moving to ADA disbursement of funds. Outside the ADA ecosystem, our people pay their bills in dollars, or Sterling, or Yen or whatever the currency is.
+> Because although the treasuries are denominated in ADA, in fact, we'll see that Catalyst is moving to ADA disbursement of funds. Outside the ADA ecosystem, our people pay their bills in dollars, or Sterling, or Yen or whatever the currency is.
 
-&#x20;So the reality is that the bills that will come in for Core Cardano development will certainly be in terms of some Fiat value.
+> &#x20;So the reality is that the bills that will come in for Core Cardano development will certainly be in terms of some Fiat value.
 
-Any ADA balance transferred, is going to need to be converted are either on the Cardano side or on the side of the recipient, the party that's carrying out the work.&#x20;
+> Any ADA balance transferred, is going to need to be converted are either on the Cardano side or on the side of the recipient, the party that's carrying out the work.&#x20;
 
-So the question then is is, where's the risk lie? Is it with the with the Cardano system? Is it with the vendor, the provider to make sure that their costs are covered properly? Something we need to debate.
+> So the question then is is, where's the risk lie? Is it with the with the Cardano system? Is it with the vendor, the provider to make sure that their costs are covered properly? Something we need to debate.
 
 ### Is it technically possible for the Treasury itself to be staked?
 
@@ -449,7 +449,7 @@ So the question then is is, where's the risk lie? Is it with the with the Cardan
 
 [36:54](https://www.youtube.com/watch?v=yG0lifQOaFk\&t=2194s) - Daniel Ribar
 
-Kevin's is actually the gentleman behind the giant spreadsheet that tracks everything that changes in each epoch. If you've seen that floating around. What's the Treasury balance, and like, what are the different movements and whatnot? Well, that's his work. And it was actually the first source of information that we ever had. And I remember arranging it into our Google Spreadsheets, and we still do to these dates. So just in case, just just the fun fact. It's his hobby now.
+> Kevin's is actually the gentleman behind the giant spreadsheet that tracks everything that changes in each epoch. If you've seen that floating around. What's the Treasury balance, and like, what are the different movements and whatnot? Well, that's his work. And it was actually the first source of information that we ever had. And I remember arranging it into our Google Spreadsheets, and we still do to these dates. So just in case, just just the fun fact. It's his hobby now.
 
 ### Is there an agreement that exchanges do not vote ?
 
