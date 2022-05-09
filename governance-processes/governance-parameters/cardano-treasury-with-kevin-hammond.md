@@ -389,7 +389,7 @@ And very importantly, how you deal with conflict resolution. We have to build in
 
 IOG still does a lot of research for some of the cryptographic techniques that might be used for governance. A lot of stuff on zero knowledge proofs, specifically related to voting.
 
-
+### Do you have a breakdown of how much of the Treasury is funding ADA rewards versus transaction fees?
 
 31:14 - Matthew
 
