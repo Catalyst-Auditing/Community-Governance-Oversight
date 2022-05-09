@@ -401,7 +401,7 @@ Do you have a breakdown of how much of the Treasury is funding ADA rewards versu
 
 31:52 - Kevin Hammond
 
-At the moment it's lopside. But the transaction volume is growing. We're building additional capacity. We're essentially in a bootstrapping bootstrapping phase.
+At the moment it's lopsided. But the transaction volume is growing. We're building additional capacity. We're essentially in a bootstrapping bootstrapping phase.
 
 
 
