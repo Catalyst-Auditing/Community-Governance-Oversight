@@ -366,6 +366,8 @@ Voltaire is not a point is a process. And it's a process that we're going to sta
 
 There are research papers that they've produced and a lot of the work they've done is directly relevant to what we need to do.
 
+And we've even come up with prototypes of four automated forms of governance. We're probably not in a position where we're going to enact those tomorrow.
+
 
 
 ## References
