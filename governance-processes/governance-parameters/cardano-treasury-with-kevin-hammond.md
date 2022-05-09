@@ -196,6 +196,10 @@ It is extremely interesting how this fits into legacy processes. Regulators and 
 
 I doubt this is unique to Cardano. If you mint a block in Bitcoin, what country gives you the authority? What entity gives you authority to mint that?
 
+10:05 - Allison
+
+It's a question everybody has to answer from miners to stake pools. I mean, do I have to report on my staking rewards? It's an industry wide question.
+
 
 
 
