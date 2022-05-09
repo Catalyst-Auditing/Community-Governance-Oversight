@@ -200,6 +200,10 @@ I doubt this is unique to Cardano. If you mint a block in Bitcoin, what country 
 
 It's a question everybody has to answer from miners to stake pools. I mean, do I have to report on my staking rewards? It's an industry wide question.
 
+10:20 - Kevin Hammond
+
+The position in the UK is that they don't care where the cryptocurrency is domiciled if you make a profit, you get taxed on it.
+
 
 
 
