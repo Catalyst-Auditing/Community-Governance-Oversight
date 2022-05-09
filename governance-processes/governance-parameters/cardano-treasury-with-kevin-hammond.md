@@ -364,7 +364,7 @@ Voltaire is not a point is a process. And it's a process that we're going to sta
 
 'm not sure about all the papers in the IO repository. But IO was heavily involved as a key player in an EU project called [privilege](https://priviledge-project.eu/about).
 
-
+There are research papers that they've produced and a lot of the work they've done is directly relevant to what we need to do.
 
 
 
