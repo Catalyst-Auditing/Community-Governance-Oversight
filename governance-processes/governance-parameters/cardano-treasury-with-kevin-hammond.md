@@ -254,9 +254,7 @@ At an Catalyst After Town Hall of April 20th 2022, [Kevin Hammond](https://iohk.
 
 So the public keys could be could be representative.
 
-
-
-
+Is there a number that sets Treasury distribution between Catalyst, Core Development and Governance costs ?
 
 [14:23](https://youtu.be/yG0lifQOaFk?t=863) - George Ramayya
 
