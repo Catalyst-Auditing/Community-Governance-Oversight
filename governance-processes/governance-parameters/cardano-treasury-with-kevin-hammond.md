@@ -328,7 +328,7 @@ I was talking earlier today with [Vito Silva](https://iohk.io/en/team/vitor-silv
 
 So this \[CIP] process where ideas are being surfaced by the community has some very good ideas coming up. We're cognizant of these but we haven't been able to take all of them forward yet simply because the normal pipeline for doing things is so full.
 
-### &#x20;Is IOG simply going to hang on and keep spending until this whole governance system is in place ?
+### Is IOG simply going to hang on and keep spending until this whole governance system is in place ?
 
 [23:45](https://www.youtube.com/watch?v=yG0lifQOaFk\&t=1425s) - Steven
 
@@ -352,7 +352,7 @@ I think it's obvious that IOG is going to be a major contributor to that simply 
 
 26:34 - Filip
 
-I noticed a little bit of a lack of scientific papers regarding governance in the IOHK research library. There is one on the Cardano Treasury from 2017 or 19. And there's the latest one from a couple of months ago, the SLK paper.
+I noticed a little bit of a lack of scientific papers regarding governance in the IOHK research library. There is one on the Cardano Treasury from 2017 or 19. And there's the latest one from a couple of months ago, the SLK paper ([SoK: Blockchain Governance - Kiayias & Lazos](https://docs.google.com/viewerng/viewer?url=https://arxiv.org/pdf/2201.07188.pdf))
 
 But is this solvable? A fantastic, wonderful system that everybody's happy with and there is no adversity in it,  that just doesn't seem you know, realistic.&#x20;
 
