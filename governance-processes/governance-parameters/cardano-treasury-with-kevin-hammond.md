@@ -316,7 +316,11 @@ One or two of the decisions we can't tell you why we've made them because we mig
 
 You've mentioned Core Development of the Cardano blockchain. How would the decision making of that be undertaken?
 
+21:53 - Kevin Hammond
 
+This is being defined at the moment. Decisions about the current environment are going to be informed by community needs and by community decisions.
+
+What we've had to do to date is to follow the path we'd set out with Cardano Foundation several years ago.
 
 ## References
 
