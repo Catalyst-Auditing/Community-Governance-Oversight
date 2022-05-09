@@ -338,7 +338,7 @@ I'm very aware of the extraordinary expense that IOG has borne and is continuing
 
 You're asking me here a question about IOG's company's strategy ? The reality is there has to come a point when IOG stop spending its money because it's a profit making company. It has to get a return on the money that's been spent.&#x20;
 
-The Treasury has been it's been built up. You've seen the good level of Treasury. It's been holding up, which is great, we are going to have to start dipping into that.
+The Treasury has been it's been built up. You've seen the good level of Treasury. It's building up, which is great, we are going to have to start dipping into that.
 
 ## References
 
