@@ -302,6 +302,10 @@ We're also starting to debate some of the other parameters. There is a survey go
 
 The great thing is that we're starting to get to a stage where there's alignment on how we should be proceeding.
 
+So you will see lots of things happening over the coming months as we go to the transition.
+
+
+
 ## References
 
 ### [Understanding the Extended UTXO model](https://docs.cardano.org/plutus/eutxo-explainer)
