@@ -258,6 +258,12 @@ So the public keys could be could be representative.
 
 
 
+[14:23](https://youtu.be/yG0lifQOaFk?t=863) - George Ramayya
+
+From the Treasury standpoint, when you look at foundations and the cost structure, there is always the number between six to eight persons. Is that number defined for this treasury too? And when we look at the division of the Treasury distributed out to the Catalyst project, Core Development or governance costs  is there a number to show the division between them?&#x20;
+
+
+
 
 
 ## References
