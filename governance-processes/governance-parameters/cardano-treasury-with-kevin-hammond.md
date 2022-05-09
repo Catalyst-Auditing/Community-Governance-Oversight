@@ -322,6 +322,8 @@ This is being defined at the moment. Decisions about the current environment are
 
 What we've had to do to date is to follow the path we'd set out with Cardano Foundation several years ago. A set of things that IOG agreed with Cardano Foundation. We will do these things, we will deliver them.
 
+And we're going through a process at the moment called "Get Cardano done".
+
 ## References
 
 ### [Understanding the Extended UTXO model](https://docs.cardano.org/plutus/eutxo-explainer)
