@@ -423,6 +423,16 @@ Any ADA balance transferred, is going to need to be converted are either on the 
 
 So the question then is is, where's the risk lie? Is it with the with the Cardano system? Is it with the vendor, the provider to make sure that their costs are covered properly? Something we need to debate.
 
+### Is it technically possible for the Treasury itself to be staked?
+
+34:19 - Allison
+
+Bearing in mind what was said previously about the Treasury funds not being in an address, per se, but being a separate pool of funds. Is it technically possible for the Treasury itself to be staked? Or is that too recursive?
+
+
+
+
+
 ## References
 
 ### A Treasury System for Cryptocurrencies
