@@ -328,6 +328,12 @@ I was talking earlier today with [Vito Silva](https://iohk.io/en/team/vitor-silv
 
 So this \[CIP] process where ideas are being surfaced by the community has some very good ideas coming up. We're cognizant of these but we haven't been able to take all of them forward yet simply because the normal pipeline for doing things is so full.
 
+### &#x20;Is IOG simply going to hang on and keep spending until this whole governance system is in place ?
+
+23:45 - Steven
+
+I'm very aware of the extraordinary expense that IOG has borne and is continuing to bear. At some point the Treasury will have to begin to bear that. Is IOG simply going to hang on and keep spending until this whole governance system is in place and vetted, functional and 100% blissfully glorious, or is there something else that we should know?
+
 ## References
 
 ### Cardano Improvement Proposals (CIPs) <a href="#cardanoimprovementproposalscips" id="cardanoimprovementproposalscips"></a>
