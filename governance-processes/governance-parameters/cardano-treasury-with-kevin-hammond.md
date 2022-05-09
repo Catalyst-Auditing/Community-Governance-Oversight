@@ -308,6 +308,8 @@ So you will see lots of things happening over the coming months as we go to the 
 
 And you'll start to see more transparency. We're setting up mechanisms where we're recording the reasons & rationale for the decisions and are planning explanations for why decisions being taken.
 
+One or two of the decisions we can't tell you why we've made them because we might reveal something about some part of blockchain security.
+
 
 
 ## References
