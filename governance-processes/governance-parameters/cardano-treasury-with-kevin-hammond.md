@@ -362,7 +362,11 @@ At some point we have to just accept this is what we have. Do we have an end goa
 
 Voltaire is not a point is a process. And it's a process that we're going to start on and what we're going to do is to gradually transition. So we're gradually transitioning from the current position where we're in to one which is a system of open governance.
 
-'m not sure about all the papers in the IO repository. But IO was heavily involved as a key player in an EU project called privilege.
+'m not sure about all the papers in the IO repository. But IO was heavily involved as a key player in an EU project called [privilege](https://priviledge-project.eu/about).
+
+
+
+
 
 ## References
 
@@ -383,6 +387,12 @@ Blockchain Governance Principles & Catalyst : An overview of Prof Aggelos Kiayia
 {% embed url="https://cips.cardano.org" %}
 
 Cardano Improvement Proposals (CIPs) describe standards, processes; or provide general guidelines or information to the Cardano Community. It is a formal, technical communication process that exists off-chain. CIPs do **not** represent a commitment of any form towards existing projects. Rather, they are a collection of sensible and sound solutions to common problems within the Cardano ecosystem.
+
+### PRIViLEDGE
+
+{% embed url="https://priviledge-project.eu/about" %}
+
+PRIViLEDGE realises cryptographic protocols supporting privacy, anonymity, and efficient decentralised consensus for DLTs. In PRIViLEDGE, several European key players in cryptographic research and from the fintech and blockchain domains unite to push the limits of cryptographic protocols for privacy and security.
 
 ### SoK: Blockchain Governance
 
