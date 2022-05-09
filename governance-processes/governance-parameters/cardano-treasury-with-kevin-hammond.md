@@ -320,7 +320,7 @@ You've mentioned Core Development of the Cardano blockchain. How would the decis
 
 This is being defined at the moment. Decisions about the current environment are going to be informed by community needs and by community decisions.
 
-What we've had to do to date is to follow the path we'd set out with Cardano Foundation several years ago.
+What we've had to do to date is to follow the path we'd set out with Cardano Foundation several years ago. A set of things that IOG agreed with Cardano Foundation. We will do these things, we will deliver them.
 
 ## References
 
