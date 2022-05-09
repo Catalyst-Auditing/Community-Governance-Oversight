@@ -192,6 +192,10 @@ And I believe that as well. It's just very interesting to fit that into legacy p
 
 It is extremely interesting how this fits into legacy processes. Regulators and national authorities are becoming aware of the existence of blockchains and cryptocurrencies and are starting to evolve legislation. So what we can expect is that there will be changes in this area. What Cardano is doing is to make itself as decentralized as possible. The goal is very much not for there to be a central authority for Cardano.
 
+09:46 - Jared
+
+I doubt this is unique to Cardano. If you mint a block in Bitcoin, what country gives you the authority? What entity gives you authority to mint that?
+
 
 
 
