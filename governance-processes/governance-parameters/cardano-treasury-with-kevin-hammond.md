@@ -6,6 +6,10 @@ description: >-
 
 # Cardano Treasury with Kevin Hammond
 
+##
+
+##
+
 ## Catalyst Town Hall Presentation
 
 At a Catalyst Town Hall of April 20th 2022, [Kevin Hammond](https://iohk.io/en/team/kevin-hammond) an IOHK Technology manager supported by [Jared Corduan](https://iohk.io/en/team/jared-corduan) an IOHK Software Engineering gave a presentation on the Cardano Treasury.
@@ -233,18 +237,28 @@ At an Catalyst After Town Hall of April 20th 2022, [Kevin Hammond](https://iohk.
 ### Could the governance keys be represented by a separate kind of contract or democracy ?
 
 12:33 - George Lovegrove
+
 > For instance, to represent some kind of persons of understanding or capacity. Could that governance then be delegated from to a sub democracy ? So kind of so you layer it? Is that Is that something that's of any consideration or any any thought?
 
 13:02 - Kevin Hammond
-> The governance keys are the ones that are controlling the decisions as we move forward?&#x20;
 
-> These are public keys. And the public keys could be owned by any entity. The question is going to be what is a legitimate entity?&#x20;
+> The governance keys are the ones that are controlling the decisions as we move forward?
 
-> Should they always be owned by individuals? Should they be owned by groups of individuals? What the right was the right structure? We don't at this point, have the answer to that.&#x20;
+> These are public keys. And the public keys could be owned by any entity. The question is going to be what is a legitimate entity?
 
-> We're going to find that out pretty soon, I think. So stay stay posted. So apologies. I'm being a bit cagey here. But the whole thing is in transition, and we're evolving it we're designing it. There are lots of negotiations going on. So I can't I can't say for sure.&#x20;
+> Should they always be owned by individuals? Should they be owned by groups of individuals? What the right was the right structure? We don't at this point, have the answer to that.
+
+> We're going to find that out pretty soon, I think. So stay stay posted. So apologies. I'm being a bit cagey here. But the whole thing is in transition, and we're evolving it we're designing it. There are lots of negotiations going on. So I can't I can't say for sure.
 
 > But I would imagine that the initial holders of government's case would be would be individuals rather than organizations or other entities. There's no reason in principle why you couldn't have an entity.
+
+So the public keys could be could be representative.
+
+
+
+
+
+
 
 ## References
 
