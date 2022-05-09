@@ -302,7 +302,7 @@ We're also starting to debate some of the other parameters. There is a survey go
 
 The great thing is that we're starting to get to a stage where there's alignment on how we should be proceeding.
 
-So you will see lots of things happening over the coming months as we go to the transition.
+So you will see lots of things happening over the coming months as we go to the transition. And the goal is to establish process and to establish mechanisms. So that although everything is properly scrutinized, all opinions are taken into account, we'll have a process that allows us to keep moving forwards as we go to Voltaire, as we move towards an open governance system.
 
 
 
