@@ -300,6 +300,8 @@ And what we've been able to start increasing things like block sizes, etc.
 
 We're also starting to debate some of the other parameters. There is a survey gone out about things like the minimum cost, the minimum pool cost. We are taking that into account. Lots of debate going on.
 
+The great thing is that we're starting to get to a stage where there's alignment on how we should be proceeding.
+
 ## References
 
 ### [Understanding the Extended UTXO model](https://docs.cardano.org/plutus/eutxo-explainer)
