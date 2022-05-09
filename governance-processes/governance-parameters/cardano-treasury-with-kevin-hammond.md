@@ -368,7 +368,12 @@ There are research papers that they've produced and a lot of the work they've do
 
 And we've even come up with prototypes of four automated forms of governance. We're probably not in a position where we're going to enact those tomorrow.
 
+Results from PRIViLEDGE are demonstrated through four ledger-based solutions:
 
+verifiable online voting;\
+contract validation and execution for insurance;\
+university diploma record ledger;\
+update mechanism for stake-based ledgers.
 
 ## References
 
