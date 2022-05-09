@@ -352,13 +352,19 @@ I think it's obvious that IOG is going to be a major contributor to that simply 
 
 26:34 - Filip
 
-I noticed a little bit of a lack of scientific papers regarding governance in the IOHK research library. There is one on the Cardano Treasury from 2017 or 19. And there's the latest one from a couple of months ago, the SLK paper ([SoK: Blockchain Governance - Kiayias & Lazos](https://docs.google.com/viewerng/viewer?url=https://arxiv.org/pdf/2201.07188.pdf))
+I noticed a little bit of a lack of scientific papers regarding governance in the IOHK research library. There is one on the Cardano Treasury from 2017 or 19. ([A Treasury System for Cryptocurrencies (2019)](https://iohk.io/en/research/library/papers/a-treasury-system-for-cryptocurrenciesenabling-better-collaborative-intelligence/). And there's the latest one from a couple of months ago, the SLK paper ([SoK: Blockchain Governance - Kiayias & Lazos](https://docs.google.com/viewerng/viewer?url=https://arxiv.org/pdf/2201.07188.pdf))
 
 But is this solvable? A fantastic, wonderful system that everybody's happy with and there is no adversity in it,  that just doesn't seem you know, realistic.&#x20;
 
 At some point we have to just accept this is what we have. Do we have an end goal?&#x20;
 
 ## References
+
+### A Treasury System for Cryptocurrencies
+
+A Treasury System for Cryptocurrencies (2019): Enabling Better Collaborative Intelligence. Bingsheng Zhang, Roman Oliynykov, Hamed Balogun
+
+{% embed url="https://quality-assurance-dao.gitbook.io/ekphrasis/february-2019/a-treasury-system-for-cryptocurrencies" %}
 
 ### Blockchain Governance Principles
 
