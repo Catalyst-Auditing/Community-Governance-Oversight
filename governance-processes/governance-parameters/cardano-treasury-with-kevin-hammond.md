@@ -310,6 +310,12 @@ And you'll start to see more transparency. We're setting up mechanisms where we'
 
 One or two of the decisions we can't tell you why we've made them because we might reveal something about some part of blockchain security.
 
+### Decision making in respect of Core Development
+
+[21:43](https://youtu.be/yG0lifQOaFk?t=1303) - Phil Khoo
+
+You've mentioned Core Development of the Cardano blockchain. How would the decision making of that be undertaken?
+
 
 
 ## References
