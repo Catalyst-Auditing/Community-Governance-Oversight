@@ -383,7 +383,7 @@ In addition, we have a rich history of successful democracies and other organiza
 
 To give you some idea? I have previously run EU projects of about 50 people, about 20 organizations in about eight European countries. It's not quite at the scale of the of the United Nations. But it's complicated enough to understand some of the issues that can crop up, the things you've got to deal with,  the processes, you have to go through, how to hash to consensus on decisions, etc
 
-And very importantly, how you deal with conflict resolution. We have to build in very carefully into the system a monitoring system to make sure the governance processes are working properly.
+And very importantly, how you deal with conflict resolution. We have to build in very carefully into the system a monitoring system to make sure the governance processes are working properly. We've got to build in a system that is there to resolve disputes between different parts of the governance process.
 
 ## References
 
