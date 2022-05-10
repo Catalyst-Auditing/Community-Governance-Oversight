@@ -391,7 +391,7 @@ At an Catalyst After Town Hall of April 20th 2022, [Kevin Hammond](https://iohk.
 
 ### Do you have a breakdown of how much of the Treasury is funding ADA rewards versus transaction fees?
 
-31:14 - Matthew
+[31:14](https://www.youtube.com/watch?v=yG0lifQOaFk\&t=1874s) - Matthew
 
 > So you have gone through the process of how the cash flows from one epoch to the next, including disbursement from the Treasury and transaction fees.
 
@@ -407,7 +407,7 @@ At an Catalyst After Town Hall of April 20th 2022, [Kevin Hammond](https://iohk.
 
 ### Do you give any consideration to the value of ADA ?
 
-32:39 -
+[32:39](https://www.youtube.com/watch?v=yG0lifQOaFk\&t=1959s) -
 
 > Do you give any consideration to the value of ADA when funds are distributed and where the Treasury is being used?
 
@@ -425,7 +425,7 @@ At an Catalyst After Town Hall of April 20th 2022, [Kevin Hammond](https://iohk.
 
 ### Is it technically possible for the Treasury itself to be staked?
 
-34:19 - Allison
+[34:19](https://www.youtube.com/watch?v=yG0lifQOaFk\&t=2059s) - Allison
 
 > Bearing in mind what was said previously about the Treasury funds not being in an address, per se, but being a separate pool of funds. Is it technically possible for the Treasury itself to be staked? Or is that too recursive?
 
