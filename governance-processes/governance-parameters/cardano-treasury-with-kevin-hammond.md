@@ -118,7 +118,7 @@ At an Catalyst After Town Hall of April 20th 2022, [Kevin Hammond](https://iohk.
 
 ### Is there a Treasury Address ? How can it be queried ?
 
-0:51 - Is there a Treasury Address ? How can it be queried ? - Filip
+[0:51](https://www.youtube.com/watch?v=yG0lifQOaFk\&t=51s) - Is there a Treasury Address ? How can it be queried ? - Filip
 
 > On Cardano we have addresses that are controlled by private and public keys. So Treasury has some sort of multi SIG functionality. But I've never seen a treasury address. Is it an address? Can we query it somewhere? - Filip
 
@@ -136,7 +136,7 @@ At an Catalyst After Town Hall of April 20th 2022, [Kevin Hammond](https://iohk.
 
 ### Who is making the governance decisions ?
 
-02:51 - Who is making the governance decisions ? - Allison
+[02:51](https://www.youtube.com/watch?v=yG0lifQOaFk\&t=171s) - Who is making the governance decisions ? - Allison
 
 > Who is in charge of that process that you laid out? Not from a technical standpoint, but from a making a decision? Who holds the governance keys ? What audit steps are necessary? What documentation is required ?
 
@@ -162,7 +162,7 @@ At an Catalyst After Town Hall of April 20th 2022, [Kevin Hammond](https://iohk.
 
 ### Who decided that it's a five of seven quorum ?
 
-06:25 - Allison
+[06:25](https://www.youtube.com/watch?v=yG0lifQOaFk\&t=385s) - Allison
 
 > I do come at this as in a position of being very appreciative of the work IOG is doing to move towards true Decentralized Governance. My questions are more as a business person trying to understand the status quo. So I can answer some questions for my accountant and satisfy my intellectual curiosity.
 
@@ -381,7 +381,7 @@ At an Catalyst After Town Hall of April 20th 2022, [Kevin Hammond](https://iohk.
 
 > In addition, we have a rich history of successful democracies and other organizations to draw on. Successful or less successful examples, positive examples and negative examples.
 
-> To give you some idea? I have previously run EU projects of about 50 people, about 20 organizations in about eight European countries. It's not quite at the scale of the of the United Nations. But it's complicated enough to understand some of the issues that can crop up, the things you've got to deal with,  the processes, you have to go through, how to hash to consensus on decisions, etc
+> To give you some idea? I have previously run EU projects of about 50 people, about 20 organizations in about eight European countries. It's not quite at the scale of the of the United Nations. But it's complicated enough to understand some of the issues that can crop up, the things you've got to deal with, the processes, you have to go through, how to hash to consensus on decisions, etc
 
 > And very importantly, how you deal with conflict resolution. We have to build in very carefully into the system a monitoring system to make sure the governance processes are working properly. We've got to build in a system that is there to resolve disputes between different parts of the governance process.
 
@@ -393,9 +393,9 @@ At an Catalyst After Town Hall of April 20th 2022, [Kevin Hammond](https://iohk.
 
 31:14 - Matthew
 
-> So you have gone through the process of how the cash flows from one epoch to the next, including disbursement from the Treasury and transaction fees.&#x20;
+> So you have gone through the process of how the cash flows from one epoch to the next, including disbursement from the Treasury and transaction fees.
 
-> When you look at the transaction fees per block, it doesn't seem to be enough to really constitute the bulk of the rewards that then go to delegated ADA holders.&#x20;
+> When you look at the transaction fees per block, it doesn't seem to be enough to really constitute the bulk of the rewards that then go to delegated ADA holders.
 
 > Do you have a breakdown of how much of the Treasury is funding ADA rewards versus transaction fees? It's must be incredibly lopsided.
 
@@ -407,7 +407,7 @@ At an Catalyst After Town Hall of April 20th 2022, [Kevin Hammond](https://iohk.
 
 ### Do you give any consideration to the value of ADA ?
 
-32:39 -&#x20;
+32:39 -
 
 > Do you give any consideration to the value of ADA when funds are distributed and where the Treasury is being used?
 
@@ -417,9 +417,9 @@ At an Catalyst After Town Hall of April 20th 2022, [Kevin Hammond](https://iohk.
 
 > Because although the treasuries are denominated in ADA, in fact, we'll see that Catalyst is moving to ADA disbursement of funds. Outside the ADA ecosystem, our people pay their bills in dollars, or Sterling, or Yen or whatever the currency is.
 
-> &#x20;So the reality is that the bills that will come in for Core Cardano development will certainly be in terms of some Fiat value.
+> So the reality is that the bills that will come in for Core Cardano development will certainly be in terms of some Fiat value.
 
-> Any ADA balance transferred, is going to need to be converted are either on the Cardano side or on the side of the recipient, the party that's carrying out the work.&#x20;
+> Any ADA balance transferred, is going to need to be converted are either on the Cardano side or on the side of the recipient, the party that's carrying out the work.
 
 > So the question then is is, where's the risk lie? Is it with the with the Cardano system? Is it with the vendor, the provider to make sure that their costs are covered properly? Something we need to debate.
 
@@ -433,7 +433,7 @@ At an Catalyst After Town Hall of April 20th 2022, [Kevin Hammond](https://iohk.
 
 > No, the Treasury cannot be staked, it doesn't have an address. So it has no stake address. The Treasury is a static part.
 
-> You can transfer ADA in an asset, but it's not broken down. As Jared mentioned the unsent transaction outputs, these are what drives the ADA system. The Treasury is not an unspent transaction output. It's a fixed sum.&#x20;
+> You can transfer ADA in an asset, but it's not broken down. As Jared mentioned the unsent transaction outputs, these are what drives the ADA system. The Treasury is not an unspent transaction output. It's a fixed sum.
 
 ### Is the CLI command in the documentation ?
 
@@ -441,7 +441,7 @@ At an Catalyst After Town Hall of April 20th 2022, [Kevin Hammond](https://iohk.
 
 36:05 - Jared
 
-> Unfortunately there is not a super easy way to do it. There is a query command. It's called ledger, state query, space ledger state. That command is unfortunately massive. It produces a gigantic JSON blob.&#x20;
+> Unfortunately there is not a super easy way to do it. There is a query command. It's called ledger, state query, space ledger state. That command is unfortunately massive. It produces a gigantic JSON blob.
 
 > Kevin will give you the jQuery command and filter out just the number you want?
 
@@ -455,7 +455,7 @@ At an Catalyst After Town Hall of April 20th 2022, [Kevin Hammond](https://iohk.
 
 [38:34](https://www.youtube.com/watch?v=yG0lifQOaFk\&t=2314s) - Filip
 
-> We know that exchanges have pools. If exchanges have pools they have normal Shelly staking addresses. If they have normal Shelly staking addresses they have voting rights with those addresses. If they don't use Enterprise addresses, they can vote.&#x20;
+> We know that exchanges have pools. If exchanges have pools they have normal Shelly staking addresses. If they have normal Shelly staking addresses they have voting rights with those addresses. If they don't use Enterprise addresses, they can vote.
 
 > So my question is there an agreement? They don't do that? Is there some sort of filtering if they do that?
 
@@ -467,13 +467,11 @@ At an Catalyst After Town Hall of April 20th 2022, [Kevin Hammond](https://iohk.
 
 > You might find that there are fiduciary and custodial obligations that would prevent voting of normal shareholdings by a mutual fund administrator. Those kinds of considerations might apply.
 
-> So there might be an abundance of caution and reluctance to vote in Catalyst by those large pool operators or large, centralized entities.&#x20;
+> So there might be an abundance of caution and reluctance to vote in Catalyst by those large pool operators or large, centralized entities.
 
 40:53 - Kevin Hammond
 
-> Thank you, Matthew.There's nothing technically to prevent it. And if you think about it, you couldn't do that easily because we have an anonymous blockchain.&#x20;
-
-
+> Thank you, Matthew.There's nothing technically to prevent it. And if you think about it, you couldn't do that easily because we have an anonymous blockchain.
 
 ## References
 
