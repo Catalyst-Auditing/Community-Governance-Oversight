@@ -193,9 +193,9 @@ CC Admin to approach Circle Rep on ownership of Problem (raised outside sub circ
 
 ### What Metrics to report on ?
 
-Metric 1 - Community support / priority for solving problem
+### Metric 1 - Community support / priority for solving problem
 
-
+![](<../../.gitbook/assets/Screenshot 2022-05-10 122557.png>)
 
 ## References
 
