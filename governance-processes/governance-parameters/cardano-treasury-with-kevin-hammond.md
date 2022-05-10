@@ -358,17 +358,17 @@ I noticed a little bit of a lack of scientific papers regarding governance in th
 
 But is this solvable? A fantastic, wonderful system that everybody's happy with and there is no adversity in it, that just doesn't seem you know, realistic.
 
-At some point we have to just accept this is what we have. Do we have an end goal?
+> At some point we have to just accept this is what we have. Do we have an end goal?
 
 27:37 - Kevin Hammond
 
-Voltaire is not a point is a process. And it's a process that we're going to start on and what we're going to do is to gradually transition. So we're gradually transitioning from the current position where we're in to one which is a system of open governance.
+> Voltaire is not a point is a process. And it's a process that we're going to start on and what we're going to do is to gradually transition. So we're gradually transitioning from the current position where we're in to one which is a system of open governance.
 
-'m not sure about all the papers in the IO repository. But IO was heavily involved as a key player in an EU project called [privilege](https://priviledge-project.eu/about).
+> I'm not sure about all the papers in the IO repository. But IO was heavily involved as a key player in an EU project called [privilege](https://priviledge-project.eu/about).
 
-There are research papers that they've produced and a lot of the work they've done is directly relevant to what we need to do.
+> There are research papers that they've produced and a lot of the work they've done is directly relevant to what we need to do.
 
-And we've even come up with prototypes of four automated forms of governance. We're probably not in a position where we're going to enact those tomorrow.
+> And we've even come up with prototypes of four automated forms of governance. We're probably not in a position where we're going to enact those tomorrow.
 
 > "Results from PRIViLEDGE are demonstrated through four ledger-based solutions:
 >
@@ -377,33 +377,33 @@ And we've even come up with prototypes of four automated forms of governance. We
 > 3 university diploma record ledger;\
 > 4 update mechanism for stake-based ledgers."
 
-We have done research,and we've exposed a lot of interesting questions through research. We've also formed a research team dedicated to the IOG governance team. They are going to inform us about various aspects of governance process, things to do with incentives, rewards, etc
+> We have done research,and we've exposed a lot of interesting questions through research. We've also formed a research team dedicated to the IOG governance team. They are going to inform us about various aspects of governance process, things to do with incentives, rewards, etc
 
-In addition, we have a rich history of successful democracies and other organizations to draw on. Successful or less successful examples, positive examples and negative examples.
+> In addition, we have a rich history of successful democracies and other organizations to draw on. Successful or less successful examples, positive examples and negative examples.
 
-To give you some idea? I have previously run EU projects of about 50 people, about 20 organizations in about eight European countries. It's not quite at the scale of the of the United Nations. But it's complicated enough to understand some of the issues that can crop up, the things you've got to deal with,  the processes, you have to go through, how to hash to consensus on decisions, etc
+> To give you some idea? I have previously run EU projects of about 50 people, about 20 organizations in about eight European countries. It's not quite at the scale of the of the United Nations. But it's complicated enough to understand some of the issues that can crop up, the things you've got to deal with,  the processes, you have to go through, how to hash to consensus on decisions, etc
 
-And very importantly, how you deal with conflict resolution. We have to build in very carefully into the system a monitoring system to make sure the governance processes are working properly. We've got to build in a system that is there to resolve disputes between different parts of the governance process.
+> And very importantly, how you deal with conflict resolution. We have to build in very carefully into the system a monitoring system to make sure the governance processes are working properly. We've got to build in a system that is there to resolve disputes between different parts of the governance process.
 
 30:46 - Jared Corduan
 
-IOG still does a lot of research for some of the cryptographic techniques that might be used for governance. A lot of stuff on zero knowledge proofs, specifically related to voting.
+> IOG still does a lot of research for some of the cryptographic techniques that might be used for governance. A lot of stuff on zero knowledge proofs, specifically related to voting.
 
 ### Do you have a breakdown of how much of the Treasury is funding ADA rewards versus transaction fees?
 
 31:14 - Matthew
 
-So you have gone through the process of how the cash flows from one epoch to the next, including disbursement from the Treasury and transaction fees.&#x20;
+> So you have gone through the process of how the cash flows from one epoch to the next, including disbursement from the Treasury and transaction fees.&#x20;
 
-When you look at the transaction fees per block, it doesn't seem to be enough to really constitute the bulk of the rewards that then go to delegated ADA holders.&#x20;
+> When you look at the transaction fees per block, it doesn't seem to be enough to really constitute the bulk of the rewards that then go to delegated ADA holders.&#x20;
 
-Do you have a breakdown of how much of the Treasury is funding ADA rewards versus transaction fees? It's must be incredibly lopsided.
+> Do you have a breakdown of how much of the Treasury is funding ADA rewards versus transaction fees? It's must be incredibly lopsided.
 
 31:52 - Kevin Hammond
 
-At the moment it's lopsided. But the transaction volume is growing. We're building additional capacity. We're essentially in a bootstrapping bootstrapping phase.
+> At the moment it's lopsided. But the transaction volume is growing. We're building additional capacity. We're essentially in a bootstrapping bootstrapping phase.
 
-The margin expansion that I mentioned, the reserves expansion, this is not on a constant rate is declining over time. So the funding coming from the reserves is declining. The expectation is that fees will balance out and there's a plan for a crossover at some point in the future. Obviously, we need to keep building up the volumes and we need to make sure we can take sufficient value from the system.
+> The margin expansion that I mentioned, the reserves expansion, this is not on a constant rate is declining over time. So the funding coming from the reserves is declining. The expectation is that fees will balance out and there's a plan for a crossover at some point in the future. Obviously, we need to keep building up the volumes and we need to make sure we can take sufficient value from the system.
 
 ### Do you give any consideration to the value of ADA ?
 
