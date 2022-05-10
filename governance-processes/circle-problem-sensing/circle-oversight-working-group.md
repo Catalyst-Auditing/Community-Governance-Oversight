@@ -193,6 +193,10 @@ CC Admin to approach Circle Rep on ownership of Problem (raised outside sub circ
 
 ### What Metrics to report on ?
 
+**Example of Metrics** - in the case of the CA Sub Circle - Outputs for CA Issues - how people react / feedback. Dework upvoting system.
+
+![](<../../.gitbook/assets/Screenshot 2022-05-10 122845.png>)
+
 ### Metric 1 - Community support / priority for solving problem
 
 ![](<../../.gitbook/assets/Screenshot 2022-05-10 122557.png>)
