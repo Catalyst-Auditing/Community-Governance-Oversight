@@ -181,6 +181,16 @@ Ownership of problem - could be obvious or decision of Circle.
 
 There should be emphasis on the Problem Sensing Rubric but as a helper not a deterrent.
 
+#### Circle Admin
+
+CC Admin to accept problems ?&#x20;
+
+The Rubric could act as an optional filter prior. Assistance from CC Admin in applying Rubric ?
+
+CC Admin to approach Circle Rep on ownership of Problem (raised outside sub circles).
+
+
+
 ## References
 
 ### Circle Problem - Review and Revise the Prioritized-Problems Workflow
