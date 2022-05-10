@@ -189,6 +189,12 @@ The Rubric could act as an optional filter prior. Assistance from CC Admin in ap
 
 CC Admin to approach Circle Rep on ownership of Problem (raised outside sub circles).
 
+### How might the value of solving this problem be quantified and/or measured?
+
+### What Metrics to report on ?
+
+Metric 1 - Community support / priority for solving problem
+
 
 
 ## References
