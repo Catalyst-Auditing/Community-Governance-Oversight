@@ -164,7 +164,17 @@ This meeting built on the work of the previous meeting. We looked at to what ext
 
 ### Community Support
 
-Up to each community to decide what goes forward as a Problem ?
+![](<../../.gitbook/assets/Screenshot 2022-05-10 115959.png>)
+
+Is it up to each community to decide what goes forward as a Problem ?&#x20;
+
+All communities will have their own expectations of a system or process to follow.
+
+A Problem may be raised by a community member who draws attention to it but does not own it or have a solution. In which case who in the community decides the necessary end state for the Problem ?&#x20;
+
+It should be as open as possible to submit Problems.
+
+Can a Problem be raised initaillky as an Issue ? What is the distinction ?
 
 ## References
 
