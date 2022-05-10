@@ -136,7 +136,7 @@ The conclusion was that 1) **importance to the Catalyst mission** & 2) some **ar
 
 ![](<../../.gitbook/assets/Screenshot 2022-04-20 132721.png>)
 
-### The value of solving the problem&#x20;
+### The value of solving the problem
 
 #### Quantitative / qualitative (metrics)
 
@@ -166,12 +166,20 @@ This meeting built on the work of the previous meeting. We looked at to what ext
 
 ![](<../../.gitbook/assets/Screenshot 2022-05-10 115959.png>)
 
-Is it up to each community to decide what goes forward as a Problem ?&#x20;
+Is it up to each community to decide what goes forward as a Problem ?
 
-- All communities will have their own expectations of a system or process to follow.
-- A Problem may be raised by a community member who draws attention to it but does not own it or have a solution. In which case who in the community decides the necessary end state for the Problem ?&#x20;
-- It should be as open as possible to submit Problems.
-- Can a Problem be raised initaillky as an Issue ? What is the distinction ?
+* All communities will have their own expectations of a system or process to follow.
+* A Problem may be raised by a community member who draws attention to it but does not own it or have a solution. In which case who in the community decides the necessary end state for the Problem ?
+* It should be as open as possible to submit Problems.
+* Can a Problem be raised initaily as an Issue ? What is the distinction ?
+
+![](<../../.gitbook/assets/Screenshot 2022-05-10 121633.png>)
+
+If a community member is serious about raising a problem it should be framed according to the rubric and a rep be contacted.
+
+Ownership of problem - could be obvious or decision of Circle.
+
+There should be emphasis on the Problem Sensing Rubric but as a helper not a deterrent.
 
 ## References
 
