@@ -250,113 +250,113 @@ At an Catalyst After Town Hall of April 20th 2022, [Kevin Hammond](https://iohk.
 
 > But I would imagine that the initial holders of government's case would be would be individuals rather than organizations or other entities. There's no reason in principle why you couldn't have an entity.
 
-So the public keys could be could be representative.
+> So the public keys could be could be representative.
 
 ### Is there a number that sets Treasury distribution between Catalyst, Core Development and Governance costs ?
 
 [14:23](https://youtu.be/yG0lifQOaFk?t=863) - George Ramayya
 
-From the Treasury standpoint, when you look at foundations and the cost structure, there is always the number between six to eight persons. Is that number defined for this treasury too? And when we look at the division of the Treasury distributed out to the Catalyst project, Core Development or governance costs is there a number to show the division between them?
+> From the Treasury standpoint, when you look at foundations and the cost structure, there is always the number between six to eight persons. Is that number defined for this treasury too? And when we look at the division of the Treasury distributed out to the Catalyst project, Core Development or governance costs is there a number to show the division between them?
 
 15:11 - Kevin Hammond
 
-No, there is no defined number. This is something that needs to be agreed as part of the governance process.
+> No, there is no defined number. This is something that needs to be agreed as part of the governance process.
 
-As you can imagine the split between the different activities could vary depending on need.
+> As you can imagine the split between the different activities could vary depending on need.
 
-The operating costs for some parts of the blockchain are going to be fixed. But that might change over time.
+> The operating costs for some parts of the blockchain are going to be fixed. But that might change over time.
 
-But it's not going to be constant over time, particularly because the costs we are incurring are in fiat and the Treasury is denominated in ADA.
+> But it's not going to be constant over time, particularly because the costs we are incurring are in fiat and the Treasury is denominated in ADA.
 
-In terms of the split between Catalyst projects, Core Development. That is going to depend on the agreement between it and the governance body.
+> In terms of the split between Catalyst projects, Core Development. That is going to depend on the agreement between it and the governance body.
 
-And I imagine some of those discussions are going to be quite heated, because people always want to spend on one thing rather than another.
+> And I imagine some of those discussions are going to be quite heated, because people always want to spend on one thing rather than another.
 
-But the reality is that you've got to spend enough on the Cardano core development. If you don't spend on the core development, there isn't going to be a blockchain or it's not going to evolve, it's not going to do what people want. So there's going to be some level of spend that you have to incur there.
+> But the reality is that you've got to spend enough on the Cardano core development. If you don't spend on the core development, there isn't going to be a blockchain or it's not going to evolve, it's not going to do what people want. So there's going to be some level of spend that you have to incur there.
 
-And then the ecosystem spend will be doing exciting things beyond the core of the development. I can't give you a percentage or guess what I think the percentages are.
+> And then the ecosystem spend will be doing exciting things beyond the core of the development. I can't give you a percentage or guess what I think the percentages are.
 
 17:42 - Kevin Hammond
 
-Part of governance processes precisely is to define what is the executive split? What should be the spend on each of the different parts that make up Cardano?
+> Part of governance processes precisely is to define what is the executive split? What should be the spend on each of the different parts that make up Cardano?
 
 ### Have you had situations to date where you've needed to reach a quorum?
 
 [18:11](https://youtu.be/yG0lifQOaFk?t=1092) - Jonathan
 
-Have you had situations to date where you've needed to reach a quorum? Where you've actually tried to make decisions, and there hasn't been an agreement ? Just think about topics that might come up as we go down to distributing this decision?
+> Have you had situations to date where you've needed to reach a quorum? Where you've actually tried to make decisions, and there hasn't been an agreement ? Just think about topics that might come up as we go down to distributing this decision?
 
 18:36 - Kevin Hammond
 
-Every decision is discussed in detail. Every change that's being made to the Cardano parameters.
+> Every decision is discussed in detail. Every change that's being made to the Cardano parameters.
 
-This is subject of hot debate, within Cardano. Its informed within IO, within the Cardano Foundation. It's informed by lots of information about how the blockchain is operating. It's informed by research that's going on.
+> This is subject of hot debate, within Cardano. Its informed within IO, within the Cardano Foundation. It's informed by lots of information about how the blockchain is operating. It's informed by research that's going on.
 
-We can't reveal all of that which is frustrating to us, because you can see the community saying, oh, you should do this. And you should do that. And we're thinking well, yes, we agree. We know exactly where you're coming from. But guys, we can't. We can't tell you why we can't.
+> We can't reveal all of that which is frustrating to us, because you can see the community saying, oh, you should do this. And you should do that. And we're thinking well, yes, we agree. We know exactly where you're coming from. But guys, we can't. We can't tell you why we can't.
 
 19:40 - Kevin Hammond
 
-We're starting to make changes to some of the operating parameters. It's taken a while to get to that position, not because we've not wanted to, but because we have to get the system up and running in a stable way.
+> We're starting to make changes to some of the operating parameters. It's taken a while to get to that position, not because we've not wanted to, but because we have to get the system up and running in a stable way.
 
-And what we've been able to start increasing things like block sizes, etc.
+> And what we've been able to start increasing things like block sizes, etc.
 
-We're also starting to debate some of the other parameters. There is a survey gone out about things like the minimum cost, the minimum pool cost. We are taking that into account. Lots of debate going on.
+> We're also starting to debate some of the other parameters. There is a survey gone out about things like the minimum cost, the minimum pool cost. We are taking that into account. Lots of debate going on.
 
-The great thing is that we're starting to get to a stage where there's alignment on how we should be proceeding.
+> The great thing is that we're starting to get to a stage where there's alignment on how we should be proceeding.
 
-So you will see lots of things happening over the coming months as we go to the transition. And the goal is to establish process and to establish mechanisms. So that although everything is properly scrutinized, all opinions are taken into account, we'll have a process that allows us to keep moving forwards as we go to Voltaire, as we move towards an open governance system.
+> So you will see lots of things happening over the coming months as we go to the transition. And the goal is to establish process and to establish mechanisms. So that although everything is properly scrutinized, all opinions are taken into account, we'll have a process that allows us to keep moving forwards as we go to Voltaire, as we move towards an open governance system.
 
 21:03 - Kevin Hammond
 
-And you'll start to see more transparency. We're setting up mechanisms where we're recording the reasons & rationale for the decisions and are planning explanations for why decisions being taken.
+> And you'll start to see more transparency. We're setting up mechanisms where we're recording the reasons & rationale for the decisions and are planning explanations for why decisions being taken.
 
-One or two of the decisions we can't tell you why we've made them because we might reveal something about some part of blockchain security.
+> One or two of the decisions we can't tell you why we've made them because we might reveal something about some part of blockchain security.
 
 ### Decision making in respect of Core Development
 
 [21:43](https://youtu.be/yG0lifQOaFk?t=1303) - Phil Khoo
 
-You've mentioned Core Development of the Cardano blockchain. How would the decision making of that be undertaken?
+> You've mentioned Core Development of the Cardano blockchain. How would the decision making of that be undertaken?
 
 21:53 - Kevin Hammond
 
-This is being defined at the moment. Decisions about the current environment are going to be informed by community needs and by community decisions.
+> This is being defined at the moment. Decisions about the current environment are going to be informed by community needs and by community decisions.
 
-What we've had to do to date is to follow the path we'd set out with Cardano Foundation several years ago. A set of things that IOG agreed with Cardano Foundation. We will do these things, we will deliver them.
+> What we've had to do to date is to follow the path we'd set out with Cardano Foundation several years ago. A set of things that IOG agreed with Cardano Foundation. We will do these things, we will deliver them.
 
-And we're going through a process at the moment called "Get Cardano done". So we are in a position where we're handing off.
+> And we're going through a process at the moment called "Get Cardano done". So we are in a position where we're handing off.
 
-I was talking earlier today with [Vito Silva](https://iohk.io/en/team/vitor-silva). He is the Product manager for Cardano. What he is doing at the moment is to sift through the CIP ([Cardano Improvement Proposals](https://cips.cardano.org)).
+> I was talking earlier today with [Vito Silva](https://iohk.io/en/team/vitor-silva). He is the Product manager for Cardano. What he is doing at the moment is to sift through the CIP ([Cardano Improvement Proposals](https://cips.cardano.org)).
 
-So this \[CIP] process where ideas are being surfaced by the community has some very good ideas coming up. We're cognizant of these but we haven't been able to take all of them forward yet simply because the normal pipeline for doing things is so full.
+> So this \[CIP] process where ideas are being surfaced by the community has some very good ideas coming up. We're cognizant of these but we haven't been able to take all of them forward yet simply because the normal pipeline for doing things is so full.
 
 ### Is IOG simply going to hang on and keep spending until this whole governance system is in place ?
 
 [23:45](https://www.youtube.com/watch?v=yG0lifQOaFk\&t=1425s) - Steven
 
-I'm very aware of the extraordinary expense that IOG has borne and is continuing to bear. At some point the Treasury will have to begin to bear that. Is IOG simply going to hang on and keep spending until this whole governance system is in place and vetted, functional and 100% blissfully glorious, or is there something else that we should know?
+> I'm very aware of the extraordinary expense that IOG has borne and is continuing to bear. At some point the Treasury will have to begin to bear that. Is IOG simply going to hang on and keep spending until this whole governance system is in place and vetted, functional and 100% blissfully glorious, or is there something else that we should know?
 
 24:30 - Kevin Hammond
 
-You're asking me here a question about IOG's company's strategy ? The reality is there has to come a point when IOG stop spending its money because it's a profit making company. It has to get a return on the money that's been spent.
+> You're asking me here a question about IOG's company's strategy ? The reality is there has to come a point when IOG stop spending its money because it's a profit making company. It has to get a return on the money that's been spent.
 
-The Treasury has been it's been built up. You've seen the good level of Treasury. It's building up, which is great, we are going to have to start dipping into that.
+> The Treasury has been it's been built up. You've seen the good level of Treasury. It's building up, which is great, we are going to have to start dipping into that.
 
-It is very expensive to develop and maintain blockchains, particularly to very high standards.
+> It is very expensive to develop and maintain blockchains, particularly to very high standards.
 
-There's going to be a transition at some point. How this develops in terms of who pays for what, because IOG will always have some things that IOG wants to do and that maybe the community is less interested in. Well, if IOG is prepared to pay for that, why shouldn't it ?
+> There's going to be a transition at some point. How this develops in terms of who pays for what, because IOG will always have some things that IOG wants to do and that maybe the community is less interested in. Well, if IOG is prepared to pay for that, why shouldn't it ?
 
-But equally, there will be things that the community feels should be done. The community paying for that will need to work out the best way to get those things done going forward.
+> But equally, there will be things that the community feels should be done. The community paying for that will need to work out the best way to get those things done going forward.
 
-I think it's obvious that IOG is going to be a major contributor to that simply because of its position. But we're absolutely going to involve other vendors, other providers as part of that process. It's not just going to fall on IOG's shoulders to do the future development of Cardano.
+> I think it's obvious that IOG is going to be a major contributor to that simply because of its position. But we're absolutely going to involve other vendors, other providers as part of that process. It's not just going to fall on IOG's shoulders to do the future development of Cardano.
 
 ### Do we have an end goal?
 
 [26:34](https://www.youtube.com/watch?v=yG0lifQOaFk\&t=1594s) - Filip
 
-I noticed a little bit of a lack of scientific papers regarding governance in the IOHK research library. There is one on the Cardano Treasury from 2017 or 19. ([A Treasury System for Cryptocurrencies (2019)](https://iohk.io/en/research/library/papers/a-treasury-system-for-cryptocurrenciesenabling-better-collaborative-intelligence/). And there's the latest one from a couple of months ago, the SLK paper ([SoK: Blockchain Governance - Kiayias & Lazos](https://docs.google.com/viewerng/viewer?url=https://arxiv.org/pdf/2201.07188.pdf))
+> I noticed a little bit of a lack of scientific papers regarding governance in the IOHK research library. There is one on the Cardano Treasury from 2017 or 19. ([A Treasury System for Cryptocurrencies (2019)](https://iohk.io/en/research/library/papers/a-treasury-system-for-cryptocurrenciesenabling-better-collaborative-intelligence/). And there's the latest one from a couple of months ago, the SLK paper ([SoK: Blockchain Governance - Kiayias & Lazos](https://docs.google.com/viewerng/viewer?url=https://arxiv.org/pdf/2201.07188.pdf))
 
-But is this solvable? A fantastic, wonderful system that everybody's happy with and there is no adversity in it, that just doesn't seem you know, realistic.
+> But is this solvable? A fantastic, wonderful system that everybody's happy with and there is no adversity in it, that just doesn't seem you know, realistic.
 
 > At some point we have to just accept this is what we have. Do we have an end goal?
 
