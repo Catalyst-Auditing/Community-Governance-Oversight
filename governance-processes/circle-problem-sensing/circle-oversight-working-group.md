@@ -201,6 +201,14 @@ CC Admin to approach Circle Rep on ownership of Problem (raised outside sub circ
 
 ![](<../../.gitbook/assets/Screenshot 2022-05-10 122557.png>)
 
+A metric to measure community support of a Problem.
+
+Apply a priority scale ? 1 to 5 ?&#x20;
+
+![](<../../.gitbook/assets/Screenshot 2022-05-10 123422.png>)
+
+Should a measure of community support determine progression to "To Do" on the Circle Problem Board ?
+
 ## References
 
 ### Circle Problem - Review and Revise the Prioritized-Problems Workflow
