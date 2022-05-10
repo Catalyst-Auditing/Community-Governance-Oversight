@@ -144,6 +144,28 @@ The conclusion was that 1) **importance to the Catalyst mission** & 2) some **ar
 
 Therefore the value of solving the problem comes after its placing in the backlog. Given that Circle has identified 1) **importance to the Catalyst mission** & 2) some **articulation of the gap between the current state and an expected solution** then 3) some **quantitative and/or qualitative metrics** should be applied before the problem progresses any further.
 
+## Working group meeting #3
+
+#### Wednesday 4th Mayl 2022, 1030 UTC
+
+**Nadia Hopkins** - CCv3 Community Advisor Rep
+
+**Allison Fromm** - CCv2 General ADA Holders Rep
+
+**Tevo Saks** - CCv2 Toolmakers Rep
+
+**Stephen Whitenstall** - CCv2 Funded Proposer Rep
+
+{% embed url="https://youtu.be/S6w3QTG3wCo" %}
+
+### Overview
+
+This meeting built on the work of the previous meeting. We looked at to what extent a Problem requires community support and how this should be quantified.
+
+### Community Support
+
+Up to each community to decide what goes forward as a Problem ?
+
 ## References
 
 ### Circle Problem - Review and Revise the Prioritized-Problems Workflow
