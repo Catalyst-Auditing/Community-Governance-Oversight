@@ -208,7 +208,7 @@ At an Catalyst After Town Hall of April 20th 2022, [Kevin Hammond](https://iohk.
 
 ### Who's doing the due diligence around the release of funds?
 
-10:33 - Allison
+[10:33](https://www.youtube.com/watch?v=yG0lifQOaFk\&t=633s) - Allison
 
 > Who's doing the due diligence around the release of funds? Not from a technical standpoint, but from a regulatory standpoint?
 
@@ -218,7 +218,7 @@ At an Catalyst After Town Hall of April 20th 2022, [Kevin Hammond](https://iohk.
 
 ### What do you see as the evolution of the 7 keys ?
 
-11:10 - George Lovegrove
+[11:10](https://www.youtube.com/watch?v=yG0lifQOaFk\&t=670s) - George Lovegrove
 
 > What do you see as the evolution of the 7 keys ? Do you see it going through a number,like 11 ? Or is it going to be like a big transition to a democratic system and those governance keys become a separate thing? How are you going to see that changing over time?
 
@@ -234,7 +234,7 @@ At an Catalyst After Town Hall of April 20th 2022, [Kevin Hammond](https://iohk.
 
 ### Could the governance keys be represented by a separate kind of contract or democracy ?
 
-12:33 - George Lovegrove
+[12:33](https://www.youtube.com/watch?v=yG0lifQOaFk\&t=753s) - George Lovegrove
 
 > For instance, to represent some kind of persons of understanding or capacity. Could that governance then be delegated from to a sub democracy ? So kind of so you layer it? Is that Is that something that's of any consideration or any any thought?
 
