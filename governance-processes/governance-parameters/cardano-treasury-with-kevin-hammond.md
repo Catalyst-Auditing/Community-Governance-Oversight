@@ -178,7 +178,7 @@ At an Catalyst After Town Hall of April 20th 2022, [Kevin Hammond](https://iohk.
 
 ### Where are the funds domiciled ?
 
-07:39 - Kevin Hammond
+[07:39](https://www.youtube.com/watch?v=yG0lifQOaFk\&t=459s) - Kevin Hammond
 
 > As to the question where are the funds domiciled ? I would need to I need to pass that onto the legal team to give you your correct answer.
 
