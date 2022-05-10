@@ -215,6 +215,14 @@ Some measure of support must be identified - a number, names, a group etc.
 
 Legitimacy requires evidence of community support ?
 
+![](<../../.gitbook/assets/Screenshot 2022-05-10 123816.png>)
+
+Is one motivated person enough to raise a Problem or is broader support required ?&#x20;
+
+Maybe a minimum of two people ?
+
+Maybe not, if min would be 2 then at least these 2 people have opportunity to progress together
+
 ## References
 
 ### Circle Problem - Review and Revise the Prioritized-Problems Workflow
