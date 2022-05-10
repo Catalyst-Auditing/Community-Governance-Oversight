@@ -209,6 +209,12 @@ Apply a priority scale ? 1 to 5 ?&#x20;
 
 Should a measure of community support determine progression to "To Do" on the Circle Problem Board ?
 
+**Why** - practical sensing of community support - is there enough investment to pursue the problem ?
+
+Some measure of support must be identified - a number, names, a group etc.
+
+Legitimacy requires evidence of community support ?
+
 ## References
 
 ### Circle Problem - Review and Revise the Prioritized-Problems Workflow
