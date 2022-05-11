@@ -169,7 +169,10 @@ Issue
 
 
 * 30:30 Tevo – Parameters are of two types: about the process, and about specific terms like number, date or some limit.  To make it a parameter, you need a brief description of it, and you need to know how it can be changed. Also need to unstand which ones need to be changed behind closed doors, and which could be done in the community; Kevin Hammond's recent talk at Town Hall mentioned this.
-* 32:33 Stephen – A transcript of Kevin Hammond's ATH meeting has been made, and will be turned into a FAQ about the Treasury. Two parameters emerged in this meeting. The first is the cadence format and the second is the idea.&#x20;
+* 32:33 Stephen – A transcript of Kevin Hammond's ATH meeting has been made, and turned into a [FAQ about the Treasury](https://quality-assurance-dao.gitbook.io/community-governance-oversight/governance-processes/governance-parameters/cardano-treasury-with-kevin-hammond).&#x20;
+* Returning to earlier comments in this meeting - parameter changes include:.&#x20;
+  * cadence format\
+    idea.&#x20;
 * 34:09 Phil – Now there is a way to ask for a review. Whether the reviews were unfairly removed or the VCAs are not working well.&#x20;
 * 34:32 Allison – There are two more associated with VCAs. 1) is who is eligible to be a VCA. That was a parameter to change this background. 2) the introduction of a reputation model for VCAs.&#x20;
 * 34:51 Phil – A permissionless system was created for this petition process, we operate it, but we've been hamstrung. We don't have any community agency, we get things started but we don't have control over the effects and the existing processes. We have a team doing research, but so is the community.&#x20;
