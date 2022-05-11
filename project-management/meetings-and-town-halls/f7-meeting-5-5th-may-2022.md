@@ -17,8 +17,6 @@ description: 'Community Governance Oversight Meeting #5 - 15:00 UTC, Thursday, 0
 | Name                | Role     |
 | ------------------- | -------- |
 | Allison Fromm       | Member   |
-| Kenric Nelson       | Member   |
-| Jo Allum            | Member   |
 | Matthias Sieber     | Member   |
 | Phil Khoo           | Member   |
 | Stephen Whitenstall | Member   |
@@ -33,15 +31,20 @@ description: 'Community Governance Oversight Meeting #5 - 15:00 UTC, Thursday, 0
 | ------------- | --------- |
 | Livia Corcino | Secretary |
 
+## Apologies  <a href="#minutes" id="minutes"></a>
+
+| Name          | Role   |
+| ------------- | ------ |
+| Jo Allum      | Member |
+| Kenric Nelson | Member |
+
 ## Information
 
 ### Community Governance Oversight (CGO)&#x20;
 
-F7 Ideascale Proposal - https://cardano.ideascale.com/c/idea/383517&#x20;
+[F7 Ideascale Proposal ](https://cardano.ideascale.com/c/idea/383517)
 
-F8 Ideascale Proposal - https://cardano.ideascale.com/c/idea/398225&#x20;
-
-GitBook - https://quality-assurance-dao.gitbook.io/community-governance-oversight/
+[F8 Ideascale proposal ](https://cardano.ideascale.com/c/idea/398225)
 
 ## Agenda
 
@@ -49,9 +52,8 @@ GitBook - https://quality-assurance-dao.gitbook.io/community-governance-oversigh
 
 Andre & Mirolav - updates on Treasury setup, member payments, costs & expenses.&#x20;
 
-**5 minutes**&#x20;
+0:55 Andre – We've paid everything except the surveys, retrospectives and reports. We need to do the math on that tomorrow, to be ready for when funds go in on 9th May.&#x20;
 
-* 0:55 Andre – We've paid everything except the surveys, retrospectives and reports. We need to do the math on that tomorrow, to be ready for when funds go in on 9th May.&#x20;
 * 01:35 Stephen – We've already paid for Town Hall slides and everything else
 
 {% hint style="info" %}
@@ -61,8 +63,6 @@ Andre & Mirolav - updates on Treasury setup, member payments, costs & expenses.&
 ## 2. Town Hall Slides&#x20;
 
 Allison - Updates on Town Hall Slides&#x20;
-
-**5 minutes**&#x20;
 
 Issue
 
@@ -77,8 +77,6 @@ Issue
 ## 3. Fund 8 - CGO Proposal&#x20;
 
 Stephen - The Fund 8 CGO Proposal is in the voting stage&#x20;
-
-**5 minutes**&#x20;
 
 Issue&#x20;
 
@@ -99,8 +97,6 @@ Review&#x20;
 
 Stephen - Brief Review of the Project Board to check overall progress
 
-**5 minutes**&#x20;
-
 {% embed url="https://github.com/orgs/Catalyst-Auditing/projects/3/views/1" %}
 
 * 05:36 Stephen – There is a final report to be made, related to the report in progress. What was done is a literature review. There is progress across the board.
@@ -114,8 +110,6 @@ Stephen - Brief Review of the Project Board to check overall progress
 All members - Progress under each scope area: 40 minutes
 
 ### 5.1 Challenge setting process
-
-**10 minutes**
 
 Scope: Including community contributed challenges and the creation and expanding role of challenge teams&#x20;
 
@@ -144,8 +138,6 @@ Update from Ro - Phil 09:30 UTC - Allison, Stephen.
 {% endhint %}
 
 ### 5.2 Catalyst Circle problem sensing
-
-10 minutes
 
 Scope: Effectiveness of prioritized problem sensing
 
@@ -190,8 +182,6 @@ Lack of clarity on cc terms - clarified at start of CCv3 - Vanessa
 
 ### 5.3 D-reps
 
-**10 minutes**
-
 Scope: Oversight of delegated voting innovations
 
 Deliverables: The Survey deliverable will be used for a literature search contrasting “liquid democracy “ and “illiquid plutocracy “. The purpose is to provide measurable definitions for these terms. This would support the research for F8 CGO and provide some context for the interviews conducted within the community.&#x20;
@@ -213,8 +203,6 @@ Meeting 10th May 2022
 * 29:10 Stephen – Kenric is not here, so quick update: A first DAO governance literature review meeting took place with Steph from Wolfram and others, where the Zotero tool was reviewed; we're going to start holding these meetings regularly so they're likely to overlap with the fund 8 proposal.
 
 ### 5.4 **Governance parameters**
-
-**10 minutes**&#x20;
 
 Scope: Modifying the governance parameters in Catalyst via Catalyst Circle and a Technical Council
 
@@ -280,8 +268,6 @@ Issue
 
 ## &#x20;**6 FUND 7 CGO Proposal Reporting**
 
-**5 minutes**&#x20;
-
 Due 24th May 2022 - Stephen to complete&#x20;
 
 Issue
@@ -299,8 +285,6 @@ Issue
 ## 7 Any **Other Business**
 
 Summary of CGO meeting for Catalyst Weekly Newsletter&#x20;
-
-**5 minutes**&#x20;
 
 Agree a short paragraph summarizing today's meeting&#x20;
 
