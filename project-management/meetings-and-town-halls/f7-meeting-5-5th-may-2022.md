@@ -54,7 +54,7 @@ Andre & Mirolav - updates on Treasury setup, member payments, costs & expenses.&
 
 0:55 Andre – We've paid everything except the surveys, retrospectives and reports. We need to do the math on that tomorrow, to be ready for when funds go in on 9th May.&#x20;
 
-* 01:35 Stephen – We've already paid for Town Hall slides and everything else
+01:35 Stephen – We've already paid for Town Hall slides and everything else
 
 {% hint style="info" %}
 **Action -** Deliverables budgeting - Andre & Stephen
@@ -62,161 +62,97 @@ Andre & Mirolav - updates on Treasury setup, member payments, costs & expenses.&
 
 ## 2. Town Hall Slides&#x20;
 
-Allison - Updates on Town Hall Slides&#x20;
-
 Issue
 
 {% embed url="https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/72" %}
 
-* 02:02 Allison – The slides were delivered. The proposal has not been so promoted.
-
-{% hint style="info" %}
-**Action -** Ask external survey
-{% endhint %}
+* 02:02 Allison – The slides were delivered
+* 02:26 Stephen – Links to our F8 proposal have been removed from the Town Hall slides. Not everyone presenting at Town Hall did this during the voting period.&#x20;
+* 03:03 Phil – Probably because some people were showing videos that were already pre-recorded.&#x20;
+* 03:35 Phil – Might be interesting to know what external people are thinking about this group - perhaps a survey?
+* 04:53 Matthias – Voting result on our F8 proposal might tell us that.
 
 ## 3. Fund 8 - CGO Proposal&#x20;
-
-Stephen - The Fund 8 CGO Proposal is in the voting stage&#x20;
 
 Issue&#x20;
 
 {% embed url="https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/65" %}
 
-* 02:26 Stephen – Links to our F8 proposal have been removed from the Town Hall slides. However, not everyone presenting at Town Hall did this during the voting period.&#x20;
-* 03:03 Phil – Probably because some people were showing videos that were already pre-recorded before this was mentioned.&#x20;
-* 03:35 Phil – Might be interesting to know what external people are thinking about this group - perhaps a survey?
-* 04:53 Matthias – Voting on our F8 proposal might tell us that.
-
-{% hint style="info" %}
-**Action -**&#x20;
-{% endhint %}
+04:55 Stephen - The Fund 8 CGO Proposal is in the voting stage - no updates
 
 ## 4. CGO Project Board Review
-
-Review&#x20;
 
 Stephen - Brief Review of the Project Board to check overall progress
 
 {% embed url="https://github.com/orgs/Catalyst-Auditing/projects/3/views/1" %}
 
-* 05:36 Stephen – There is a final report to be made, related to the report in progress. What was done is a literature review. There is progress across the board.
-* 6:49 Allison – There was communication with George, who would be interested in talking to the group and seeing if there is any synergy.&#x20;
-* 07:20 Stephen – Need to get some context about what is happening in the challenge configuration, put that in our final report for this proposal, and leave it at that until Fund 8.&#x20;
-* 7:46 Phil - And we could report on the fund 8 vote, and how George approached it; whether voters understood what he was doing and, for example, whether equal wallets voted for all his challenge settings.
-* 08:08 Stephen – Best to meet with George to hear from him what information can be added to our final report.
+* 05:36 Stephen – Outline of our outstanding tasks.
 
 ## 5. F7 CGO Scope and Deliverables
 
-All members - Progress under each scope area: 40 minutes
-
 ### 5.1 Challenge setting process
-
-Scope: Including community contributed challenges and the creation and expanding role of challenge teams&#x20;
-
-Deliverables: TBA - Need to consider approach to CT survey&#x20;
 
 Issue
 
 {% embed url="https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/48" %}
 
-#### Actions from previous meetings
-
-Phil: 1) To feedback to Ro of Adagov. Maybe come and speak to oversight. Talk to George Lovegrove about oversight. 2)Consolidate challenges into smaller categories - Stephen/Allison.&#x20;
-
-Any weekday after UTC 1700 Context of Challenge Setting Ask George for the extent of Oversight contribution. Understanding of voting response to George’s Challenge setting.&#x20;
-
-Update from Ro - Phil 09:30 UTC - Allison, Stephen.
-
-* 08:26 Phil – An analysis of the voting process would be interesting.&#x20;
-* 09:16 Phil – From George's point of view, the outcome of the processes, how voters accept it, is more important than the process itself.&#x20;
-* 10:03 Allison – The community needs to be informed where Catalyst Circle is now, the length of the term and that there will be no other election now.&#x20;
-* 10:57 Stephen – Contact will be made with George to arrange a meeting.&#x20;
-* 11:46 Phil – We can invite Ro to our last meeting.
+* 6:49 Allison – George Lovegrove would be interested in talking to the group and seeing if there is any synergy.&#x20;
+* 07:20 Stephen – Need to get some context about what is happening in the challenge configuration, put that in our final report for this proposal, and leave it at that until Fund 8.&#x20;
+* 7:46 Phil - Analysis of how George approached the Fund 8 vote would be interesting: whether voters understood what he was doing and, for example, whether equal wallets voted for all his challenge settings.&#x20;
+* 9:44 Stephen - it raises the question of whether it's possible to change a parameter via a challenge setting
+* 12:43 Phil – On meeting with Ro, due to the time difference, a separate meeting would be better
 
 {% hint style="info" %}
-**Action -**&#x20;
+**Action - Stephen to contact George and arrange a meeting**
+
+**Action - Phil to arrange a separate meeting with Ro, c. 9:30 am UTC one morning.**
 {% endhint %}
 
 ### 5.2 Catalyst Circle problem sensing
-
-Scope: Effectiveness of prioritized problem sensing
-
-Deliverables : How effectively is the prioritized problem board working? How can CGO survey, assist and report on this?
 
 Issue&#x20;
 
 {% embed url="https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/47" %}
 
-#### Actions from previous meetings
-
-Joint working party meetings with Catalyst Circle V3 on the Problems process. - Allison, Stephen, Tevo Working group meeting 4 &#x20;
-
-Tuesday 10th May 2022 No CCv3 elections taking place? When a decision is made? - Allison&#x20;
-
-Lack of clarity on cc terms - clarified at start of CCv3 - Vanessa
-
 {% hint style="info" %}
 **Action -** Next TH refer to CCv3 term and election process. How does the 4 month cadence impact CC term.
 {% endhint %}
 
-* 12:43 Phil – Due to the time difference between Ro and the rest of the members, a separate meeting can also be held for him.&#x20;
-* 13:28 Stephen – Probably best to have a separate meeting that we can record.
-* 13:48 Phil – Ro is more focused on data and system structures than defining challenges.&#x20;
-* 15:04 Stephen – We are having regular meetings about the circle and looking at the problem process.&#x20;
-* 15:34 Allison – It's an interesting project to help circle reps be more effective.
+* 15:04 Stephen – We are having regular meetings with Circle and looking at the problem process.&#x20;
+* 15:34 Allison – It could help circle reps be more effective.
 * 16:10 Tevo – We are halfway there and the next sessions will be about the prioritised problem stage the Circle is working on.&#x20;
-* 16:44 Stephen – We should look at how problems are coming up on the board, if there's community evidence behind it. In the Circle we are trying to come up with a method for measuring problems and then moving them around.&#x20;
-* 18:34 Stephen – Suggest combining the report that we have to deliver as part of the proposal and the final report.&#x20;
+* 16:44 Stephen – We have looked at the problem-sensing rubric inherited from Governance Alive and refined it. Our next focus will be how problems get onto the board; a key metric we have identified is whether there's community evidence behind it. After that our  focus will be whether there is any methodology in place for measuring problems and progressing them across the board. Probably will not finish in fund 7, but can report on how far we get.
+* 18:34 Stephen – Suggest combining the report to IOG to close out the proposal, with our final report on our work.&#x20;
 * 19:04 Stephen – A shared document has been created that can be completed offline or at the next meeting.&#x20;
-* 20:20 Allison – As this group is working to increase transparency of governance across Catalyst, maybe we should comment in our next town hall slides that there is not a Circle election happening now.&#x20;
-* 20:52 Vanessa – There was some confusion; was clarified at the start of CCv3 that CCv3 would last for 6 months.
-* 21:29 Allison – Useful to give a reminder to the community, especially as there was some confusion about it at the time of the last election.&#x20;
-* 22:21 Stephen – I think it's valid to mention it in our next Town Hall slides, the week after next.&#x20;
-* 24:08 Allison – There was indeed a lot of confusion and even some candidates didn't understand what the term was.&#x20;
-* 24:42 Vanessa – Most of the community is probably aware of the 6 month term and that there will be no upcoming election, but how it got to this point is not so clear.
-* 26:34 Vanessa – There is discussion in CCv3 now about the electoral process for CCv4.&#x20;
+* 20:20 Allison – As part of our work to increase transparency of governance across Catalyst, maybe we should comment in our next town hall slides that there is not a Circle election happening now.&#x20;
+* 20:52 Vanessa – Some confusion on this during CCv2, but was definitely clarified at the start of CCv3 that CCv3 would last for 6 months.
+* 21:29 Allison – Useful to give a reminder to the community, especially as there was some confusion about it at the time of the CCv3 election; even some candidates didn't understand what the term was.&#x20;
+* 24:42 Vanessa – Even if most of the community is aware of the 6 month term, they might not be aware how that was agreed.&#x20;
 * 27:15 Phil – Cadence of the funding rounds is now effectively 4 months - should CC cadence stay in step with that?
-* 27:33 Allison -  That change of fund cadence is a parameter change
-* 28:39 Matthias - the change to fund 9 being in ADA is also a parameter change
-* 28:56 Stephen - let's hold those 2 things for the agenda item on parameter changes
+* 27:33 Allison -  That change of fund cadence is a parameter change.
+* 28:39 Matthias - the change to fund 9 being in ADA is also a parameter change.
+* 28:56 Stephen - let's hold those 2 things for the agenda item on parameter changes.
+
+{% hint style="info" %}
+**Action:** Allison to mention issue of Circle elections on next Town Hall slides
+
+**Action:** all to contribute to shared doc of final report, which will also serve as project close-out report
+{% endhint %}
 
 ### 5.3 D-reps
-
-Scope: Oversight of delegated voting innovations
-
-Deliverables: The Survey deliverable will be used for a literature search contrasting “liquid democracy “ and “illiquid plutocracy “. The purpose is to provide measurable definitions for these terms. This would support the research for F8 CGO and provide some context for the interviews conducted within the community.&#x20;
 
 Issue
 
 {% embed url="https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/49" %}
 
-Updates - DAO Governance Literature Review&#x20;
-
-Meeting 26th April 2022 Next meeting&#x20;
-
-Meeting 10th May 2022
-
-{% hint style="info" %}
-**Action -**&#x20;
-{% endhint %}
-
-* 29:10 Stephen – Kenric is not here, so quick update: A first DAO governance literature review meeting took place with Steph from Wolfram and others, where the Zotero tool was reviewed; we're going to start holding these meetings regularly so they're likely to overlap with the fund 8 proposal.
+29:10 Stephen – Kenric is not here, so quick update: A first governance literature review meeting took place with Steph from Wolfram and others, where the Zotero tool was reviewed; we're going to start holding these meetings regularly, so they're likely to overlap with the fund 8 proposal.
 
 ### 5.4 **Governance parameters**
-
-Scope: Modifying the governance parameters in Catalyst via Catalyst Circle and a Technical Council
-
-Deliverables: This scope area is on hold from IOG's side. CGO are focusing on defining what a parameter change is, and documenting how parameter changes occur.
 
 Issue
 
 {% embed url="https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/50" %}
 
-**Actions from previous meeting**
-
-* Tevo and Stephen will work on what is a parameter change? What is a parameter? Who decides this? https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/67
-* Document/capture what the community says on e.g. Telegram about parameter changes? rather than using Google forms etc to collect community opinion? Vanessa to do this in an informal way and ask people’s permission.
-* Miro Board which has funding parameter percents
 * [**https://miro.com/app/board/o9J\_ljPS0hg=/?moveToWidget=3458764519526918582\&cot=10**](https://miro.com/app/board/o9J\_ljPS0hg=/?moveToWidget=3458764519526918582\&cot=10) - Tevo
 * VCA QA Petition process - way of requesting review if assessment unfairly reviewed&#x20;
 * Results go to IOG - then what? An arbitrary decision? Community agency&#x20;
@@ -232,8 +168,8 @@ Issue
 
 
 
-* 30:30 Tevo – We have divided the parameters into two types, about the process and specific terms like number, date or some limit.&#x20;
-* 31:00 Tevo – To modify a parameter you must have a brief description and how it can be changed. 32:33 Stephen – A transcript of Kevin Hammond's meeting has been made, and will be turned into an FAQ about the Treasury. Two parameters emerged in this meeting. The first is the cadence format and the second is the idea.&#x20;
+* 30:30 Tevo – Parameters are of two types: about the process, and about specific terms like number, date or some limit.  To make it a parameter, you need a brief description of it, and you need to know how it can be changed. Also need to unstand which ones need to be changed behind closed doors, and which could be done in the community; Kevin Hammond's recent talk at Town Hall mentioned this.
+* 32:33 Stephen – A transcript of Kevin Hammond's ATH meeting has been made, and will be turned into a FAQ about the Treasury. Two parameters emerged in this meeting. The first is the cadence format and the second is the idea.&#x20;
 * 34:09 Phil – Now there is a way to ask for a review. Whether the reviews were unfairly removed or the VCAs are not working well.&#x20;
 * 34:32 Allison – There are two more associated with VCAs. 1) is who is eligible to be a VCA. That was a parameter to change this background. 2) the introduction of a reputation model for VCAs.&#x20;
 * 34:51 Phil – A permissionless system was created for this petition process, we operate it, but we've been hamstrung. We don't have any community agency, we get things started but we don't have control over the effects and the existing processes. We have a team doing research, but so is the community.&#x20;
