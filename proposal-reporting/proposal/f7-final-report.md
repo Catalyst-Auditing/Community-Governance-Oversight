@@ -8,12 +8,14 @@ This report summarizes the oversight of governance process in Project Catayst be
 
 ## **Challenge Setting.**
 
-\
+**George Lovegrove**
+
+[https://docs.catalystcontributors.org/funding-categorisation-analysis/challenge-settings/challenge-setting-approach](https://docs.catalystcontributors.org/funding-categorisation-analysis/challenge-settings/challenge-setting-approach)\
 
 
 ## **Catalyst Circle problem sensing.**
 
-\
+Allison Fromm, \
 
 
 ## **Modifying the governance parameters**
