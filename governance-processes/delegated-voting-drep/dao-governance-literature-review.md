@@ -192,6 +192,10 @@ What does Nash equilibrium mean? Nash equilibrium is the most common way to defi
 
 I think that might be helpful for just explaining what's the the importance of Nash equilibrium?  - Steph
 
+{% hint style="info" %}
+See also [Steph's Notes](https://quality-assurance-dao.gitbook.io/community-governance-oversight/governance-processes/delegated-voting-drep/dao-governance-literature-review#stephs-notes-on-power-in-liquid-democracy) below
+{% endhint %}
+
 ### Portfolio allocation of voting power
 
 [28:06](https://www.youtube.com/watch?v=MZEqGvLw7Zg\&t=1686s)
