@@ -210,7 +210,9 @@ From what IOG has communicated that is the intent. They haven't rolled it out ye
 
 ### **Researching dRep's background**
 
-I envision a research report that says this delegate rep is experienced in a particaulr area. There is evidence of what they understand and their previous voting record.&#x20;
+[29:11](https://www.youtube.com/watch?v=MZEqGvLw7Zg\&t=1751s)
+
+I envision a research report that says this delegate rep is experienced in a particular area. There is evidence of what they understand and their previous voting record.&#x20;
 
 This is their Wallet account. This is what they currently hold. This is how long they've been participating.&#x20;
 
