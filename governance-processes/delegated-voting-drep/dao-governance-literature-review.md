@@ -178,5 +178,17 @@ What I'd like to do is use the tags to put our names so that we have a record of
 
 [26:11](https://www.youtube.com/watch?v=MZEqGvLw7Zg\&t=1571s)
 
+The paper develops a theory of power for delegable proxy voting systems.&#x20;
 
+It defines a power index to measure the influence of voters and delegators.&#x20;
+
+A formal theory of power with a delegated proxy was lacking.
+
+So the aim was to provide a theory to gain insight into how power may have been to be distributed among agents.&#x20;
+
+The authors analytically study the existence of pure strategy Nash equilibrium.
+
+What does Nash equilibrium mean? Nash equilibrium is the most common way to define the solution of a non cooperative game involving two or more players. Each player is assumed to know the equilibria rooms, strategies of other players, and no one has anything to gain by changing only one's own strategy.&#x20;
+
+I think that might be helpful for just explaining what's the the importance of Nash equilibrium?  - Steph
 
