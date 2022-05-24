@@ -99,7 +99,7 @@ The Oversight group will facilitate literature reviews and meta-analysis of dece
 
 $ 10,000 for 4 months' research work ($ 2,500 per month)
 
-## References
+### References
 
 #### 1 Example of liquid democracy at google
 
