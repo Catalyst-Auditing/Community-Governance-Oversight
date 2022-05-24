@@ -230,7 +230,7 @@ In the paper, they reference something called Liquid feedback. A website called 
 
 [30:45](https://www.youtube.com/watch?v=MZEqGvLw7Zg\&t=1845s)
 
-Liquid feedback brought up the idea of favoring preferences and giving somebody the option of having a secondary choice. And where, as opposed to only having all all on one vote, it's, you do have the ability to represent secondary, and third choices.&#x20;
+Liquid feedback brought up the idea of favoring preferences and giving somebody the option of having a secondary choice. And where, as opposed to only having all all on one vote, it's, you do have the ability to represent secondary, and third choices. - **Steph**
 
 ### Transitive delegations
 
@@ -238,11 +238,13 @@ Liquid feedback brought up the idea of favoring preferences and giving somebody 
 
 One main starting point of our paper is a controversial feature of liquid democracy. That is, transitive delegations may, in principle, lead to disproportionate accrual of power, thereby harming the democratic legitimacy of the resulting vote.&#x20;
 
-I think that Kendrick Kendrick, this is a thing that you focus on a lot.&#x20;
+Kenric, this is a thing that you focus on a lot. - **Steph**
 
+### Banzhaf power index <a href="#firstheading" id="firstheading"></a>
 
+[31:33](https://www.youtube.com/watch?v=MZEqGvLw7Zg\&t=1893s)
 
-And another quote was, I wanted to understand what the band's half power index was, is a power index, defined by the probability of changing an outcome of a vote where voting rights are not necessarily equally divided among the vote, voters or shareholders.
+The Banzhaf power index is a power index, defined by the probability of changing an outcome of a vote where voting rights are not necessarily equally divided among the vote, voters or shareholders. - **Steph**
 
 ### References
 
