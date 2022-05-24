@@ -16,7 +16,7 @@
 | Steph Macurdy       | Wolfram Blockchain Labs |
 | Thorsten Pottebaum  |                         |
 
-## Information
+### Information
 
 #### Community Governance Group
 
