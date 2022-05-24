@@ -157,3 +157,9 @@ Particularly methodologies for measuring power in these kinds of voting systems.
 [18:57](https://www.youtube.com/watch?v=MZEqGvLw7Zg\&t=1137s)
 
 I'm not necessarily looking for this literature review to provide answers. But rather to help provide some guidance to the community about what the important questions are on these issues. And in defining good questions, I'm hoping to kind of motivate research and development within the community to try to tackle some of these questions. - Kenric
+
+And the other contextual point is that this is part of an effort by Governance Oversight to do surveys within the community. A survey of the literature as a way to inform a more in depth conversation with the community and with IOG, with regard to the designs, and expectations we should have about the outcomes of the direct process. - Kenric
+
+[20:40](https://www.youtube.com/watch?v=MZEqGvLw7Zg\&t=1240s)
+
+Community Governance Oversight is a proposal that was submitted to Project Catalyst. It was jointly prepared with the community, IOG, Dor and Harris to oversee governance processes. It was funded in Fund 7, it may be funded in Fund 8. Part of that is to oversee D reps, Catalyst Circle Problem Sensing and Challenge Setting. - Stephen
