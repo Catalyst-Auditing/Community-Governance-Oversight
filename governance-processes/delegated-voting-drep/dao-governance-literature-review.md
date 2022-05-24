@@ -192,3 +192,45 @@ What does Nash equilibrium mean? Nash equilibrium is the most common way to defi
 
 I think that might be helpful for just explaining what's the the importance of Nash equilibrium?  - Steph
 
+
+
+### References
+
+### Steph's Notes on "Power in Liquid Democracy"
+
+**Steph Macurdy: The paper develops a theory of power for delegable proxy voting systems.** We define a power index able to measure the influence of both voters and delegators.
+
+However, a formal theory of power in voting systems with delegable proxy is lacking. We aim at providing such a theory here, and use it to gain insights into how power may happen to be distributed among agents involved in decision-making with liquid democracy
+
+We analytically study the existence of **pure strategy Nash equilibria in such a model**. Finally, by means of simulations, we study the effect of relevant parameters on the emergence of power inequalities in the model.
+
+Nash equilibrium is the most common way to define the [solution](https://en.wikipedia.org/wiki/Solution\_concept) of a [non-cooperative game](https://en.wikipedia.org/wiki/Non-cooperative\_game) involving two or more players. In a Nash equilibrium, each player is assumed to know the equilibrium strategies of the other players, and no one has anything to gain by changing only one's own strategy. (Wikipedia)
+
+Delegable voting gives rise to so-called "transitive delegations."
+
+Can either cast vote directly or delegate, passing votes one has accrued further to another proxy.&#x20;
+
+1. Portfolio allocation of votes
+2. Snapshot results of different governance implementations
+
+Liquid Feedback - https://liquidfeedback.com/en/
+
+Favoring preferences and secondary choice.
+
+"The starting point of our paper is a controversial feature of liquid democracy: transitive delegations may in principle lead to disproportionate accrual of power, thereby harming the democratic legitimacy of the resulting vote."
+
+"is a [power](https://en.wikipedia.org/wiki/Power\_\(social\_and\_political\)) index defined by the [probability](https://en.wikipedia.org/wiki/Probability) of changing an [outcome](https://en.wikipedia.org/wiki/Outcome\_\(game\_theory\)) of a [vote](https://en.wikipedia.org/wiki/Voting) where voting rights are not necessarily equally divided among the voters or [shareholders](https://en.wikipedia.org/wiki/Shareholder)." - (https://en.wikipedia.org/wiki/Banzhaf\_power\_index)
+
+"Winner take all dynamics when its only one vote per person?"
+
+
+
+\
+
+
+\
+
+
+\
+
+
