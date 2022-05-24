@@ -132,7 +132,7 @@ Useful features include -
 | Stephen Whitenstall | QADAO                   |
 | Steph Macurdy       | Wolfram Blockchain Labs |
 
-## Information
+### Information
 
 #### Community Governance Group
 
@@ -143,3 +143,9 @@ Useful features include -
 https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/71
 
 ### Overview
+
+After prelimary Zotero housekeeping, discussion moved onto Liquid Democarcy papers.
+
+### Context
+
+For context the papers we're looking at is background for D reps. Papers that are relevant to liquid democracy and in the context of IOGs implementation of D reps.
