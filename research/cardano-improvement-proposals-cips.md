@@ -4,7 +4,9 @@
 
 See - [https://cips.cardano.org/](https://cips.cardano.org)
 
+## GitHub Repository
 
+[https://github.com/cardano-foundation/CIPs](https://github.com/cardano-foundation/CIPs)
 
 ## Notable CIPs
 
