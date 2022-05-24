@@ -176,11 +176,15 @@ So the first axiom is defining the fact that you have no power, which would be t
 
 
 
+The second axiom is defining the maximum power. And it's a scale between zero and one.
 
+![](<../../.gitbook/assets/Screenshot 2022-05-24 165815.png>)
 
-And that and then
+And then again, there's some rules around how power is combined in the system. With regard to blocks and a sum principle. I won't go into the details of that now.&#x20;
 
-, and then the second axiom is defining the maximum power. And it's a scale between zero and one. And then again, there's some rules around how power is combined in the system. With regard to blocks and a sum principle. I won't go into the details of that now. But it leads to then a characterization of these games. And this definition of voting power, where he has two levels, one lemma is that this delegated and I'm going to have to learn exactly how to say this word. Maybe I should bring the paper. Maybe I should open the paper if I can. Let's see. Where's the attachments? It's interesting how this changed so much. It's not the same. All right. I won't do it right now. I'll go back to my notes. But anyway, does anyone know how to pronounce that individual's name? That is the voting power index.
+But it leads to then a characterization of these games.&#x20;
+
+And this definition of voting power, where he has two levels, one lemma is that this delegated and I'm going to have to learn exactly how to say this word. Maybe I should bring the paper. Maybe I should open the paper if I can. Let's see. Where's the attachments? It's interesting how this changed so much. It's not the same. All right. I won't do it right now. I'll go back to my notes. But anyway, does anyone know how to pronounce that individual's name? That is the voting power index.
 
 ****
 
