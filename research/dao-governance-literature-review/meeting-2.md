@@ -162,6 +162,8 @@ And then, there's other things in here, including the ability to kind of compose
 
 So like a block formation is when, what two or more agents combined to form one block vote. And then composition has to do with rules around how if you find sort of two separate games, how do those games end up being combined?&#x20;
 
+![](<../../.gitbook/assets/Screenshot 2022-05-24 164721.png>)
+
 
 
 Now those definitions then, form are used to form a set of axioms. And again, there's sort of a connection with this.&#x20;
