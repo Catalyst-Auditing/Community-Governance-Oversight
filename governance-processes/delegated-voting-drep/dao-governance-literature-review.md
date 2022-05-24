@@ -246,6 +246,10 @@ Kenric, this is a thing that you focus on a lot. - **Steph**
 
 The Banzhaf power index is a power index, defined by the probability of changing an outcome of a vote where voting rights are not necessarily equally divided among the vote, voters or shareholders. - **Steph**
 
+{% embed url="https://en.wikipedia.org/wiki/Banzhaf_power_index" %}
+
+{% embed url="https://demonstrations.wolfram.com/BanzhafPowerIndex/" %}
+
 ### References
 
 ### Steph's Notes on "Power in Liquid Democracy"
