@@ -166,6 +166,10 @@ Community Governance Oversight is a proposal that was submitted to Project Catal
 
 ### Review of "Power in Liquid Democracy"
 
+[Link to paper](https://www.aaai.org/AAAI21Papers/AAAI-7700.ZhangY.pdf)
+
+{% embed url="https://www.aaai.org/AAAI21Papers/AAAI-7700.ZhangY.pdf" %}
+
 [24:50](https://www.youtube.com/watch?v=MZEqGvLw7Zg\&t=1490s)
 
 What I'd like to do is use the tags to put our names so that we have a record of who provided the entry. So on your note, if you can add a tag with your name, that will be helpful. - Kenric
