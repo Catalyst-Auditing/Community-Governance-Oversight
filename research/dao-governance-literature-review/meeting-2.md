@@ -164,11 +164,19 @@ So like a block formation is when, what two or more agents combined to form one 
 
 ![](<../../.gitbook/assets/Screenshot 2022-05-24 164721.png>)
 
+### Axioms
+
+Now those definitions are used to form a set of axioms. And again, there's sort of a connection with this.&#x20;
+
+So the first axiom is defining the fact that you have no power, which would be the dummy agent.&#x20;
+
+![](<../../.gitbook/assets/Screenshot 2022-05-24 165117.png>)
 
 
-Now those definitions then, form are used to form a set of axioms. And again, there's sort of a connection with this.&#x20;
 
-So the first axiom is defining the fact that you have no power, which would be the dummy agent. And that and then
+
+
+And that and then
 
 , and then the second axiom is defining the maximum power. And it's a scale between zero and one. And then again, there's some rules around how power is combined in the system. With regard to blocks and a sum principle. I won't go into the details of that now. But it leads to then a characterization of these games. And this definition of voting power, where he has two levels, one lemma is that this delegated and I'm going to have to learn exactly how to say this word. Maybe I should bring the paper. Maybe I should open the paper if I can. Let's see. Where's the attachments? It's interesting how this changed so much. It's not the same. All right. I won't do it right now. I'll go back to my notes. But anyway, does anyone know how to pronounce that individual's name? That is the voting power index.
 
