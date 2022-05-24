@@ -6,7 +6,7 @@ description: Meeting 2 of DAO Governance Literature Review - 10th May 2022
 
 {% embed url="https://youtu.be/MZEqGvLw7Zg" %}
 
-### Attendees
+## Attendees
 
 |                     |                         |
 | ------------------- | ----------------------- |
@@ -16,7 +16,7 @@ description: Meeting 2 of DAO Governance Literature Review - 10th May 2022
 | Stephen Whitenstall | QADAO                   |
 | Steph Macurdy       | Wolfram Blockchain Labs |
 
-### Information
+## Information
 
 #### Community Governance Group
 
@@ -26,11 +26,11 @@ description: Meeting 2 of DAO Governance Literature Review - 10th May 2022
 
 https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/71
 
-### Overview
+## Overview
 
 After preliminary Zotero housekeeping, discussion moved onto Liquid Democracy papers.
 
-### Context
+## Context
 
 [17:39](https://www.youtube.com/watch?v=MZEqGvLw7Zg\&t=1059s)
 
@@ -48,7 +48,7 @@ And the other contextual point is that this is part of an effort by Governance O
 
 Community Governance Oversight is a proposal that was submitted to Project Catalyst. It was jointly prepared with the community, IOG, Dor and Harris to oversee governance processes. It was funded in Fund 7, it may be funded in Fund 8. Part of that is to oversee D reps, Catalyst Circle Problem Sensing and Challenge Setting. - **Stephen**
 
-### Review of "Power in Liquid Democracy"
+## Review of "Power in Liquid Democracy"
 
 [Link to paper](https://www.aaai.org/AAAI21Papers/AAAI-7700.ZhangY.pdf)
 
@@ -130,7 +130,7 @@ Kenric, this is a thing that you focus on a lot. - **Steph**
 
 The Banzhaf power index is a power index, defined by the probability of changing an outcome of a vote where voting rights are not necessarily equally divided among the vote, voters or shareholders. - **Steph**
 
-### References
+## References
 
 ### Steph's Notes on "Power in Liquid Democracy"
 
