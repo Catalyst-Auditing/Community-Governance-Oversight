@@ -192,7 +192,13 @@ What does Nash equilibrium mean? Nash equilibrium is the most common way to defi
 
 I think that might be helpful for just explaining what's the the importance of Nash equilibrium?  - Steph
 
+### Portfolio allocation of voting power
 
+[28:06](https://www.youtube.com/watch?v=MZEqGvLw7Zg\&t=1686s)
+
+One of my immediate first thoughts was if people are delegating votes are we going to have a portfolio? Are we going to get to a point similar to how you allocate your financial portfolio? Are you going to do a portfolio allocation of voting power?&#x20;
+
+If I have 100 votes am I going to be able to choose a little bit here or allocate a little bit there ? - Steph
 
 ### References
 
