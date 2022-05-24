@@ -134,9 +134,17 @@ The Banzhaf power index is a power index, defined by the probability of changing
 
 [34:40](https://www.youtube.com/watch?v=MZEqGvLw7Zg\&t=2080s)
 
-Okay, so can you see my note now on definitions of yeah, we can sell it And he defines seven different elements of these games, I'll just go through a couple of them.&#x20;
+The authors define seven different elements of these games, I'll just go through a couple of them. - **Kenric**
 
-So like with sort of interesting peer in terms of defining terms is, he defines, for instance, a dummy agent, which is an individual in the system, who has no influence on the outcomes of decisions. So whatever coalition they join into and making a choice, it doesn't change the outcome of that coalition of the coalition's Whoa.&#x20;
+### Dummy agent&#x20;
+
+[35:12](https://www.youtube.com/watch?v=MZEqGvLw7Zg\&t=2112s)
+
+They define for instance, a dummy agent, which is an individual in the system, who has no influence on the outcomes of decisions. So whatever coalition they join into and making a choice, it doesn't change the outcome of that coalition of the coalition's vote. - **Kenric**
+
+![](<../../.gitbook/assets/Screenshot 2022-05-24 162836.png>)
+
+&#x20;
 
 And then on the other extreme, is a dictator, who, whichever coalition he decides to join, becomes the winning coalition. And then, there's other things in here, including the ability to kind of compose both games and the effect of agents. So like a block formation is when, what two or more agents combined to form one block vote. And then composition has to do with rules around how if you find sort of two separate games, how do those games end up being combined? Now those definitions then, form are used to form a set of axioms. And again, there's sort of a connection with this. So the first axiom is defining the fact that you have no power, which would be the dummy agent. And that and then, and then the second axiom is defining the maximum power. And it's a scale between zero and one. And then again, there's some rules around how power is combined in the system. With regard to blocks and a sum principle. I won't go into the details of that now. But it leads to then a characterization of these games. And this definition of voting power, where he has two levels, one lemma is that this delegated and I'm going to have to learn exactly how to say this word. Maybe I should bring the paper. Maybe I should open the paper if I can. Let's see. Where's the attachments? It's interesting how this changed so much. It's not the same. All right. I won't do it right now. I'll go back to my notes. But anyway, does anyone know how to pronounce that individual's name? That is the voting power index.
 
