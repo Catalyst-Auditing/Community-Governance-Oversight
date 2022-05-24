@@ -152,11 +152,13 @@ And then on the other extreme, is a dictator, who, whichever coalition he decide
 
 ![](<../../.gitbook/assets/Screenshot 2022-05-24 163429.png>)
 
+### Block Formation
+
+[35:50](https://www.youtube.com/watch?v=MZEqGvLw7Zg\&t=2150s)
+
 And then, there's other things in here, including the ability to kind of compose both games and the effect of agents.&#x20;
 
 ![](<../../.gitbook/assets/Screenshot 2022-05-24 163857.png>)
-
-### Block formation
 
 So like a block formation is when, what two or more agents combined to form one block vote. And then composition has to do with rules around how if you find sort of two separate games, how do those games end up being combined?&#x20;
 
