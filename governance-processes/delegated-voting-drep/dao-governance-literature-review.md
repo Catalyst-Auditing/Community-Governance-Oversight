@@ -220,7 +220,11 @@ And instead of me knowing about those things intimately it is enough that I just
 
 And if I feel strongly about it, then I'm 50% allocated to them. And if I just want to make sure I hedge myself, I'm 10% to the opposite extreme.&#x20;
 
-In the paper, they reference something called Liquid feedback. A website called liquid feed.&#x20;
+In the paper, they reference something called Liquid feedback. A website called liquid feed.  - **Steph**
+
+{% hint style="info" %}
+Li**quid Feedback -** https://liquidfeedback.com/en/
+{% endhint %}
 
 ### References
 
