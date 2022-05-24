@@ -121,3 +121,28 @@ Useful features include -
 ## Literature Review - Meeting 10th May 2022
 
 {% embed url="https://youtu.be/MZEqGvLw7Zg" %}
+
+
+### Attendees
+
+|                     |                         |
+| ------------------- | ----------------------- |
+| Amar Khan           |                         |
+| George Ramayya      |                         |
+| Kenric Nelson       | Photrek                 |
+| Jack Briggs         | IOG                     |
+| Stephen Whitenstall | QADAO                   |
+| Steph Macurdy       | Wolfram Blockchain Labs |
+| Thorsten Pottebaum  |                         |
+
+## Information
+
+#### Community Governance Group
+
+[https://quality-assurance-dao.gitbook.io/community-governance-oversight/](https://quality-assurance-dao.gitbook.io/community-governance-oversight/)
+
+#### Meeting GitHub Task
+
+https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/71
+
+### Overview
