@@ -223,7 +223,7 @@ And if I feel strongly about it, then I'm 50% allocated to them. And if I just w
 In the paper, they reference something called Liquid feedback. A website called liquid feed.  - **Steph**
 
 {% hint style="info" %}
-Li**quid Feedback -** https://liquidfeedback.com/en/
+**Liquid Feedback -** https://liquidfeedback.com/en/
 {% endhint %}
 
 ### References
