@@ -4,3 +4,10 @@
 
 See - [https://cips.cardano.org/](https://cips.cardano.org)
 
+
+
+## Notable CIPs
+
+### Cardano audit best practice guidelines
+
+[https://github.com/cardano-foundation/CIPs/pull/252](https://github.com/cardano-foundation/CIPs/pull/252)
