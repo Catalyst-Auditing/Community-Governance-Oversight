@@ -148,7 +148,9 @@ They define for instance, a dummy agent, which is an individual in the system, w
 
 [35:37](https://www.youtube.com/watch?v=MZEqGvLw7Zg\&t=2137s)
 
-And then on the other extreme, is a dictator, who, whichever coalition he decides to join, becomes the winning coalition.&#x20;
+And then on the other extreme, is a dictator, who, whichever coalition he decides to join, becomes the winning coalition. - **Kenric**
+
+![](<../../.gitbook/assets/Screenshot 2022-05-24 163429.png>)
 
 And then, there's other things in here, including the ability to kind of compose both games and the effect of agents.&#x20;
 
