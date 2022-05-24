@@ -1,6 +1,6 @@
 # DAO Governance Literature Review
 
-## Literature Review - Meeting 26th April 2022
+## Meeting 26th April 2022
 
 {% embed url="https://youtu.be/bGmGgJUKewg" %}
 
@@ -118,22 +118,19 @@ Useful features include -
 * How many citations
 * Related articles
 
-## Literature Review - Meeting 10th May 2022
+## Meeting 10th May 2022
 
 {% embed url="https://youtu.be/MZEqGvLw7Zg" %}
-
 
 ### Attendees
 
 |                     |                         |
 | ------------------- | ----------------------- |
 | Amar Khan           |                         |
-| George Ramayya      |                         |
 | Kenric Nelson       | Photrek                 |
-| Jack Briggs         | IOG                     |
+| Philip Lazos        | IOG                     |
 | Stephen Whitenstall | QADAO                   |
 | Steph Macurdy       | Wolfram Blockchain Labs |
-| Thorsten Pottebaum  |                         |
 
 ## Information
 
