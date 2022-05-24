@@ -248,7 +248,9 @@ The Banzhaf power index is a power index, defined by the probability of changing
 
 {% embed url="https://en.wikipedia.org/wiki/Banzhaf_power_index" %}
 
-{% embed url="https://demonstrations.wolfram.com/BanzhafPowerIndex/" %}
+[Banzhaf Power Index - Wolfram Demonstrations Projec](https://demonstrations.wolfram.com/BanzhafPowerIndex/)t
+
+The Banzhaf index is a measure of how probable it is that someone's vote will change the outcome of an election in settings in which voters may have unequal numbers of votes. This Demonstration examines a scenario with six voters, each of whom have a user selectable number of votes. You can also determine the percentage of total votes needed to win. From this data, the Demonstration shows all the winning coalitions that can form and all the members of each coalition ("the swing voters") who, if they had voted differently, would have changed the outcome of the election. The Banzhaf index, which ranges from 0 to 1, is the percentage of times each voter is a swing voter over all possible winning coalitions.
 
 ### References
 
