@@ -186,7 +186,7 @@ And then again, there's some rules around how power is combined in the system. W
 
 But it leads to then a characterization of these games.&#x20;
 
-And this definition of voting power, where he has two levels, one lemma is that this delegated and I'm going to have to learn exactly how to say this word. Maybe I should bring the paper. Maybe I should open the paper if I can. Let's see. Where's the attachments? It's interesting how this changed so much. It's not the same. All right. I won't do it right now. I'll go back to my notes. But anyway, does anyone know how to pronounce that individual's name? That is the voting power index.
+And this definition of voting power, where he has two levels, one lemma is that this delegated and another which defines a power index.
 
 ****
 
