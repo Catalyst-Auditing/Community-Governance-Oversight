@@ -1,10 +1,8 @@
 ---
-description: Meeting 10th May 2022
+description: Meeting 2 of DAO Governance Literature Review - 10th May 2022
 ---
 
 # Meeting 2
-
-## Meeting 10th May 2022
 
 {% embed url="https://youtu.be/MZEqGvLw7Zg" %}
 
@@ -64,19 +62,19 @@ What I'd like to do is use the tags to put our names so that we have a record of
 
 [26:11](https://www.youtube.com/watch?v=MZEqGvLw7Zg\&t=1571s)
 
-The paper develops a theory of power for delegable proxy voting systems.&#x20;
+The paper develops a theory of power for delegable proxy voting systems.
 
-It defines a power index to measure the influence of voters and delegators.&#x20;
+It defines a power index to measure the influence of voters and delegators.
 
 A formal theory of power with a delegated proxy was lacking.
 
-So the aim was to provide a theory to gain insight into how power may have been to be distributed among agents.&#x20;
+So the aim was to provide a theory to gain insight into how power may have been to be distributed among agents.
 
 The authors analytically study the existence of pure strategy Nash equilibrium.
 
-What does Nash equilibrium mean? Nash equilibrium is the most common way to define the solution of a non cooperative game involving two or more players. Each player is assumed to know the equilibria rooms, strategies of other players, and no one has anything to gain by changing only one's own strategy.&#x20;
+What does Nash equilibrium mean? Nash equilibrium is the most common way to define the solution of a non cooperative game involving two or more players. Each player is assumed to know the equilibria rooms, strategies of other players, and no one has anything to gain by changing only one's own strategy.
 
-I think that might be helpful for just explaining what's the the importance of Nash equilibrium?  - **Steph**
+I think that might be helpful for just explaining what's the the importance of Nash equilibrium? - **Steph**
 
 {% hint style="info" %}
 See also [Steph's Notes](https://quality-assurance-dao.gitbook.io/community-governance-oversight/governance-processes/delegated-voting-drep/dao-governance-literature-review#stephs-notes-on-power-in-liquid-democracy) below
@@ -86,7 +84,7 @@ See also [Steph's Notes](https://quality-assurance-dao.gitbook.io/community-gove
 
 [28:06](https://www.youtube.com/watch?v=MZEqGvLw7Zg\&t=1686s)
 
-One of my immediate first thoughts was if people are delegating votes are we going to have a portfolio? Are we going to get to a point similar to how you allocate your financial portfolio? Are you going to do a portfolio allocation of voting power?&#x20;
+One of my immediate first thoughts was if people are delegating votes are we going to have a portfolio? Are we going to get to a point similar to how you allocate your financial portfolio? Are you going to do a portfolio allocation of voting power?
 
 If I have 100 votes am I going to be able to choose a little bit here or allocate a little bit there ? - **Steph**
 
@@ -98,15 +96,15 @@ From what IOG has communicated that is the intent. They haven't rolled it out ye
 
 [29:11](https://www.youtube.com/watch?v=MZEqGvLw7Zg\&t=1751s)
 
-I envision a research report that says this delegate rep is experienced in a particular area. There is evidence of what they understand and their previous voting record.&#x20;
+I envision a research report that says this delegate rep is experienced in a particular area. There is evidence of what they understand and their previous voting record.
 
-This is their Wallet account. This is what they currently hold. This is how long they've been participating.&#x20;
+This is their Wallet account. This is what they currently hold. This is how long they've been participating.
 
-And instead of me knowing about those things intimately it is enough that I just I need to know the reputation of somebody.&#x20;
+And instead of me knowing about those things intimately it is enough that I just I need to know the reputation of somebody.
 
-And if I feel strongly about it, then I'm 50% allocated to them. And if I just want to make sure I hedge myself, I'm 10% to the opposite extreme.&#x20;
+And if I feel strongly about it, then I'm 50% allocated to them. And if I just want to make sure I hedge myself, I'm 10% to the opposite extreme.
 
-In the paper, they reference something called Liquid feedback. A website called liquid feed.  - **Steph**
+In the paper, they reference something called Liquid feedback. A website called liquid feed. - **Steph**
 
 {% hint style="info" %}
 **Liquid Feedback -** https://liquidfeedback.com/en/
@@ -122,7 +120,7 @@ Liquid feedback brought up the idea of favoring preferences and giving somebody 
 
 [31:15](https://www.youtube.com/watch?v=MZEqGvLw7Zg\&t=1875s)
 
-One main starting point of our paper is a controversial feature of liquid democracy. That is, transitive delegations may, in principle, lead to disproportionate accrual of power, thereby harming the democratic legitimacy of the resulting vote.&#x20;
+One main starting point of our paper is a controversial feature of liquid democracy. That is, transitive delegations may, in principle, lead to disproportionate accrual of power, thereby harming the democratic legitimacy of the resulting vote.
 
 Kenric, this is a thing that you focus on a lot. - **Steph**
 
@@ -152,7 +150,7 @@ Nash equilibrium is the most common way to define the [solution](https://en.wiki
 
 Delegable voting gives rise to so-called "transitive delegations."
 
-Can either cast vote directly or delegate, passing votes one has accrued further to another proxy.&#x20;
+Can either cast vote directly or delegate, passing votes one has accrued further to another proxy.
 
 1. Portfolio allocation of votes
 2. Snapshot results of different governance implementations
@@ -167,15 +165,8 @@ Favoring preferences and secondary choice.
 
 "Winner take all dynamics when its only one vote per person?"
 
+\\
 
+\\
 
-\
-
-
-\
-
-
-\
-
-
-
+\\
