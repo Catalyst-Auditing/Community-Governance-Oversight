@@ -144,8 +144,10 @@ https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination
 
 ### Overview
 
-After prelimary Zotero housekeeping, discussion moved onto Liquid Democarcy papers.
+After preliminary Zotero housekeeping, discussion moved onto Liquid Democracy papers.
 
 ### Context
+
+[17:39](https://www.youtube.com/watch?v=MZEqGvLw7Zg\&t=1059s)
 
 For context the papers we're looking at is background for D reps. Papers that are relevant to liquid democracy and in the context of IOGs implementation of D reps.
