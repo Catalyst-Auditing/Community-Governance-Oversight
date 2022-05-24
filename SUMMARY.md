@@ -18,6 +18,7 @@
 ## Research
 
 * [DAO Governance Literature Review](research/dao-governance-literature-review.md)
+* [Meeting 26th April 2022](research/meeting-26th-april-2022.md)
 * [The Voltaire Principles](research/the-voltaire-principles.md)
 * [Antifragile - Nassim Nicholas Taleb](research/antifragile-nassim-nicholas-taleb.md)
 * [Antifragile Success criteria](research/antifragile-success-criteria.md)
