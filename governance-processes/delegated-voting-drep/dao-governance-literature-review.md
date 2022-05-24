@@ -152,4 +152,8 @@ After preliminary Zotero housekeeping, discussion moved onto Liquid Democracy pa
 
 For context the papers we're looking at is background for D reps. Papers that are relevant to liquid democracy and in the context of IOGs implementation of D reps. - Stephen
 
-Particuarly methodologies for measuring power in these kinds of voting systems. - Kenric
+Particularly methodologies for measuring power in these kinds of voting systems. - Kenric
+
+[18:57](https://www.youtube.com/watch?v=MZEqGvLw7Zg\&t=1137s)
+
+I'm not necessarily looking for this literature review to provide answers. But rather to help provide some guidance to the community about what the important questions are on these issues. And in defining good questions, I'm hoping to kind of motivate research and development within the community to try to tackle some of these questions. - Kenric
