@@ -163,3 +163,6 @@ And the other contextual point is that this is part of an effort by Governance O
 [20:40](https://www.youtube.com/watch?v=MZEqGvLw7Zg\&t=1240s)
 
 Community Governance Oversight is a proposal that was submitted to Project Catalyst. It was jointly prepared with the community, IOG, Dor and Harris to oversee governance processes. It was funded in Fund 7, it may be funded in Fund 8. Part of that is to oversee D reps, Catalyst Circle Problem Sensing and Challenge Setting. - Stephen
+
+### Review of "Power in Liquid Democracy"
+
