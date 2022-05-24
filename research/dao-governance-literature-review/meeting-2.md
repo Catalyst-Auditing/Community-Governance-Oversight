@@ -166,6 +166,8 @@ So like a block formation is when, what two or more agents combined to form one 
 
 ### Axioms
 
+[36:30](https://www.youtube.com/watch?v=MZEqGvLw7Zg\&t=2190s)
+
 Now those definitions are used to form a set of axioms. And again, there's sort of a connection with this.&#x20;
 
 So the first axiom is defining the fact that you have no power, which would be the dummy agent.&#x20;
