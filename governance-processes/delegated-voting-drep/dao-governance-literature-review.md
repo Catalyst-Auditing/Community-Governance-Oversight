@@ -150,19 +150,19 @@ After preliminary Zotero housekeeping, discussion moved onto Liquid Democracy pa
 
 [17:39](https://www.youtube.com/watch?v=MZEqGvLw7Zg\&t=1059s)
 
-For context the papers we're looking at is background for D reps. Papers that are relevant to liquid democracy and in the context of IOGs implementation of D reps. - Stephen
+For context the papers we're looking at is background for D reps. Papers that are relevant to liquid democracy and in the context of IOGs implementation of D reps. - **Stephen**
 
-Particularly methodologies for measuring power in these kinds of voting systems. - Kenric
+Particularly methodologies for measuring power in these kinds of voting systems. - **Kenric**
 
 [18:57](https://www.youtube.com/watch?v=MZEqGvLw7Zg\&t=1137s)
 
-I'm not necessarily looking for this literature review to provide answers. But rather to help provide some guidance to the community about what the important questions are on these issues. And in defining good questions, I'm hoping to kind of motivate research and development within the community to try to tackle some of these questions. - Kenric
+I'm not necessarily looking for this literature review to provide answers. But rather to help provide some guidance to the community about what the important questions are on these issues. And in defining good questions, I'm hoping to kind of motivate research and development within the community to try to tackle some of these questions. - **Kenric**
 
-And the other contextual point is that this is part of an effort by Governance Oversight to do surveys within the community. A survey of the literature as a way to inform a more in depth conversation with the community and with IOG, with regard to the designs, and expectations we should have about the outcomes of the direct process. - Kenric
+And the other contextual point is that this is part of an effort by Governance Oversight to do surveys within the community. A survey of the literature as a way to inform a more in depth conversation with the community and with IOG, with regard to the designs, and expectations we should have about the outcomes of the direct process. - **Kenric**
 
 [20:40](https://www.youtube.com/watch?v=MZEqGvLw7Zg\&t=1240s)
 
-Community Governance Oversight is a proposal that was submitted to Project Catalyst. It was jointly prepared with the community, IOG, Dor and Harris to oversee governance processes. It was funded in Fund 7, it may be funded in Fund 8. Part of that is to oversee D reps, Catalyst Circle Problem Sensing and Challenge Setting. - Stephen
+Community Governance Oversight is a proposal that was submitted to Project Catalyst. It was jointly prepared with the community, IOG, Dor and Harris to oversee governance processes. It was funded in Fund 7, it may be funded in Fund 8. Part of that is to oversee D reps, Catalyst Circle Problem Sensing and Challenge Setting. - **Stephen**
 
 ### Review of "Power in Liquid Democracy"
 
@@ -172,7 +172,7 @@ Community Governance Oversight is a proposal that was submitted to Project Catal
 
 [24:50](https://www.youtube.com/watch?v=MZEqGvLw7Zg\&t=1490s)
 
-What I'd like to do is use the tags to put our names so that we have a record of who provided the entry. So on your note, if you can add a tag with your name, that will be helpful. - Kenric
+What I'd like to do is use the tags to put our names so that we have a record of who provided the entry. So on your note, if you can add a tag with your name, that will be helpful. - **Kenric**
 
 ### Brief Summary
 
@@ -190,7 +190,7 @@ The authors analytically study the existence of pure strategy Nash equilibrium.
 
 What does Nash equilibrium mean? Nash equilibrium is the most common way to define the solution of a non cooperative game involving two or more players. Each player is assumed to know the equilibria rooms, strategies of other players, and no one has anything to gain by changing only one's own strategy.&#x20;
 
-I think that might be helpful for just explaining what's the the importance of Nash equilibrium?  - Steph
+I think that might be helpful for just explaining what's the the importance of Nash equilibrium?  - **Steph**
 
 {% hint style="info" %}
 See also [Steph's Notes](https://quality-assurance-dao.gitbook.io/community-governance-oversight/governance-processes/delegated-voting-drep/dao-governance-literature-review#stephs-notes-on-power-in-liquid-democracy) below
@@ -202,7 +202,11 @@ See also [Steph's Notes](https://quality-assurance-dao.gitbook.io/community-gove
 
 One of my immediate first thoughts was if people are delegating votes are we going to have a portfolio? Are we going to get to a point similar to how you allocate your financial portfolio? Are you going to do a portfolio allocation of voting power?&#x20;
 
-If I have 100 votes am I going to be able to choose a little bit here or allocate a little bit there ? - Steph
+If I have 100 votes am I going to be able to choose a little bit here or allocate a little bit there ? - **Steph**
+
+28:41
+
+From what IOG has communicated that is the intent. They haven't rolled it out yet. But part of the idea behind liquid democracy and the plans for the delegated reps is that you wouldn't necessarily delegate all your power to one representative, but you might spread that power across several representatives. - **Kenric**
 
 ### References
 
