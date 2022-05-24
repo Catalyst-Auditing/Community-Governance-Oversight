@@ -17,6 +17,7 @@
 
 ## Research
 
+* [DAO Governance Literature Review](research/dao-governance-literature-review.md)
 * [The Voltaire Principles](research/the-voltaire-principles.md)
 * [Antifragile - Nassim Nicholas Taleb](research/antifragile-nassim-nicholas-taleb.md)
 * [Antifragile Success criteria](research/antifragile-success-criteria.md)
