@@ -153,7 +153,7 @@ F8: Fund9 challenge setting
 
 > How do you achieve "(1) diverse and many dRep participation + (2) easy and proper voter delegation?"
 
-## Rep's Code of Ethics+Bridges Asia
+### Rep's Code of Ethics+Bridges Asia
 
 [F8: Community Advisor Improvements](https://cardano.ideascale.com/c/campaigns/26453/stage/stage-governancephase151c10/ideas/unspecified)
 
