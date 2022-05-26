@@ -137,3 +137,10 @@ Over the coming weeks, IOG will be organizing a series of workshops that go into
 
 ADAO and Quasar held a Twitter space on April 23rd regarding governance and DReps. Good discussion; community seems both excited and apprehensive regarding how DReps will influence governance. Forward information on the Governance Oversight Committee to a couple participants interest in this groups work. - Kenric
 
+##
+
+## F8 - Rep's Code of Ethics+Bridges Asia
+
+[F8: Community Advisor Improvements](https://cardano.ideascale.com/c/campaigns/26453/stage/stage-governancephase151c10/ideas/unspecified)
+
+**Ideascale link -** [https://cardano.ideascale.com/c/idea/400782](https://cardano.ideascale.com/c/idea/400782)&#x20;
