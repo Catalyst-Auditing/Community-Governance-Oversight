@@ -1,5 +1,5 @@
 ---
-description: Materials relating to the IOG DRep initiative
+description: Materials and timeline relating to the IOG DRep initiative
 ---
 
 # Delegated Voting (dRep)
@@ -145,7 +145,7 @@ ADAO and Quasar held a Twitter space on April 23rd regarding governance and DRep
 
 ## May 2022
 
-## dRep improvement and onboarding
+### dRep improvement and onboarding
 
 F8: Fund9 challenge setting
 
