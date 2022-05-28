@@ -202,6 +202,12 @@ So, the main result of the paper is a proof that this particular way of measurin
 
 The probability of changing an outcome of a vote where voting rights are not necessarily equally divided among the voters or shareholders. - Stephen
 
+### What is the main takeaway ?
+
+41:43
+
+I'd be curious, just how would you think about presenting that to the larger capitalist Cardano community as like, functional input? Or like something really like? What, what's the main takeaway here? Because at the end, like, kind of the purpose is to inform the community and be able to get maybe a survey results? Or how would you?
+
 
 
 ****
