@@ -1,7 +1,3 @@
----
-description: Materials and timeline relating to the IOG DRep initiative
----
-
 # Delegated Voting (dRep)
 
 ## February 2022

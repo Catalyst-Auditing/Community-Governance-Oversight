@@ -1,10 +1,14 @@
+---
+description: Materials and timeline relating to the IOG DRep initiative
+---
+
 # dRep Overview
 
-# Delegated Voting (dRep)
+## Delegated Voting (dRep)
 
-## February 2022
+### February 2022
 
-### Overview
+#### Overview
 
 At the [Town Hall #1 of Fund 8 on 16th February 2022 ](https://catalyst-swarm.gitbook.io/catalyst-swarm-2022/february-2022/catalyst-town-halls-february-2022#16th-february)Dor presented the dRep (Delegated Representative) Pilot.
 
@@ -12,9 +16,9 @@ At the [Town Hall #1 of Fund 8 on 16th February 2022 ](https://catalyst-swarm.gi
 
 {% embed url="https://docs.google.com/presentation/d/1hfpHzhVl0Mu8xrMy5f6fFG0O0iJHx9qIp9kOBrcWNN8/edit?usp=sharing" %}
 
-### Registration Form
+#### Registration Form
 
-#### Become a dRep - Delegate Representative in Catalyst
+**Become a dRep - Delegate Representative in Catalyst**
 
 [Link to form](https://docs.google.com/forms/d/e/1FAIpQLSfPSb\_cDlIxN6cnnbOrJN\_oxDBmxB3kENbsE\_\_pmMAw8yJk0w/viewform)
 
@@ -36,23 +40,23 @@ Note: This form will require you to submit a motivation letter with a minimum ch
 
 ![](../../.gitbook/assets/2022-03-08.png)
 
-#### Are you interested in becoming a Delegate Representative (dRep)?
+**Are you interested in becoming a Delegate Representative (dRep)?**
 
 A core part of making Liquid Democracy successful is delegation - where an ada holder delegates their voting power (some or all) to a Delegate Representative (dRep). dReps commit to a code of conduct and strive to collaborate, which in turn positively impacts the future direction of Cardano.dReps will coordinate and form policies together, source and review data, consult with experts, and ultimately vote on an array of projects and topics, from Project Catalyst proposals to Voltaire council elections.
 
 ![](<../../.gitbook/assets/2022-03-08 (1).png>)
 
-#### What is your motivation for wanting to be a dRep or involved in Cardano's future governance?
+**What is your motivation for wanting to be a dRep or involved in Cardano's future governance?**
 
 This is your time to write a thoughtful and impactful motivational letter on how you aspire to be a dRep. What drives you, how do you see the role of dRep evolving, and what are you hoping to achieve for Cardano. There is a minimum 500 word limit (2,500 characters). Note: this will remain confidential at this stage and will not be published. Your public facing profile will be created at a later stage.
 
-## March 2022
+### March 2022
 
-### Joining the first dRep cohort
+#### Joining the first dRep cohort
 
 ![](<../../.gitbook/assets/2022-03-19 (1).png>)
 
-#### email registration acknowledgement - 17th March 2022
+**email registration acknowledgement - 17th March 2022**
 
 **Hello!**\
 \
@@ -71,9 +75,9 @@ Stay tuned for the workshop invites!\
 \
 The Project Catalyst Team
 
-### **d-Reps letter presented to Catalyst Circle**
+#### **d-Reps letter presented to Catalyst Circle**
 
-#### March 3rd 2022
+**March 3rd 2022**
 
 {% embed url="https://quality-assurance-dao.gitbook.io/catalyst-circle-oversight-v3/ccv3-meetings/meeting-1-march-3rd-2022-05-00-utc#d-reps-letter-joey-33-37" %}
 
@@ -83,13 +87,13 @@ The Project Catalyst Team
 2. Treasury Structure, Control and functionality; and
 3. Treasury Transparency.
 
-### **d-Reps letter (**[**link**](https://docs.google.com/document/d/10Naaxx7fH2aL\_8YUFzqMBB8RBlzYLwPE1H3pkU4GgRw/edit?usp=sharing)**)**
+#### **d-Reps letter (**[**link**](https://docs.google.com/document/d/10Naaxx7fH2aL\_8YUFzqMBB8RBlzYLwPE1H3pkU4GgRw/edit?usp=sharing)**)**
 
 {% embed url="https://docs.google.com/document/d/10Naaxx7fH2aL_8YUFzqMBB8RBlzYLwPE1H3pkU4GgRw/edit?usp=sharing" %}
 
-## April 2022
+### April 2022
 
-### IOG Response to d-Rep letter
+#### IOG Response to d-Rep letter
 
 [**Link to IOG Response**](https://docs.google.com/document/d/1kD\_iVBZaq5As6O60\_TUqj-0pbm0QIdlSIG\_UF7B\_4kk/edit?usp=sharing)\*\*\*\*
 
@@ -113,11 +117,11 @@ Yours sincerely,
 
 IOG
 
-### Introducing the Concept of Delegate Representatives (dReps)
+#### Introducing the Concept of Delegate Representatives (dReps)
 
 April 11, 2022 Jack Briggs
 
-#### dReps will vote on the vast majority of proposals within Project Catalyst and enhance the quality of decision making within each Fund
+**dReps will vote on the vast majority of proposals within Project Catalyst and enhance the quality of decision making within each Fund**
 
 {% embed url="https://iohk.io/en/blog/posts/2022/04/11/introducing-the-concept-of-delegate-representatives-dreps" %}
 
@@ -135,15 +139,15 @@ The introduction of dReps is another exciting step forward as the community cont
 
 Over the coming weeks, IOG will be organizing a series of workshops that go into greater detail on what it means to be a dRep, the incentive model, and what impact dReps will have on Project Catalyst.
 
-### ADAO Twitterspace
+#### ADAO Twitterspace
 
-#### April 23rd 2022
+**April 23rd 2022**
 
 ADAO and Quasar held a Twitter space on April 23rd regarding governance and DReps. Good discussion; community seems both excited and apprehensive regarding how DReps will influence governance. Forward information on the Governance Oversight Committee to a couple participants interest in this groups work. - Kenric
 
-## May 2022
+### May 2022
 
-### dRep improvement and onboarding
+#### dRep improvement and onboarding
 
 F8: Fund9 challenge setting
 
@@ -151,7 +155,7 @@ F8: Fund9 challenge setting
 
 > How do you achieve "(1) diverse and many dRep participation + (2) easy and proper voter delegation?"
 
-### Rep's Code of Ethics+Bridges Asia
+#### Rep's Code of Ethics+Bridges Asia
 
 [F8: Community Advisor Improvements](https://cardano.ideascale.com/c/campaigns/26453/stage/stage-governancephase151c10/ideas/unspecified)
 
