@@ -224,7 +224,7 @@ This will also inform our work towards thinking about what the proper focus of a
 
 [43:15](https://www.youtube.com/watch?v=MZEqGvLw7Zg\&t=2595s)
 
-In summary, does this just apply the Banzhaf index to liquid democracy? Is that all that the paper does? Or does it add something new to the table?
+In summary, does this just apply the Banzhaf index to liquid democracy? Is that all that the paper does? Or does it add something new to the table? - Stephen
 
 ## References
 
