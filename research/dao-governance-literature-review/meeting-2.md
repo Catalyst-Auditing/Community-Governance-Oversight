@@ -186,7 +186,7 @@ And then again, there's some rules around how power is combined in the system. W
 
 But it leads to then a characterization of these games.&#x20;
 
-And this definition of voting power, where he has two levels, one lemma is that this delegated and another which defines a power index.
+And this definition of voting power, where he has two levels, one lemma is that this delegated and another which defines a power index. - Kenric
 
 ### **Concluding Theorem -** Banzhaf power index
 
@@ -194,7 +194,13 @@ And this definition of voting power, where he has two levels, one lemma is that 
 
 The authors conclude with the theorem that the power index for liquid democracy satisfies all five axioms, if and only if it is this delegated Banzhaf index.&#x20;
 
-So, the main result of the paper is a proof that this particular way of measuring power in a delegated liquid democracy system is the only power index that satisfies these five axioms.&#x20;
+So, the main result of the paper is a proof that this particular way of measuring power in a delegated liquid democracy system is the only power index that satisfies these five axioms. - Kenric
+
+### What is the Banzhaf power index ?
+
+[41:15](https://www.youtube.com/watch?v=MZEqGvLw7Zg\&t=2475s)
+
+The probability of changing an outcome of a vote where voting rights are not necessarily equally divided among the voters or shareholders. - Stephen
 
 
 
