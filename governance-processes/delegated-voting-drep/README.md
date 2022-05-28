@@ -8,7 +8,7 @@ description: Materials and timeline relating to the IOG DRep initiative
 
 ### Overview
 
-At the [Town Hall #1 of Fund 8 on 16th February 2022 ](https://catalyst-swarm.gitbook.io/catalyst-swarm-2022/february-2022/catalyst-town-halls-february-2022#16th-february)of Dor presented the dRep (Delegated Representative) Pilot.
+At the [Town Hall #1 of Fund 8 on 16th February 2022 ](https://catalyst-swarm.gitbook.io/catalyst-swarm-2022/february-2022/catalyst-town-halls-february-2022#16th-february)Dor presented the dRep (Delegated Representative) Pilot.
 
 [Link to the Slides](https://docs.google.com/presentation/d/1hfpHzhVl0Mu8xrMy5f6fFG0O0iJHx9qIp9kOBrcWNN8/edit?usp=sharing)
 
