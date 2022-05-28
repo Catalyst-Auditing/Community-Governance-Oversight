@@ -212,11 +212,11 @@ What's the main takeaway here? Because at the end the purpose is to inform the c
 
 ### **Summary of DAO Literature Review Plan**
 
-****
+[42:06](https://www.youtube.com/watch?v=MZEqGvLw7Zg\&t=2526s)
 
 The plan is to take these notes that each of us gather about different papers, and put it into one document that will give the full reference for the paper and a hyperlink to where people can find it and our summary of that paper.&#x20;
 
-This can be the beginning of a resource to help educate the community about what scientists in the field of political systems and political economic systems have been communicating about these types of structures.
+This can be the beginning of a resource to help educate the community about what scientists in the field of political systems and political economic systems have been communicating about these types of structures. - Kenric
 
 ****
 
