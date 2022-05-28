@@ -220,7 +220,11 @@ This can be the beginning of a resource to help educate the community about what
 
 This will also inform our work towards thinking about what the proper focus of a good white paper could be that will we'll write as a team. - Kenric
 
-****
+### Does this just apply the Banzhaf index to Liquid democracy ?
+
+
+
+In summary, does this just apply the Banzhaf index to liquid democracy? Is that all that the paper does? Or does it add something new to the table?
 
 ## References
 
