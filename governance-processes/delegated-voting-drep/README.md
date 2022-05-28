@@ -1,4 +1,8 @@
-# Delegated Voting (dRep)
+---
+description: Introduction to the Delegated Voting Experiment - dReps
+---
+
+# Delegated Representatives (dRep)
 
 ## February 2022
 
