@@ -11,7 +11,7 @@
   * [Circle / Oversight Working group](governance-processes/circle-problem-sensing/circle-oversight-working-group.md)
 * [Delegated Representatives (dRep)](governance-processes/delegated-voting-drep/README.md)
   * [dRep Overview](governance-processes/delegated-voting-drep/drep-timeline.md)
-* [Workshop 1](governance-processes/workshop-1.md)
+  * [Workshop 1](governance-processes/delegated-voting-drep/workshop-1.md)
 * [Governance parameters](governance-processes/governance-parameters.md)
   * [Oversight workshop on parameters](governance-processes/governance-parameters/oversight-workshop-on-parameters.md)
   * [Cardano Treasury with Kevin Hammond](governance-processes/governance-parameters/cardano-treasury-with-kevin-hammond.md)
