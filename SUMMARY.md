@@ -5,15 +5,15 @@
 ## Governance Processes
 
 * [Overview](governance-processes/overview.md)
-* [Governance parameters](governance-processes/governance-parameters.md)
-  * [Oversight workshop on parameters](governance-processes/governance-parameters/oversight-workshop-on-parameters.md)
-  * [Cardano Treasury with Kevin Hammond](governance-processes/governance-parameters/cardano-treasury-with-kevin-hammond.md)
 * [Challenge Setting](governance-processes/challenge-setting.md)
 * [Circle problem sensing](governance-processes/circle-problem-sensing/README.md)
   * [Working document](governance-processes/circle-problem-sensing/working-document.md)
   * [Circle / Oversight Working group](governance-processes/circle-problem-sensing/circle-oversight-working-group.md)
 * [Delegated Voting (dRep)](governance-processes/delegated-voting-drep/README.md)
   * [dRep Overview](governance-processes/delegated-voting-drep/drep-overview.md)
+* [Governance parameters](governance-processes/governance-parameters.md)
+  * [Oversight workshop on parameters](governance-processes/governance-parameters/oversight-workshop-on-parameters.md)
+  * [Cardano Treasury with Kevin Hammond](governance-processes/governance-parameters/cardano-treasury-with-kevin-hammond.md)
 
 ## Research
 
