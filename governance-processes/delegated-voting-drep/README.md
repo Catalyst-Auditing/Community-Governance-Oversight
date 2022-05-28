@@ -14,5 +14,7 @@ description: Introduction to the Delegated Voting Experiment - dReps
 
 ## dRep Workshops
 
+Workshop 1 - What it means to be a dRep
 
+Workshop 2 - Demo and walkthrough of how registration and voting/delegating works
 
