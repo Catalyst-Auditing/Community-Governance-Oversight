@@ -37,6 +37,7 @@
   * [F7 Final Report](proposal-reporting/proposal/f7-final-report.md)
 * [Fund 8 Proposal](proposal-reporting/fund-8-proposal.md)
   * [Assessments](proposal-reporting/fund-8-proposal/assessments.md)
+* [F8 - Commitments](proposal-reporting/f8-commitments.md)
 
 ## Project Management
 
