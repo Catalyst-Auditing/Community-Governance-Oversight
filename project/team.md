@@ -8,16 +8,17 @@
 
 #### Alphabetical Order
 
-| Name                | Role | Status    |
-| ------------------- | ---- | --------- |
-| Allison Fromm       |      | Confirmed |
-| Kenric Nelson       |      | Confirmed |
-| Matthias Sieber     |      | Confirmed |
-| Phil Khoo           |      | Confirmed |
-| Stephen Whitenstall |      | Confirmed |
-| Tevo Saks           |      | Confirmed |
-| Thorsten Pottebaum  |      | Confirmed |
-| Vanessa Cardui      |      | Confirmed |
+| Name                | Role                                                 | Status    |
+| ------------------- | ---------------------------------------------------- | --------- |
+| Allison Fromm       | TH Slides, Circle Problem Sensing                    | Confirmed |
+| George Lovegrove    | Challenge Setting                                    | Confirmed |
+| Kenric Nelson       | Research, dReps                                      | Confirmed |
+| Matthias Sieber     | governance parameters                                | Confirmed |
+| Phil Khoo           | governance parameters                                | Confirmed |
+| Stephen Whitenstall | Project Management                                   | Confirmed |
+| Tevo Saks           | Circle Problem Sensing, governance parameters, dReps | Confirmed |
+| Thorsten Pottebaum  | Research, dReps                                      | Confirmed |
+| Vanessa Cardui      | governance parameters                                | Confirmed |
 
 #### IOG Liaison
 
@@ -26,20 +27,13 @@
 | Harris Warren |      |        |
 | Daniel Ribar  |      |        |
 
-#### Second Choice
+### Treasury & Project Management
 
-| Name               | Role | Status        |
-| ------------------ | ---- | ------------- |
-| Ron Hill           |      | Second Choice |
-| Thorsten Pottebaum |      | Second Choice |
-
-### Treasury & Administration
-
-| Name                | Role           | Status    |
-| ------------------- | -------------- | --------- |
-| Andre Diamond       | Treasury       | Confirmed |
-| Miroslav Rajh       | Treasury       | Confirmed |
-| Stephen Whitenstall | Proposal Admin | Confirmed |
+| Name                | Role               | Status    |
+| ------------------- | ------------------ | --------- |
+| Andre Diamond       | Treasury           | Confirmed |
+| Miroslav Rajh       | Treasury           | Confirmed |
+| Stephen Whitenstall | Project Management | Confirmed |
 
 ## Fund 7 Commitments
 
