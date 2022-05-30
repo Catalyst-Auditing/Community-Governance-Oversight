@@ -16,9 +16,10 @@
 | Phil Khoo           |      | Confirmed |
 | Stephen Whitenstall |      | Confirmed |
 | Tevo Saks           |      | Confirmed |
+| Thorsten Pottebaum  |      | Confirmed |
 | Vanessa Cardui      |      | Confirmed |
 
-#### IOG Liason
+#### IOG Liaison
 
 | Name          | Role | Status |
 | ------------- | ---- | ------ |
@@ -39,7 +40,6 @@
 | Andre Diamond       | Treasury       | Confirmed |
 | Miroslav Rajh       | Treasury       | Confirmed |
 | Stephen Whitenstall | Proposal Admin | Confirmed |
-
 
 ## Fund 7 Commitments
 
