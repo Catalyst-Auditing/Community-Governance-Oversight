@@ -15,6 +15,7 @@
 * [Governance parameters](governance-processes/governance-parameters.md)
   * [Oversight workshop on parameters](governance-processes/governance-parameters/oversight-workshop-on-parameters.md)
   * [Cardano Treasury with Kevin Hammond](governance-processes/governance-parameters/cardano-treasury-with-kevin-hammond.md)
+  * [Parameter Oversight Meetings](governance-processes/governance-parameters/parameter-oversight-meetings.md)
 
 ## Research
 
