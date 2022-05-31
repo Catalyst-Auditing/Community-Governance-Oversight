@@ -146,7 +146,7 @@ Therefore the value of solving the problem comes after its placing in the backlo
 
 ## Working group meeting #3
 
-#### Wednesday 4th Mayl 2022, 1030 UTC
+#### Wednesday 4th May 2022, 1030 UTC
 
 **Nadia Hopkins** - CCv3 Community Advisor Rep
 
