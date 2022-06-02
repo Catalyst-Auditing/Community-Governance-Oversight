@@ -13,12 +13,15 @@
   * [Working document](governance-processes/circle-problem-sensing/working-document.md)
   * [Circle / Oversight Working group](governance-processes/circle-problem-sensing/circle-oversight-working-group.md)
 
+## dReps - Delegated Voting
+
+* [Delegated Representatives (dRep)](dreps-delegated-voting/delegated-voting-drep/README.md)
+  * [dRep Overview](dreps-delegated-voting/delegated-voting-drep/drep-timeline.md)
+  * [Workshop 1](dreps-delegated-voting/delegated-voting-drep/workshop-1.md)
+
 ## Governance Processes
 
 * [Overview](governance-processes/overview.md)
-* [Delegated Representatives (dRep)](governance-processes/delegated-voting-drep/README.md)
-  * [dRep Overview](governance-processes/delegated-voting-drep/drep-timeline.md)
-  * [Workshop 1](governance-processes/delegated-voting-drep/workshop-1.md)
 * [Governance parameters](governance-processes/governance-parameters.md)
   * [Oversight workshop on parameters](governance-processes/governance-parameters/oversight-workshop-on-parameters.md)
   * [Cardano Treasury with Kevin Hammond](governance-processes/governance-parameters/cardano-treasury-with-kevin-hammond.md)
