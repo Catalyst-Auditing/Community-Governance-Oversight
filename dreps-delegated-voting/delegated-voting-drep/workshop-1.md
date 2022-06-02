@@ -6,19 +6,39 @@ description: >-
 
 # Workshop 1 - What it means to be a dRep
 
+## Slides
+
+{% embed url="https://docs.google.com/presentation/d/1jg6XyoRW8akg1HGR-KaxEcSMHZE1-tu4DT-YTQUH5zs/edit?usp=sharing" %}
+
 ## Session A
 
 Recording Placeholder
 
-### Slides
 
-{% embed url="https://docs.google.com/presentation/d/1jg6XyoRW8akg1HGR-KaxEcSMHZE1-tu4DT-YTQUH5zs/edit?usp=sharing" %}
+
+### Appendix
+
+Full Transcript of Sesson A
+
+Insert Chat document
 
 ## Session B
 
 Recording Placeholder
 
-### Slides
+\-- Presentation ---
 
-As for Session A
+Introduction - Jack Briggs - 2:10 Welcome to another experiment - 3:00 Agenda - 3:40 Workshops & Documentation - 4:35 What is Liquid Democracy ? - Roman - 6:05 Why Delegation and dReps - Philip Lazos - 8:54 The dRep Role - Jack Briggs - 12:29 dRep - the expectations - 13:50 dRep rewards - 15:54 Safeguarding - 17:38 Direct voting - changes - 19:13 Why Liquid democracy ? - 21:56
+
+\--- Questions & Answers
+
+Questions & Answers - 22:50 Only 20% vote - Felix - 23:20 Broader Awareness Campaign - Jack Briggs - 24:13 Conflicts of Interest - George - 24:43 Transparency of a dRep being an author of proposal - Jack Briggs - 25:26 dRep registration expiry date - Sebastian - 26:44 Registration will not expire & be open about conflicts of interest - Jack Briggs - 27:09 Can groups sign up as dReps ? & Is quadratic voting on the cards ? - Nori - 28:15 Wallet is actually registered - up to dRep how to share this - Harris - 28:52
+
+
+
+### Appendix
+
+Full Transcript of Session A
+
+Insert Chat document
 
