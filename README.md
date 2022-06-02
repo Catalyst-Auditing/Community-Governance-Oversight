@@ -17,25 +17,25 @@ The need for an Oversight Group was identified in a [presentation ](https://qual
 
 ## What we oversee
 
-## Challenge Setting
+### Challenge Setting
 
 {% content-ref url="governance-processes/challenge-setting.md" %}
 [challenge-setting.md](governance-processes/challenge-setting.md)
 {% endcontent-ref %}
 
-## Circle Problem Sensing
+### Circle Problem Sensing
 
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-## Dreps - Delegated Voting
+### Dreps - Delegated Voting
 
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-## Governance Parameters
+### Governance Parameters
 
 {% content-ref url="parameters/governance-parameters/" %}
 [governance-parameters](parameters/governance-parameters/)
