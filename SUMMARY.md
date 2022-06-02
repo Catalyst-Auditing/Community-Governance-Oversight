@@ -5,13 +5,13 @@
 ## Challenge Setting
 
 * [Challenge Setting Overview](challenge-setting/challenge-setting-overview.md)
-* [Challenge Setting](challenge-setting/challenge-setting.md)
+* [Challenge Setting](governance-processes/challenge-setting.md)
 
 ## Circle Problem Sensing
 
-* [Circle problem sensing](circle-problem-sensing/circle-problem-sensing/README.md)
-  * [Working document](circle-problem-sensing/circle-problem-sensing/working-document.md)
-  * [Circle / Oversight Working group](circle-problem-sensing/circle-problem-sensing/circle-oversight-working-group.md)
+* [Circle problem sensing](governance-processes/circle-problem-sensing/README.md)
+  * [Working document](governance-processes/circle-problem-sensing/working-document.md)
+  * [Circle / Oversight Working group](governance-processes/circle-problem-sensing/circle-oversight-working-group.md)
 
 ## Governance Processes
 
