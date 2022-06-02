@@ -2,13 +2,20 @@
 
 * [Oversight of Governance Processes](README.md)
 
+## Challenge Setting
+
+* [Challenge Setting Overview](challenge-setting/challenge-setting-overview.md)
+* [Challenge Setting](challenge-setting/challenge-setting.md)
+
+## Circle Problem Sensing
+
+* [Circle problem sensing](circle-problem-sensing/circle-problem-sensing/README.md)
+  * [Working document](circle-problem-sensing/circle-problem-sensing/working-document.md)
+  * [Circle / Oversight Working group](circle-problem-sensing/circle-problem-sensing/circle-oversight-working-group.md)
+
 ## Governance Processes
 
 * [Overview](governance-processes/overview.md)
-* [Challenge Setting](governance-processes/challenge-setting.md)
-* [Circle problem sensing](governance-processes/circle-problem-sensing/README.md)
-  * [Working document](governance-processes/circle-problem-sensing/working-document.md)
-  * [Circle / Oversight Working group](governance-processes/circle-problem-sensing/circle-oversight-working-group.md)
 * [Delegated Representatives (dRep)](governance-processes/delegated-voting-drep/README.md)
   * [dRep Overview](governance-processes/delegated-voting-drep/drep-timeline.md)
   * [Workshop 1](governance-processes/delegated-voting-drep/workshop-1.md)
