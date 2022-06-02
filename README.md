@@ -15,6 +15,18 @@ This GitBook documents the development of a **Community Governance Oversight gro
 
 The need for an Oversight Group was identified in a [presentation ](https://quality-assurance-dao.gitbook.io/catalyst-circle-oversight-v2/meetings/meeting-2-november-25th-2021#presentation-slides)[discussed ](https://quality-assurance-dao.gitbook.io/catalyst-circle-oversight-v2/meetings/meeting-2-november-25th-2021#harris-warren-presentation-on-catalyst-parameters-governance-process-29-22)by the Catalyst Circle V2 by Harris Warren, IOG on a proposed Catalyst Parameters governance process. Subsequently a proposal entitled "[Community Governance Oversight](https://cardano.ideascale.com/c/idea/383517)" was submitted in Catalyst Fund 7 under the [Improve and Grow Auditability Challenge](https://cardano.ideascale.com/c/campaigns/26253/about). This was successfully voted for in February 2022.
 
+## What we oversee
+
+Challenge Setting
+
+Circle Problem Sensing
+
+Dreps - Delegated Voting
+
+Governance Parameters
+
+## Our values
+
 **Legitimacy** - the Fund 7 proposal together with the team listed were successfully voted for in February 2022.
 
 **Transparency** - [meetings](https://quality-assurance-dao.gitbook.io/community-governance-oversight/project-management/meetings-and-town-halls), [proposal reporting](https://quality-assurance-dao.gitbook.io/community-governance-oversight/proposal-reporting/proposal/f7-monthly-reports) and [deliverables ](https://quality-assurance-dao.gitbook.io/community-governance-oversight/governance-processes/overview)are all documented in this GitBook.
