@@ -10,7 +10,7 @@ description: Introduction to the Delegated Voting Experiment - dReps
 
 > [Introducing the Concept of Delegate Representatives (dReps)](https://iohk.io/en/blog/posts/2022/04/11/introducing-the-concept-of-delegate-representatives-dreps/) - Jack Briggs
 
-## dRep Overview
+## dRep Background
 
 [A timeline of dRep events](https://quality-assurance-dao.gitbook.io/community-governance-oversight/governance-processes/delegated-voting-drep/drep-timeline)
 
