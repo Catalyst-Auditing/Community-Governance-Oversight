@@ -16,7 +16,7 @@
 ## dReps - Delegated Voting
 
 * [Delegated Representatives (dRep)](dreps-delegated-voting/delegated-voting-drep/README.md)
-  * [dRep Overview](dreps-delegated-voting/delegated-voting-drep/drep-timeline.md)
+  * [dRep background](dreps-delegated-voting/delegated-voting-drep/drep-timeline.md)
   * [Workshop 1 - What it means to be a dRep](dreps-delegated-voting/delegated-voting-drep/workshop-1.md)
 
 ## Parameters
