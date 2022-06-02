@@ -1,7 +1,5 @@
 # Town Hall Presentations
 
-
-
 ## 9th March 2022
 
 {% embed url="https://youtu.be/_mY4pHBgDp4?t=2804" %}
@@ -21,3 +19,16 @@
 ### Catalyst Parameters Pilot
 
 [Original Presentation](https://quality-assurance-dao.gitbook.io/catalyst-circle-oversight-v2/ccv2-meetings/meeting-2-november-25th-2021#presentation-slides)
+
+## 23rd March 2022
+
+{% embed url="https://youtu.be/jmXfbeFlrfU" %}
+
+### Slides presented by Allison Fromm
+
+![](../../.gitbook/assets/2022-04-06.png)
+
+![](<../../.gitbook/assets/2022-04-06 (1).png>)
+
+![](<../../.gitbook/assets/2022-04-06 (2).png>)
+
