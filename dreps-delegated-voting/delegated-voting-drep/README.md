@@ -22,5 +22,6 @@ description: Introduction to the Delegated Voting Experiment - dReps
 [workshop-1.md](workshop-1.md)
 {% endcontent-ref %}
 
-* [Workshop 1 - What it means to be a dRep](https://quality-assurance-dao.gitbook.io/community-governance-oversight/governance-processes/delegated-voting-drep/workshop-1)
-* Workshop 2 - Demo and walkthrough of how registration and voting/delegating works
+{% content-ref url="workshop-2-demo-and-walkthrough.md" %}
+[workshop-2-demo-and-walkthrough.md](workshop-2-demo-and-walkthrough.md)
+{% endcontent-ref %}
