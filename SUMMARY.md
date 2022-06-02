@@ -19,13 +19,12 @@
   * [dRep Overview](dreps-delegated-voting/delegated-voting-drep/drep-timeline.md)
   * [Workshop 1](dreps-delegated-voting/delegated-voting-drep/workshop-1.md)
 
-## Governance Processes
+## Parameters
 
-* [Overview](governance-processes/overview.md)
-* [Governance parameters](governance-processes/governance-parameters.md)
-  * [Oversight workshop on parameters](governance-processes/governance-parameters/oversight-workshop-on-parameters.md)
-  * [Cardano Treasury with Kevin Hammond](governance-processes/governance-parameters/cardano-treasury-with-kevin-hammond.md)
-  * [Parameter Oversight Meetings](governance-processes/governance-parameters/parameter-oversight-meetings.md)
+* [Governance parameters](parameters/governance-parameters/README.md)
+  * [Oversight workshop on parameters](parameters/governance-parameters/oversight-workshop-on-parameters.md)
+  * [Cardano Treasury with Kevin Hammond](parameters/governance-parameters/cardano-treasury-with-kevin-hammond.md)
+  * [Parameter Oversight Meetings](parameters/governance-parameters/parameter-oversight-meetings.md)
 
 ## Research
 
