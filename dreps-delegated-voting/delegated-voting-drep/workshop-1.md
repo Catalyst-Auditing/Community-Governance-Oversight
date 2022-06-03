@@ -357,6 +357,8 @@ Fund 9 Challenge - if someone suggests something ludicrous will it take effect ?
 
 That is a very open question - Jack Briggs - 1:03:16
 
+If its ludicrous and voted in we love ludicrous - Harris Warren - 1:03:52
+
 ## Appendix (Session B)
 
 #### Intelligent Verbatim transcript - session B
