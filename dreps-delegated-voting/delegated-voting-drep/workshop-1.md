@@ -199,11 +199,13 @@ How easy can this be seen on the voting center ? - Jack Briggs - [33:19](https:/
 
 Would be shown on the interface - enough to be informed about over delegation - Harris Warren - [33:30](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=2010s)&#x20;
 
-How many people registered as dReps & validating vote choices- Dayna - 35:08&#x20;
+### How many people have registered as dReps ?
 
-Voting center will have complete list dReps - Jack Briggs - 35:57&#x20;
+How many people registered as dReps & validating vote choices- Dayna - [35:08](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=2108s)&#x20;
 
-No limit to perform CA & dRep roles - dRep voting history will be public - Harris - 36:11&#x20;
+Voting center will have complete list dReps - Jack Briggs - [35:57](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=2157s)&#x20;
+
+No limit to perform CA & dRep roles - dRep voting history will be public - Harris - [36:11](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=2171s)&#x20;
 
 What work will required to explain voting choices - Dayna - 36:47&#x20;
 
