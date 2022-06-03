@@ -111,7 +111,7 @@ Thursday, June 2nd 2022, 0900 UTC
 
 Thursday, June 2nd 2022, 1700 UTC
 
-### Recording Placeholder
+{% embed url="https://youtu.be/OGBdacCIDOQ" %}
 
 Jack Briggs - IOG&#x20;
 
