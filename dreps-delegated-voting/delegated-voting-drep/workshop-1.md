@@ -6,7 +6,7 @@ description: >-
 
 # Workshop 1 - What it means to be a dRep
 
-Documented by Vanessa Cardui & Stephen Whitenstall of [QADAO](https://twitter.com/qa\_dao). Funded by Catalyst Proposal [QA-DAO Transcription Service](https://cardano.ideascale.com/c/idea/383492)
+Documented by Vanessa & Stephen Whitenstall of [QADAO](https://twitter.com/qa\_dao). Funded by Catalyst Proposal [QA-DAO Transcription Service](https://cardano.ideascale.com/c/idea/383492)
 
 ## Slides
 
@@ -19,8 +19,6 @@ Documented by Vanessa Cardui & Stephen Whitenstall of [QADAO](https://twitter.co
 Thursday, June 2nd 2022, 0900 UTC
 
 ### Video
-
-coming soon
 
 ## Presentation (Session A)
 
@@ -87,15 +85,11 @@ coming soon
 **Answer:** Yes; in fact, we will likely have a dRep representative on the Circle. Similar to other questions about multiple roles, there is no issue as long as it is transparent.
 
 **51:37 If you have a minimum number of proposals a dRep must vote on, won't dReps only do the bare minimum required?** \
-**Answer:** \
-**(Roman)** Voters will select the best-performing dReps, so there is an incentive to vote on more than 60 proposals to attract more delegation. We have set the threshold quite low because we want dReps to write a full rationale for each vote they make.\
-**(Kriss):** We have to pick a strating point; but it's a learning opportunity, and if, by consensus of the dReps, we conclude that 60 is too low, it could be changed in the next iteration. We need to be guided by the contribution and the participation of the first cohort of dReps to get to that position of knowledge.
+**Answer:** Voters will select the best-performing dReps, so there is an incentive to vote on more than 60 proposals to attract more delegation. We have set the threshold quite low because we want dReps to write a full rationale for each vote they make.
 
-**57:35 How is the maximum 1% of voting power calculated?** When you say 1%, that's 1% of the total, however many people have delegated, right? \
-**Answer:** That's right.
+**57:35** How is the maximum 1% of voting power calculated?
 
-**58:11  Will there be a central location for information about dReps?**  \
-**Answer:** We will have a new voting and registration centre that will have the list of dReps, their bios, and eventually the history of how they have voted. There will also be a dRep portal.
+**58:11** Will there be a central location for information about dReps? &#x20;
 
 ## Appendix (Session A)
 
@@ -341,15 +335,13 @@ It is taken from a % of Fund 8 voter rewards - Jack Briggs - 1:02:12
 
 ### Is it randomized who votes for you ?
 
-Is it randomized who votes for you ? - Tommy - [1:02:26](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=3746s)
+Is it randomized who votes for you ? - Tommy - 1:02:26
 
 
 
 ## Appendix (Session B)
 
-#### Intelligent Verbatim transcript - session B
-
-coming soon
+Full Transcript of Session B
 
 #### Session B Chat
 
