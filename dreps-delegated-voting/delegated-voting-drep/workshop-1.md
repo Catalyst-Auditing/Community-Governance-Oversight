@@ -381,6 +381,10 @@ In respect of dReps fulfilling a specific role. Will there be surveys ?
 
 I will help you with that offline and we can make a plan - Jack Briggs
 
+### dRep FAQ
+
+We will be building a dRep FAQ - Jack Briggs - [1:07:42](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=4062s)
+
 ## Appendix (Session B)
 
 #### Intelligent Verbatim transcript - session B
