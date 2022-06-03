@@ -85,7 +85,7 @@ Recording Placeholder
 
 Jack Briggs - IOG&#x20;
 
-Roman - IOG&#x20;
+Roman Oliyinkov - IOG&#x20;
 
 Philip Lazos - IOG&#x20;
 
@@ -93,29 +93,61 @@ Harris Warren - IOG
 
 ### Presentation
 
-Introduction - Jack Briggs - 2:10&#x20;
+### Introduction&#x20;
 
-Welcome to another experiment - 3:00&#x20;
+Jack Briggs
 
-Agenda - 3:40&#x20;
+[2:10](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=130s)&#x20;
 
-Workshops & Documentation - 4:35&#x20;
+### Welcome to another experiment
 
-What is Liquid Democracy ? - Roman - 6:05&#x20;
+[ 3:00](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=180s)&#x20;
 
-Why Delegation and dReps - Philip Lazos - 8:54&#x20;
+### Agenda
 
-The dRep Role - Jack Briggs - 12:29&#x20;
+&#x20;3:40&#x20;
 
-dRep - the expectations - 13:50&#x20;
+### Workshops & Documentation
 
-dRep rewards - 15:54&#x20;
+&#x20;4:35&#x20;
 
-Safeguarding - 17:38&#x20;
+### What is Liquid Democracy ?
 
-Direct voting - changes - 19:13&#x20;
+Roman
 
-Why Liquid democracy ? - 21:56
+&#x20;6:05&#x20;
+
+### Why Delegation and dReps
+
+Philip Lazos
+
+8:54&#x20;
+
+### The dRep Role
+
+Jack Briggs
+
+12:29&#x20;
+
+### dRep - the expectations
+
+13:50&#x20;
+
+### dRep rewards
+
+15:54&#x20;
+
+### Safeguarding
+
+17:38&#x20;
+
+### Direct voting - changes
+
+19:13&#x20;
+
+### Why Liquid democracy ?
+
+21:56
 
 ### &#x20;Questions & Answers&#x20;
 
