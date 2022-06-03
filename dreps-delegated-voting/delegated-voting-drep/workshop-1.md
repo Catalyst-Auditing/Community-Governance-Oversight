@@ -335,7 +335,7 @@ It is taken from a % of Fund 8 voter rewards - Jack Briggs - 1:02:12
 
 ### Is it randomized who votes for you ?
 
-Is it randomized who votes for you ? - Tommy - 1:02:26
+Is it randomized who votes for you ? - Tommy - [1:02:26](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=3746s)
 
 
 
