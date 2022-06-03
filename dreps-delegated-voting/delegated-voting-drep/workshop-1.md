@@ -225,6 +225,8 @@ We would encourage collaboration and open discourse - Jack Briggs - 59:34&#x20;
 
 Do people delegating to dReps get voting rewards ? - If dRep fails to reach 60/20 threshold does that mean they lose those rewards ? - Sebastian - 1:00:13
 
+Voter rewards are paid if you delegate your votes - Jack Briggs - 1:00:30
+
 
 
 ### Appendix
