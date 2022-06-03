@@ -245,13 +245,15 @@ We do have an initial set of tags - so you can filter by dRep domain knowledge -
 
 ### What is selection criteria for dReps ?
 
-What is selection criteria for dReps ? - Ninh - 49:12&#x20;
+What is selection criteria for dReps ? - Ninh - [49:12](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=2952s)&#x20;
 
-Open to anyone who has voted previously - requires delegators to stake to you - & proof of life - Jack Briggs - 49:36&#x20;
+Open to anyone who has voted previously - requires delegators to stake to you - & proof of life - Jack Briggs - [49:36 ](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=2976s)
 
-That rule reduced the no from 220 to 150 dReps ? - Ninh - 50:09&#x20;
+That rule reduced the no from 220 to 150 dReps ? - Ninh - [50:09](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=3009s)&#x20;
 
 Yes - Jack Briggs - 50:17&#x20;
+
+### The bar to Quadratic voting&#x20;
 
 The bar to have Quadratic voting is to have KYC for Wallets (to prevent sybil attacks) - Ninh - 51:10&#x20;
 
