@@ -229,6 +229,8 @@ Voter rewards are paid if you delegate your votes - Jack Briggs - 1:00:30
 
 If you delegate you will get your rewards - no requirement for MVP - reward will only depend on whether dRep was over- delegated - Roman - 1:00:40
 
+Voters are not impacted - it is the dRep who will not be rewarded - Jack Briggs - 1:01:26
+
 
 
 ### Appendix
