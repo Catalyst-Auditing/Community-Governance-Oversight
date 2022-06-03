@@ -371,7 +371,7 @@ Passive voter can be defined in various ways. From new voter who decides to dele
 
 For now you need to delegate and you will get your rewards - Roman - 1:05:30
 
-For clarity if you are an active voter you are voting yourself, if you are a passive voter you would be delegating your vote - Harris Warren - 1:06:14
+For clarity if you are an active voter you are voting yourself, if you are a passive voter you would be delegating your vote to dReps - Harris Warren - 1:06:14
 
 ## Appendix (Session B)
 
