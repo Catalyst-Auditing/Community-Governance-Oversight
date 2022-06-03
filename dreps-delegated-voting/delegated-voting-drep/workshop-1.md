@@ -207,7 +207,7 @@ Voting center will have complete list dReps - Jack Briggs - [35:57](https://www.
 
 No limit to perform CA & dRep roles - dRep voting history will be public - Harris - [36:11](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=2171s)&#x20;
 
-What work will required to explain voting choices - Dayna - 36:47&#x20;
+What work will required to explain voting choices - Dayna - [36:47](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=2207s)&#x20;
 
 Total no of dReps expressing interest was 220 - Jack Briggs - 37:24&#x20;
 
