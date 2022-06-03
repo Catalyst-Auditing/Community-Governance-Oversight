@@ -237,11 +237,13 @@ Either you vote yourself or delegate 100 % of vote - in future possible allocati
 
 Mainly a record of a certificate written to main net - CIP 36 (registration transaction) - Harris Warren - [45:42](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=2742s)
 
-CIP 36 - https://github.com/cardano-foundation/CIPs/tree/master/CIP-0036&#x20;
+**CIP 36 - Catalyst/Voltaire Registration Transaction Metadata Format** - https://github.com/cardano-foundation/CIPs/tree/master/CIP-0036&#x20;
 
-Transfer of full voting power would be ultimate solution & implementing a rule set - George - 46:22
+Transfer of full voting power would be ultimate solution & implementing a rule set - George - [46:22](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=2782s)
 
-&#x20;We do have an initial set of tags - so you can filter by dRep domain knowledge - Harris Warren - 47:32&#x20;
+We do have an initial set of tags - so you can filter by dRep domain knowledge - Harris Warren - [47:32](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=2852s)&#x20;
+
+### What is selection criteria for dReps ?
 
 What is selection criteria for dReps ? - Ninh - 49:12&#x20;
 
