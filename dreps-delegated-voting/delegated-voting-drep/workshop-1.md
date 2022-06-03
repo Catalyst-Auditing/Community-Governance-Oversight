@@ -22,7 +22,9 @@ Recording Placeholder
 
 {% file src="../../.gitbook/assets/dRep session A 2nd Jun Verbatim.doc" %}
 
-Session A Chat
+#### Session A Chat
+
+{% file src="../../.gitbook/assets/Dreps wshop #1, session A, meeting chat.doc" %}
 
 ## Session B
 
