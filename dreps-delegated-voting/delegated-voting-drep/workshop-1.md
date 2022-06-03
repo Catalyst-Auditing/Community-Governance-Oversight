@@ -345,6 +345,12 @@ Is it randomized who votes for you ? - Tommy - [1:02:26](https://www.youtube.com
 
 No. There is only random sorting of dReps on the Voter center UI. The list of dReps will be randomnised. Jack Briggs - 1:02:37
 
+### Can we search ?
+
+Can we search ? - Tommy - 1:02:53
+
+You can search by name and by tags - Jack Briggs -&#x20;
+
 ## Appendix (Session B)
 
 #### Intelligent Verbatim transcript - session B
