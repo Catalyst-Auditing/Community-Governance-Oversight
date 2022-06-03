@@ -365,6 +365,8 @@ If its ludicrous and voted in we love ludicrous - Harris Warren - 1:03:52
 
 Passive voter pay off - Tommy - [1:04:20](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=3860s)
 
+You mentioned earler that the pay off works in favour of passive voters to delegate because minimum is 60 for dReps and 30 for the voters - what did you mean by that ?
+
 ## Appendix (Session B)
 
 #### Intelligent Verbatim transcript - session B
