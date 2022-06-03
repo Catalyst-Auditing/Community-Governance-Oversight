@@ -309,11 +309,11 @@ Voters are not impacted - it is the dRep who will not be rewarded - Jack Briggs 
 
 ### Appendix
 
-Full Transcript of Session A
+Full Transcript of Session B
 
-Insert Chat document
+#### Session B Chat
 
-
+{% file src="../../.gitbook/assets/chat.txt" %}
 
 ### CIP 36 - Catalyst/Voltaire Registration Transaction Metadata Format&#x20;
 
