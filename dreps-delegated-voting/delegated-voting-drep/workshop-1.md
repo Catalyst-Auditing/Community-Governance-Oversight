@@ -353,7 +353,7 @@ If you delegate you will get your rewards - no requirement for MVP - reward will
 
 Voters are not impacted - it is the dRep who will not be rewarded - Jack Briggs - 1:01:26
 
-How was the $3060
+### How was the $3060 reward level calculated ?
 
 Where is 459 k coming from ? (3060 X 150) - Tommy - 1:01:39&#x20;
 
