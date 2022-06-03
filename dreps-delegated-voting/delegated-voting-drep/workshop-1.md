@@ -267,9 +267,11 @@ All interface powered by APIs and will be available openly - Some private GDPR d
 
 Is API lagging behind the UI ? - Darlington - [53:51](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=3231s)&#x20;
 
-Entire UI is powered by API - Harris Warren - [54:00](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=3240s)&#x20;
+Entire UI is powered by API - Entire data will be available on day 1  - Harris Warren - [54:00](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=3240s)&#x20;
 
-Entire data will be available on day 1 Wallet voting history - new wallet for dRep - previous voting history revealed ? - CA Wallet ? - Zoe - 54:15&#x20;
+### Wallet voting history
+
+Wallet voting history - new wallet for dRep - previous voting history revealed ? - CA Wallet ? - Zoe - [54:15](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=3255s)&#x20;
 
 dRep wallet can be new - proof of life can validate voting history with previous wallet address - Jack Briggs - 54:46&#x20;
 
