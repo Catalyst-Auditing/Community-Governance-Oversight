@@ -18,8 +18,8 @@ description: Introduction to the Delegated Voting Experiment - dReps
 
 ## dRep Workshops
 
-{% content-ref url="workshop-1/" %}
-[workshop-1](workshop-1/)
+{% content-ref url="workshop-1.md" %}
+[workshop-1.md](workshop-1.md)
 {% endcontent-ref %}
 
 {% content-ref url="workshop-2-demo-and-walkthrough.md" %}

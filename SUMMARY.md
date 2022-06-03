@@ -17,8 +17,9 @@
 
 * [Delegated Representatives (dRep)](dreps-delegated-voting/delegated-voting-drep/README.md)
   * [dRep Background](dreps-delegated-voting/delegated-voting-drep/drep-timeline.md)
-  * [Workshop 1 - What it means to be a dRep](dreps-delegated-voting/delegated-voting-drep/workshop-1/README.md)
+  * [Workshop 1 - What it means to be a dRep](dreps-delegated-voting/delegated-voting-drep/workshop-1.md)
     * [Chat Session A](dreps-delegated-voting/delegated-voting-drep/workshop-1/chat-session-a.md)
+  * [Chat Session B](dreps-delegated-voting/delegated-voting-drep/chat-session-b.md)
   * [Workshop 2 - Demo and walkthrough](dreps-delegated-voting/delegated-voting-drep/workshop-2-demo-and-walkthrough.md)
 
 ## Parameters
