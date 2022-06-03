@@ -81,7 +81,15 @@ description: >-
 
 Recording Placeholder
 
-\-- Presentation ---
+Jack Briggs - IOG&#x20;
+
+Roman - IOG&#x20;
+
+Philip Lazos - IOG&#x20;
+
+Harris Warren - IOG
+
+### Presentation
 
 Introduction - Jack Briggs - 2:10&#x20;
 
@@ -107,7 +115,7 @@ Direct voting - changes - 19:13&#x20;
 
 Why Liquid democracy ? - 21:56
 
-\--- Questions & Answers
+### &#x20;Questions & Answers&#x20;
 
 Questions & Answers - 22:50&#x20;
 
@@ -125,7 +133,97 @@ Registration will not expire & be open about conflicts of interest - Jack Briggs
 
 Can groups sign up as dReps ? & Is quadratic voting on the cards ? - Nori - 28:15&#x20;
 
-Wallet is actually registered - up to dRep how to share this - Harris - 28:52
+Wallet is actually registered - up to dRep how to share this - Harris Warren - 28:52&#x20;
+
+Quadratic voting would need to link to IDs - Philip Lazos - 30:04&#x20;
+
+What happens to voter rewards delegation goes above 1% - & can a group submit as dRep - 31:13
+
+&#x20;Reward is shared among all stakeholders who delegated to dRep - Roman - 32:10&#x20;
+
+How easy can this be seen on the voting center ? - Jack Briggs - 33:19&#x20;
+
+Would be shown on the interface - enough to be informed about over delegation - Harris Warren - 33:30&#x20;
+
+How many people registered as dReps & validating vote choices- Dayna - 35:08&#x20;
+
+Voting center will have complete list dReps - Jack Briggs - 35:57&#x20;
+
+No limit to perform CA & dRep roles - dRep voting history will be public - Harris - 36:11&#x20;
+
+What work will required to explain voting choices - Dayna - 36:47&#x20;
+
+Total no of dReps expressing interest was 220 - Jack Briggs - 37:24&#x20;
+
+Voting rationale will be a min character count - 1 or 2 sentences - Jack Briggs - 37:58&#x20;
+
+Difference between CA & dReps - dReps should consider Cardano dev strategy - Roman - 38:23&#x20;
+
+How to assist dReps competence in knowledge of dev environment ? - Richard - 40:19&#x20;
+
+Registration process will include bio, interests and motivations - Jack Briggs - 41:14&#x20;
+
+Creating a professional class - providing guidance & templates to achieve consistency - Jack Briggs - 41:47&#x20;
+
+How to contribute experience to build these tools ? - Richard - 42:18&#x20;
+
+Input is welcome. On discord at the moment - potential Circle rep - Jack Briggs - 42:38&#x20;
+
+Percentage voting delegations - priority of voting - George - 43:18&#x20;
+
+Either you vote yourself or delegate 100 % of vote - in future possible allocation of voting event types - Harris Warren - 44:20&#x20;
+
+Mainly a record of a certificate written to main net - CIP 36 (registration transaction) - Harris Warren - 45:42
+
+CIP 36 - https://github.com/cardano-foundation/CIPs/tree/master/CIP-0036&#x20;
+
+Transfer of full voting power would be ultimate solution & implementing a rule set - George - 46:22
+
+&#x20;We do have an initial set of tags - so you can filter by dRep domain knowledge - Harris Warren - 47:32&#x20;
+
+What is selection criteria for dReps ? - Ninh - 49:12&#x20;
+
+Open to anyone who has voted previously - requires delegators to stake to you - & proof of life - Jack Briggs - 49:36&#x20;
+
+That rule reduced the no from 220 to 150 dReps ? - Ninh - 50:09&#x20;
+
+Yes - Jack Briggs - 50:17&#x20;
+
+The bar to have Quadratic voting is to have KYC for Wallets (to prevent sybil attacks) - Ninh - 51:10&#x20;
+
+Quadratic sybil resistance Not aware of any high quality research done in prevention of those attacks - Philip Lazos - 51:42
+
+Getting benefits of partially doing KYC is something we are pursuing&#x20;
+
+Interfaces & UI - will data be available publicly ? - with an open API - Darlington - 52:34&#x20;
+
+All interface powered by APIs and will be available openly - Harris Warren - 53:10&#x20;
+
+Some private GDPR data Is API lagging behind the UI ? - Darlington - 53:51&#x20;
+
+Entire UI is powered by API - Harris Warren - 54:00&#x20;
+
+Entire data will be available on day 1 Wallet voting history - new wallet for dRep - previous voting history revealed ? - CA Wallet ? - Zoe - 54:15&#x20;
+
+dRep wallet can be new - proof of life can validate voting history with previous wallet address - Jack Briggs - 54:46&#x20;
+
+You will select a wallet that will become public - voting rewards indicate activity - data shared only going forward - Harris Warren - 55:08&#x20;
+
+Does dRep wallet need to contain 500 ADA ? Zoe - 56:43&#x20;
+
+Yes - Harris Warren - 56:53&#x20;
+
+Can dReps be pseudonymous ? - Can dReps delegate to other dReps ? - Nori - 57:00&#x20;
+
+Not doing KYCs - so pseudonym possible - communications require an email - Harris Warren - 57:26&#x20;
+
+At MVP we will not be able to delegate dRep to dRep - Jack Briggs - 58:22&#x20;
+
+Is the expectation that dReps will make siloed decisions or is open discourse possible ? - 59:16&#x20;
+
+We would encourage collaboration and open discourse - Jack Briggs - 59:34&#x20;
+
+Do people delegating to dReps get voting rewards ? - If dRep fails to reach 60/20 threshold does that mean they lose those rewards ? - Sebastian - 1:00:13
 
 
 
