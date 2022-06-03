@@ -285,11 +285,13 @@ Yes - Harris Warren - 56:53&#x20;
 
 ### Can dReps be pseudonymous ?
 
-Can dReps be pseudonymous ? - Can dReps delegate to other dReps ? - Nori - 57:00&#x20;
+Can dReps be pseudonymous ? - Can dReps delegate to other dReps ? - Nori - [57:00](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=3420s)&#x20;
 
-Not doing KYCs - so pseudonym possible - communications require an email - Harris Warren - 57:26&#x20;
+Not doing KYCs - so pseudonym possible - communications require an email - Harris Warren - [57:26](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=3446s)&#x20;
 
-At MVP we will not be able to delegate dRep to dRep - Jack Briggs - 58:22&#x20;
+### Can dReps delegate to other dReps ?
+
+At MVP we will not be able to delegate dRep to dRep - Jack Briggs - [58:22](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=3502s)&#x20;
 
 Is the expectation that dReps will make siloed decisions or is open discourse possible ? - 59:16&#x20;
 
