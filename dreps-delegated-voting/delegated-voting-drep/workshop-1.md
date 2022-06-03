@@ -22,6 +22,12 @@ Thursday, June 2nd 2022, 0900 UTC
 
 {% embed url="https://youtu.be/c7Znnm9RvxE" %}
 
+Jack Briggs - IOG&#x20;
+
+Roman Oliyinkov - IOG&#x20;
+
+Philip Lazos - IOG&#x20;
+
 ## Presentation (Session A)
 
 **0:55** Welcome\
