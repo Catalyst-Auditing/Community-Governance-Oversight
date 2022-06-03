@@ -273,9 +273,11 @@ Entire UI is powered by API - Entire data will be available on day 1  - Harris W
 
 Wallet voting history - new wallet for dRep - previous voting history revealed ? - CA Wallet ? - Zoe - [54:15](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=3255s)&#x20;
 
-dRep wallet can be new - proof of life can validate voting history with previous wallet address - Jack Briggs - 54:46&#x20;
+dRep wallet can be new - proof of life can validate voting history with previous wallet address - Jack Briggs - [54:46](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=3286s)&#x20;
 
-You will select a wallet that will become public - voting rewards indicate activity - data shared only going forward - Harris Warren - 55:08&#x20;
+You will select a wallet that will become public - voting rewards indicate activity - data shared only going forward - Harris Warren - [55:08 ](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=3308s)
+
+### Does dRep wallet need to contain 500 ADA ?
 
 Does dRep wallet need to contain 500 ADA ? Zoe - 56:43&#x20;
 
