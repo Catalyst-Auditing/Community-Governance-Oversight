@@ -383,7 +383,7 @@ I will help you with that offline and we can make a plan - Jack Briggs
 
 ### dRep FAQ
 
-We will be building a dRep FAQ - Jack Briggs - [1:07:42](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=4062s)
+We will be building a dRep FAQ and have a dRep portal - Jack Briggs - [1:07:42](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=4062s)
 
 ## Appendix (Session B)
 
