@@ -20,6 +20,8 @@ Thursday, June 2nd 2022, 0900 UTC
 
 ### Video
 
+coming soon
+
 ## Presentation (Session A)
 
 **0:55** Welcome\
@@ -345,7 +347,9 @@ Is it randomized who votes for you ? - Tommy - [1:02:26](https://www.youtube.com
 
 ## Appendix (Session B)
 
-Full Transcript of Session B
+#### Intelligent Verbatim transcript - session B
+
+coming soon
 
 #### Session B Chat
 
