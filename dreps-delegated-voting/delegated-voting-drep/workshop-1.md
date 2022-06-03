@@ -6,6 +6,8 @@ description: >-
 
 # Workshop 1 - What it means to be a dRep
 
+Documented by Vanessa & Stephen Whitenstall of QADAO
+
 ## Slides
 
 [Link to Slides](https://docs.google.com/presentation/d/1jg6XyoRW8akg1HGR-KaxEcSMHZE1-tu4DT-YTQUH5zs/edit?usp=sharing)
