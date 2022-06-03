@@ -255,11 +255,9 @@ Yes - Jack Briggs - 50:17&#x20;
 
 ### The bar to Quadratic voting&#x20;
 
-The bar to have Quadratic voting is to have KYC for Wallets (to prevent sybil attacks) - Ninh - 51:10&#x20;
+The bar to have Quadratic voting is to have KYC for Wallets (to prevent sybil attacks) - Ninh - [51:10](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=3070s)&#x20;
 
-Quadratic sybil resistance Not aware of any high quality research done in prevention of those attacks - Philip Lazos - 51:42
-
-Getting benefits of partially doing KYC is something we are pursuing&#x20;
+Quadratic sybil resistance Not aware of any high quality research done in prevention of those attacks - Getting benefits of partially doing KYC is something we are pursuing  - Philip Lazos - [51:42](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=3102s)
 
 Interfaces & UI - will data be available publicly ? - with an open API - Darlington - 52:34&#x20;
 
