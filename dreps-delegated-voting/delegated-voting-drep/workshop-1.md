@@ -6,7 +6,7 @@ description: >-
 
 # Workshop 1 - What it means to be a dRep
 
-Documented by Vanessa & Stephen Whitenstall of QADAO. Funded by Catalyst Proposal [QA-DAO Transcription Service](https://cardano.ideascale.com/c/idea/383492)
+Documented by Vanessa & Stephen Whitenstall of [QADAO](https://twitter.com/qa\_dao). Funded by Catalyst Proposal [QA-DAO Transcription Service](https://cardano.ideascale.com/c/idea/383492)
 
 ## Slides
 
