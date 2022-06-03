@@ -227,6 +227,8 @@ Do people delegating to dReps get voting rewards ? - If dRep fails to reach 60/2
 
 Voter rewards are paid if you delegate your votes - Jack Briggs - 1:00:30
 
+If you delegate you will get your rewards - no requirement for MVP - reward will only depend on whether dRep was over- delegated - Roman - 1:00:40
+
 
 
 ### Appendix
