@@ -20,7 +20,7 @@ Thursday, June 2nd 2022, 0900 UTC
 
 ### Video
 
-coming soon
+
 
 ## Presentation (Session A)
 
