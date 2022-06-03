@@ -379,6 +379,8 @@ Is there a list of Discord names dReps ? - Tevo - [1:06:40](https://www.youtube.
 
 In respect of dReps fulfilling a specific role. Will there be surveys ?
 
+I will help you with that offline and we can make a plan - Jack Briggs
+
 ## Appendix (Session B)
 
 #### Intelligent Verbatim transcript - session B
