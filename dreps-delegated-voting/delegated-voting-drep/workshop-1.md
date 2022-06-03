@@ -22,7 +22,7 @@ description: >-
 **5:13** What is liquid democracy? \
 **8:24** Why delegation and dReps?\
 **11:54** The dRep role – how it works\
-**12:36** The formal registration process\
+**12:36** The formal registration process to become a dRep\
 **13:07** Expectations for being a dRep – being a community leader\
 **13:45** Expectations for being a dRep – transparency\
 **14:28** Expectations for being a dRep – minimum asks\
@@ -47,7 +47,7 @@ description: >-
 
 **31:07** How do we ensure that dReps vote for the right proposals? What is the “right” proposal? dRep rationales, not appeasing people, and being true to yourself&#x20;
 
-**35:46** Will big teams with big marketing budgets be able to get dReps to support them? &#x20;
+**35:46** Will big teams with big marketing budgets have a centralising advantage in getting  dReps to support them? &#x20;
 
 **36:43**  Code of ethics for dReps? &#x20;
 
