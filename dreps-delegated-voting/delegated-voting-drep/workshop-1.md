@@ -8,6 +8,8 @@ description: >-
 
 ## Slides
 
+[Link to Slides](https://docs.google.com/presentation/d/1jg6XyoRW8akg1HGR-KaxEcSMHZE1-tu4DT-YTQUH5zs/edit?usp=sharing)
+
 {% embed url="https://docs.google.com/presentation/d/1jg6XyoRW8akg1HGR-KaxEcSMHZE1-tu4DT-YTQUH5zs/edit?usp=sharing" %}
 
 ## Session A
