@@ -181,9 +181,9 @@ Registration will not expire & be open about conflicts of interest - Jack Briggs
 
 ### Can groups sign up as dReps ?
 
-Can groups sign up as dReps ? & Is quadratic voting on the cards ? - Nori - 28:15&#x20;
+Can groups sign up as dReps ? & Is quadratic voting on the cards ? - Nori - [28:15](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=1695s)&#x20;
 
-Wallet is actually registered - up to dRep how to share this - Harris Warren - 28:52&#x20;
+Wallet is actually registered - up to dRep how to share this - Harris Warren - [28:52](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=1732s)&#x20;
 
 ### Is quadratic voting on the cards ?
 
