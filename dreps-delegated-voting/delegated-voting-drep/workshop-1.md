@@ -187,7 +187,9 @@ Wallet is actually registered - up to dRep how to share this - Harris Warren - [
 
 ### Is quadratic voting on the cards ?
 
-Quadratic voting would need to link to IDs - Philip Lazos - 30:04&#x20;
+Quadratic voting would need to link to IDs - Philip Lazos - [30:04](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=1804s)&#x20;
+
+### What happens to voter rewards delegation goes above 1% ?&#x20;
 
 What happens to voter rewards delegation goes above 1% - & can a group submit as dRep - 31:13
 
