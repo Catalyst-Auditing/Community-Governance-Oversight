@@ -207,13 +207,15 @@ Voting center will have complete list dReps - Jack Briggs - [35:57](https://www.
 
 No limit to perform CA & dRep roles - dRep voting history will be public - Harris - [36:11](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=2171s)&#x20;
 
+### What work will required to explain voting choices ?&#x20;
+
 What work will required to explain voting choices - Dayna - [36:47](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=2207s)&#x20;
 
-Total no of dReps expressing interest was 220 - Jack Briggs - 37:24&#x20;
+Total no of dReps expressing interest was 220 - Jack Briggs - [37:24](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=2244s)&#x20;
 
-Voting rationale will be a min character count - 1 or 2 sentences - Jack Briggs - 37:58&#x20;
+Voting rationale will be a min character count - 1 or 2 sentences - Jack Briggs - [37:58](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=2278s)&#x20;
 
-Difference between CA & dReps - dReps should consider Cardano dev strategy - Roman - 38:23&#x20;
+Difference between CA & dReps - dReps should consider Cardano dev strategy - Roman - [38:23](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=2303s)&#x20;
 
 How to assist dReps competence in knowledge of dev environment ? - Richard - 40:19&#x20;
 
