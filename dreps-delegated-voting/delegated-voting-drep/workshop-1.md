@@ -351,6 +351,12 @@ Can we search ? - Tommy - 1:02:53
 
 You can search by name and by tags - Jack Briggs - 1:02:55
 
+### Fund 9 Challenge
+
+Fund 9 Challenge - if someone suggests something ludicrous will it take effect ? - Tommy - [1:03:03](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=3783s)
+
+That is a very open question - Jack Briggs - 1:03:16
+
 ## Appendix (Session B)
 
 #### Intelligent Verbatim transcript - session B
