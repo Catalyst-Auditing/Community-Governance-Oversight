@@ -361,6 +361,10 @@ That is a very open question - Jack Briggs - 1:03:16
 
 If its ludicrous and voted in we love ludicrous - Harris Warren - 1:03:52
 
+### Passive voter pay off
+
+Passive voter pay off - Tommy - [1:04:20](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=3860s)
+
 ## Appendix (Session B)
 
 #### Intelligent Verbatim transcript - session B
