@@ -20,7 +20,7 @@ Thursday, June 2nd 2022, 0900 UTC
 
 ### Video
 
-## Presentation
+## Presentation (Session A)
 
 **0:55** Welcome\
 **2:40**  Agenda\
@@ -39,7 +39,7 @@ Thursday, June 2nd 2022, 0900 UTC
 **20:34** Changes to direct voting – rewards\
 **21:20** Recap/summary&#x20;
 
-## Questions
+## Questions (Session A)
 
 **22:58** For a voter who is happy to vote on many proposals, is there any advantage to delegating to a dRep? &#x20;
 
@@ -73,7 +73,7 @@ Thursday, June 2nd 2022, 0900 UTC
 
 **58:11** Will there be a central location for information about dReps? &#x20;
 
-## Appendix
+## Appendix (Session A)
 
 #### Intelligent Verbatim transcript - session A
 
@@ -97,9 +97,9 @@ Philip Lazos - IOG&#x20;
 
 Harris Warren - IOG
 
-## Presentation
+## Presentation (Session B)
 
-### Introduction&#x20;
+## Introduction&#x20;
 
 Jack Briggs
 
@@ -155,7 +155,7 @@ Jack Briggs
 
 [21:56](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=1316s)
 
-## Questions & Answers&#x20;
+## Questions & Answers (Session B)&#x20;
 
 Questions & Answers - 22:50&#x20;
 
@@ -307,7 +307,7 @@ Voters are not impacted - it is the dRep who will not be rewarded - Jack Briggs 
 
 
 
-## Appendix
+## Appendix (Session B)
 
 Full Transcript of Session B
 
