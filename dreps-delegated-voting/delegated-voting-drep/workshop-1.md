@@ -367,6 +367,10 @@ Passive voter pay off - Tommy - [1:04:20](https://www.youtube.com/watch?v=OGBdac
 
 You mentioned earler that the pay off works in favour of passive voters to delegate because minimum is 60 for dReps and 30 for the voters - what did you mean by that ?
 
+Passive voter can be defined in various ways. From new voter who decides to delegate to a dRep because of lack of knowledge  - you will get at least voter rewards of 60 - Jack Briggs - 1:04:32
+
+For now you need to delegate and you will get your rewards - Roman - 1:05:30
+
 ## Appendix (Session B)
 
 #### Intelligent Verbatim transcript - session B
