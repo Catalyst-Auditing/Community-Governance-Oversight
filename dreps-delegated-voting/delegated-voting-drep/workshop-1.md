@@ -349,7 +349,7 @@ No. There is only random sorting of dReps on the Voter center UI. The list of dR
 
 Can we search ? - Tommy - 1:02:53
 
-You can search by name and by tags - Jack Briggs -&#x20;
+You can search by name and by tags - Jack Briggs - 1:02:55
 
 ## Appendix (Session B)
 
