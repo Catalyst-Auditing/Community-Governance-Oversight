@@ -373,11 +373,11 @@ For now you need to delegate and you will get your rewards - Roman - 1:05:30
 
 For clarity if you are an active voter you are voting yourself, if you are a passive voter you would be delegating your vote to dReps - Harris Warren - 1:06:14
 
-### Is there a list of interests of dReps ?
+### Is there a list of Discord names of dReps ?
 
-Is there a list of interests of dReps ? - Tevo - [1:06:40](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=4000s)
+Is there a list of Discord names dReps ? - Tevo - [1:06:40](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=4000s)
 
-In respect of dReps fulfilling a specific role.
+In respect of dReps fulfilling a specific role. Will there be surveys ?
 
 ## Appendix (Session B)
 
