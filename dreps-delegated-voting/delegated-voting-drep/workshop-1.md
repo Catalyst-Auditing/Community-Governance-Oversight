@@ -293,7 +293,9 @@ Not doing KYCs - so pseudonym possible - communications require an email - Harri
 
 At MVP we will not be able to delegate dRep to dRep - Jack Briggs - [58:22](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=3502s)&#x20;
 
-Is the expectation that dReps will make siloed decisions or is open discourse possible ? - 59:16&#x20;
+### Is open discourse possible ?
+
+Is the expectation that dReps will make siloed decisions or is open discourse possible ? - [59:16](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=3556s)&#x20;
 
 We would encourage collaboration and open discourse - Jack Briggs - 59:34&#x20;
 
