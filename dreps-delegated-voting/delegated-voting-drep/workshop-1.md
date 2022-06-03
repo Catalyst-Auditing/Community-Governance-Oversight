@@ -159,13 +159,19 @@ Jack Briggs
 
 Questions & Answers - 22:50&#x20;
 
-Only 20% vote - Felix - 23:20&#x20;
+### Engagement & awareness
 
-Broader Awareness Campaign - Jack Briggs - 24:13&#x20;
+Only 20% vote - Felix - [23:20](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=1400s)&#x20;
 
-Conflicts of Interest - George - 24:43&#x20;
+Broader Awareness Campaign - Jack Briggs - [24:13 ](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=1453s)
 
-Transparency of a dRep being an author of proposal - Jack Briggs - 25:26&#x20;
+We have a broader awareness campaign that we will be rolling out.
+
+### Conflicts of Interest
+
+Conflicts of Interest - George - [24:43](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=1483s)&#x20;
+
+Transparency of a dRep being an author of proposal - Jack Briggs - [25:26](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=1526s)&#x20;
 
 dRep registration expiry date - Sebastian - 26:44&#x20;
 
