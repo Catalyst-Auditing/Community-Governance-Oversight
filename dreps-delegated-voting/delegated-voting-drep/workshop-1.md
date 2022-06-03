@@ -373,6 +373,12 @@ For now you need to delegate and you will get your rewards - Roman - 1:05:30
 
 For clarity if you are an active voter you are voting yourself, if you are a passive voter you would be delegating your vote to dReps - Harris Warren - 1:06:14
 
+### Is there a list of interests of dReps ?
+
+Is there a list of interests of dReps ? - Tevo - 1:06:40
+
+In respect of dReps fulfilling a specific role.
+
 ## Appendix (Session B)
 
 #### Intelligent Verbatim transcript - session B
