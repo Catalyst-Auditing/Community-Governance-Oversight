@@ -379,5 +379,6 @@ coming soon
 
 {% embed url="https://github.com/cardano-foundation/CIPs/tree/master/CIP-0036" %}
 
-&#x20;
+### Fund 9 -  dRep improvement and onboarding Challenge
 
+{% embed url="https://cardano.ideascale.com/c/idea/400779" %}
