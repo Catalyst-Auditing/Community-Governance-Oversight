@@ -173,13 +173,19 @@ Conflicts of Interest - George - [24:43](https://www.youtube.com/watch?v=OGBdacC
 
 Transparency of a dRep being an author of proposal - Jack Briggs - [25:26](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=1526s)&#x20;
 
-dRep registration expiry date - Sebastian - 26:44&#x20;
+### dRep registration expiry date
 
-Registration will not expire & be open about conflicts of interest - Jack Briggs - 27:09&#x20;
+dRep registration expiry date - Sebastian - [26:44](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=1604s)&#x20;
+
+Registration will not expire & be open about conflicts of interest - Jack Briggs - [27:09](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=1629s)&#x20;
+
+### Can groups sign up as dReps ?
 
 Can groups sign up as dReps ? & Is quadratic voting on the cards ? - Nori - 28:15&#x20;
 
 Wallet is actually registered - up to dRep how to share this - Harris Warren - 28:52&#x20;
+
+### Is quadratic voting on the cards ?
 
 Quadratic voting would need to link to IDs - Philip Lazos - 30:04&#x20;
 
