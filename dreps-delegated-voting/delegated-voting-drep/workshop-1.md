@@ -217,15 +217,17 @@ Voting rationale will be a min character count - 1 or 2 sentences - Jack Briggs 
 
 Difference between CA & dReps - dReps should consider Cardano dev strategy - Roman - [38:23](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=2303s)&#x20;
 
-How to assist dReps competence in knowledge of dev environment ? - Richard - 40:19&#x20;
+### How to assist dReps competence in knowledge ?
 
-Registration process will include bio, interests and motivations - Jack Briggs - 41:14&#x20;
+How to assist dReps competence in knowledge of dev environment ? - Richard - [40:19](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=2419s)&#x20;
 
-Creating a professional class - providing guidance & templates to achieve consistency - Jack Briggs - 41:47&#x20;
+Registration process will include bio, interests and motivations - Jack Briggs - [41:14](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=2474s)&#x20;
 
-How to contribute experience to build these tools ? - Richard - 42:18&#x20;
+Creating a professional class - providing guidance & templates to achieve consistency - Jack Briggs - [41:47](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=2507s)&#x20;
 
-Input is welcome. On discord at the moment - potential Circle rep - Jack Briggs - 42:38&#x20;
+How to contribute experience to build these tools ? - Richard - [42:18](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=2538s)&#x20;
+
+Input is welcome. On discord at the moment - potential Circle rep - Jack Briggs - [42:38](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=2558s)&#x20;
 
 Percentage voting delegations - priority of voting - George - 43:18&#x20;
 
