@@ -1,7 +1,7 @@
 ---
 description: >-
-  What it means to be a dRep, how we have designed our refined version of Liquid
-  Democracy, and the safeguarding parameters we have in place.
+  What it means to be a dRep, the design of Catalyst's refined version of Liquid
+  Democracy, and the safeguarding parameters in place.
 ---
 
 # Workshop 1 - What it means to be a dRep
