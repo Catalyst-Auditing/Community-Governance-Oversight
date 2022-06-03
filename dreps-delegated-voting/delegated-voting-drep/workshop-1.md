@@ -41,33 +41,51 @@ Thursday, June 2nd 2022, 0900 UTC
 
 ## Questions (Session A)
 
-**22:58** For a voter who is happy to vote on many proposals, is there any advantage to delegating to a dRep? &#x20;
+**22:58** **As a voter who is happy to vote on many proposals, is there a disadvantage to me if I delegate to a dRep, in terms of maximising voter rewards?**  \
+**Answer:** On average, direct voters vote for fewer than 15 proposals. So a minimum requirement of 30 proposals aims to drive up participation. But for direct voters who habitually vote for 30 or more proposals, it's exactly the same as the current voting reward, or the reward you would get by delegating. But if somebody only wants to vote on 10 proposals, it's probably more beneficial to find a dRep that agrees on these 10 proposals and delegate to them; because the whole point of the dRep is to increase information available to the mechanism.&#x20;
 
-**27:27** Can dReps also be proposers? &#x20;
+**27:27 Can dReps also be proposers?**  \
+**Answer:** Yes; although they would have to declare it and be transparent about it.
 
-**28:23** Are voting rewards paid per proposal?&#x20;
+**28:23 Are voting rewards paid per proposal?** \
+**Answer:** Yes; it will be the same as the current mechanism.
 
-**30:12** Can dReps vote for their own proposals?  &#x20;
+**30:12** **Can dReps vote for their own proposals?** \
+**Answer:** No - it's a conflict of interest.  _\[**Documenter's note**: but see further discussion of this issue at 42:50_]
 
-**30:31**  Are CA and VCA roles affected by the dRep mechanism?&#x20;
+**30:31  Are CA and VCA roles affected by the dRep mechanism?** \
+**Answer:** Not at all. In fact, their role is ever more important within the Catalyst ecosystem. (And they are now called Proposal Assessors and Veteran Proposal Assessors!)
 
-**31:07** How do we ensure that dReps vote for the right proposals? What is the “right” proposal? dRep rationales, not appeasing people, and being true to yourself&#x20;
+**31:07** **How do we ensure that dReps vote for the right proposals? What is the “right” proposal?** \
+**Answer:** A dRep's official bio will declare their expertise and interests, so voters will delegate to them on that basis. Also, dReps have to give a public rationale for every vote, working to a template. So you can be upfront about your interests and motivations, and if your delegator is not happy with the way you voted, they can deselect you for the following funding round. But every dRep will be different, and there is no "right" way to vote - we want a diverse ecosystem.
 
-**35:46** Will big teams with big marketing budgets have a centralising advantage in getting  dReps to support them? &#x20;
+**35:46** **Will big teams with big marketing budgets have a centralising advantage in getting  dReps to support them?**  \
+**Answer:** Maybe, yes - just as it is now. But as a dRep part of your role is to see through that, and to judge each proposal on its own merits.
 
-**36:43**  Code of ethics for dReps? &#x20;
+**36:43** **Code of ethics for dReps, if dReps are being rolled out for Fund 9?**  \
+**Answer:** We want this first cohort to be part of shaping that, similar to how we have been working on the code of conduct for Circle. We are committed to having a code of conduct in place before dReps are rolled out - but note that dReps might not be implemented in fund 9, it might be fund 10.
 
-**39:43**  What will be the main communication channel for dReps? &#x20;
+**39:43  What will be the main communication channel for dReps themselves?**\
+**Answer:** the dRep channel in Project Catalyst Discord.&#x20;
 
-**41:08** Can a dRep also have their own personal vote with their own wallet?
+**41:08** **Can a dRep also have their own personal vote with their own wallet?**\
+**Answer:** No; you would have to do your own personal vote from a different wallet.
 
-**42:50**  Representation and diversity – if a dRep is involved in a minority community and in writing proposals from that community, shouldn’t they be able to also vote on those proposals as a dRep, if their community wants that and trusts them, and they are transparent about it? &#x20;
+**42:50  Representation and diversity – if a dRep is involved in a minority community and in writing proposals from that community, shouldn’t they be able to also vote on those proposals as a dRep, if their community wants that and trusts them, and they are transparent about it?** \
+**Answer:** \
+**(Jack):** The rationale originally was that we don't want dReps with a lot of voting power to vote on their own projects so they can get paid a lot of money. But in the use case you describe, it might be OK as long as it is open and transparent.\
+**(Philip):** Given that there is an upper limit on the voting power of each dRep, then as long as we feel that there is no deception going on, I think it should be fine to allow for this.\
+**(Jack):** Thanks for raising the question; we'll talk further about it at IO and come back with some direction on it.\
+**(Chat):** Some interesting comments in the Chat about this issue.
 
-**49:39** Who will decide who will become a dRep in later Funds?
+**49:39 Who will decide who will become a dRep in later Funds?**\
+**Answer:** No one! The dRep registration will be permanently ope, and no one will choose centrally who becomes a dRep; the vote delegators will decide, based on their voting power as individuals.
 
-**50:46** Can you be a dRep and also be on Catalyst Circle at the same time? &#x20;
+**50:46 Can you be a dRep and also be on Catalyst Circle at the same time?**  \
+**Answer:** Yes; in fact, we will likely have a dRep representative on the Circle. Similar to other questions about multiple roles, there is no issue as long as it is transparent.
 
-**51:37** If you have a minimum number of proposals a dRep must vote on, will dReps only do the bare minimum required?&#x20;
+**51:37 If you have a minimum number of proposals a dRep must vote on, won't dReps only do the bare minimum required?** \
+**Answer:** Voters will select the best-performing dReps, so there is an incentive to vote on more than 60 proposals to attract more delegation. We have set the threshold quite low because we want dReps to write a full rationale for each vote they make.
 
 **57:35** How is the maximum 1% of voting power calculated?
 
