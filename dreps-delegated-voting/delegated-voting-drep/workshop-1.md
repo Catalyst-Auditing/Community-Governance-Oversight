@@ -113,7 +113,7 @@ Jack Briggs
 
 ### What is Liquid Democracy ?
 
-Roman
+Roman Oliyinkov
 
 [ 6:05 ](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=365s)
 
@@ -147,7 +147,7 @@ Jack Briggs
 
 ### Why Liquid democracy ?
 
-
+[21:56](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=1316s)
 
 ### &#x20;Questions & Answers&#x20;
 
