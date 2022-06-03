@@ -105,49 +105,49 @@ Jack Briggs
 
 ### Agenda
 
-&#x20;3:40&#x20;
+&#x20;[3:40 ](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=220s)
 
 ### Workshops & Documentation
 
-&#x20;4:35&#x20;
+[ 4:35](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=275s)&#x20;
 
 ### What is Liquid Democracy ?
 
 Roman
 
-&#x20;6:05&#x20;
+[ 6:05 ](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=365s)
 
 ### Why Delegation and dReps
 
 Philip Lazos
 
-8:54&#x20;
+[8:54 ](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=534s)
 
 ### The dRep Role
 
 Jack Briggs
 
-12:29&#x20;
+[12:29 ](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=749s)
 
 ### dRep - the expectations
 
-13:50&#x20;
+[13:50 ](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=830s)
 
 ### dRep rewards
 
-15:54&#x20;
+[15:54 ](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=954s)
 
 ### Safeguarding
 
-17:38&#x20;
+[17:38 ](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=1058s)
 
 ### Direct voting - changes
 
-19:13&#x20;
+[19:13 ](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=1153s)
 
 ### Why Liquid democracy ?
 
-21:56
+
 
 ### &#x20;Questions & Answers&#x20;
 
