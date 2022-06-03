@@ -375,7 +375,7 @@ For clarity if you are an active voter you are voting yourself, if you are a pas
 
 ### Is there a list of interests of dReps ?
 
-Is there a list of interests of dReps ? - Tevo - 1:06:40
+Is there a list of interests of dReps ? - Tevo - [1:06:40](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=4000s)
 
 In respect of dReps fulfilling a specific role.
 
