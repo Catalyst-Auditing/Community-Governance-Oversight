@@ -16,6 +16,8 @@ Documented by Vanessa & Stephen Whitenstall of QADAO
 
 ## Session A
 
+Thursday, June 2nd 2022, 0900 UTC
+
 ### Video
 
 ### Slides
@@ -83,7 +85,9 @@ Documented by Vanessa & Stephen Whitenstall of QADAO
 
 ## Session B
 
-Recording Placeholder
+Thursday, June 2nd 2022, 1700 UTC
+
+### Recording Placeholder
 
 Jack Briggs - IOG&#x20;
 
