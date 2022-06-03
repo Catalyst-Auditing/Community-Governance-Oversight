@@ -18,9 +18,11 @@ Recording Placeholder
 
 ### Appendix
 
-Full Transcript of Sesson A
+#### Intelligent Verbatim transcript - session A
 
-Insert Chat document
+{% file src="../../.gitbook/assets/dRep session A 2nd Jun Verbatim.doc" %}
+
+Session A Chat
 
 ## Session B
 
