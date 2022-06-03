@@ -101,7 +101,7 @@ Thursday, June 2nd 2022, 0900 UTC
 
 #### Intelligent Verbatim transcript - session A
 
-{% file src="../../.gitbook/assets/dRep session A 2nd Jun Verbatim.doc" %}
+{% file src="../../.gitbook/assets/dRep session A 2nd Jun Verbatim (2).doc" %}
 
 #### Session A Chat
 
@@ -413,7 +413,9 @@ coming soon
 
 #### Session B Chat
 
-{% file src="../../.gitbook/assets/Session B - Chat.docx" %}
+{% content-ref url="workshop-1/chat-session-b.md" %}
+[chat-session-b.md](workshop-1/chat-session-b.md)
+{% endcontent-ref %}
 
 ### CIP 36 - Catalyst/Voltaire Registration Transaction Metadata Format&#x20;
 
