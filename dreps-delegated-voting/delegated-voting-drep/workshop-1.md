@@ -279,9 +279,11 @@ You will select a wallet that will become public - voting rewards indicate activ
 
 ### Does dRep wallet need to contain 500 ADA ?
 
-Does dRep wallet need to contain 500 ADA ? Zoe - 56:43&#x20;
+Does dRep wallet need to contain 500 ADA ? Zoe - [56:43](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=3403s)&#x20;
 
 Yes - Harris Warren - 56:53&#x20;
+
+### Can dReps be pseudonymous ?
 
 Can dReps be pseudonymous ? - Can dReps delegate to other dReps ? - Nori - 57:00&#x20;
 
