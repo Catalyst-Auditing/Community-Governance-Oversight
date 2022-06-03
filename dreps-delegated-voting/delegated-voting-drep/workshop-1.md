@@ -263,9 +263,9 @@ Quadratic sybil resistance Not aware of any high quality research done in preven
 
 Interfaces & UI - will data be available publicly ? - with an open API - Darlington - [52:34](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=3154s)&#x20;
 
-All interface powered by APIs and will be available openly - Harris Warren - 53:10&#x20;
+All interface powered by APIs and will be available openly - Some private GDPR data - Harris Warren - [53:10](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=3190s)&#x20;
 
-Some private GDPR data Is API lagging behind the UI ? - Darlington - 53:51&#x20;
+Is API lagging behind the UI ? - Darlington - [53:51](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=3231s)&#x20;
 
 Entire UI is powered by API - Harris Warren - 54:00&#x20;
 
