@@ -229,11 +229,13 @@ How to contribute experience to build these tools ? - Richard - [42:18](https://
 
 Input is welcome. On discord at the moment - potential Circle rep - Jack Briggs - [42:38](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=2558s)&#x20;
 
-Percentage voting delegations - priority of voting - George - 43:18&#x20;
+### Percentage share of voting delegations
 
-Either you vote yourself or delegate 100 % of vote - in future possible allocation of voting event types - Harris Warren - 44:20&#x20;
+Percentage share of voting delegations - priority of voting - George - [43:18](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=2598s)&#x20;
 
-Mainly a record of a certificate written to main net - CIP 36 (registration transaction) - Harris Warren - 45:42
+Either you vote yourself or delegate 100 % of vote - in future possible allocation of voting event types - Harris Warren - [44:20](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=2660s)&#x20;
+
+Mainly a record of a certificate written to main net - CIP 36 (registration transaction) - Harris Warren - [45:42](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=2742s)
 
 CIP 36 - https://github.com/cardano-foundation/CIPs/tree/master/CIP-0036&#x20;
 
@@ -298,4 +300,12 @@ Voters are not impacted - it is the dRep who will not be rewarded - Jack Briggs 
 Full Transcript of Session A
 
 Insert Chat document
+
+
+
+### CIP 36 - Catalyst/Voltaire Registration Transaction Metadata Format&#x20;
+
+{% embed url="https://github.com/cardano-foundation/CIPs/tree/master/CIP-0036" %}
+
+&#x20;
 
