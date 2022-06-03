@@ -12,9 +12,60 @@ description: >-
 
 ## Session A
 
-Recording Placeholder
+### Video
 
+### Slides
 
+**0:55** Welcome\
+**2:40**  Agenda\
+**3:40** Forthcoming workshops, and documentation\
+**5:13** What is liquid democracy? \
+**8:24** Why delegation and dReps?\
+**11:54** The dRep role – how it works\
+**12:36** The formal registration process\
+**13:07** Expectations for being a dRep – being a community leader\
+**13:45** Expectations for being a dRep – transparency\
+**14:28** Expectations for being a dRep – minimum asks\
+**15:06** dRep rewards\
+**17:26** Safeguarding\
+**19:08** Changes to direct voting -  improving outcomes\
+**19:49** Changes to direct voting -  minimum asks\
+**20:34** Changes to direct voting – rewards\
+**21:20** Recap/summary&#x20;
+
+### Questions
+
+**22:58** For a voter who normally votes on hundreds of proposals, is there an advantage to delegating to a dRep? &#x20;
+
+**27:27** Can dReps also be proposers? &#x20;
+
+**28:23** Are voting rewards paid per proposal?&#x20;
+
+**30:12** Can dReps vote for their own proposals?  &#x20;
+
+**30:31**  Are CA and VCA roles affected by the dRep mechanism?&#x20;
+
+**31:07** How do we ensure that dReps vote for the right proposals? What is the “right” proposal? dRep rationales, not appeasing people, and being true to yourself&#x20;
+
+**35:46** Will big teams with big marketing budgets be able to get dReps to support them? &#x20;
+
+**36:43**  Code of ethics for dReps? &#x20;
+
+**39:43**  What will be the main communication channel for dReps? &#x20;
+
+**41:08** Can a dRep also have their own personal vote with their own wallet?
+
+**42:50**  Representation and diversity – if a dRep is involved in a minority community and in writing proposals from that community, shouldn’t they be able to also vote on those proposals as a dRep, if their community wants that and trusts them, and they are transparent about it? &#x20;
+
+**49:39** Who will decide who will become a dRep in later Funds?
+
+**50:46** Can you be a dRep and also be on Catalyst Circle at the same time? &#x20;
+
+**51:37** If you have a minimum number of proposals a dRep must vote on, will dReps only do the bare minimum required?&#x20;
+
+**57:35** How is the maximum 1% of voting power calculated?
+
+**58:11** Will there be a central location for information about dReps? &#x20;
 
 ### Appendix
 
