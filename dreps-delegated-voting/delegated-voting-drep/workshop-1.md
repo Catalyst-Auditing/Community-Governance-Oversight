@@ -343,7 +343,7 @@ It is taken from a % of Fund 8 voter rewards - Jack Briggs - 1:02:12
 
 Is it randomized who votes for you ? - Tommy - [1:02:26](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=3746s)
 
-No. There is only random sorting of dReps on the Voter center UI - Jack Briggs - 1:02:37
+No. There is only random sorting of dReps on the Voter center UI. The list of dReps will be randomnised. Jack Briggs - 1:02:37
 
 ## Appendix (Session B)
 
