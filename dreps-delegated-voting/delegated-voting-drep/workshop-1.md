@@ -37,7 +37,7 @@ description: >-
 
 ### Questions
 
-**22:58** For a voter who normally votes on hundreds of proposals, is there an advantage to delegating to a dRep? &#x20;
+**22:58** For a voter who is happy to vote on many proposals, is there any advantage to delegating to a dRep? &#x20;
 
 **27:27** Can dReps also be proposers? &#x20;
 
