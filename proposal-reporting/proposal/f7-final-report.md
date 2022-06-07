@@ -1,5 +1,9 @@
 # F7 - CGO Project Final Report
 
+{% hint style="info" %}
+The GitHub Issue for Fund 7 - CGO Final Reports is here - [https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/75](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/75)
+{% endhint %}
+
 ## **Summary**
 
 This report summarizes the oversight of governance process in Project Catayst between February and June 2022.
@@ -27,8 +31,6 @@ Allison Fromm, Tevo Saks & Stephen Whitenstall
 {% hint style="info" %}
 The GitHub Issue for F7 - Final Report - Catalyst Circle problem sensing is here - [https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/47](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/47)
 {% endhint %}
-
-****
 
 ## **dReps**
 
