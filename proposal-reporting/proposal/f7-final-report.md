@@ -54,6 +54,10 @@ Kenric Nelson & Stephen Whitenstall
 The GitHub Issue for F7 - Final Report - d-Reps is here - [https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/49](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/49)
 {% endhint %}
 
+### Conclusion <a href="#docs-internal-guid-aa45b68d-7fff-9c1b-81cb-a097ff46c4e0" id="docs-internal-guid-aa45b68d-7fff-9c1b-81cb-a097ff46c4e0"></a>
+
+The Cardano Catalyst liquid democracy literature review was organized by the Catalyst Governance Oversight committee for the purpose of deepening the community's understanding of the design principles being used to develop the Delegated Representatives (dReps) voting method. The Fund 7 phase of the effort consisted of bringing together Catalyst community members interested in the scientific literature concerning liquid democracy, organizing a Zotero database of scientific papers, and reviewing a few of these papers in detail. The literature review will provide input for a white paper planned as a Fund 8 goal for dReps oversight. Critical to these studies is understanding how to measure power structures within liquid democracy systems so that the socioeconomic health of the Catalyst community can be continually monitored and improved.
+
 ## **Governance parameters**
 
 Phil Khoo, Vanessa Cardui, Tevo Saks
