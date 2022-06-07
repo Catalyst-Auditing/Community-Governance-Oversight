@@ -28,9 +28,6 @@ Allison Fromm, Tevo Saks & Stephen Whitenstall
 The GitHub Issue for F7 - Final Report - Catalyst Circle problem sensing is here - [https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/47](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/47)
 {% endhint %}
 
-\
-
-
 ## **Modifying the governance parameters**
 
 ****
