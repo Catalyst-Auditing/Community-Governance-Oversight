@@ -109,7 +109,7 @@
 * **16:04 Allison** - 2 key takeaways: 1) We have spent time on the process of getting problems on the board; less attention on how they move across the board, and especially how they are closed - this could be an area for future focus. 2) It would be good to get more participation from Circle.
 * **16:40 Stephen** - On Miro, retrospective of what we’ve covered in the last 4 working meetings - need to summarise it and include in final report.&#x20;
 * **17:47 Vanessa** - last Circle meeting raised additional issue of how much detail to include in a card when documenting a problem’s progress - could also be part of future focus.
-* **18:13 Stephen** - as Oversight, is it appropriate for us to have helped design the process?&#x20;
+* **18:13 Stephen** - as Oversight, is it OK that we helped design the process?&#x20;
 * **18:52 Allison** - Ongoing question of who is mandated to design the processes and workflows that Circle follows? and who should be incentivised and compensated for that?- Note, this hasn’t been discussed at all in our meetings.
 * **20:32 Stephen** - The start of our oversight of Circle coincided with the election of new Circle members, so we took a support role early on, with the design of the problem-sensing process. But that’s turned into potentially a scoping issue for us, and a mandate issue, since we are meant to be overseeing Circle’s problem-sensing, not directly working on it.&#x20;
 * **21:17 Phil** - As sub-circles were funded (and Circle was not), that could give them a mandate to put forward a rep to create a new Circle. Would need to be more broadly discussed first.
