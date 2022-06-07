@@ -12,7 +12,13 @@ Separate GitHub Issues manage and track the content of each deliverable section 
 
 A Google Document is used to draft report content for each section [here](https://docs.google.com/document/d/1jkkgbmU\_tEVM9CgmlW1MSWJTRnaZdFURU6f02TfptkU/edit?usp=sharing) (view link).
 
-## **Summary**
+The official Project Catalyst closing report can be viewed here -
+
+{% content-ref url="f7-catalyst-final-report.md" %}
+[f7-catalyst-final-report.md](f7-catalyst-final-report.md)
+{% endcontent-ref %}
+
+## &#x20;**Summary**
 
 This report summarises the oversight of the governance process in Project Catalyst between February and June 2022.
 
