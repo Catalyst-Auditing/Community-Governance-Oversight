@@ -12,9 +12,9 @@ Separate GitHub Issues manage and track the content of each deliverable section 
 
 ## **Summary**
 
-This report summarizes the oversight of governance process in Project Catalyst between February and June 2022.
+This report summarises the oversight of the governance process in Project Catalyst between February and June 2022.
 
-"community oversight of improvements to and innovations in Catalyst Governance by collecting feedback and providing tracking, documentation and analysis of any proposed changes."
+> "community oversight of improvements to and innovations in Catalyst Governance by collecting feedback and providing tracking, documentation and analysis of any proposed changes."
 
 ## **Challenge Setting**
 
