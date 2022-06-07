@@ -5,7 +5,7 @@ description: Project Catalyst Final Report to close Fund 7 CGO proposal
 # F7 - Catalyst Final Report
 
 {% hint style="info" %}
-The GitHub issue for this content is here - [https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/83](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/83)
+The GitHub issue for F7 - Catalyst Final Report is here - [https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/83](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/83)
 {% endhint %}
 
 ### A. Name of project and Project URL on Ideascale
