@@ -59,3 +59,13 @@
 ![](<../../.gitbook/assets/Screenshot 2022-04-21 102733.png>)
 
 ![](<../../.gitbook/assets/Screenshot 2022-04-21 102524.png>)
+
+## 1st June 2022
+
+### Slides
+
+![](<../../.gitbook/assets/Screenshot 2022-06-07 134917.png>)
+
+![](<../../.gitbook/assets/Screenshot 2022-06-07 125810.png>)
+
+![](<../../.gitbook/assets/Screenshot 2022-06-07 125829.png>)
