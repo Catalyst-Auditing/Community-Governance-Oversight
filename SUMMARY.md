@@ -48,7 +48,7 @@
   * [F7 On-Boarding](proposal-reporting/proposal/fund-7-on-boarding.md)
   * [F7 Monthly Reports](proposal-reporting/proposal/f7-monthly-reports.md)
   * [F7 - Catalyst Final Report](proposal-reporting/proposal/f7-catalyst-final-report.md)
-  * [F7 Final Report](proposal-reporting/proposal/f7-final-report.md)
+  * [F7 - CGO Project Final Report](proposal-reporting/proposal/f7-final-report.md)
 * [Fund 8 Proposal](proposal-reporting/fund-8-proposal.md)
   * [F8 - Assessments](proposal-reporting/fund-8-proposal/assessments.md)
   * [F8 - On-Boarding](proposal-reporting/fund-8-proposal/f8-on-boarding.md)
