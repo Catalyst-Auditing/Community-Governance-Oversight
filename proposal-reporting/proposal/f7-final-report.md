@@ -47,3 +47,7 @@ Phil Khoo, Vanessa Cardui, Tevo Saks
 {% hint style="info" %}
 The GitHub Issue for F7 - Final Report - Governance parameters is here - **** [https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/50](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/50)
 {% endhint %}
+
+## Conclusions
+
+## References
