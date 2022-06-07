@@ -64,7 +64,6 @@
   * [F7 Meeting 1 - 10th March 2022](project-management/meetings-and-town-halls/f7-meeting-1-10th-march-2022.md)
   * [F7 Meeting 2 - 24th March 2022](project-management/meetings-and-town-halls/f7-meeting-2-24th-march-2022.md)
   * [F7 Meeting 3 - 7th April 2022](project-management/meetings-and-town-halls/f7-meeting-3-7th-april-2022.md)
-  * [Town Hall - 20th April 2022](project-management/meetings-and-town-halls/town-hall-20th-april-2022.md)
   * [F7 Meeting 4 - 21st April 2022](project-management/meetings-and-town-halls/f7-meeting-4-21st-april-2022.md)
   * [F7 Meeting 5 - 5th May 2022](project-management/meetings-and-town-halls/f7-meeting-5-5th-may-2022.md)
 
