@@ -188,7 +188,7 @@ First meeting of CGO F8 will be after this.
 
 ## 7. Any **Other Business**
 
-#### “CA” was changed to “Proposal assessor” - no formal discussion?&#x20;
+### “CA” was changed to “Proposal assessor” - no formal discussion?&#x20;
 
 Overview video where Tevo has captured the main highlights of the Proposal Assessor role meetings - three 1-hour meetings. Community discussed pros and cons of the change, but there was no expectation it would definitely happen
 
@@ -200,19 +200,13 @@ Would have been better for community to be told 2 weeks before, because all the 
 
 **1:03:58 Phil** - Needs to be more consultative; or at least inform people in advance.
 
-#### Summary of CGO meeting for Catalyst Weekly Newsletter
+### Summary of CGO meeting for Catalyst Weekly Newsletter
 
 **Issue:**
 
 {% embed url="https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/66" %}
 
-Clarity on Challenge Budgets - AOB.
+**1:05:01** Danny is away until next week, so there will be no Newsletter.
 
-* 54:27 Phil - You can make internal arguments for searchable parameter groups more public and accessible.&#x20;
-* 55:15 Phil - Maybe this discussion is not for the oversight role, it could be opened up in the report so that channel opens up.&#x20;
-* 55:41 Stephen - I think we can include an item for that in the current report.&#x20;
-* 55:57 Phil - We need to write the report before we have the final meeting. We need to write offline all the various aspects and have a deadline for submitting the final report&#x20;
-* 56:20 Stephen - We've just discussed governance parameters and each one has a different job to do. They can have one-on-one meetings, we need to put that in a draft doc, there will be a doc on google that we can refine synchronously.&#x20;
-* 57:11 Phil - It's good to have a final closing meeting and set a firm date. 59:03 Phil - A suggestion is on June 20th.
-* 01:03:56 Phil - We're looking at parameter changes, because they exist and IOG is jumping on them. We need to mention what is happening, how to progress and say it will happen. This theme may appear in our conclusions, in our report.
+**Meeting ends** 1:08:09
 
