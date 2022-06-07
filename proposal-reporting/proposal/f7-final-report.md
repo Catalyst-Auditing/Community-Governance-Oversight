@@ -10,6 +10,8 @@ The GitHub Issue for Fund 7 - CGO Final Reports is here - [https://github.com/Ca
 
 Separate GitHub Issues manage and track the content of each deliverable section - Challenge Setting, Catalyst Circle Problem Sensing, Governance Parameters and dReps.
 
+A Google Document is used to draft report content for each section [here](https://docs.google.com/document/d/1jkkgbmU\_tEVM9CgmlW1MSWJTRnaZdFURU6f02TfptkU/edit?usp=sharing) (view link).
+
 ## **Summary**
 
 This report summarises the oversight of the governance process in Project Catalyst between February and June 2022.
@@ -51,7 +53,7 @@ The GitHub Issue for F7 - Final Report - d-Reps is here - [https://github.com/Ca
 Phil Khoo, Vanessa Cardui, Tevo Saks
 
 {% hint style="info" %}
-The GitHub Issue for F7 - Final Report - Governance parameters is here - **** [https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/50](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/50)
+The GitHub Issue for F7 - Final Report - Governance parameters is here - \*\*\*\* [https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/50](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/50)
 {% endhint %}
 
 ## Conclusions
