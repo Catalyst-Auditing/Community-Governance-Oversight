@@ -200,11 +200,7 @@ Would have been better for community to be told 2 weeks before, because all the 
 
 **1:03:58 Phil** - Needs to be more consultative; or at least inform people in advance.
 
-### Summary of CGO meeting for Catalyst Weekly Newsletter
-
-**Issue:**
-
-{% embed url="https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/66" %}
+### Summary for Catalyst Weekly Newsletter
 
 **1:05:01** Danny is away until next week, so there will be no Newsletter.
 
