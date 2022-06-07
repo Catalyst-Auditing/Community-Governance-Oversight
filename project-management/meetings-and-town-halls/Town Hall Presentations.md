@@ -62,6 +62,8 @@
 
 ## 1st June 2022
 
+{% embed url="https://youtu.be/lPVlX3wVDBk?t=5790" %}
+
 ### Slides
 
 ![](<../../.gitbook/assets/Screenshot 2022-06-07 134917.png>)

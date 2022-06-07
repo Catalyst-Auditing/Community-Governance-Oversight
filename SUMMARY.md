@@ -67,6 +67,7 @@
   * [F7 Meeting 3 - 7th April 2022](project-management/meetings-and-town-halls/f7-meeting-3-7th-april-2022.md)
   * [F7 Meeting 4 - 21st April 2022](project-management/meetings-and-town-halls/f7-meeting-4-21st-april-2022.md)
   * [F7 Meeting 5 - 5th May 2022](project-management/meetings-and-town-halls/f7-meeting-5-5th-may-2022.md)
+  * [F7 Meeting 6 - 2th June 2022](project-management/meetings-and-town-halls/f7-meeting-6-2th-june-2022.md)
 
 ## Treasury
 
