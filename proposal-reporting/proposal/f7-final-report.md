@@ -32,8 +32,16 @@ The GitHub Issue for F7 - Final Report - Catalyst Circle problem sensing is here
 
 ## **dReps**
 
+Kenric Nelson & Stephen Whitenstall
+
 {% hint style="info" %}
 The GitHub Issue for F7 - Final Report - d-Reps is here - [https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/49](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/49)
 {% endhint %}
 
 ## **Modifying the governance parameters**
+
+Phil Khoo, Vanessa Cardui, Tevo Saks
+
+{% hint style="info" %}
+The GitHub Issue for F7 - Final Report - Governance parameters is here - **** [https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/50](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/50)
+{% endhint %}
