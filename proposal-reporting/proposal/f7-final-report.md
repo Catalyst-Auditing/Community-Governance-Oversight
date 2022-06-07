@@ -1,4 +1,4 @@
-# F7 Final Report
+# F7 - CGO Project Final Report
 
 ## **Summary**
 
@@ -6,7 +6,11 @@ This report summarizes the oversight of governance process in Project Catayst be
 
 " community oversight of improvements to and innovations in Catalyst Governance by collecting feedback and providing tracking, documentation and analysis of any proposed changes."
 
-## **Challenge Setting.**
+## **Challenge Setting**
+
+{% hint style="info" %}
+The GitHub Issue for F7 - Final Report - Challenge Setting is here - [https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/48](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/48)
+{% endhint %}
 
 **George Lovegrove**
 
