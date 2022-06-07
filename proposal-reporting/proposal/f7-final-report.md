@@ -8,7 +8,7 @@ The overall CGO Project Final Report is managed from this GitHub Issue
 The GitHub Issue for Fund 7 - CGO Final Reports is here - [https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/75](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/75)
 {% endhint %}
 
-Separate GitHub Issues manage and track the content of each deliverable section - Challenge Setting, Catalyst Circle Problem Sensing, Governance Parameters and dReps.
+Separate GitHub Issues manage and track the content of each deliverable section - Challenge Setting, Catalyst Circle Problem Sensing, Governance Parameters and dReps. Please refer to these issues for details of what has to be completed.
 
 A Google Document is used to draft report content for each section [here](https://docs.google.com/document/d/1jkkgbmU\_tEVM9CgmlW1MSWJTRnaZdFURU6f02TfptkU/edit?usp=sharing) (view link).
 
