@@ -1,4 +1,4 @@
-# F8 On-Boarding
+# F8 - On-Boarding
 
 ## General Project Information
 
