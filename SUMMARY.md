@@ -50,6 +50,7 @@
   * [F7 Final Report](proposal-reporting/proposal/f7-final-report.md)
 * [Fund 8 Proposal](proposal-reporting/fund-8-proposal.md)
   * [F8 - Assessments](proposal-reporting/fund-8-proposal/assessments.md)
+  * [F8 On-Boarding](proposal-reporting/fund-8-proposal/f8-on-boarding.md)
 
 ## Project Management
 
