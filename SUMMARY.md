@@ -35,15 +35,15 @@
   * [Cardano Treasury with Kevin Hammond](parameters/governance-parameters/cardano-treasury-with-kevin-hammond.md)
   * [Harris Warren Parameter Changes meeting](parameters/governance-parameters/parameter-oversight-meetings.md)
 
-## Research
+## Background Research
 
-* [Antifragile - Nassim Nicholas Taleb](research/antifragile-nassim-nicholas-taleb.md)
-* [Antifragile Success criteria](research/antifragile-success-criteria.md)
-* [Cardano Improvement Proposals (CIPs)](research/cardano-improvement-proposals-cips.md)
-* [Catalyst through the lens of the Cynefin Framework](research/catalyst-through-the-lens-of-the-cynefin-framework.md)
-* [How to nurture a listening culture in Catalyst ?](research/how-to-nurture-a-listening-culture-in-catalyst.md)
-* [The Voltaire Principles](research/the-voltaire-principles.md)
-* [Feedback](research/feedback.md)
+* [Antifragile - Nassim Nicholas Taleb](background-research/antifragile-nassim-nicholas-taleb.md)
+* [Antifragile Success criteria](background-research/antifragile-success-criteria.md)
+* [Cardano Improvement Proposals (CIPs)](background-research/cardano-improvement-proposals-cips.md)
+* [Catalyst through the lens of the Cynefin Framework](background-research/catalyst-through-the-lens-of-the-cynefin-framework.md)
+* [How to nurture a listening culture in Catalyst ?](background-research/how-to-nurture-a-listening-culture-in-catalyst.md)
+* [The Voltaire Principles](background-research/the-voltaire-principles.md)
+* [Feedback](background-research/feedback.md)
 
 ## Proposal Reporting
 
