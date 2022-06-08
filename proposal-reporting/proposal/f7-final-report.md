@@ -22,7 +22,7 @@ The official Project Catalyst closing report can be viewed here -
 
 This report summarises the oversight of the governance process in Project Catalyst between February and June 2022.
 
-The brief of this proposal was "_community oversight of improvements to and innovations in Catalyst Governance”_ and this was to be achieved “_by collecting feedback and providing tracking, documentation and analysis of any proposed changes_".
+> "community oversight of improvements to and innovations in Catalyst Governance by collecting feedback and providing tracking, documentation and analysis of any proposed changes."
 
 ## **Challenge Setting**
 
