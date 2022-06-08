@@ -6,6 +6,8 @@ description: Tuesday, 10th May 2022. 1500 UTC
 
 {% embed url="https://youtu.be/aAGQ_c3KOgU" %}
 
+For comment and discussion please refer to the GitHub Issue below
+
 {% hint style="info" %}
 GitHub Issue - [F7 - Parameter Changes in Catalyst - meeting with Harris](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/84)
 {% endhint %}
@@ -45,7 +47,7 @@ CGO will start this reporting process in our regular Town Hall slides Before tha
 \
 
 
-CGO background and goals – is it a decision-making body?
+## CGO background and goals – is it a decision-making body?
 
 Phil  3:54 &#x20;
 
@@ -71,7 +73,7 @@ To make it explicitly clear for the benefit of the recording – we are talking 
 \
 
 
-How Catalyst parameters are changed
+## How Catalyst parameters are changed
 
 Harris  8:23 &#x20;
 
@@ -96,7 +98,7 @@ Right now, we're not modifying much, apart from dReps, and dRep rewards. Some of
 \
 
 
-The need to involve the community&#x20;
+## The need to involve the community&#x20;
 
 Phil  11:32 &#x20;
 
@@ -116,7 +118,7 @@ We could start with parameters that are less contentious. Things like dates and 
 \
 
 
-Ways forward
+## Ways forward
 
 Stephen  14:11 &#x20;
 
@@ -196,7 +198,7 @@ We need to take a stance on how decisions will be made. Ideally, Tevo, we want t
 \
 
 
-IOG attendance at CGO meetings
+## IOG attendance at CGO meetings
 
 Allison  27:05 &#x20;
 
