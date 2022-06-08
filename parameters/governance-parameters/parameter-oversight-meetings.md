@@ -245,15 +245,9 @@ Harris  48:59 &#x20;
 
 Setting and managing expectations is certainly important. I don't know where the exact disconnect is, but it's our intention to give the community the ability to participate. How we approach that is what this pilot is all about; it has been on hold, and I think we can reactivate the discussion. There are places where we do want to get the community's involvement. For instance, we're trying to develop a Circle code of conduct; and the community can help.
 
-\
-
-
 Stephen Whitenstall  50:36 &#x20;
 
 A practical example of good communication: I transcribed Kevin Hammond’s Town Hall on Treasury, and I noticed that he explained why he couldn't tell us particular things. For example, he said “I can't tell you this, because it affects security”.  We know IOG is working on lots of things that you probably can't tell us. But rather than use the refrain, “we will let you know”, explain in general terms why you can't tell us – for example, “because we're still working on it” or “there's security issues”. That also helps distinguish parameters that the community can change or affect, and those we can’t.
-
-\
-
 
 Phil  52:20 &#x20;
 
@@ -263,78 +257,44 @@ We've also got dReps – at the moment, they are focused on voting on proposals,
 
 And on parameters that we cannot change at this point, we need to know what the “goalposts” are – so “When this happens, then the community is ready to start to make this decision”.&#x20;
 
-\
-
-
 Harris  54:13 &#x20;
 
 I think it's fair that we should characterize the type of problems, because some are minor and some are much bigger. And if we cannot provide full information, I think it’s fair that we should provide an adequate reason why not, such as “because it’s a security concern”. We can try to establish that habit. But some of that is also mid-flight too; so I will just say that.
 
-\
-
-
-Sharing IOG’s decision-making template
+## Sharing IOG’s decision-making template
 
 Tevo  55:38 &#x20;
 
 Is there a template or guideline internally in IOG, that you will go through in order to make changes to a parameter?
 
-\
-
-
 Harris  55:56 &#x20;
 
 Yes; there's often a document that we review to see if there's any changes; and often there's minimal or no changes fund-over-fund. I believe we should be able to share it at some point; after editing a few sensitive things. But for the most part, it's pretty moderate; it involves things like the percentage of how many “approve” and “disapprove” votes happen, and certain thresholds – I don't know if we've shared in detail before, but if we haven't, we should. But we do have to be a little bit careful, to avoid people saying “Oh, if I just meet this threshold and do this, then I can game the system”. So I am happy to try to work towards that goal of sharing a more comprehensive list. I've shared some examples in the early pilot discussion –  the reward distribution date, the dates themselves. But the proposal acceptance threshold – at least 1% of the total registered stake must vote on a proposal for it to be there; there's got to be a delta between the two – there's some logic that was built with research.
-
-\
-
 
 Stephen  57:43 &#x20;
 
 So a vetted copy of that template could be passed on to us, that we can communicate?
 
-\
-
-
 Harris  57:51 &#x20;
 
 I can certainly help facilitate that, and work toward that goal.
 
-\
-
-
-End and thanks
+## End and thanks
 
 Stephen Whitenstall  57:57 &#x20;
 
 Thanks, everyone for contributing to this meeting. We'll do a transcript, and summarise what's been discussed. Any feedback or final thoughts?
 
-\
-
-
 Harris  58:19 &#x20;
 
 I think it's really great. I definitely applaud your efforts, and I'm definitely happy to stay in the conversation and keep this going and take us to the next stage.
-
-\
-
 
 Tevo  58:36 &#x20;
 
 I think you’re doing a great job in reaching out. Newcomers might miss some details of why decisions are made; but often, we can see that you’re basing it on consultation. This the first time I’ve ever been in a meeting with a company where both are aligned to the same vision, so the openness is totally unique.
 
-\
-
-
-Meeting ends&#x20;
+## Meeting ends&#x20;
 
 59:17
 
-\
-
-
 Summary by Vanessa Cardui for QA-DAO, based on auto transcript from otter.ai
-
-\
-
-
