@@ -22,6 +22,12 @@
     * [Chat Session B](dreps-delegated-voting/delegated-voting-drep/workshop-1/chat-session-b.md)
   * [Workshop 2 - Demo and walkthrough](dreps-delegated-voting/delegated-voting-drep/workshop-2-demo-and-walkthrough.md)
 
+***
+
+* [DAO Governance Literature Review](dao-governance-literature-review/README.md)
+  * [Meeting 1](dao-governance-literature-review/meeting-1.md)
+  * [Meeting 2](dao-governance-literature-review/meeting-2.md)
+
 ## Parameters
 
 * [Governance parameters](parameters/governance-parameters/README.md)
@@ -35,9 +41,6 @@
 * [Antifragile Success criteria](research/antifragile-success-criteria.md)
 * [Cardano Improvement Proposals (CIPs)](research/cardano-improvement-proposals-cips.md)
 * [Catalyst through the lens of the Cynefin Framework](research/catalyst-through-the-lens-of-the-cynefin-framework.md)
-* [DAO Governance Literature Review](research/dao-governance-literature-review/README.md)
-  * [Meeting 1](research/dao-governance-literature-review/meeting-1.md)
-  * [Meeting 2](research/dao-governance-literature-review/meeting-2.md)
 * [How to nurture a listening culture in Catalyst ?](research/how-to-nurture-a-listening-culture-in-catalyst.md)
 * [The Voltaire Principles](research/the-voltaire-principles.md)
 * [Feedback](research/feedback.md)
