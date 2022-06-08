@@ -10,7 +10,9 @@ description: Tuesday, 10th May 2022. 1500 UTC
 GitHub Issue - [F7 - Parameter Changes in Catalyst - meeting with Harris](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/84)
 {% endhint %}
 
-Transcribed, summarised and timestamped by Vanessa Cardui
+Transcribed, summarised and timestamped by Vanessa Cardui - QADAO
+
+GitBook presentation and YouTube transfer by Stephen Whitenstall - QADAO
 
 
 
@@ -22,20 +24,13 @@ Stephen Whitenstall; Allison Fromm;  Harris Warren (IOG); Phil Khoo; Tevo Saks; 
 
 Harris (31%), Stephen (24%), Phil (21%), Allison (10%), Tevo (5%), Vanessa (5%), Matthias (2%)&#x20;
 
-\
-\
-
-
-Welcome and intro:&#x20;
+## Welcome and intro:&#x20;
 
 Stephen  0:00
 
 A special meeting of Community Governance Oversight (CGO) insert link , with Harris Warren of IOG, to discuss parameters and parameter changes.&#x20;
 
-\
-
-
-Framing this meeting
+## Framing this meeting
 
 Allison 0:42
 
