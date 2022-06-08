@@ -24,16 +24,16 @@
 
 ***
 
-* [DAO Governance Literature Review](dao-governance-literature-review/README.md)
-  * [Meeting 1](dao-governance-literature-review/meeting-1.md)
-  * [Meeting 2](dao-governance-literature-review/meeting-2.md)
+* [DAO Governance Literature Review](research/dao-governance-literature-review/README.md)
+  * [Meeting 1](research/dao-governance-literature-review/meeting-1.md)
+  * [Meeting 2](research/dao-governance-literature-review/meeting-2.md)
 
 ## Parameters
 
 * [Governance parameters](parameters/governance-parameters/README.md)
   * [Oversight workshop on parameters](parameters/governance-parameters/oversight-workshop-on-parameters.md)
   * [Cardano Treasury with Kevin Hammond](parameters/governance-parameters/cardano-treasury-with-kevin-hammond.md)
-  * [Parameter Oversight Meetings](parameters/governance-parameters/parameter-oversight-meetings.md)
+  * [Parameter Changes in Catalyst - meeting with Harris Warren](parameters/governance-parameters/parameter-oversight-meetings.md)
 
 ## Research
 
