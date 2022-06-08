@@ -16,8 +16,6 @@ Transcribed, summarised and timestamped by Vanessa Cardui - QADAO
 
 GitBook presentation and YouTube transfer by Stephen Whitenstall - QADAO
 
-
-
 ## Present (in order of first speaking)
 
 Stephen Whitenstall; Allison Fromm;  Harris Warren (IOG); Phil Khoo; Tevo Saks; Vanessa Cardui; Matthias Sieber.
@@ -44,17 +42,11 @@ CGO emerged originally from the Parameters Pilot that Harris presented to Circle
 
 CGO will start this reporting process in our regular Town Hall slides Before that, we want to connect with IOG, and open a dialogue around Catalyst parameters.
 
-\
-
-
 ## CGO background and goals – is it a decision-making body?
 
 Phil  3:54 &#x20;
 
 We are an Oversight group; we’re not elected or appointed to make decisions. We are funded, meaning the work we’re doing is in line with Catalyst roles according to the Challenge we were funded in. But we are lookers. rather than tellers or doers.
-
-\
-
 
 Stephen  4:51 &#x20;
 
@@ -63,15 +55,9 @@ We work within the scope of the proposal that Harris, Dor and I drafted in Novem
 Hopefully, we get funded for F8 \[documenter’s note: this happened] to continue providing oversight of governance processes, using broadly the same pattern: we examine what's going on in the community via questionnaires, workshops, etc, in order to feed into another report. But we're not intervening in any decisions.\
 Initially, IOG announced in a Town Hall that the Parameters Pilot was on hold, so we thought we would have no work to do on parameters; but then we realised parameters are more than just that pilot – they are still being changed. The draft process that Harris developed for parameter changes was a system of consultation with the community – so, shouldn't we be applying the oversight we were going to give to that, to all parameter changes in Catalyst?
 
-\
-
-
 Allison  8:04 &#x20;
 
 To make it explicitly clear for the benefit of the recording – we are talking about Catalyst parameters only, not the broader Cardano, Blockchain parameters.
-
-\
-
 
 ## How Catalyst parameters are changed
 
@@ -81,15 +67,9 @@ There are perhaps 20 Catalyst parameters that get defined with every fund. Our o
 
 9:35 Parameters are often generated out of research into how we protect the system and make sure it's not gamed or attacked; they can also be generated out of experimentation. Some of it is heavily based on game theory; so we need a Technical Council to provide that research insight.&#x20;
 
-\
-
-
 Stephen 10:29 &#x20;
 
 Once a decision is made in IOG to make a parameter change, is there a standard process by which you consult the community?
-
-\
-
 
 Harris  10:52 &#x20;
 
