@@ -52,7 +52,9 @@ Stephen  4:51 &#x20;
 
 We work within the scope of the proposal that Harris, Dor and I drafted in November 2021. That had several deliverables on oversight of specific governance areas, i.e. challenge setting; the parameters pilot; and Circle problem-sensing. We framed the F7 work as surveys, questionnaires, retrospectives, and a final report.&#x20;
 
-Hopefully, we get funded for F8 \[documenter’s note: this happened] to continue providing oversight of governance processes, using broadly the same pattern: we examine what's going on in the community via questionnaires, workshops, etc, in order to feed into another report. But we're not intervening in any decisions.\
+Hopefully, we get funded for F8 \[documenter’s note: this happened] to continue providing oversight of governance processes, using broadly the same pattern: we examine what's going on in the community via questionnaires, workshops, etc, in order to feed into another report. But we're not intervening in any decisions.
+
+\
 Initially, IOG announced in a Town Hall that the Parameters Pilot was on hold, so we thought we would have no work to do on parameters; but then we realised parameters are more than just that pilot – they are still being changed. The draft process that Harris developed for parameter changes was a system of consultation with the community – so, shouldn't we be applying the oversight we were going to give to that, to all parameter changes in Catalyst?
 
 Allison  8:04 &#x20;
@@ -125,7 +127,7 @@ We're offering to be that communication channel; and to offer facilitation to su
 
 Harris  22:55 &#x20;
 
-How long is your funding good for?&#x20;
+## How long is your funding good for?&#x20;
 
 Stephen  23:02 &#x20;
 
@@ -163,15 +165,9 @@ Stephen 29:41 &#x20;
 
 What might be helpful in terms of our report in June, is to document what we think are the current parameters, and what IOG list as parameters, as a comparison of perspectives.
 
-\
-
-
 Phil  30:17 &#x20;
 
 From us, for instance, the CA / VCA process. We had a community-created VCA process of “red flag, yellow flag, green flag”; that was scrapped because of IOG research, and replaced with “good, excellent, filtered out”. So instead of bringing in an iterative change to a community-created process, IOG changed to a new system. That approach was OK in the early days; but it should happen less and less as we grow, so the community feels it's got agency.
-
-\
-
 
 Stephen Whitenstall  32:09 &#x20;
 
@@ -179,33 +175,21 @@ As well as the question of “what is a parameter” that Phil raised, there is 
 
 How are decisions made, who makes them, and how is the decision-making process shared? How is the deliberation and the rationale shared? This is all oversight: overseeing the documentation, the notification, the decision making, the deliberation and the rationale.
 
-\
-
-
 Tevo  33:16 &#x20;
 
 I have two examples. One may not sound like a parameter change, but it is - changing a name from Community Advisor to Proposal Assessor. Could the community do that? Or  does IOG do it in the boardroom?&#x20;
 
 Also, there is a grey area between system changes and parameter changes . More clarification is needed, so that we all know which is which; which changes need a separate body to do research before it's even open to discussion.&#x20;
 
-\
-
-
 Vanessa  34:41 &#x20;
 
 It will be interesting to compare our take on what is and isn't a parameter, with IOG's take. Our view is that some things don't superficially look like parameters, but their knock-on effects mean that they actually are.&#x20;
-
-\
-
 
 Matthias  35:20 &#x20;
 
 An example of a parameter change is  requiring a deposit for proposal submission. It's very exclusive. My understanding is that Catalyst’s goal still is to “facilitate the highest potential of human collaboration”, and excluding more groups doesn’t meet that mission statement. There was no discussion; but some selected community members may have been consulted.
 
-\
-
-
-Will IOG lose its  freedom to experiment?
+## Will IOG lose its  freedom to experiment?
 
 Harris  36:47 &#x20;
 
