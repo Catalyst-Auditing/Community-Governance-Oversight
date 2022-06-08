@@ -34,7 +34,7 @@ description: Community Feedback
 
 **Dor Garbash :** Also understandability has it’s own definition and “recipe” how to achieve
 
-**Dor Garbash :**
+**Dor Garbash :**&#x20;
 
 {% embed url="https://www.infoq.com/articles/understandability-metric-not-tracking" %}
 
@@ -70,7 +70,7 @@ Self-Organising Multi-Agent Systems. Algorithmic Foundations of Cyber-Anarcho-So
 
 **Tyler Wales :** Maybe start with flying a drone before a passenger plane @daniel
 
-**Marta L :** There is an interesting concept by A.N. Whitehead, on “concrescence” which discusses a way to move from past to future, which may be applicable. In middle of this simple video:
+**Marta L :** There is an interesting concept by A.N. Whitehead, on “concrescence” which discusses a way to move from past to future, which may be applicable. In middle of this simple video:&#x20;
 
 {% embed url="https://youtu.be/bwxOTAr0e2Y" %}
 
@@ -80,7 +80,7 @@ Self-Organising Multi-Agent Systems. Algorithmic Foundations of Cyber-Anarcho-So
 
 **Poetic Science :** 16 years in the insurance industry and doing risk assessments, I have to say.....I probably would not "insure" what we are doing.
 
-**Poetic Science :** @hamza, not specifically. test/fail. The challenge wouldn't be a real "fail", it would be
+**Poetic Science :** @hamza, not specifically. test/fail.  The challenge wouldn't be a real "fail", it would be
 
 **Poetic Science :** when testing something and it doesn't work, that's a failed hypothesis.
 
@@ -90,7 +90,7 @@ Self-Organising Multi-Agent Systems. Algorithmic Foundations of Cyber-Anarcho-So
 
 **Poetic Science :** Return on Intent is confirmation of practice or testing. Return is 100%.
 
-**Poetic Science :** Anyone familiar with the Star Trek movie, When Jim beats Spocks test? But the test was designed to fail?
+**Poetic Science :** Anyone familiar with the Star Trek movie, When Jim beats Spocks test?  But the test was designed to fail?
 
 **Vanessa Cardui :** If we think about a project having “failed”, and if we agree this not necessarily a bad thing, and that we want to be able to risk failure – then we need audit/evaluation processes that build in some kind of process of looking at what we \*learnt\* from what superficially looks like a failure (e.g. a project not achieving its stated aims).
 
@@ -100,7 +100,7 @@ Self-Organising Multi-Agent Systems. Algorithmic Foundations of Cyber-Anarcho-So
 
 **Nori Nishigaya :** Are we trading efficiency for resiliency?
 
-**Jo Allum :** Balancing? Rather than trading…
+**Jo Allum :** Balancing?  Rather than trading…
 
 **Poetic Science :** I think it's important to realize that they all rely on participants within their network
 
@@ -118,7 +118,7 @@ Self-Organising Multi-Agent Systems. Algorithmic Foundations of Cyber-Anarcho-So
 
 **Tevo Saks :** specialization is good thing, but I back up Oscar a little. There are new skills emerging which is combination of those. and some of us like to be jack of all trades.
 
-**Poetic Science :**
+**Poetic Science :**&#x20;
 
 {% embed url="https://cup.columbia.edu/book/aimlessness/9780231199353" %}
 
@@ -132,9 +132,9 @@ Self-Organising Multi-Agent Systems. Algorithmic Foundations of Cyber-Anarcho-So
 
 **Jo Allum :** 👏🏻👏🏻👏🏻Optimising for thrive-ability… all the messy and the structured parts of the experiment… what do we measure? Aotearoa New Zealand’s experiment: the living standards framework - https://clik.vc/lsf21
 
-**tegegne Tefera :** @Oscar I am wondering about your understanding about the emphasis antifragility being distribution of knowledge rather than being until specialisation.
+**tegegne Tefera :** @Oscar I am wondering about your understanding about the emphasis antifragility being distribution of knowledge rather than being until specialisation.&#x20;
 
-**Vanessa Cardui :** @tegene tefera – “antifragility being distribution of knowledge rather than being unit specialisation.” so you mean that in antifragile system, you can know HOW to do a lot of things – the knowledge is distributed to you and everyone else - but you might specialise in actually doing only some of them? or am I misinterpreting?
+**Vanessa Cardui :** @tegene tefera – “antifragility being distribution of knowledge rather than being unit specialisation.” so you mean that in antifragile system, you can know HOW to do a lot of things – the knowledge is distributed to you and everyone else -  but you might specialise in actually doing only some of them? or am I misinterpreting?&#x20;
 
 **Nori Nishigaya :** I think it happens naturally and we don’t need “police”
 
@@ -166,6 +166,8 @@ Self-Organising Multi-Agent Systems. Algorithmic Foundations of Cyber-Anarcho-So
 
 3\) The project team is very well presented, we know the names, training areas, interests and social profiles (such as twitter, linkedin and even websites) of the team members, which generates a strong security and reliability in their work. The problem and solution are well articulated and easy to understand and there is a detailed plan of deliverables. The Proponent Gives A Detailed Implementation Plan With 8 Members and 8 Implementation Steps There are a lot of potential risks that have been foreseen, some risks have a solution, some have not.
 
+
+
 ### Auditability
 
 1\) Metrics stated such as surveys or zoom meetings are easy to be audited. The progress can be also audited e.g. by meeting subtasks such as recruiting new people. The roadmap seems reasonable. Points 1 and 2 The Oversight group will be formed The Audit Circle will be formed. requires more detail. Unless it just "will be formed". Rating given 4.
@@ -173,3 +175,4 @@ Self-Organising Multi-Agent Systems. Algorithmic Foundations of Cyber-Anarcho-So
 2\) It can be seen that the proposers know how to properly set up an actionable plan. The metrics provided can easily serve to audit and track the progress on the promises. It has a detailed budget breakdown which seem reasonable based on my intuition.
 
 3\) Positively, there is a roadmap which states how the proposer plans to deliver their outreach programme to various audiences. The budget is clearly defined and concise, with a reasonable amount of funds requested The metrics for the success of this proposal are clearly defined.
+

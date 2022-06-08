@@ -2,7 +2,7 @@
 description: Tuesday, 10th May 2022. 1500 UTC
 ---
 
-# Harris Warren Parameter Changes meeting
+# Parameter Changes meeting with Harris Warren
 
 {% embed url="https://youtu.be/aAGQ_c3KOgU" %}
 
@@ -197,43 +197,25 @@ There is some discussion of paying to propose, from a research side, that it wou
 
 Also there is the experimentation approach of Catalyst: “That didn't work - let's try it this way”. Can we maintain any of that freedom? Can we do that experimentation as a collective? Or are we trying to lock things down and make smaller changes and less experimentation?
 
-\
-
-
 Stephen  38:31 &#x20;
 
 It comes back to communication. If you mention in passing “We are discussing the possibility of adding proposal fees”, it can sound like you’ve made a decision without consultation. How do we communicate better?&#x20;
-
-\
-
 
 Phil  39:05 &#x20;
 
 On Tevo’s point – the system has parameters. The CA process, or system, is a parameter itself; then there are additional parameters inside it. If we want to change things, we need some way to identify what's there, and then identify how to change it. \[The CA system] is more than just the 1% rewards; it’s the whole process.
 
-\
-
-
 Harris  39:42 &#x20;
 
 That’s more like continuous improvement; there's constant change.&#x20;
-
-\
-
 
 Phil  39:48 &#x20;
 
 But then there's parameters like “do we keep calling it the CA process?” There's a vocal group of people who disagree with the name, but there's no system in place to change it, or even have a conversation, beyond just Tweeting complaints about it.  We need to develop the processes to be able to change it; and now is the time. We're at a point where we can start looking beyond just making proposals so that we can have this thing called Catalyst - we already have it. Let's look at how we can keep making it better.
 
-\
-
-
 Stephen 40:32 &#x20;
 
 You could change that through Circle; but then the question is, should parameter changes go through Circle? And what should the decision-making process look like in Circle?
-
-\
-
 
 Phil  41:05 &#x20;
 
@@ -241,15 +223,9 @@ We're not completely reinventing this – community engagement processes are alr
 
 I've been listening to Jordan Peterson on “chaos and order”. Everything we do will either add more chaos, or more order, to the system; and the idea is to keep that pendulum as close to the middle as we can, to work through it. We shouldn’t bring in too much order, or too much chaos – but we do need both, because one encourages freedom and innovation, and the other encourages accountability. What we're trying to establish here is how we can bring the community into that discussion.
 
-\
-
-
 Harris  42:58 &#x20;
 
 At some point, a change will boil down to someone making a proposal. But how do we fold that into the fabric of the community? Perhaps a Catalyst change request, that is submitted to a group that deliberates on it? Currently, Circle is doing some of that, via sensing and prioritising problems; but at some point, the decision must be made. Part of the idea of giving some power to Circle, or other bodies, is to be able to actually make that decision. Ideally it is data-driven as much as possible. But these kinds of theoretically simple decisions – we do want it outside of IO; so where should it go?
-
-\
-
 
 Stephen 45:19 &#x20;
 
@@ -257,10 +233,7 @@ The intent of Community Governance Oversight is to help with that – to gather 
 
 Whether CGO should be have decision-making powers is a separate issue. Maybe, in the future. But I see us very much as Oversight, because it avoids ambiguity – we don't make decisions, we observe what's going on and we ask questions.
 
-\
-
-
-Managing expectations on what the community can change&#x20;
+## Managing expectations on what the community can change&#x20;
 
 Vanessa  46:34 &#x20;
 
