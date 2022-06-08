@@ -2,11 +2,11 @@
 
 ## Overview
 
-**Research** - The Oversight group will facilitate literature reviews and meta-analysis of decentralized governance methods and practices. This research will be used to facilitate informed feedback on design proposals regarding delegated representatives and Catalyst parameter changes.
+**Research** - The Oversight group will facilitates a literature review and meta-analysis of decentralized governance methods and practices between May and August 2022.&#x20;
 
-**4 Research**
+This research will be used to facilitate informed feedback on design proposals regarding delegated representatives and Catalyst parameter changes.
 
-The Oversight group will facilitate literature reviews and meta-analysis of decentralized governance methods and practices. This research will be used to facilitate informed feedback on design proposals regarding delegated representatives and Catalyst parameter changes.
+### Timeline
 
 * **May 2022** - Establish Gitbook and Zotero resources
 * **June 2022** - Gather literature and interview inputs

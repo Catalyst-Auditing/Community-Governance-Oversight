@@ -33,7 +33,7 @@
 * [Governance parameters](parameters/governance-parameters/README.md)
   * [Oversight workshop on parameters](parameters/governance-parameters/oversight-workshop-on-parameters.md)
   * [Cardano Treasury with Kevin Hammond](parameters/governance-parameters/cardano-treasury-with-kevin-hammond.md)
-  * [Parameter Changes meeting with Harris Warren](parameters/governance-parameters/parameter-oversight-meetings.md)
+  * [Parameter Changes meeting with Harris Warren](<parameters/governance-parameters/Parameter Changes meeting with Harris Warren.md>)
 
 ## Background Research
 
