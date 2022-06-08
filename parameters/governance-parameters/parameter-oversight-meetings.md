@@ -75,9 +75,6 @@ Harris  10:52 &#x20;
 
 Right now, we're not modifying much, apart from dReps, and dRep rewards. Some of that  has been shared, but we could give more detail, and share more with the community.
 
-\
-
-
 ## The need to involve the community&#x20;
 
 Phil  11:32 &#x20;
@@ -86,17 +83,11 @@ From IO’s viewpoint, there are around 20 parameters. But we've identified othe
 
 As active people in the community, we are starting to feel that these things should be announced before they are changed. It will stretch the timeframe longer, and complications might emerge from the discussion; but we're starting to feel that there's pressure outside coming in that will mean we need those channels of discussion to start being open.
 
-\
-
-
 Harris  13:02 &#x20;
 
 It was a big decision to make that denomination change, so that was not taken lightly; and I think we do need to have more involvement with the community.&#x20;
 
 We could start with parameters that are less contentious. Things like dates and amounts are heavy items; we’d need a lot of insight and structure and process to be able to have that decided by the community. And I think it's going to take time to evolve the best approach to share those – we've been using Town Hall as a mechanism, but what is the recommendation from this group for how we get feedback from the community without taking a ton of time?&#x20;
-
-\
-
 
 ## Ways forward
 
@@ -104,15 +95,9 @@ Stephen  14:11 &#x20;
 
 Could Oversight assist IOG in creating a pattern of notification to the community? Obviously, it will take time to develop advance notification, But if IOG notify us that you’re going to announce something, is it part of our role to help with communication?&#x20;
 
-\
-
-
 Harris  14:47 &#x20;
 
 Yes; we could have discussions with this group sooner; and you would have deliberation and then you would share that with the community. That seems reasonable.&#x20;
-
-\
-
 
 Allison  15:05 &#x20;
 
@@ -120,22 +105,13 @@ Harris, you say there haven’t been many parameter changes; but there have been
 
 On our role – at present, we are volunteering  to oversee: to track changes, keep them organised and accessible, and give some context from an oversight perspective of what changed, when and why, and how it was communicated. But longer term, we could play the role originally envisaged in the Parameters Pilot – to help consolidate community feedback, and help communicate the research or considerations that are going into these decisions.
 
-\
-
-
 Harris  17:49 &#x20;
 
 That’s fair; we do need to share more. Some big changes have happened due to a need to respond immediately to problems. So if we have some research that suggests we should make a change, what are the practical next steps for us to share that? Who should get the information first?
 
-\
-
-
 Stephen  19:23 &#x20;
 
 When I drafted the F7 proposal in consultation with Dor, we planned to focus on overseeing governance processes, particularly challenge-setting and Circle problem-sensing. And with parameter changes too, we can oversee, maybe communicate them at Town Hall from a neutral perspective, and report every four months to say what we've seen and heard. In the Fund 8 proposal, there's also some resources given to research, led by Kenric.&#x20;
-
-\
-
 
 Phil  20:56 &#x20;
 
@@ -147,36 +123,21 @@ Harris, you mentioned less-contentious parameters. So we've got&#x20;
 
 We're offering to be that communication channel; and to offer facilitation to support community Circles around the decision-making process.
 
-\
-
-
 Harris  22:55 &#x20;
 
 How long is your funding good for?&#x20;
-
-\
-
 
 Stephen  23:02 &#x20;
 
 We'll do a closing report for the F7 proposal in June. If we get funded for F8, then October.
 
-\
-
-
 Tevo  23:39 &#x20;
 
 For me, most changes to the system are parameter changes; but what makes them changeable parameters is the documentation behind them. Is there any priority on which decisions you would expect the community to start making first? We could think towards those parameters beforehand, and suggest processes, documentation or guidelines; then we could run those prioritised or expected parameters through that.
 
-\
-
-
 Harris  24:58 &#x20;
 
 We need to take a stance on how decisions will be made. Ideally, Tevo, we want to parameterize every item, where it becomes a variable that sits in a system; so then we're making a change to a value that's stored somewhere accessible in the system. And if that’s there, it will help in terms of automation of the system. So we are viewing it as numbers in a script at some point. There's a lot of human process still involved, and it may be some time before we lose that; but in the meantime, we want to share that deliberation of those parameters more widely. I can list some additional examples of parameters that that we have; I shared a portion of that list in the early concept of the Pilot. So we can have some further discussion on very tangible, specific examples, if you'd like.
-
-\
-
 
 ## IOG attendance at CGO meetings
 
@@ -184,31 +145,19 @@ Allison  27:05 &#x20;
 
 It might be useful if you or somebody from IOG wanted to attend our meetings, so that you hear what we're working on, and so we have a conduit to IOG to ask questions in real time and have an open dialogue.
 
-\
-
-
 Harris  27:50 &#x20;
 
 I think that's great. Myself or someone else will definitely have a seat within your discussions; I think that makes sense.
-
-\
-
 
 Stephen Whitenstall  28:03 &#x20;
 
 There has always been an open seat, the invite’s been there. I also said to Danny that we would alert IOG of anything we needed to discuss, and this is the alert! so it's working in practice.
 
-\
-
-
 Phil  28:23 &#x20;
 
 As an alert: what we would like to do is raise in future Town Halls the parameters we have identified, and have some place for people to go and explore our discussions around them. Some of these parameters might not be considered parameters yet by IO; but it is our intention to publicise them as we see them. Not necessarily that they should be in the hands of the community right now; but that there's a way to get to that point.
 
-\
-
-
-What is, and is not, a parameter
+## What is, and is not, a parameter
 
 Stephen 29:41 &#x20;
 
