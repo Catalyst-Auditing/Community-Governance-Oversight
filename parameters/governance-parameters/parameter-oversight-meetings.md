@@ -24,11 +24,13 @@ Stephen Whitenstall; Allison Fromm;  Harris Warren (IOG); Phil Khoo; Tevo Saks; 
 
 **Harris** (31%), **Stephen** (24%), **Phil** (21%), **Allison** (10%), **Tevo** (5%), **Vanessa** (5%), **Matthias** (2%)&#x20;
 
+## Meeting summary
+
 ### Welcome and intro:&#x20;
 
 **Stephen  0:00** A special meeting of Community Governance Oversight (CGO) with Harris Warren of IOG, to discuss parameters and parameter changes.&#x20;
 
-## Framing this meeting
+### Framing this meeting
 
 **Allison 0:42** CGO emerged originally from the Parameters Pilot that Harris presented to Circle v2. The Pilot has been on hold; but CGO have realised that many parameter changes are still happening, in quite a scattered way. We plan to track them and report to the Catalyst community, to bring some documentation and transparency. This raises bigger questions:&#x20;
 
