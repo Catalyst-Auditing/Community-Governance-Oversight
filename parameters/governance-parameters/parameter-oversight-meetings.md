@@ -26,7 +26,7 @@ Stephen Whitenstall; Allison Fromm;  Harris Warren (IOG); Phil Khoo; Tevo Saks; 
 
 ## Meeting summary
 
-### Welcome and intro:&#x20;
+### Welcome and intro
 
 **Stephen  0:00** A special meeting of Community Governance Oversight (CGO) with Harris Warren of IOG, to discuss parameters and parameter changes.&#x20;
 
@@ -48,9 +48,9 @@ CGO will start this reporting process in our regular Town Hall slides Before tha
 
 Hopefully, we get funded for F8 \[_documenter’s note: this happened_] to continue providing oversight of governance processes, using broadly the same pattern: we examine what's going on in the community via questionnaires, workshops, etc, in order to feed into another report. But we're not intervening in any decisions.
 
-Initially, IOG announced in a Town Hall that the Parameters Pilot was on hold, so we thought we would have no work to do on parameters; but then we realised parameters are more than just that pilot – they are still being changed. The draft process that Harris developed for parameter changes was a system of consultation with the community – so, shouldn't we be applying the oversight we were going to give to that, to all parameter changes in Catalyst?
+Initially, IOG announced in a Town Hall that the Parameters Pilot was on hold, so we thought we would have no work to do on parameters; but then we realised parameters are more than just that pilot – they are still being changed. The draft process that Harris developed for parameter changes was a system of consultation with the community – so we thought, "shouldn't we be applying the oversight we were going to give to that, to all parameter changes in Catalyst?"
 
-**Allison  8:04**  To make it explicitly clear for the benefit of the recording – we are talking about Catalyst parameters only, not the broader Cardano Blockchain parameters.
+**Allison  8:04**  To make it explicit for the benefit of the recording – we are talking about Catalyst parameters only, not the broader Cardano Blockchain parameters.
 
 ### How Catalyst parameters are changed
 
@@ -63,8 +63,7 @@ Initially, IOG announced in a Town Hall that the Parameters Pilot was on hold, s
 
 ### The need to involve the community&#x20;
 
-**Phil  11:32**  From IO’s viewpoint, there are around 20 parameters. But we've identified other parameters that IO are changing, that you haven't identified as parameters; they need consultation too. For example, we consider changing the Fund budget from a dollar amount to an ADA amount to be a parameter change. This was IOG-led; the community only found out once it's already happening.&#x20;
-
+**Phil  11:32**  From IO’s viewpoint, there are around 20 parameters. But we've identified other parameters that IO are changing, that you haven't identified as parameters; they need consultation too. For example, we consider changing the Fund budget from a dollar amount to an ADA amount to be a parameter change. This was IOG-led; the community only found out once it's already happening. \
 As active people in the community, we are starting to feel that these things should be announced before they are changed. It will stretch the timeframe longer, and complications might emerge from the discussion; but we're starting to feel that there's pressure outside coming in that will mean we need those channels of discussion to start being open.
 
 **Harris  13:02**  It was a big decision to make that denomination change, so that was not taken lightly; and I think we do need to have more involvement with the community.&#x20;
