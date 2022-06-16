@@ -5,7 +5,7 @@
 ## Challenge Setting
 
 * [Challenge Setting Overview](challenge-setting/challenge-setting-overview.md)
-* [Challenge Setting](governance-processes/challenge-setting.md)
+* [Challenge Setting Background](governance-processes/challenge-setting.md)
 
 ## Circle Problem Sensing
 
