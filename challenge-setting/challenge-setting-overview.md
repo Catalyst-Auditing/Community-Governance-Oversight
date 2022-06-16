@@ -6,11 +6,11 @@ description: George Lovegrove
 
 ## Issues that were identified&#x20;
 
-Assessment approach for challenges needs improvement - The information for challenge assessment guidance is limited and is of low quality. As one example, assessments penalize proposals that do not have a fully formed challenge team at the point of submission even though the team can be formed at any stage after they are voted in.&#x20;
+[Assessment approach for challenges needs improvement](https://docs.catalystcontributors.org/funding-categorisation-analysis/challenge-settings/challenge-setting-assessment-issues) - The information for challenge assessment guidance is limited and is of low quality. As one example, assessments penalize proposals that do not have a fully formed challenge team at the point of submission even though the team can be formed at any stage after they are voted in.&#x20;
 
-Duplicated challenge settings - Products & Integrations was copied into a separate proposal called DApps, Products & Integrations. This increased complexity for the voters in how they should vote to get their desired outcome. Duplicated categorisations lead to potential situations where neither challenge gets funded or both do. In this instance both got funded and the categorisations got merged.&#x20;
+[Duplicated challenge settings](https://docs.google.com/spreadsheets/d/15ELXp81NfvXHgrerTbuIofZOXBsdjocN1YgBK0gPP3E/edit#gid=894583832) - Products & Integrations was copied into a separate proposal called DApps, Products & Integrations. This increased complexity for the voters in how they should vote to get their desired outcome. Duplicated categorisations lead to potential situations where neither challenge gets funded or both do. In this instance both got funded and the categorisations got merged.&#x20;
 
-Overlapping categorisations - Overlapping categorisations add complexity for proposers when submitting proposals as they must decide between multiple categorisations. Voters have higher complexity when similar proposals are submitted in separate categorisations.&#x20;
+[Overlapping categorisations](https://docs.catalystcontributors.org/funding-categorisation-analysis/historical-analysis-and-comparisons/categorisation-setting-observations/fund-8) - Overlapping categorisations add complexity for proposers when submitting proposals as they must decide between multiple categorisations. Voters have higher complexity when similar proposals are submitted in separate categorisations.&#x20;
 
 Observations
 
