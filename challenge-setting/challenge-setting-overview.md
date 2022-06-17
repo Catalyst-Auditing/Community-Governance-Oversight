@@ -16,9 +16,9 @@ description: George Lovegrove
 
 [Little to no funding access for some focus areas](https://docs.catalystcontributors.org/funding-categorisation-analysis/historical-analysis-and-comparisons/funding-access-for-each-focus-area/fund-9) - Community & outreach and Catalyst focussed proposals saw either little or no access to funding for fund 9.&#x20;
 
-Overlapping categorisations - Examples include 14 overlapping product & integration categorisations, 12 overlapping outreach categorisations, 12 overlapping community categorisations and 9 overlapping Catalyst categorisations amongst others&#x20;
+[Overlapping categorisations](https://docs.catalystcontributors.org/funding-categorisation-analysis/historical-analysis-and-comparisons/categorisation-setting-observations/fund-8) - Examples include 14 overlapping product & integration categorisations, 12 overlapping outreach categorisations, 12 overlapping community categorisations and 9 overlapping Catalyst categorisations amongst others&#x20;
 
-19 broad categorisations and 53 specific categorisations were submitted&#x20;
+[19 broad categorisations and 53 specific categorisations were submitted](https://docs.catalystcontributors.org/funding-categorisation-analysis/historical-analysis-and-comparisons/categorisation-setting-observations/fund-8)&#x20;
 
 Data & statistics
 
