@@ -31,9 +31,23 @@ Data & statistics
 
 ## Funding categories as an alternative&#x20;
 
-Analysis has continued on funding categories as an alternative approach to funding categorisation - https://docs.catalystcontributors.org/funding-categorisation-analysis/ Access to funding for different focus areas Fund 8 challenge settings led to selected categorisations for fund 9 that had very high funding access for some areas compared over other focus areas.
+Analysis has continued on funding categories as an alternative approach to funding categorisation - https://docs.catalystcontributors.org/funding-categorisation-analysis/&#x20;
 
-Funding categories could achieve similar or better outcomes in most cases with a simpler approach. A similar outcome would be achieved with the following weightings: Community & Outreach - 5% Products & Integrations - 70% Governance & Identity - 10% Development & Infrastructure - 15%
+Access to funding for different focus areas&#x20;
+
+![](../.gitbook/assets/fund-9-funding-access.png)
+
+Fund 8 challenge settings led to selected categorisations for fund 9 that had very high funding access for some areas compared over other focus areas.
+
+Funding categories could achieve similar or better outcomes in most cases with a simpler approach. A similar outcome would be achieved with the following weightings:&#x20;
+
+Community & Outreach - 5%&#x20;
+
+Products & Integrations - 70%&#x20;
+
+Governance & Identity - 10%&#x20;
+
+Development & Infrastructure - 15%
 
 Cost comparison Funding categories could have reduced the total overall cost by 90% for handling funding categorisation for fund 8 if it was fully used as an alternative approach. The methodology for this cost comparison is documented.
 
