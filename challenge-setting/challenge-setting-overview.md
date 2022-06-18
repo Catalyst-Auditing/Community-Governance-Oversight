@@ -33,7 +33,7 @@ Data & statistics
 
 Analysis has continued on funding categories as an alternative approach to funding categorisation - https://docs.catalystcontributors.org/funding-categorisation-analysis/&#x20;
 
-Access to funding for different focus areas&#x20;
+### [Access to funding for different focus areas](https://docs.catalystcontributors.org/funding-categorisation-analysis/historical-analysis-and-comparisons/funding-access-for-each-focus-area/fund-9)&#x20;
 
 ![](../.gitbook/assets/fund-9-funding-access.png)
 
@@ -49,7 +49,9 @@ Governance & Identity - 10%&#x20;
 
 Development & Infrastructure - 15%
 
-Cost comparison Funding categories could have reduced the total overall cost by 90% for handling funding categorisation for fund 8 if it was fully used as an alternative approach. The methodology for this cost comparison is documented.
+### [Cost comparison](https://docs.catalystcontributors.org/funding-categorisation-analysis/historical-analysis-and-comparisons/categorisation-overall-cost-comparison)&#x20;
+
+Funding categories could have reduced the total overall cost by 90% for handling funding categorisation for fund 8 if it was fully used as an alternative approach. The [methodology ](https://docs.catalystcontributors.org/funding-categorisation-analysis/historical-analysis-and-comparisons/categorisation-overall-cost-comparison/methodology-and-data)for this cost comparison is documented.
 
 Funding categorisation properties Categorisation properties were defined and helped to determine which properties are desirable for funding categorisation. Funding categories apply the more effective properties by being broad, inclusive and recurring. Funding categories advantages over challenge settings Funding categories applying more effective categorisation properties means funding categories are more efficient, simple, flexible, scalable, egalitarian and good for effectively directing funding and promoting healthy competition.
 
