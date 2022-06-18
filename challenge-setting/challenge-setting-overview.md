@@ -22,13 +22,12 @@ description: George Lovegrove
 
 Data & statistics
 
-|                               | Fund 7 | Fund 8                    |
-| ----------------------------- | ------ | ------------------------- |
-| Number of challenges proposed | 67     | 76                        |
-| Number of challenges funded   | 22     | 12 (11 after two merged)  |
-|                               |        |                           |
-
-&#x20;67 76 Number of challenges funded 22 12 (11 after two merged) Highest upvote ADA amount on a challenge ₳222,760,136 ₳175,986,427 Highest number of wallet votes on a challenge 1321 1190
+|                                               | Fund 7       | Fund 8                    |
+| --------------------------------------------- | ------------ | ------------------------- |
+| Number of challenges proposed                 | 67           | 76                        |
+| Number of challenges funded                   | 22           | 12 (11 after two merged)  |
+| Highest upvote ADA amount on a challenge      | ₳222,760,136 | ₳175,986,427              |
+| Highest number of wallet votes on a challenge | 1321         | 1190                      |
 
 Funding categories as an alternative Analysis has continued on funding categories as an alternative approach to funding categorisation - https://docs.catalystcontributors.org/funding-categorisation-analysis/ Access to funding for different focus areas Fund 8 challenge settings led to selected categorisations for fund 9 that had very high funding access for some areas compared over other focus areas.
 
