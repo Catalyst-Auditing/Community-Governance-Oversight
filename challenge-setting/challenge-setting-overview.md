@@ -52,7 +52,13 @@ Funding categories could have reduced the total overall cost by 90% for handling
 
 ![](../.gitbook/assets/overall-costs-fund-8.png)
 
-Funding categorisation properties Categorisation properties were defined and helped to determine which properties are desirable for funding categorisation. Funding categories apply the more effective properties by being broad, inclusive and recurring. Funding categories advantages over challenge settings Funding categories applying more effective categorisation properties means funding categories are more efficient, simple, flexible, scalable, egalitarian and good for effectively directing funding and promoting healthy competition.
+### [Funding categorisation properties](https://docs.catalystcontributors.org/funding-categorisation-analysis/categorisation-properties/broad-vs-specific-categorisation)&#x20;
+
+Categorisation properties were defined and helped to determine which properties are desirable for funding categorisation. Funding categories apply the more effective properties by being broad, inclusive and recurring.&#x20;
+
+### [Funding categories advantages over challenge settings ](https://docs.catalystcontributors.org/funding-categorisation-analysis/funding-categories-advantages/overview)
+
+Funding categories applying more effective categorisation properties means funding categories are more efficient, simple, flexible, scalable, egalitarian and good for effectively directing funding and promoting healthy competition.
 
 Notes
 
