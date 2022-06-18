@@ -41,13 +41,10 @@ Fund 8 challenge settings led to selected categorisations for fund 9 that had ve
 
 Funding categories could achieve similar or better outcomes in most cases with a simpler approach. A similar outcome would be achieved with the following weightings:&#x20;
 
-Community & Outreach - 5%&#x20;
-
-Products & Integrations - 70%&#x20;
-
-Governance & Identity - 10%&#x20;
-
-Development & Infrastructure - 15%
+- Community & Outreach - 5%&#x20;
+- Products & Integrations - 70%&#x20;
+- Governance & Identity - 10%&#x20;
+- Development & Infrastructure - 15%
 
 ### [Cost comparison](https://docs.catalystcontributors.org/funding-categorisation-analysis/historical-analysis-and-comparisons/categorisation-overall-cost-comparison)&#x20;
 
