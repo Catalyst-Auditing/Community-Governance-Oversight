@@ -59,7 +59,3 @@ Categorisation properties were defined and helped to determine which properties 
 ### [Funding categories advantages over challenge settings ](https://docs.catalystcontributors.org/funding-categorisation-analysis/funding-categories-advantages/overview)
 
 Funding categories applying more effective categorisation properties means funding categories are more efficient, simple, flexible, scalable, egalitarian and good for effectively directing funding and promoting healthy competition.
-
-Notes
-
-Further Consideration on funding categories Having the community vote on the future direction of Cardano Project Catalyst is a fundamental part of the governance process of the Cardano treasury. An innovation fund can not provide funding in all important directions and needs to be nimble enough to change direction when required. Providing full funding to set categories adds efficiency into the setting of a general fund but removes the ability to offer specific funding to focus on a problem area. Therefore, a balance is looking to be struck between efficient operations and community lead governance. The exact mix between consistent categories and community voted focus could be considered a ‘parameter’ that could be explored as a community adjustment on a fund by fund basis, at regular (parameter set) intervals, or a more complex fund by fund voting mechanism. An alternative is that the experiment with side treasuries continues and the successful operation of these will offer a broader base of participation to specific requirements of subsets of the community.
