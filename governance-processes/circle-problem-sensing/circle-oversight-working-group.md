@@ -265,7 +265,11 @@ Should Circle Admin accept problems ?
 
 [02:01](https://www.youtube.com/watch?v=y5kC5mK8i7o\&t=121s)
 
-ccc
+Consensus on measuring levels of community support
+
+
+
+
 
 
 
