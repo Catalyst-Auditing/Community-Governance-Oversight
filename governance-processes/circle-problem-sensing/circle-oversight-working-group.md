@@ -261,7 +261,11 @@ Should the problem go through a Problem sensing rubric before it gets to a Rep ?
 
 Should Circle Admin accept problems ?
 
+### Problem metrics & up-voting issues
 
+[02:01](https://www.youtube.com/watch?v=y5kC5mK8i7o\&t=121s)
+
+ccc
 
 
 
