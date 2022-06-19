@@ -235,6 +235,14 @@ Maybe not, if min would be 2 then at least these 2 people have opportunity to pr
 
 **Stephen Whitenstall** - CCv2 Funded Proposer Rep
 
+### Overview
+
+Stephen - 00:00
+
+Previously we discussed metrics and now we move to Prioristerised Problems themselves.
+
+
+
 
 
 
