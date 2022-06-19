@@ -241,9 +241,17 @@ Stephen - [00:00](https://www.youtube.com/watch?v=y5kC5mK8i7o\&t=0s)
 
 Previously we discussed metrics and now we move to Prioritized Problems themselves.
 
+### Community support for Prioritized Problems
 
+[00:54](https://www.youtube.com/watch?v=y5kC5mK8i7o\&t=54s)
 
+Should there be community backing for a problem to be on the agenda and on the board?
 
+How open is that?&#x20;
+
+Can it be initially raised as an issue?&#x20;
+
+How does it become become a community problem?
 
 
 
