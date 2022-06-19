@@ -171,7 +171,7 @@ Is it up to each community to decide what goes forward as a Problem ?
 * All communities will have their own expectations of a system or process to follow.
 * A Problem may be raised by a community member who draws attention to it but does not own it or have a solution. In which case who in the community decides the necessary end state for the Problem ?
 * It should be as open as possible to submit Problems.
-* Can a Problem be raised initaily as an Issue ? What is the distinction ?
+* Can a Problem be raised initially as an Issue ? What is the distinction ?
 
 ![](<../../.gitbook/assets/Screenshot 2022-05-10 121633.png>)
 
@@ -237,9 +237,11 @@ Maybe not, if min would be 2 then at least these 2 people have opportunity to pr
 
 ### Overview
 
-Stephen - 00:00
+Stephen - [00:00](https://www.youtube.com/watch?v=y5kC5mK8i7o\&t=0s)
 
-Previously we discussed metrics and now we move to Prioristerised Problems themselves.
+Previously we discussed metrics and now we move to Prioritized Problems themselves.
+
+
 
 
 
