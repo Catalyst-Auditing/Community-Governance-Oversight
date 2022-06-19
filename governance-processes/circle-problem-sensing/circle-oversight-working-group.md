@@ -255,9 +255,11 @@ How does it become become a community problem?
 
 ### Problem Ownership
 
-01:29
+[01:29](https://www.youtube.com/watch?v=y5kC5mK8i7o\&t=89s)
 
-Should the problem go through a Problem sensing rubrik before it gets to a Rep ?
+Should the problem go through a Problem sensing rubric before it gets to a Rep ?
+
+Should Circle Admin accept problems ?
 
 
 
