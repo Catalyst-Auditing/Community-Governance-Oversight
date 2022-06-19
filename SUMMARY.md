@@ -5,7 +5,7 @@
 ## Challenge Setting
 
 * [Challenge Setting Background](governance-processes/challenge-setting.md)
-* [Fund 8 Challenge Setting Report](challenge-setting/challenge-setting-overview.md)
+* [Fund 8 Challenge Setting Report](<challenge-setting/Fund 8 Challenge Setting Report.md>)
 
 ## Circle Problem Sensing
 
