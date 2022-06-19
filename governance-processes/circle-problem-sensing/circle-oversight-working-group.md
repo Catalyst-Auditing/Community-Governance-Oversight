@@ -223,6 +223,22 @@ Maybe a minimum of two people ?
 
 Maybe not, if min would be 2 then at least these 2 people have opportunity to progress together
 
+## Working group meeting #4
+
+#### Tuesday 10th May 2022, 1200 UTC
+
+**Nadia Hopkins** - CCv3 Community Advisor Rep
+
+**Allison Fromm** - CCv2 General ADA Holders Rep
+
+**Tevo Saks** - CCv2 Toolmakers Rep
+
+**Stephen Whitenstall** - CCv2 Funded Proposer Rep
+
+
+
+
+
 ## References
 
 ### Circle Problem - Review and Revise the Prioritized-Problems Workflow
