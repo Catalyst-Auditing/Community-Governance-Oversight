@@ -253,6 +253,12 @@ Can it be initially raised as an issue?&#x20;
 
 How does it become become a community problem?
 
+### Problem Ownership
+
+01:29
+
+Should the problem go through a Problem sensing rubrik before it gets to a Rep ?
+
 
 
 
