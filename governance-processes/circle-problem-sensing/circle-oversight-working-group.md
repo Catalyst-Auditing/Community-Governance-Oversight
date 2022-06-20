@@ -271,6 +271,12 @@ Consensus on measuring levels of community support
 
 Tevo - [03:59](https://www.youtube.com/watch?v=y5kC5mK8i7o\&t=239s)
 
+Effective metrics that were stated every meeting.
+
+How people react & listen to feedback.
+
+Having a 1 to 5 score.
+
 
 
 ## References
