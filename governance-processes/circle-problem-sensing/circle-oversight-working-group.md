@@ -279,6 +279,8 @@ Having a 1 to 5 score.
 
 How many community members assign themselves to a problem.
 
+2 is something we always want if we want decentralisation.
+
 
 
 ## References
