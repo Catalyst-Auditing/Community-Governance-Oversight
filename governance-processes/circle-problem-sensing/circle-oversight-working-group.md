@@ -277,6 +277,8 @@ How people react & listen to feedback.
 
 Having a 1 to 5 score.
 
+How many community members assign themselves to a problem.
+
 
 
 ## References
