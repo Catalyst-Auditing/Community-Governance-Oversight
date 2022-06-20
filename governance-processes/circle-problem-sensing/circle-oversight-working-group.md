@@ -267,6 +267,10 @@ Should Circle Admin accept problems ?
 
 Consensus on measuring levels of community support
 
+{% hint style="info" %}
+**Note** : Metrics to report in respect of part 3 of the Problem rubric - "_How might this problem be quantified and/or measured?_"
+{% endhint %}
+
 ### Inputs for metrics
 
 Tevo - [03:59](https://www.youtube.com/watch?v=y5kC5mK8i7o\&t=239s)
