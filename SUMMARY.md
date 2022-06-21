@@ -24,9 +24,9 @@
 
 ***
 
-* [DAO Governance Literature Review](research/dao-governance-literature-review/README.md)
-  * [Meeting 1](research/dao-governance-literature-review/meeting-1.md)
-  * [Meeting 2](research/dao-governance-literature-review/meeting-2.md)
+* [dRep White Paper Working Group](dRep-White-Paper-Working-Group/README.md)
+  * [Meeting 1](dRep-White-Paper-Working-Group/meeting-1.md)
+  * [Meeting 2](dRep-White-Paper-Working-Group/meeting-2.md)
 
 ## Parameters
 
