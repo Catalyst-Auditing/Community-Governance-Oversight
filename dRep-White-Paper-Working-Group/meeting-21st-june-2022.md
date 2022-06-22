@@ -1,19 +1,21 @@
 ---
-description: Meeting 1
+description: Meeting 1 - Fund 8 - dRep White Paper Working Group Meeting
 ---
 
 # Meeting - 21st June 2022
-
 
 ## Attendees
 
 |                     |                         |
 | ------------------- | ----------------------- |
-| Amar Khan           |                         |
+| Aharon Porath       | Consenz                 |
+| Frank Albanese      | Snapbrilla              |
+| George Ramayya      |                         |
 | Kenric Nelson       | Photrek                 |
 | Philip Lazos        | IOG                     |
-| Stephen Whitenstall | QADAO                   |
 | Steph Macurdy       | Wolfram Blockchain Labs |
+| Stephen Whitenstall | QADAO                   |
+| Thorsten Pottebaum  |                         |
 
 ## Information
 
@@ -25,16 +27,79 @@ description: Meeting 1
 
 https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/71
 
-## Overview
+## Agenda
+## F8 Community Governance Oversight (CGO) Proposal - Kenric / Stephen W
+- https://cardano.ideascale.com/c/idea/398225
+Start - 1st June 2022
+End - 30th September 2022
+> Brief summary of CGO F8 proposal, budget and white paper deliverable
+> Tasked to examine changes in Project Catalyst Governance.
+Previous F7 Lit Review
+Editor roles
+Lead Authors
 
-After preliminary Zotero housekeeping, discussion moved onto Liquid Democracy papers.
+## Updates from each participant - All
+> What have you been up to? Introductions.
+- Aharon Porath  (Consenz)
+- Frank Albanese (Snapbrillia)
+- George Ramayya
+- Kenric Nelson (Photrek)
+- Philip Lazos (IOG)
+- Steph Macurdy (Wolfram)
+- Stephen Whitenstall (QADAO)
+- Thorsten Pottebaum (CGO)
 
-## Context
+## Outlines for Whitepaper - Kenric
 
-[17:39](https://www.youtube.com/watch?v=MZEqGvLw7Zg\&t=1059s)
+https://docs.google.com/document/d/1LXtBMIk9NjvsrEMZkD2LvZO15giPDoJZj1xROUgDwl4/edit?usp=sharing
 
-For context the papers we're looking at is background for D reps. Papers that are relevant to liquid democracy and in the context of IOGs implementation of D reps. - **Stephen**
+Zotero - https://www.zotero.org/groups/4305236/dao_governance
 
-Particularly methodologies for measuring power in these kinds of voting systems. - **Kenric**
+## Roles for each section - Discussion & commitments
+- Each section will have a topic - owner of the topic
+- Provisional commitments for each section.
+
+Measuring Voting Power in a Delegated Representative Process
+Author(s): Steph Macurdy
+Add major elements
+The role of Delegated Representation in Blockchain Governance
+Author(s): Philip Lazos
+Add major elements
+Forming consensus in governance documentation
+Author(s): Aharon Paroth, Kenric Nelson
+Add major elements
+Countering Winner Take All Governance
+Author(s): George Ramayya
+Add major elements
+Identity Security required for Blockchain Governance
+Author(s): Frank Albanese, Kenric Nelson
+Add major elements
 
 
+## Wrap up / Conclusions - Kenric
+
+## Any Other Business - Stephen W
+
+## Research Project Planning
+Calendar invites
+Zoom and Google invite with Agenda links
+21st June 2022 - 1700 UTC every two weeks until end of September 2022
+
+## After Town Hall - Kenric
+After Town Hall to launch and recruit reviewers of White paper
+
+## References
+
+I found this video very helpful  in calculating the Banzhaf Index, simplified: https://www.youtube.com/watch?v=sdWgGzetdWI&t=87s
+
+linktr.ee/adanamics
+
+
+## Actions
+Detailed Outline
+
+Different section in Zotero for F8
+
+## Informal end - Stop Recording
+Feedback
+Cooldown
