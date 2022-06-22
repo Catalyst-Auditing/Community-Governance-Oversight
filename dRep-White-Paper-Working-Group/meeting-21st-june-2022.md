@@ -6,16 +6,16 @@ description: Meeting 1 - Fund 8 - dRep White Paper Working Group Meeting
 
 ## Attendees
 
-|                     |                         |
-| ------------------- | ----------------------- |
-| Aharon Porath       | Consenz                 |
-| Frank Albanese      | Snapbrilla              |
-| George Ramayya      |                         |
-| Kenric Nelson       | Photrek                 |
-| Philip Lazos        | IOG                     |
-| Steph Macurdy       | Wolfram Blockchain Labs |
-| Stephen Whitenstall | QADAO                   |
-| Thorsten Pottebaum  |                         |
+|                     |                                            |
+| ------------------- | ------------------------------------------ |
+| Aharon Porath       | Consenz                                    |
+| Frank Albanese      | [Snapbrilla](https://www.snapbrillia.com/) |
+| George Ramayya      |                                            |
+| Kenric Nelson       | Photrek                                    |
+| Philip Lazos        | IOG                                        |
+| Steph Macurdy       | Wolfram Blockchain Labs                    |
+| Stephen Whitenstall | QADAO                                      |
+| Thorsten Pottebaum  |                                            |
 
 ## Information
 
