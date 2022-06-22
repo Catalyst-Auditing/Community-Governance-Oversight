@@ -29,7 +29,9 @@ https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination
 
 ## Agenda
 
-## F8 Community Governance Oversight (CGO) Proposal - Kenric / Stephen W
+## F8 Community Governance Oversight (CGO) Proposal
+
+#### Kenric / Stephen W
 
 {% hint style="info" %}
 F8 Proposal : https://cardano.ideascale.com/c/idea/398225&#x20;
