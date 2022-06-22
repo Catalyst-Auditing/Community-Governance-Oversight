@@ -8,11 +8,14 @@ description: Meeting 1 - Fund 8 - dRep White Paper Working Group Meeting
 
 |                     |                         |
 | ------------------- | ----------------------- |
-| Amar Khan           |                         |
+| Aharon Porath       | Consenz                 |
+| Frank Albanese      | Snapbrilla              |
+| George Ramayya      |                         |
 | Kenric Nelson       | Photrek                 |
 | Philip Lazos        | IOG                     |
-| Stephen Whitenstall | QADAO                   |
 | Steph Macurdy       | Wolfram Blockchain Labs |
+| Stephen Whitenstall | QADAO                   |
+| Thorsten Pottebaum  |                         |
 
 ## Information
 

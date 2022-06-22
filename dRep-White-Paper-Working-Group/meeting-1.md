@@ -2,7 +2,7 @@
 description: Meeting 1 of DAO Governance Literature Review - 26th April 2022
 ---
 
-# Meeting - 26th April 2022
+# Meeting 1
 
 {% embed url="https://youtu.be/bGmGgJUKewg" %}
 
