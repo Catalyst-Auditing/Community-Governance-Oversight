@@ -191,7 +191,7 @@ Nurturing a culture of listening will assist a shift from centralized to distrib
 
 ## References
 
-![](<../.gitbook/assets/2022-01-13 (16).png>)
+![](<../.gitbook/assets/2022-01-13 (16) (1).png>)
 
 ### Catalyst Circle Prioritized Problem
 
