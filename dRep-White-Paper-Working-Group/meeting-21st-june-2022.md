@@ -32,10 +32,10 @@ https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination
 ## F8 Community Governance Oversight (CGO) Proposal - Kenric / Stephen W
 
 {% hint style="info" %}
-https://cardano.ideascale.com/c/idea/398225&#x20;
+F8 Proposal : https://cardano.ideascale.com/c/idea/398225&#x20;
 {% endhint %}
 
-Start - 1st June 2022 End - 30th September 2022
+Duration - 1st June 2022 End - 30th September 2022
 
 > Brief summary of CGO F8 proposal, budget and white paper deliverable Tasked to examine changes in Project Catalyst Governance. Previous F7 Lit Review Editor roles Lead Authors
 
