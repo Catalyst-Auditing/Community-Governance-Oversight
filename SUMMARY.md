@@ -25,7 +25,7 @@
 ***
 
 * [dRep White Paper Working Group](dRep-White-Paper-Working-Group/README.md)
-  * [Meeting 1](dRep-White-Paper-Working-Group/meeting-1.md)
+  * [Meeting - 26th April 2022](dRep-White-Paper-Working-Group/meeting-1.md)
   * [Meeting 2](dRep-White-Paper-Working-Group/meeting-2.md)
 
 ## Parameters
