@@ -1,21 +1,19 @@
 ---
-description: Meeting 1 - Fund 8 - dRep White Paper Working Group Meeting
+description: Meeting 1
 ---
 
 # Meeting - 21st June 2022
+
 
 ## Attendees
 
 |                     |                         |
 | ------------------- | ----------------------- |
-| Aharon Porath       | Consenz                 |
-| Frank Albanese      | Snapbrilla              |
-| George Ramayya      |                         |
+| Amar Khan           |                         |
 | Kenric Nelson       | Photrek                 |
 | Philip Lazos        | IOG                     |
-| Steph Macurdy       | Wolfram Blockchain Labs |
 | Stephen Whitenstall | QADAO                   |
-| Thorsten Pottebaum  |                         |
+| Steph Macurdy       | Wolfram Blockchain Labs |
 
 ## Information
 
@@ -38,3 +36,5 @@ After preliminary Zotero housekeeping, discussion moved onto Liquid Democracy pa
 For context the papers we're looking at is background for D reps. Papers that are relevant to liquid democracy and in the context of IOGs implementation of D reps. - **Stephen**
 
 Particularly methodologies for measuring power in these kinds of voting systems. - **Kenric**
+
+
