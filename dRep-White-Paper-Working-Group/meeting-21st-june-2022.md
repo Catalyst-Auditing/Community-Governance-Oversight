@@ -41,6 +41,8 @@ Duration - 1st June 2022 End - 30th September 2022
 
 [00:02](https://www.youtube.com/watch?v=g0hppsP670k\&t=2s) - **Overview** - Stephen Whitenstall
 
+The F8 Community Governance Oversight proposal is tasked to examine changes in Project Catalyst Governance. This includes Challenge Setting, Catalyst Circle Problem Sensing, Parameter Changes. And what we're doing here, oversight of D reps.
+
 ## Updates from each participant - All
 
 > What have you been up to? Introductions.
