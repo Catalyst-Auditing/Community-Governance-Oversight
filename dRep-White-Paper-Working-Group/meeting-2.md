@@ -2,7 +2,7 @@
 description: Meeting 2 of DAO Governance Literature Review - 10th May 2022
 ---
 
-# Meeting 2
+# Meeting - 10th May 2022
 
 {% embed url="https://youtu.be/MZEqGvLw7Zg" %}
 
@@ -142,7 +142,7 @@ The authors define seven different elements of these games, I'll just go through
 
 They define for instance, a dummy agent, which is an individual in the system, who has no influence on the outcomes of decisions. So whatever coalition they join into and making a choice, it doesn't change the outcome of that coalition of the coalition's vote. - **Kenric**
 
-![](<../../.gitbook/assets/Screenshot 2022-05-24 162836.png>)
+![](<../.gitbook/assets/Screenshot 2022-05-24 162836.png>)
 
 ### Dictator
 
@@ -150,7 +150,7 @@ They define for instance, a dummy agent, which is an individual in the system, w
 
 And then on the other extreme, is a dictator, who, whichever coalition he decides to join, becomes the winning coalition. - **Kenric**
 
-![](<../../.gitbook/assets/Screenshot 2022-05-24 163429.png>)
+![](<../.gitbook/assets/Screenshot 2022-05-24 163429.png>)
 
 ### Block Formation
 
@@ -158,11 +158,11 @@ And then on the other extreme, is a dictator, who, whichever coalition he decide
 
 And then, there's other things in here, including the ability to kind of compose both games and the effect of agents.&#x20;
 
-![](<../../.gitbook/assets/Screenshot 2022-05-24 163857.png>)
+![](<../.gitbook/assets/Screenshot 2022-05-24 163857.png>)
 
 So like a block formation is when, what two or more agents combined to form one block vote. And then composition has to do with rules around how if you find sort of two separate games, how do those games end up being combined?&#x20;
 
-![](<../../.gitbook/assets/Screenshot 2022-05-24 164721.png>)
+![](<../.gitbook/assets/Screenshot 2022-05-24 164721.png>)
 
 ### Axioms
 
@@ -172,17 +172,17 @@ Now those definitions are used to form a set of axioms. And again, there's sort 
 
 So the first axiom is defining the fact that you have no power, which would be the dummy agent.&#x20;
 
-![](<../../.gitbook/assets/Screenshot 2022-05-24 165117.png>)
+![](<../.gitbook/assets/Screenshot 2022-05-24 165117.png>)
 
 
 
 The second axiom is defining the maximum power. And it's a scale between zero and one.
 
-![](<../../.gitbook/assets/Screenshot 2022-05-24 165815.png>)
+![](<../.gitbook/assets/Screenshot 2022-05-24 165815.png>)
 
 And then again, there's some rules around how power is combined in the system. With regard to blocks and a sum principle. I won't go into the details of that now.&#x20;
 
-![](<../../.gitbook/assets/Screenshot 2022-05-24 170226.png>)
+![](<../.gitbook/assets/Screenshot 2022-05-24 170226.png>)
 
 But it leads to then a characterization of these games.&#x20;
 

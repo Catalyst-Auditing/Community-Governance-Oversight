@@ -1,9 +1,8 @@
 ---
-description: Meeting 1
+description: Meeting 1 - Fund 8 - dRep White Paper Working Group Meeting
 ---
 
 # Meeting - 21st June 2022
-
 
 ## Attendees
 
@@ -36,5 +35,3 @@ After preliminary Zotero housekeeping, discussion moved onto Liquid Democracy pa
 For context the papers we're looking at is background for D reps. Papers that are relevant to liquid democracy and in the context of IOGs implementation of D reps. - **Stephen**
 
 Particularly methodologies for measuring power in these kinds of voting systems. - **Kenric**
-
-
