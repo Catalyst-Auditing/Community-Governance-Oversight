@@ -39,6 +39,8 @@ Duration - 1st June 2022 End - 30th September 2022
 
 > Brief summary of CGO F8 proposal, budget and white paper deliverable Tasked to examine changes in Project Catalyst Governance. Previous F7 Lit Review Editor roles Lead Authors
 
+[00:02](https://www.youtube.com/watch?v=g0hppsP670k\&t=2s) - **Overview** - Stephen Whitenstall
+
 ## Updates from each participant - All
 
 > What have you been up to? Introductions.
