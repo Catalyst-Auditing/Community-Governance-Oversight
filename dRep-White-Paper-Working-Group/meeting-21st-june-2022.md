@@ -76,7 +76,7 @@ Once we have progressed further I plan to have some community input to review th
 
 I am the founder of Consenz.&#x20;
 
-And I another funded proposal from the from the project catalyst. During a fund eight, we have submitted and approved and been approved by a proposal for creating research for the accelerated digital identity challenge for building different framework for voting for governance and voting.&#x20;
+Which is another funded proposal from Project Catalyst. During Fund eight, we submitted and had approved a proposal for creating research in the accelerated digital identity challenge to build a different framework for governance and voting.&#x20;
 
 We named this as proposal democracy on the blockchain.&#x20;
 
