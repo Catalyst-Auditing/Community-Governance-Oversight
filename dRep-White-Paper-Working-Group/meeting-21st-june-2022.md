@@ -78,7 +78,7 @@ I am the founder of Consenz.&#x20;
 
 Which is another funded proposal from Project Catalyst. During Fund eight, we submitted and had approved a proposal for creating research in the accelerated digital identity challenge to build a different framework for governance and voting.&#x20;
 
-We named this as proposal democracy on the blockchain.&#x20;
+We named this proposal _DID for Democracy on the Blockchain_ ([Ideascale link](https://cardano.ideascale.com/c/idea/396670)).&#x20;
 
 And I think that while we are here, speaking about the direct role, and how we can implement liquid democracy into this role, we are also working with the CIA and the BCA communities in order to provide them a tool for creating guidelines, then we are started researching how we can use the digital identity technology in order to create a variety of voting influence and voting mechanism to hold our platform.&#x20;
 
