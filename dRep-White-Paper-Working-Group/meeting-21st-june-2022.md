@@ -86,6 +86,12 @@ Right now the main role of voting in Cardano is on proposals and for the use of 
 
 By integrating principles of liquid democracy and other systems we can gain experience and really see how voting mechanisms work in real use before we implement them in the Catalyst process.
 
+### Frank Albanese (Snapbrillia)
+
+[05:11](https://www.youtube.com/watch?v=g0hppsP670k\&t=311s) - Frank Albanese (Snapbrillia)
+
+Sorry. It's fascinating topics mentioned. Aaron there. Yes. I'm Frank Albin is currently CSO at snapbrilla. We had two proposals we put forth in f8. Around our mentor mentee bounty network, similar to gitcoin but for Cardano, and then our quadratic voting and funding research work building that Cardano native. So we have a Haskell Plutus team of around 25 engineers right now. And we're working through architecting systems that help with Sybil attack defense mechanisms, baked in on like the hyper technical level, and then lending yourself eventually to what we're doing with SSI research, which is we're hopefully providing users a proof of reputation platform. Starting with Hyperledger Aries integration, we have an Occupy instance running and then with Atala prism working on said the routes, wallet and routes, ID teams, and Tony rose and the team from IOG around Prism. Really, what I'm curious about is, you know, I'd love to document the way we're looking at, like the UTX o model, and how that actually, and Kendrick was on our call only an hour ago. But we're just talking about, you know, ways in which there are some attack vectors that are exposed through having a hyperlocal state, like with the UTX o model. And the way you accomplish like a local global state with either like a djed NFT where there's an issuer and holder model, or there's this SSI approach with like a CL credential and forming a voting record, and how that can be expanded.
+
 ## Outlines for Whitepaper - Kenric
 
 https://docs.google.com/document/d/1LXtBMIk9NjvsrEMZkD2LvZO15giPDoJZj1xROUgDwl4/edit?usp=sharing
