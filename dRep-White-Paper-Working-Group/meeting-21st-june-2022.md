@@ -41,9 +41,17 @@ Duration - 1st June 2022 End - 30th September 2022
 
 > Brief summary of CGO F8 proposal, budget and white paper deliverable Tasked to examine changes in Project Catalyst Governance. Previous F7 Lit Review Editor roles Lead Authors
 
-[00:02](https://www.youtube.com/watch?v=g0hppsP670k\&t=2s) - **Overview** - Stephen Whitenstall
+[00:02](https://www.youtube.com/watch?v=g0hppsP670k\&t=2s) - F8 Community Governance Oversight proposal - Stephen Whitenstall
 
 The F8 Community Governance Oversight proposal intent is to examine changes in Project Catalyst Governance. This includes Challenge Setting, Catalyst Circle Problem Sensing, Parameter Changes. And what we're doing here, oversight of D reps.
+
+[01:04](https://www.youtube.com/watch?v=g0hppsP670k\&t=64s) - White Paper Overview - Kenric Nelson
+
+In the last Fund 7 part of this we completed a literature review and now we're moving forward with a white paper.&#x20;
+
+The basic way that the team is structured is around three roles.  Stephen, myself (Kenric) and Thorston are going to act as editors of the white paper. Then there is four or five people who have stepped up to be a lead author for a section of the white paper.&#x20;
+
+Once we have progressed further I plan to have some community input to review the paper before we finalize it.
 
 ## Updates from each participant - All
 
