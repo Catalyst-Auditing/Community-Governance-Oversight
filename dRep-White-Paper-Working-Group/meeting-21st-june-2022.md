@@ -14,8 +14,8 @@ description: Meeting 1 - Fund 8 - dRep White Paper Working Group Meeting
 | Kenric Nelson       | Photrek                                                           |
 | Philip Lazos        | IOG                                                               |
 | Steph Macurdy       | [Wolfram Blockchain Labs](https://www.wolframblockchainlabs.com/) |
-| Stephen Whitenstall | QADAO                                                             |
-| Thorsten Pottebaum  |                                                                   |
+| Stephen Whitenstall | [QADAO](https://quality-assurance-dao.github.io/)                 |
+| Thorsten Pottebaum  | adanamics ([linktree](https://linktr.ee/adanamics))               |
 
 ## Information
 
@@ -55,7 +55,9 @@ Once we have progressed further I plan to have some community input to review th
 
 ## Updates from each participant - All
 
-> What have you been up to? Introductions.
+> What have you been up to?&#x20;
+>
+> Introductions.
 
 * Aharon Porath (Consenz)
 * Frank Albanese (Snapbrillia)
@@ -65,6 +67,8 @@ Once we have progressed further I plan to have some community input to review th
 * Steph Macurdy (Wolfram)
 * Stephen Whitenstall (QADAO)
 * Thorsten Pottebaum (CGO)
+
+[02:13](https://www.youtube.com/watch?v=g0hppsP670k\&t=133s) - Introductions
 
 ## Outlines for Whitepaper - Kenric
 
