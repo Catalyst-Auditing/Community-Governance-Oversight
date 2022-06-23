@@ -74,6 +74,18 @@ Once we have progressed further I plan to have some community input to review th
 
 [02:47](https://www.youtube.com/watch?v=g0hppsP670k\&t=167s) - Aharon Porath - Consenz
 
+I am the founder of Consenz.&#x20;
+
+And I another funded proposal from the from the project catalyst. During a fund eight, we have submitted and approved and been approved by a proposal for creating research for the accelerated digital identity challenge for building different framework for voting for governance and voting.&#x20;
+
+We named this as proposal democracy on the blockchain.&#x20;
+
+And I think that while we are here, speaking about the direct role, and how we can implement liquid democracy into this role, we are also working with the CIA and the BCA communities in order to provide them a tool for creating guidelines, then we are started researching how we can use the digital identity technology in order to create a variety of voting influence and voting mechanism to hold our platform.&#x20;
+
+So while the right now the main voting in in caradonna, as a whole, the main role of voting is on proposals on for the on the use of the Treasury. We hope that after our MVP after the first version of consensus platform ready, we can use this we can use it in order to explore different kinds of influence in governance, like a creating a document that can act as the code of conduct or constitution.&#x20;
+
+And by integrating those principles of liquid democracy and other systems. We can gain experience and really see how this voting mechanism work in real use before we can implement them on the catalyst process and on to further
+
 ## Outlines for Whitepaper - Kenric
 
 https://docs.google.com/document/d/1LXtBMIk9NjvsrEMZkD2LvZO15giPDoJZj1xROUgDwl4/edit?usp=sharing
