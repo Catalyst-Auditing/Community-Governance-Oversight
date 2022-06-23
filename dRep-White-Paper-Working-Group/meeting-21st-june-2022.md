@@ -12,7 +12,7 @@ description: Meeting 1 - Fund 8 - dRep White Paper Working Group Meeting
 | Frank Albanese      | [Snapbrilla](https://www.snapbrillia.com/)                        |
 | George Ramayya      |                                                                   |
 | Kenric Nelson       | Photrek                                                           |
-| Philip Lazos        | IOG                                                               |
+| Philip Lazos        | [IOG](https://iohk.io/jp/team/philip-lazos)                       |
 | Steph Macurdy       | [Wolfram Blockchain Labs](https://www.wolframblockchainlabs.com/) |
 | Stephen Whitenstall | [QADAO](https://quality-assurance-dao.github.io/)                 |
 | Thorsten Pottebaum  | adanamics ([linktree](https://linktr.ee/adanamics))               |
