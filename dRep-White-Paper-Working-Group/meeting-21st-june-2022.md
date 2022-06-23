@@ -80,7 +80,7 @@ Which is another funded proposal from Project Catalyst. During Fund eight, we su
 
 We named this proposal _DID for Democracy on the Blockchain_ ([Ideascale link](https://cardano.ideascale.com/c/idea/396670)).&#x20;
 
-And I think that while we are here, speaking about the dRep role, and how we can implement liquid democracy into this role, we are also working with the CIA and the BCA communities in order to provide them a tool for creating guidelines, then we are started researching how we can use the digital identity technology in order to create a variety of voting influence and voting mechanism to hold our platform.&#x20;
+We are also working with the CA and the vCA communities in order to provide them a tool for creating guidelines. And we are starting to research how we can use the digital identity technology  to create a variety of voting mechanisms on our platform.&#x20;
 
 So while the right now the main voting in in caradonna, as a whole, the main role of voting is on proposals on for the on the use of the Treasury. We hope that after our MVP after the first version of consensus platform ready, we can use this we can use it in order to explore different kinds of influence in governance, like a creating a document that can act as the code of conduct or constitution.&#x20;
 
