@@ -70,6 +70,8 @@ Once we have progressed further I plan to have some community input to review th
 
 [02:13](https://www.youtube.com/watch?v=g0hppsP670k\&t=133s) - Introductions
 
+### Aharon Porath - Consenz
+
 [02:47](https://www.youtube.com/watch?v=g0hppsP670k\&t=167s) - Aharon Porath - Consenz
 
 ## Outlines for Whitepaper - Kenric
