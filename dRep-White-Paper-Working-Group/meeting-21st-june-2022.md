@@ -53,11 +53,11 @@ The basic way that the team is structured is around three roles.  Stephen, mysel
 
 Once we have progressed further I plan to have some community input to review the paper before we finalize it.
 
-## Updates from each participant - All
+## Introductions
 
-> What have you been up to?&#x20;
+> Updates from each participant - All
 >
-> Introductions.
+> What have you been up to?&#x20;
 
 * Aharon Porath (Consenz)
 * Frank Albanese (Snapbrillia)
