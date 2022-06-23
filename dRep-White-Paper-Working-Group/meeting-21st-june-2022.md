@@ -82,7 +82,7 @@ We named this proposal _DID for Democracy on the Blockchain_ ([Ideascale link](h
 
 We are also working with the CA and the vCA communities in order to provide them a tool for creating guidelines. And we are starting to research how we can use the digital identity technology  to create a variety of voting mechanisms on our platform.&#x20;
 
-So while the right now the main voting in in caradonna, as a whole, the main role of voting is on proposals on for the on the use of the Treasury. We hope that after our MVP after the first version of consensus platform ready, we can use this we can use it in order to explore different kinds of influence in governance, like a creating a document that can act as the code of conduct or constitution.&#x20;
+Right now the main role of voting in Cardano is on proposals and for the use of the Treasury. We hope that when the first version of consensus platform is ready we can it to explore different kinds of influence in governance, like a creating a document that can act as the code of conduct or constitution.&#x20;
 
 And by integrating those principles of liquid democracy and other systems. We can gain experience and really see how this voting mechanism work in real use before we can implement them on the catalyst process and on to further
 
