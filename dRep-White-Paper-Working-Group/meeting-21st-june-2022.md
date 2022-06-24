@@ -11,7 +11,7 @@ description: Meeting 1 - Fund 8 - dRep White Paper Working Group Meeting
 | Aharon Porath       | Consenz                                                           |
 | Frank Albanese      | [Snapbrilla](https://www.snapbrillia.com/)                        |
 | George Ramayya      |                                                                   |
-| Kenric Nelson       | Photrek                                                           |
+| Kenric Nelson       | [Photrek](https://photrek.world/)                                 |
 | Philip Lazos        | [IOG](https://iohk.io/jp/team/philip-lazos)                       |
 | Steph Macurdy       | [Wolfram Blockchain Labs](https://www.wolframblockchainlabs.com/) |
 | Stephen Whitenstall | [QADAO](https://quality-assurance-dao.github.io/)                 |
@@ -112,7 +112,7 @@ gitcoin - [https://gitcoin.co/](https://gitcoin.co/)
 
 [07:03](https://www.youtube.com/watch?v=g0hppsP670k\&t=423s) - Kenric Nelson (Photrek)
 
-I am the founder of Photrek. We have been providing a variety of different insights about how complex systems can help understand governance processes within the Catalyst community. And Photrek has complementary efforts in machine intelligence and also in Environmental Science sensors. And I am really looking forward to working with you all. It's been a pleasure working with Stephen and I think this is going to be an exciting effort.
+I am the founder of [Photrek](https://photrek.world/). We have been providing a variety of different insights about how complex systems can help understand governance processes within the Catalyst community. And Photrek has complementary efforts in machine intelligence and also in Environmental Science sensors. And I am really looking forward to working with you all. It's been a pleasure working with Stephen and I think this is going to be an exciting effort.
 
 
 
