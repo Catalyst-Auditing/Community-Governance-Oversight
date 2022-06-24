@@ -92,7 +92,7 @@ By integrating principles of liquid democracy and other systems we can gain expe
 
 I am Frank Albanese currently CSO at Snapbrilla. We had two proposals in Fund 8. Around our Mentor-mentee bounty network ([Mentor-mentee Bounties & eLearning](https://cardano.ideascale.com/c/idea/397419)) , similar to [gitcoin ](https://gitcoin.co/)but for Cardano, and then our quadratic voting and funding research work ([OpenSource Quadratic Voting Funding](https://cardano.ideascale.com/c/idea/396834)). We have a Haskell Plutus team of around 25 engineers right now. And we're working through architecting systems that help with Sybil attack defense mechanisms.
 
-With our with SSI research we will hopefully provide users with a proof of reputation platform. Starting with Hyperledger Aries integration ([ATALA Prism ZKP + Hyperledger Aries](https://cardano.ideascale.com/c/idea/414008)),then with Atala prism working on the Roots wallet and RootsID teams, and Tony Rose and the team from IOG around Prism.&#x20;
+With our with SSI research we will hopefully provide users with a proof of reputation platform. Starting with Hyperledger Aries integration ([ATALA Prism ZKP + Hyperledger Aries](https://cardano.ideascale.com/c/idea/414008)) then with Atala prism working on the Roots wallet and RootsID teams and Tony Rose and the team from IOG around Prism.&#x20;
 
 What I am curious about is how to document the way we're looking at the UTXO model.
 
