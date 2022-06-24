@@ -94,7 +94,9 @@ I am Frank Albanese currently CSO at Snapbrilla. We had two proposals in Fund 8.
 
 With our with SSI research we will hopefully provide users with a proof of reputation platform. Starting with Hyperledger Aries integration ([ATALA Prism ZKP + Hyperledger Aries](https://cardano.ideascale.com/c/idea/414008)),then with Atala prism working on the Roots wallet and RootsID teams, and Tony Rose and the team from IOG around Prism.&#x20;
 
-Really, what I'm curious about is, you know, I'd love to document the way we're looking at, like the UTX o model, and how that actually, and Kendrick was on our call only an hour ago. But we're just talking about, you know, ways in which there are some attack vectors that are exposed through having a hyperlocal state, like with the UTX o model. And the way you accomplish like a local global state with either like a djed NFT where there's an issuer and holder model, or there's this SSI approach with like a CL credential and forming a voting record, and how that can be expanded.
+What I am curious about is how to document the way we're looking at the UTXO model.
+
+We were just talking about ways in which there are some attack vectors that are exposed through hyperlocal states, like with the UTXO model. And the way you can accomplish a local global state with either a djed NFT where there's an issuer and holder model. Or there is this SSI approach with like a CL credential and forming a voting record, and how that can be expanded.
 
 ## Outlines for Whitepaper - Kenric
 
