@@ -132,6 +132,10 @@ Joins the meeting later
 
 &#x20;QADAO provides a lot of project management for several governance projects in Catalyst. And we are also quite well known for documentation. Picking up on what Frank raised about UTXO documentation - QADAO is concerned with how to communicate technical subjects in a way that is easily understandable, to help onboard people and to understand the risks and the quality issues involved with that. Thank you. We have quite an exciting group of people here.
 
+### Thorsten Pottebaum (adanamics)&#x20;
+
+[09:57](https://www.youtube.com/watch?v=g0hppsP670k\&t=597s) - Thorsten Pottebaum (adanamics)
+
 
 
 ## Outlines for Whitepaper - Kenric
