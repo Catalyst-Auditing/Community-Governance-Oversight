@@ -120,6 +120,16 @@ I am the founder of [Photrek](https://photrek.world/). We have been providing a 
 
 Hello, I'm a [research fellow at IOG](https://iohk.io/jp/team/philip-lazos). I used to work in academia researching theoretical computer science, games, auctions, incentives and the like. In the last year or so I've been working full time in IOG on the research side on a variety of projects involving consensus or incentives. Thank you.
 
+### Steph Macurdy (Wolfram)
+
+Joins the meeting later
+
+### Stephen Whitenstall (QADAO)
+
+I got funding for a proposal in Catalyst Fund 5 for QA DAO. I have 30 years experience in quality assurance, test program management, project management and social enterprise. Most recently, I completed a degree in philosophy and became interested in Catalysts from that perspective.&#x20;
+
+&#x20;and really manage a lot of project management or governance projects in Catalyst in several governance projects. And also quite well known for documentation. So what you're talking about Frank in terms of how to communicate technical subjects in a way that is easily understandable, and also to help onboard people and to understand the risks and the quality issues involved with that. So thank you. We're looking quite exciting group of people here and if we could hear from Thorsten
+
 ## Outlines for Whitepaper - Kenric
 
 https://docs.google.com/document/d/1LXtBMIk9NjvsrEMZkD2LvZO15giPDoJZj1xROUgDwl4/edit?usp=sharing
