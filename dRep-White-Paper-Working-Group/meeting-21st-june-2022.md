@@ -90,7 +90,7 @@ By integrating principles of liquid democracy and other systems we can gain expe
 
 [05:11](https://www.youtube.com/watch?v=g0hppsP670k\&t=311s) - Frank Albanese (Snapbrillia)
 
-I am Frank Albanese currently CSO at Snapbrilla. We had two proposals in Fund 8. Around our Mentor-mentee bounty network ([Mentor-mentee Bounties & eLearning](https://cardano.ideascale.com/c/idea/397419)) , similar to [gitcoin ](https://gitcoin.co/)but for Cardano, and then our quadratic voting and funding research work building that Cardano native. We have a Haskell Plutus team of around 25 engineers right now. And we're working through architecting systems that help with Sybil attack defense mechanisms.
+I am Frank Albanese currently CSO at Snapbrilla. We had two proposals in Fund 8. Around our Mentor-mentee bounty network ([Mentor-mentee Bounties & eLearning](https://cardano.ideascale.com/c/idea/397419)) , similar to [gitcoin ](https://gitcoin.co/)but for Cardano, and then our quadratic voting and funding research work ([OpenSource Quadratic Voting Funding](https://cardano.ideascale.com/c/idea/396834)) building that Cardano native. We have a Haskell Plutus team of around 25 engineers right now. And we're working through architecting systems that help with Sybil attack defense mechanisms.
 
 , baked in on like the hyper technical level, and then lending yourself eventually to what we're doing with SSI research, which is we're hopefully providing users a proof of reputation platform. Starting with Hyperledger Aries integration, we have an Occupy instance running and then with Atala prism working on said the routes, wallet and routes, ID teams, and Tony Rose and the team from IOG around Prism.&#x20;
 
