@@ -92,11 +92,21 @@ By integrating principles of liquid democracy and other systems we can gain expe
 
 I am Frank Albanese currently CSO at Snapbrilla. We had two proposals in Fund 8. Around our Mentor-mentee bounty network ([Mentor-mentee Bounties & eLearning](https://cardano.ideascale.com/c/idea/397419)) , similar to [gitcoin ](https://gitcoin.co/)but for Cardano, and then our quadratic voting and funding research work ([OpenSource Quadratic Voting Funding](https://cardano.ideascale.com/c/idea/396834)). We have a Haskell Plutus team of around 25 engineers right now. And we're working through architecting systems that help with Sybil attack defense mechanisms.
 
-With our with SSI research we will hopefully provide users with a proof of reputation platform. Starting with Hyperledger Aries integration ([ATALA Prism ZKP + Hyperledger Aries](https://cardano.ideascale.com/c/idea/414008)) then with Atala prism working on the Roots wallet and RootsID teams and Tony Rose and the team from IOG around Prism.&#x20;
+With our with SSI (Self Sovereign Identity) research we will hopefully provide users with a proof of reputation platform. Starting with [Hyperledger Aries](https://www.hyperledger.org/use/aries) integration ([ATALA Prism ZKP + Hyperledger Aries](https://cardano.ideascale.com/c/idea/414008)) then with Atala prism working on the Roots wallet and RootsID teams and Tony Rose and the team from IOG around Prism.&#x20;
 
 What I am curious about is how to document the way we're looking at the UTXO model.
 
-We were just talking about ways in which there are some attack vectors that are exposed through hyperlocal states, like with the UTXO model. And the way you can accomplish a local global state with either a djed NFT where there's an issuer and holder model. Or there is this SSI approach with like a CL credential and forming a voting record, and how that can be expanded.
+We were just talking about ways in which there are some attack vectors that are exposed through hyperlocal states, like with the [UTXO model](https://docs.cardano.org/plutus/eutxo-explainer). And the way you can accomplish a local global state with either a Djed NFT where there's an issuer and holder model. Or there is this SSI approach with like a CL credential and forming a voting record, and how that can be expanded.
+
+#### References
+
+CL credential - [CL Signatures for Anonymous Credentials](https://misterwip.uk/cl-signatures)&#x20;
+
+UTXO model - [https://docs.cardano.org/plutus/eutxo-explainer](https://docs.cardano.org/plutus/eutxo-explainer)&#x20;
+
+Hyperledger Aries - [https://www.hyperledger.org/use/aries](https://www.hyperledger.org/use/aries)&#x20;
+
+gitcoin - [https://gitcoin.co/](https://gitcoin.co/)
 
 ## Outlines for Whitepaper - Kenric
 
