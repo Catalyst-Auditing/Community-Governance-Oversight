@@ -114,6 +114,10 @@ gitcoin - [https://gitcoin.co/](https://gitcoin.co/)
 
 I am the founder of [Photrek](https://photrek.world/). We have been providing a variety of different insights about how complex systems can help understand governance processes within the Catalyst community. And Photrek has complementary efforts in machine intelligence and also in Environmental Science sensors. And I am really looking forward to working with you all. It's been a pleasure working with Stephen and I think this is going to be an exciting effort.
 
+### Philip Lazos (IOG)
+
+[08:09](https://www.youtube.com/watch?v=g0hppsP670k\&t=489s) - Philip Lazos (IOG)
+
 
 
 ## Outlines for Whitepaper - Kenric
