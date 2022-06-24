@@ -128,9 +128,11 @@ Joins the meeting later
 
 [08:58](https://www.youtube.com/watch?v=g0hppsP670k\&t=538s) - Stephen Whitenstall (QADAO)
 
-I got funding for a proposal in Catalyst Fund 5 for QA DAO. I have 30 years experience in quality assurance, test program management, project management and social enterprise. Most recently, I completed a degree in philosophy and became interested in Catalysts from that perspective.&#x20;
+[QADAO ](https://quality-assurance-dao.github.io/)was funded in Catalyst Fund 5. I have 30 years experience in quality assurance, test program management, project management and social enterprise. Most recently, I completed a degree in philosophy and became interested in Catalyst from that perspective.&#x20;
 
-&#x20;and really manage a lot of project management or governance projects in Catalyst in several governance projects. And also quite well known for documentation. So what you're talking about Frank in terms of how to communicate technical subjects in a way that is easily understandable, and also to help onboard people and to understand the risks and the quality issues involved with that. So thank you. We're looking quite exciting group of people here and if we could hear from Thorsten
+&#x20;QADAO provides a lot of project management for several governance projects in Catalyst. And we are also quite well known for documentation. Picking up on what Frank raised about UTXO documentation - QADAO is concerned with how to communicate technical subjects in a way that is easily understandable, to help onboard people and to understand the risks and the quality issues involved with that. Thank you. We have quite an exciting group of people here.
+
+
 
 ## Outlines for Whitepaper - Kenric
 
