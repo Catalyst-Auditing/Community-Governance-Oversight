@@ -108,6 +108,12 @@ Hyperledger Aries - [https://www.hyperledger.org/use/aries](https://www.hyperled
 
 gitcoin - [https://gitcoin.co/](https://gitcoin.co/)
 
+Kenric Nelson (Photrek)
+
+I am the founder of Photrek. We have been providing a variety of different insights about how complex systems can help understand governance processes within the Catalyst community. And Photrek has complementary efforts in machine intelligence and also in Environmental Science sensors. And I am really looking forward to working with you all. It's been a pleasure working with Stephen and I think this is going to be an exciting effort.
+
+
+
 ## Outlines for Whitepaper - Kenric
 
 https://docs.google.com/document/d/1LXtBMIk9NjvsrEMZkD2LvZO15giPDoJZj1xROUgDwl4/edit?usp=sharing
