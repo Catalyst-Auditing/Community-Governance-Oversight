@@ -118,7 +118,7 @@ I am the founder of [Photrek](https://photrek.world/). We have been providing a 
 
 [08:09](https://www.youtube.com/watch?v=g0hppsP670k\&t=489s) - Philip Lazos (IOG)
 
-
+Hello, I'm a [research fellow at IOG](https://iohk.io/jp/team/philip-lazos). I used to work in academia researching theoretical computer science, games, auctions, incentives and the like. In the last year or so I've been working full time in IOG on the research side on a variety of projects involving consensus or incentives. Thank you.
 
 ## Outlines for Whitepaper - Kenric
 
