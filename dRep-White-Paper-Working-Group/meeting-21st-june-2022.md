@@ -59,15 +59,6 @@ Once we have progressed further I plan to have some community input to review th
 >
 > What have you been up to?&#x20;
 
-* Aharon Porath (Consenz)
-* Frank Albanese (Snapbrillia)
-* George Ramayya
-* Kenric Nelson (Photrek)
-* Philip Lazos (IOG)
-* Steph Macurdy (Wolfram)
-* Stephen Whitenstall (QADAO)
-* Thorsten Pottebaum (CGO)
-
 [02:13](https://www.youtube.com/watch?v=g0hppsP670k\&t=133s) - Introductions
 
 ### Aharon Porath (Consenz)
