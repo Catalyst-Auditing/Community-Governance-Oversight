@@ -142,9 +142,19 @@ In my day to day life I work as an audit program manager for an international me
 
 ## Outlines for Whitepaper - Kenric
 
-https://docs.google.com/document/d/1LXtBMIk9NjvsrEMZkD2LvZO15giPDoJZj1xROUgDwl4/edit?usp=sharing
+[11:11](https://www.youtube.com/watch?v=g0hppsP670k\&t=671s)
 
-Zotero - https://www.zotero.org/groups/4305236/dao\_governance
+{% hint style="info" %}
+[Delegated Representation in Cardano’s Catalyst Governance](https://docs.google.com/document/d/1LXtBMIk9NjvsrEMZkD2LvZO15giPDoJZj1xROUgDwl4/edit?usp=sharing)
+{% endhint %}
+
+{% hint style="info" %}
+Zotero library - https://www.zotero.org/groups/4305236/dao\_governance
+{% endhint %}
+
+### Organization of white paper
+
+[11:39](https://www.youtube.com/watch?v=g0hppsP670k\&t=699s) -  Kenric
 
 ## Roles for each section - Discussion & commitments
 
