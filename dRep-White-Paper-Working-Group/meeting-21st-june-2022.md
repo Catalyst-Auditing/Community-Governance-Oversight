@@ -136,7 +136,9 @@ Joins the meeting later
 
 [09:57](https://www.youtube.com/watch?v=g0hppsP670k\&t=597s) - Thorsten Pottebaum (adanamics)
 
-
+I have been part of Catalyst since last year and have been involved in a number of topics. Lately working with Stephen W on audit and also on governance. I was also part of the team who did the DAO literature review (Fund 7 - Communty Governance Oversight).\
+\
+In my day to day life I work as an audit program manager for an international med tech company. And I have a postgraduate degree in Computer System Security.
 
 ## Outlines for Whitepaper - Kenric
 
