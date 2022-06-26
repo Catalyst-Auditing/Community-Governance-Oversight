@@ -188,10 +188,24 @@ A couple of you are already preparing contributions to a section and then also w
 
 Finally, Frank and the Snapbrilla team are particularly in interested what identity security is required for blockchain governance. Particularly once you move beyond one coin, one vote and require security about the identity of who is voting. Where Snapbrilla are building a quadratic voting funding system the issue of preventing Sybil attacks is also quite important.&#x20;
 
-## Roles for each section - Discussion & commitments
+## Roles for each section
+
+Discussion & commitments
 
 * Each section will have a topic - owner of the topic
 * Provisional commitments for each section.
+
+### The role of Delegated Representation in Blockchain Governance
+
+#### Author(s): Philip Lazos
+
+* Explain the pros and cons of delegated representation
+* Current literature; application to Catalyst
+* Show increases relative power of smaller stakeholders
+
+
+
+
 
 Measuring Voting Power in a Delegated Representative Process Author(s): Steph Macurdy Add major elements The role of Delegated Representation in Blockchain Governance Author(s): Philip Lazos Add major elements Forming consensus in governance documentation Author(s): Aharon Paroth, Kenric Nelson Add major elements Countering Winner Take All Governance Author(s): George Ramayya Add major elements Identity Security required for Blockchain Governance Author(s): Frank Albanese, Kenric Nelson Add major elements
 
