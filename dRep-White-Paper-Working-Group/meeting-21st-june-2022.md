@@ -250,7 +250,7 @@ Author(s): Aharon Porath, Kenric Nelson
 * Low level / Medium level / High level agreements -&#x20;
 * Different voting mechanism as building blocks for versatile governance&#x20;
 
-
+[25:17](https://www.youtube.com/watch?v=g0hppsP670k\&t=1517s) - Introduction - Kenric
 
 
 
