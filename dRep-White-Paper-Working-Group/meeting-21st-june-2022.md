@@ -266,9 +266,9 @@ So I will focus on these kinds of agreements as documents in the chapter we woul
 
 To give some very high level view of different kinds of governance needs or representative requirements
 
+28:13 - Kenric
 
-
-
+Thank you, Aaron, it very helpful to have a diagram like this. And if I can recap, what you are describing is you have kind of different levels of agreement that have to be made in your own process. And you're thinking that the high level agreements are the ones that have the most similarity with the Catalyst delegated representation process. Is that Is that fair ?
 
 
 
