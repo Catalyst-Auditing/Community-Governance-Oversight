@@ -10,12 +10,19 @@ description: Meeting 1 - Fund 8 - dRep White Paper Working Group Meeting
 | ------------------- | ----------------------------------------------------------------- |
 | Aharon Porath       | Consenz                                                           |
 | Frank Albanese      | [Snapbrilla](https://www.snapbrillia.com/)                        |
-| George Ramayya      |                                                                   |
 | Kenric Nelson       | [Photrek](https://photrek.world/)                                 |
 | Philip Lazos        | [IOG](https://iohk.io/jp/team/philip-lazos)                       |
 | Steph Macurdy       | [Wolfram Blockchain Labs](https://www.wolframblockchainlabs.com/) |
 | Stephen Whitenstall | [QADAO](https://quality-assurance-dao.github.io/)                 |
 | Thorsten Pottebaum  | adanamics ([linktree](https://linktr.ee/adanamics))               |
+
+### Apologies
+
+|                |   |
+| -------------- | - |
+| George Ramayya |   |
+|                |   |
+|                |   |
 
 ## Information
 
@@ -152,6 +159,8 @@ As I mentioned the way we're organizing the team is that myself, Thorsten and St
 There are some natural synergies so as we go forward we may change the arrangement a little bit. There also can be some overlap in terms of how we work together.&#x20;
 
 Presently the white paper has an introduction written during our literature review. For the moment I'm keeping that. but that's likely to change. It includes a little diagram of what liquid democracy is.
+
+![](https://lh4.googleusercontent.com/O1dkYEC\_aaQrkQLMZR1jWSGM8jnaYzmUXVUPIhjEBY-0Ab7dLUUaSKI\_A7dY-J9xg9Tt5qiFv14glwOpq-siIO8zn-3S6j37jKnp3YfMYCW4DV2FVR4D306IpfpcJnsw8NKZTPqQKPW3pLfGoA)
 
 
 
