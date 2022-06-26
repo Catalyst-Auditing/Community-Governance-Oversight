@@ -227,9 +227,11 @@ Something that could make sense as a section would be to explain the pros and co
 
 ### Process questions&#x20;
 
-22:10 - Stephen Whitenstall
+[22:10](https://www.youtube.com/watch?v=g0hppsP670k\&t=1330s) - Stephen Whitenstall
 
-Just picking up on first point, more generally, if we have Kenrick is the, if we take the whole thing as like a collection of different papers, are we saying then two to three pages. So in terms of just fulfilling people's expectations here, and then I knew I know, we need to go back to just sort of like exploring what that might mean summary look like. But then, as we go through a series of meetings, do we return each meeting to review our progress on the papers? Or do we review whether at the next meeting, for example, that level of detail is required, or we want to drop papers that kind of?
+Just picking up on Philip's point, more generally if we take the whole thing as like a collection of different papers are we saying then two to three pages ? In terms of being clear about people's expectations here.
+
+Practically, as we go through a series of meetings, do we return each meeting to review our progress on the papers ? Or do we review at the next meeting, for example, the level of detail that is required ?
 
 
 
