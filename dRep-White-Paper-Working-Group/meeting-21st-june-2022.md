@@ -302,9 +302,9 @@ I have been doing my own research on the Banzhaf power index which is the major 
 
 I came across a demonstration and a visualization for the Banzhaf index and calculating it inside Wolfram language.
 
-And so I met with the author along with Kendric and talked it out. The author has been working on a function which can be fed Catalyst data and spit out Banzhaf power indices for specfic entities.
+And so I met with the author along with Kendric and talked it out. The author has been working on a function which can be fed Catalyst data and spit out Banzhaf power indices for specific entities.
 
-So I think what the work now is for me is to figure out and just query the group like how, how do you fit what's happening in catalyst into A into into this function in order to spit out what the rankings are and then make sense of it.
+So the work now is to figure out how to query and group what's happening in Catalyst. How to fit Catalyst data into this function in order to spit out what the rankings are and then make sense of it.
 
 
 
