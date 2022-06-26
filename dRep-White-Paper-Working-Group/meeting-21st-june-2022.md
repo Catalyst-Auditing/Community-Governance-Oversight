@@ -176,7 +176,7 @@ And then the other extreme is if your probability is one, then you're a **dictat
 
 Steph Macurdy has worked with me on understanding a paper about Banzchaf power index voting power in delegated Rep voting systems. And he has also identified some Wolfram tools that have already been built to do this measurement.&#x20;
 
-Philip Lazos is the co author of an important paper that IOG published at the beginning of the year on blockchain governance. Overviewing lots of different systems (see )&#x20;
+Philip Lazos is the co author of an important paper that IOG published at the beginning of the year on blockchain governance. Overviewing lots of different systems (see [paper ](https://arxiv.org/abs/2201.07188)and [analysis](https://quality-assurance-dao.gitbook.io/ekphrasis/february-2022/blockchain-governance-principles))&#x20;
 
 ## Roles for each section - Discussion & commitments
 
