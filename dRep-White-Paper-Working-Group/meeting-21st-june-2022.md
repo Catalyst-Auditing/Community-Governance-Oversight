@@ -162,7 +162,7 @@ Presently the white paper has an introduction written during our literature revi
 
 The reason we're focused on this is because it is foundation for what is proposed as the delegated representative process for Catalyst. We are viewing our mission to identify what measurements need to be done to understand the integrity, dynamics and quality of the community's representation.&#x20;
 
-#### Banzchaf power index
+#### Banzhaf power index
 
 [13:10](https://www.youtube.com/watch?v=g0hppsP670k\&t=790s)
 
