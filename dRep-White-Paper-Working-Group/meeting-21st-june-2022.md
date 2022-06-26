@@ -254,6 +254,18 @@ Author(s): Aharon Porath, Kenric Nelson
 
 I would emphasize that this paper is focused on the delegated representation. You obviously have broader interests in terms of what consensus is trying to achieve. So within that context \[of delegated representation] can you describe some of the things that are of interest to you ?
 
+[26:12](https://www.youtube.com/watch?v=g0hppsP670k\&t=1572s) - Screenshare - Aharon Porath
+
+Yeah, I think I can I share my screen, maybe I can show you some skirts made? Preliminary but maybe it can give you some idea of where, where concerns can fit in to this to this effort, the senior discussion? Yes. Okay. So I've been thinking because content is an agreement building platform, and agreement in this case is a document. So we can divide those de government governance document to different different classification. And I try to think, which which voting method which governance method is the most suitable for the different levels, the different classification. And as you can see, I can for the low level maybe, or send one vote, one convert, one vote is one vote, maybe it's more suitable. But for the mid and high level, I can consider more direct democracy and liquid and representative democracy can be more applicable. So maybe if I will focus on those kinds of agreements of documents, in this in the chapters that we would write for this white paper, to give some very high a very general overview of different kinds of governance stateful needs or require representative, a representative, a voting representative, representative government, then a our, our effort of research or our general research will be a will, will be focused on the need of this specific white paper, this answer question? You're muted, you're muted.
+
+
+
+
+
+
+
+
+
 
 
 Measuring Voting Power in a Delegated Representative Process Author(s): Steph Macurdy Add major elements The role of Delegated Representation in Blockchain Governance Author(s): Philip Lazos Add major elements Forming consensus in governance documentation Author(s): Aharon Paroth, Kenric Nelson Add major elements Countering Winner Take All Governance Author(s): George Ramayya Add major elements Identity Security required for Blockchain Governance Author(s): Frank Albanese, Kenric Nelson Add major elements
