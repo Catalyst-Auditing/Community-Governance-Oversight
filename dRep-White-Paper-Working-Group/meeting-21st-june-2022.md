@@ -217,7 +217,7 @@ If we go back to the original title, "_Delegated representation in Cardano's Cat
 
 This is so the community has some understanding about how well the process is actually working. The introduction can be descriptive of delegated representation. But it would good to go beyond just being descriptive.
 
-&#x20;And I also would like your title to, to try to think about during testing, staffs gonna voting power, what's another property of delegated representation that needs to be measured, in order to assure quality and integrity in the process. Okay. And prove, you know, for instance, that might come from some of your experience and knowledge in game theory, or some some other aspect of your work in governance systems,
+And also apart from voting power what other properties of delegated representation need to be measured in order to assure quality and integrity in the process ? This might come from your experience and knowledge in game theory, or some some other aspect of your work in governance systems.
 
 
 
