@@ -149,6 +149,8 @@ Zotero library - https://www.zotero.org/groups/4305236/dao\_governance
 
 As I mentioned the way we're organizing the team is that myself, Thorsten and Stephen will act as editors of the whole white paper. And then each of you lead a section.
 
+There are some natural synergies so as we go forward we may change the arrangement a little bit.
+
 ## Roles for each section - Discussion & commitments
 
 * Each section will have a topic - owner of the topic
