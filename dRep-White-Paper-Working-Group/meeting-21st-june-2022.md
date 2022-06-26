@@ -225,6 +225,14 @@ And also apart from voting power what other properties of delegated representati
 
 Something that could make sense as a section would be to explain the pros and cons of delegated voting and liquid democracy. There is a bunch of papers in literature review that paint a negative picture of it. But this is under a very specific lens. And I could go into the most current literature. Consider how this might apply to Project Catalyst and why it probably does not. Hopefully this would be a way to show that this \[delegated voting] actually increases the relative power of smaller stakeholders rather than the opposite, which is the claimed result in some settings.
 
+### Process questions&#x20;
+
+22:10 - Stephen Whitenstall
+
+Just picking up on first point, more generally, if we have Kenrick is the, if we take the whole thing as like a collection of different papers, are we saying then two to three pages. So in terms of just fulfilling people's expectations here, and then I knew I know, we need to go back to just sort of like exploring what that might mean summary look like. But then, as we go through a series of meetings, do we return each meeting to review our progress on the papers? Or do we review whether at the next meeting, for example, that level of detail is required, or we want to drop papers that kind of?
+
+
+
 
 
 Measuring Voting Power in a Delegated Representative Process Author(s): Steph Macurdy Add major elements The role of Delegated Representation in Blockchain Governance Author(s): Philip Lazos Add major elements Forming consensus in governance documentation Author(s): Aharon Paroth, Kenric Nelson Add major elements Countering Winner Take All Governance Author(s): George Ramayya Add major elements Identity Security required for Blockchain Governance Author(s): Frank Albanese, Kenric Nelson Add major elements
