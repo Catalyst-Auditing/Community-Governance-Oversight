@@ -174,7 +174,7 @@ The two extremes are, if your probability is zero that means you're what's calle
 
 And then the other extreme is if your probability is one, then you're a **dictator** and you are actually making the choice for the committee about all of the decisions.&#x20;
 
-Steph Macurdy has worked with me on understanding a paper about Banzchaf power index voting power in delegated Rep voting systems. And he has also identified some Wolfram tools that have already been built to do this measurement.&#x20;
+Steph Macurdy has worked with me on understanding a paper about Banzchaf power index voting power in delegated Rep voting systems ("Power in Liquid Democracy"). And he has also identified some Wolfram tools that have already been built to do this measurement.&#x20;
 
 Philip Lazos is the co author of an important paper that IOG published at the beginning of the year on blockchain governance. Overviewing lots of different systems (see [paper ](https://arxiv.org/abs/2201.07188)and [analysis](https://quality-assurance-dao.gitbook.io/ekphrasis/february-2022/blockchain-governance-principles))&#x20;
 
