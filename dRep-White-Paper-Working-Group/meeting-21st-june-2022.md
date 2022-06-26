@@ -186,9 +186,7 @@ The the editors can also be co authors on some of the sections if they are plann
 
 A couple of you are already preparing contributions to a section and then also working together to build from that and put an independent white paper together on that topic. So Aharon Porath, is one case of that.&#x20;
 
-Finally Frank, and the Snapbrilla team are particularly interested what identity security is required for blockchain governance. Particularly once you move beyond one coin, one vote and require security about the identity of who's voting.
-
-&#x20;And so where they're building a quadratic voting funding system, this issue about preventing civil attacks is quite important. And again, there's another situation where Frank is joining to lead a section, and then I'll be working with his team to actually expand upon that for an independent white paper as well. And so why don't let's see stuffs not here. So maybe we'll start with Phillips, I'm here. Oh, you are a great, you just did you just join us stuff.
+Finally, Frank and the Snapbrilla team are particularly in interested what identity security is required for blockchain governance. Particularly once you move beyond one coin, one vote and require security about the identity of who is voting. Where Snapbrilla are building a quadratic voting funding system the issue of preventing Sybil attacks is also quite important.&#x20;
 
 ## Roles for each section - Discussion & commitments
 
