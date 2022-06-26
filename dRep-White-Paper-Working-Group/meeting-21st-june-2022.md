@@ -308,6 +308,14 @@ So the work now is to figure out how to query and group what's happening in Cata
 
 So I'm meeting with the Author again next week. And I'd be happy to explain the process of making the Banzhaf index a bit more hands on and workable. What I really need help on is how do we fit what's happening in Catalyst into a structure that we can query the Banzhaf index ? Because some of these things are created to look at a US presidential election. But we have different functionalities. And I don't know if we have all the data.
 
+36:11 - Kenric
+
+If you can do sort of a post analysis of Fund Four and Five data that is probably the most relevant. There is some data for Fund Three, but there was some unusual things that happened in that round.&#x20;
+
+If we focus on Fund Four and Five and you are able to provide analysis about the Banzhaf index for that round that would be a fantastic input to the kinds of things that are needed and we need to adapt in order to be able to measure this in a delegated representative process
+
+This is relevant to managing scope. For this round, what we want to do is identify what measurements need to be take done, and then provide supporting evidence of why that would be a valuable measurement.&#x20;
+
 
 
 Countering Winner Take All Governance Author(s): George Ramayya Add major elements Identity Security required for Blockchain Governance Author(s): Frank Albanese, Kenric Nelson Add major elements
