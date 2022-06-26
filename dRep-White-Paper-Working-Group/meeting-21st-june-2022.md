@@ -241,6 +241,17 @@ As we flesh these out it may not necessarily a good idea for just one person to 
 
 For instance, both Steph and Phillip are coming at this from the point of view of what Game Theory or Statistical Analysis can we bring to understanding how delegated representation works and what its pros and cons are. So they may decide to team up and be co authors. And it is fine to form teams. Some people may end up not having the scope for a whole chapter and we will have to adapt to that. But hopefully, we can have four to five sections.&#x20;
 
+### Forming consensus in governance documentation
+
+Author(s): Aharon Porath, Kenric Nelson
+
+* Consenz is documented oriented
+* Which voting/governance method is relevant
+* Low level / Medium level / High level agreements -&#x20;
+* Different voting mechanism as building blocks for versatile governance&#x20;
+
+
+
 
 
 Measuring Voting Power in a Delegated Representative Process Author(s): Steph Macurdy Add major elements The role of Delegated Representation in Blockchain Governance Author(s): Philip Lazos Add major elements Forming consensus in governance documentation Author(s): Aharon Paroth, Kenric Nelson Add major elements Countering Winner Take All Governance Author(s): George Ramayya Add major elements Identity Security required for Blockchain Governance Author(s): Frank Albanese, Kenric Nelson Add major elements
