@@ -306,6 +306,8 @@ And so I met with the author along with Kenric and talked it out. The author has
 
 So the work now is to figure out how to query and group what's happening in Catalyst. How to fit Catalyst data into this function in order to spit out what the rankings are and then make sense of it.
 
+So I'm meeting with the Author again next week. And I'd be happy to explain the process of making the Banzhaf index a bit more hands on and workable.
+
 
 
 Countering Winner Take All Governance Author(s): George Ramayya Add major elements Identity Security required for Blockchain Governance Author(s): Frank Albanese, Kenric Nelson Add major elements
