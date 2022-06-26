@@ -280,7 +280,13 @@ If I could just ask a question about scope. Would this represent a paper on how 
 
 29:42 - Aharon&#x20;
 
-I think that is a third option of how directly will we \[Consenz] participate in governance that is outside of the scope of funding.
+I think that is a third option of how directly will we \[Consenz] participate in governance that is outside of the scope of funding
+
+30:11 - Kenric
+
+So the focus here could be applications of delegated representation beyond proposal funding. The constraint is to make sure that your section fits within the focus of how we are going to measure the properties of delegated representation.&#x20;
+
+And, you know, so for instance, one measurement could be, you know, what does it facilitate, and so one function of governance is to produce reliable documents, right, that people trust, and people feel they had a voice in, forming.
 
 
 
