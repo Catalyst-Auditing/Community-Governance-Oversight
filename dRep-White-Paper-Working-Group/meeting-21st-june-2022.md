@@ -209,6 +209,16 @@ Discussion & commitments
 
 The length of the section will depend on available time. Given the title, "_The role of Delegated Representation in Blockchain Governance_" a couple pages explaining why delegated representation is useful, particularly for Project Catalyst. This is abstract enough to be applied to many settings that face similar challenges. So something of the length of a few pages and at a high level. I think that is possible but I don't know how much we want to expand and what the scope of it should be.
 
+19:13 - Kenric
+
+I do want to be sensitive to this being of limited scope. We can always do more in another funding round if there is community interest and support for that. But as you described, if you can write two to three pages.&#x20;
+
+If we go back to the original title, "_Delegated representation in Cardano's Catalyst governance_", and actually I think we're going to add a subtitle here to emphasize where the proper focus is, which is "_What I aspects of delegated representation needs to be measured ?_"
+
+. So that you, so the community has some understanding about how well the process is actually working. So I don't want, you know, the like the introduction, of course, can be descriptive of delegated representation. But I want to get a little bit beyond just being descriptive. And I also would like your title to, to try to think about during testing, staffs gonna voting power, what's another property of delegated representation that needs to be measured, in order to assure quality and integrity in the process. Okay. And prove, you know, for instance, that might come from some of your experience and knowledge in game theory, or some some other aspect of your work in governance systems,
+
+
+
 
 
 Measuring Voting Power in a Delegated Representative Process Author(s): Steph Macurdy Add major elements The role of Delegated Representation in Blockchain Governance Author(s): Philip Lazos Add major elements Forming consensus in governance documentation Author(s): Aharon Paroth, Kenric Nelson Add major elements Countering Winner Take All Governance Author(s): George Ramayya Add major elements Identity Security required for Blockchain Governance Author(s): Frank Albanese, Kenric Nelson Add major elements
