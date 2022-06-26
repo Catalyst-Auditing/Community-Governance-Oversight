@@ -149,7 +149,11 @@ Zotero library - https://www.zotero.org/groups/4305236/dao\_governance
 
 As I mentioned the way we're organizing the team is that myself, Thorsten and Stephen will act as editors of the whole white paper. And then each of you lead a section.
 
-There are some natural synergies so as we go forward we may change the arrangement a little bit.
+There are some natural synergies so as we go forward we may change the arrangement a little bit. There also can be some overlap in terms of how we work together.&#x20;
+
+Presently the white paper has an introduction written during our literature review. For the moment I'm keeping that. but that's likely to change. It includes a little diagram of what liquid democracy is.
+
+
 
 ## Roles for each section - Discussion & commitments
 
