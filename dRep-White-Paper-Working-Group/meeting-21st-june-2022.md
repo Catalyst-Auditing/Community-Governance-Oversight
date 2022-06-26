@@ -21,8 +21,6 @@ description: Meeting 1 - Fund 8 - dRep White Paper Working Group Meeting
 |                |   |
 | -------------- | - |
 | George Ramayya |   |
-|                |   |
-|                |   |
 
 ## Information
 
