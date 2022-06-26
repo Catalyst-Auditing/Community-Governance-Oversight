@@ -192,6 +192,8 @@ Finally, Frank and the Snapbrilla team are particularly in interested what ident
 
 Discussion & commitments
 
+[18:03](https://www.youtube.com/watch?v=g0hppsP670k\&t=1083s) - Kenric
+
 * Each section will have a topic - owner of the topic
 * Provisional commitments for each section.
 
@@ -203,7 +205,9 @@ Discussion & commitments
 * Current literature; application to Catalyst
 * Show increases relative power of smaller stakeholders
 
+[18:21](https://www.youtube.com/watch?v=g0hppsP670k\&t=1101s) - Philip Lazos
 
+So it all depends on how much available time I'm going to have, and how long the session this section will be. So given the title, I can think of a few things to say, off the order of a couple pages explaining why like delegated representation is useful, particularly for Project catalysts. But this is basically abstract enough to be applied to too many settings that face similar challenges. So something of this sort of length and at a high level, I think is it's possible that I don't know how much we want to expand and what the scope of it should be.
 
 
 
