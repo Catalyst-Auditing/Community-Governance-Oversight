@@ -294,7 +294,7 @@ Last time  we had brainstorming about inputs and outputs. So I am going to add t
 
 Author(s): Steph Macurdy&#x20;
 
-
+[32:18](https://www.youtube.com/watch?v=g0hppsP670k\&t=1938s) - Introduction - Kenric -&#x20;
 
 
 
