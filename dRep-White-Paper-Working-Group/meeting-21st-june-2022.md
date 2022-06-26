@@ -254,7 +254,7 @@ Author(s): Aharon Porath, Kenric Nelson
 
 I would emphasize that this paper is focused on the delegated representation. You obviously have broader interests in terms of what consensus is trying to achieve. So within that context \[of delegated representation] can you describe some of the things that are of interest to you ?
 
-[26:12](https://www.youtube.com/watch?v=g0hppsP670k\&t=1572s) - Screenshare - Aharon Porath
+[26:12](https://www.youtube.com/watch?v=g0hppsP670k\&t=1572s) - Screenshare - Aharon
 
 Because Consenz is an agreement building platform and agreement in this case is a document. So we can divide those governance documents to different different classifications.&#x20;
 
@@ -270,7 +270,9 @@ To give some very high level view of different kinds of governance needs or repr
 
 Thank you, Aaron, it very helpful to have a diagram like this. And if I can recap, what you are describing is you have kind of different levels of agreement that have to be made in your own process. And you're thinking that the high level agreements are the ones that have the most similarity with the Catalyst delegated representation process. Is that Is that fair ?
 
+28:43 - Aharon
 
+It is more like a suggested process for a DAO in Catalyst in this case, that Consenz can can provide.
 
 
 
