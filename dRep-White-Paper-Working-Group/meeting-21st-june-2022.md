@@ -252,6 +252,8 @@ Author(s): Aharon Porath, Kenric Nelson
 
 [25:17](https://www.youtube.com/watch?v=g0hppsP670k\&t=1517s) - Introduction - Kenric
 
+I would emphasize that this paper is focused on the delegated representation. You obviously have broader interests in terms of what consensus is trying to achieve. So within that context \[of delegated representation] can you describe some of the things that are of interest to you ?
+
 
 
 Measuring Voting Power in a Delegated Representative Process Author(s): Steph Macurdy Add major elements The role of Delegated Representation in Blockchain Governance Author(s): Philip Lazos Add major elements Forming consensus in governance documentation Author(s): Aharon Paroth, Kenric Nelson Add major elements Countering Winner Take All Governance Author(s): George Ramayya Add major elements Identity Security required for Blockchain Governance Author(s): Frank Albanese, Kenric Nelson Add major elements
