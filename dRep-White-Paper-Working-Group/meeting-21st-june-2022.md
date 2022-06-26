@@ -306,7 +306,7 @@ And so I met with the author along with Kenric and talked it out. The author has
 
 So the work now is to figure out how to query and group what's happening in Catalyst. How to fit Catalyst data into this function in order to spit out what the rankings are and then make sense of it.
 
-So I'm meeting with the Author again next week. And I'd be happy to explain the process of making the Banzhaf index a bit more hands on and workable.
+So I'm meeting with the Author again next week. And I'd be happy to explain the process of making the Banzhaf index a bit more hands on and workable. What I really need help on is how do we fit what's happening in Catalyst into a structure that we can query the Banzhaf index ? Because some of these things are created to look at a US presidential election. But we have different functionalities. And I don't know if we have all the data.
 
 
 
