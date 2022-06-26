@@ -298,7 +298,7 @@ Author(s): Steph Macurdy&#x20;
 
 32:53 - Steph
 
-I have been doing my own research on the Banzhaf power index, which is, the major index. There is also a Shapley index as well, which I haven't looked much into. The Banzhaf power index is where we want to begin in terms of measuring voting power within Catalyst.
+I have been doing my own research on the Banzhaf power index, which is, the major index. There is also a [Shapley index ](https://en.wikipedia.org/wiki/Shapley%E2%80%93Shubik\_power\_index)as well, which I haven't looked much into. The Banzhaf power index is where we want to begin in terms of measuring voting power within Catalyst.
 
 
 
