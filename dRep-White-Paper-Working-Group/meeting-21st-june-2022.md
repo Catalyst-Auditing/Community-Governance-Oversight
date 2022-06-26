@@ -207,7 +207,7 @@ Discussion & commitments
 
 [18:21](https://www.youtube.com/watch?v=g0hppsP670k\&t=1101s) - Philip Lazos
 
-The length of the section will depend on available time. Given the title, "_The role of Delegated Representation in Blockchain Governance_" a couple pages explaining why delegated representation is useful, particularly for Project Catalyst. This is abstract enough to be applied to many settings that face similar challenges. So something of the length of a few pages and at a high level. I think is that is possible but I don't know how much we want to expand and what the scope of it should be.
+The length of the section will depend on available time. Given the title, "_The role of Delegated Representation in Blockchain Governance_" a couple pages explaining why delegated representation is useful, particularly for Project Catalyst. This is abstract enough to be applied to many settings that face similar challenges. So something of the length of a few pages and at a high level. I think that is possible but I don't know how much we want to expand and what the scope of it should be.
 
 
 
