@@ -274,7 +274,9 @@ Thank you, Aaron, it very helpful to have a diagram like this. And if I can reca
 
 It is more like a suggested process for a DAO in Catalyst in this case, that Consenz can can provide.
 
+29:04 - Stephen
 
+If I could just ask a question about scope. Would this represent a paper on how dReps should be  documented ? Or are you proposing to use this procedure to document our white paper ?
 
 
 
