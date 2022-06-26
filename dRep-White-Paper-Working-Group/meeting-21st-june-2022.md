@@ -258,7 +258,9 @@ I would emphasize that this paper is focused on the delegated representation. Yo
 
 Because Consenz is an agreement building platform and agreement in this case is a document. So we can divide those governance documents to different different classifications.&#x20;
 
-And I try to think, which which voting method which governance method is the most suitable for the different levels, the different classification. And as you can see, I can for the low level maybe, or send one vote, one convert, one vote is one vote, maybe it's more suitable. But for the mid and high level, I can consider more direct democracy and liquid and representative democracy can be more applicable. So maybe if I will focus on those kinds of agreements of documents, in this in the chapters that we would write for this white paper, to give some very high a very general overview of different kinds of governance stateful needs or require representative, a representative, a voting representative, representative government, then a our, our effort of research or our general research will be a will, will be focused on the need of this specific white paper, this answer question? You're muted, you're muted.
+And I try to think which voting or governance method is the most suitable for the different levels and classifications.
+
+&#x20;And as you can see, I can for the low level maybe, or send one vote, one convert, one vote is one vote, maybe it's more suitable. But for the mid and high level, I can consider more direct democracy and liquid and representative democracy can be more applicable. So maybe if I will focus on those kinds of agreements of documents, in this in the chapters that we would write for this white paper, to give some very high a very general overview of different kinds of governance stateful needs or require representative, a representative, a voting representative, representative government, then a our, our effort of research or our general research will be a will, will be focused on the need of this specific white paper, this answer question? You're muted, you're muted.
 
 
 
