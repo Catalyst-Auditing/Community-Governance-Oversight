@@ -278,7 +278,9 @@ It is more like a suggested process for a DAO in Catalyst in this case, that Con
 
 If I could just ask a question about scope. Would this represent a paper on how dReps should be  documented ? Or are you proposing to use this procedure to document our white paper ?
 
+29:42 - Aharon&#x20;
 
+I think that is a third option of how directly will we \[Consenz] participate in governance that is outside of the scope of funding.
 
 
 
