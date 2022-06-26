@@ -28,6 +28,8 @@ description: Meeting 1 - Fund 8 - dRep White Paper Working Group Meeting
 
 [https://quality-assurance-dao.gitbook.io/community-governance-oversight/](https://quality-assurance-dao.gitbook.io/community-governance-oversight/)
 
+Documentation funded by [Fund 7 - QA-DAO Transcription Service](https://cardano.ideascale.com/c/idea/383492)
+
 #### Meeting GitHub Task
 
 https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/71
