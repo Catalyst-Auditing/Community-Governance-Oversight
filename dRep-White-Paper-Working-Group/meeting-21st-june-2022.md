@@ -174,7 +174,9 @@ The two extremes are, if your probability is zero that means you're what's calle
 
 And then the other extreme is if your probability is one, then you're a **dictator** and you are actually making the choice for the committee about all of the decisions.&#x20;
 
-Authors, editors and co-authors
+#### Authors, editors and co-authors
+
+[14:59](https://www.youtube.com/watch?v=g0hppsP670k\&t=899s)
 
 Steph Macurdy has worked with me on understanding a paper about Banzchaf power index voting power in delegated Rep voting systems ("[Power in Liquid Democracy](https://www.aaai.org/AAAI21Papers/AAAI-7700.ZhangY.pdf)"). And he has also identified some Wolfram tools that have already been built to do this measurement.&#x20;
 
@@ -182,7 +184,7 @@ Philip Lazos is the co author of an important paper that IOG published at the be
 
 The the editors can also be co authors on some of the sections if they are planning to dig into a particular section and contribute writing to it.&#x20;
 
-A couple of you are already preparing ontributing to a section and then also working together to build from that and put an independent white paper together on that topic.\
+A couple of you are already preparing contributions to a section and then also working together to build from that and put an independent white paper together on that topic.\
 
 
 &#x20;So Aaron, is one case of that. And I'll come back to Georgia since he's not here. And that's still a little bit vague in terms of how it's defined. And the final one is Frank, and the snap brilla team are particularly interested in identity security that's required for blockchain governance, particularly because once you move beyond one coin, one vote, you require security about the identity of who's voting. And so where they're building a quadratic voting funding system, this issue about preventing civil attacks is quite important. And again, there's another situation where Frank is joining to lead a section, and then I'll be working with his team to actually expand upon that for an independent white paper as well. And so why don't let's see stuffs not here. So maybe we'll start with Phillips, I'm here. Oh, you are a great, you just did you just join us stuff.
