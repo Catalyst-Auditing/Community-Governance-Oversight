@@ -294,11 +294,11 @@ Last time  we had brainstorming about inputs and outputs. So I am going to add t
 
 Author(s): Steph Macurdy&#x20;
 
-[32:18](https://www.youtube.com/watch?v=g0hppsP670k\&t=1938s) - Introduction - Kenric -&#x20;
+[32:18](https://www.youtube.com/watch?v=g0hppsP670k\&t=1938s) - Introduction - Kenric
 
+32:53 - Steph
 
-
-
+I have been doing my own research on the Banzhaf power index, which is, the major index. There is also a Shapley index as well, which I haven't looked much into. The Banzhaf power index is where we want to begin in terms of measuring voting power within Catalyst.
 
 
 
