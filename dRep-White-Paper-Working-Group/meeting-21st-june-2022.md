@@ -288,6 +288,12 @@ So the focus here could be applications of delegated representation beyond propo
 
 For instance, one measurement could be how to facilitate the function of governance to produce reliable documents. That people trust, and feel they have a voice in forming.
 
+Last time  we had brainstorming about inputs and outputs. So I am going to add the ability to generate consensus documents. Such as a constitution, or guidelines to this as an output.&#x20;
+
+
+
+
+
 
 
 Measuring Voting Power in a Delegated Representative Process Author(s): Steph Macurdy Add major elements The role of Delegated Representation in Blockchain Governance Author(s): Philip Lazos Add major elements Forming consensus in governance documentation Author(s): Aharon Paroth, Kenric Nelson Add major elements Countering Winner Take All Governance Author(s): George Ramayya Add major elements Identity Security required for Blockchain Governance Author(s): Frank Albanese, Kenric Nelson Add major elements
