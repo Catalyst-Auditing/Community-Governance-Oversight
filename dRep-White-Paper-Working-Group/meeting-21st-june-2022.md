@@ -262,7 +262,9 @@ And I try to think which voting or governance method is the most suitable for th
 
 For the low level one coin, one vote is more suitable. But for the mid and high level, I consider direct democracy, liquid and representative democracy to be more applicable.&#x20;
 
-So maybe if I will focus on those kinds of agreements of documents, in this in the chapters that we would write for this white paper, to give some very high a very general overview of different kinds of governance stateful needs or require representative, a representative, a voting representative, representative government, then a our, our effort of research or our general research will be a will, will be focused on the need of this specific white paper, this answer question? You're muted, you're muted.
+So I will focus on these kinds of agreements as documents in the chapter we would write for this white paper.&#x20;
+
+To give some very high a very general overview of different kinds of governance stateful needs or require representative, a representative, a voting representative, representative government, then a our, our effort of research or our general research will be a will, will be focused on the need of this specific white paper, this answer question? You're muted, you're muted.
 
 
 
