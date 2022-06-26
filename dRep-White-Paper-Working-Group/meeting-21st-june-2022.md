@@ -223,7 +223,7 @@ And also apart from voting power what other properties of delegated representati
 
 21:12 - Philip Lazos
 
-or something that could possibly make sense as a section would be to explain the pros and cons of delegated voting and liquid democracy. Like there's a bunch of papers in literature review that paint a negative picture of it. But this is under a very specific lens. And I could go into what the sort of most current literature is, how this might apply to project catalyst, why it probably doesn't. And what we hope would be a way to show that this actually increases the sort of relative power of the smaller stakeholders rather than the opposite, which is the claim result in some settings.
+Something that could make sense as a section would be to explain the pros and cons of delegated voting and liquid democracy. There is a bunch of papers in literature review that paint a negative picture of it. But this is under a very specific lens. And I could go into the most current literature. Consider how this might apply to Project Catalyst and why it probably does not. Hopefully this would be a way to show that this \[delegated voting] actually increases the relative power of smaller stakeholders rather than the opposite, which is the claimed result in some settings.
 
 
 
