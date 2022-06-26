@@ -286,7 +286,7 @@ I think that is a third option of how directly will we \[Consenz] participate in
 
 So the focus here could be applications of delegated representation beyond proposal funding. The constraint is to make sure that your section fits within the focus of how we are going to measure the properties of delegated representation.&#x20;
 
-And, you know, so for instance, one measurement could be, you know, what does it facilitate, and so one function of governance is to produce reliable documents, right, that people trust, and people feel they had a voice in, forming.
+For instance, one measurement could be how to facilitate the function of governance to produce reliable documents. That people trust, and feel they have a voice in forming.
 
 
 
