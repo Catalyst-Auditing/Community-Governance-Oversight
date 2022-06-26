@@ -215,7 +215,9 @@ I do want to be sensitive to this being of limited scope. We can always do more 
 
 If we go back to the original title, "_Delegated representation in Cardano's Catalyst governance_", and actually I think we're going to add a subtitle here to emphasize where the proper focus is, which is "_What I aspects of delegated representation needs to be measured ?_"
 
-. So that you, so the community has some understanding about how well the process is actually working. So I don't want, you know, the like the introduction, of course, can be descriptive of delegated representation. But I want to get a little bit beyond just being descriptive. And I also would like your title to, to try to think about during testing, staffs gonna voting power, what's another property of delegated representation that needs to be measured, in order to assure quality and integrity in the process. Okay. And prove, you know, for instance, that might come from some of your experience and knowledge in game theory, or some some other aspect of your work in governance systems,
+This is so the community has some understanding about how well the process is actually working. The introduction can be descriptive of delegated representation. But it would good to go beyond just being descriptive.
+
+&#x20;And I also would like your title to, to try to think about during testing, staffs gonna voting power, what's another property of delegated representation that needs to be measured, in order to assure quality and integrity in the process. Okay. And prove, you know, for instance, that might come from some of your experience and knowledge in game theory, or some some other aspect of your work in governance systems,
 
 
 
