@@ -233,7 +233,13 @@ Just picking up on Philip's point, more generally if we take the whole thing as 
 
 Practically, as we go through a series of meetings, do we return each meeting to review our progress on the papers ? Or do we review at the next meeting, for example, the level of detail that is required ?
 
+23:01 - Kenric
 
+Each section should be somewhere between two to five pages, depending on the scope that someone wants to dig into this. Each lead author is bringing a capability to the table, both from their personal experience and the company that they represent.&#x20;
+
+As we flesh these out it may not necessarily a good idea for just one person to write a section by themselves. They will have editorial support for sure and there will be reviewers at a later stage. But there might also be some overlap.&#x20;
+
+For instance, both Steph and Phillip are coming at this from the point of view of what Game Theory or Statistical Analysis can we bring to understanding how delegated representation works and what its pros and cons are. So they may decide to team up and be co authors. And it is fine to form teams. Some people may end up not having the scope for a whole chapter and we will have to adapt to that. But hopefully, we can have four to five sections.&#x20;
 
 
 
