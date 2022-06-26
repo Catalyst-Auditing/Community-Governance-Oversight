@@ -304,7 +304,7 @@ I came across a demonstration and a visualization for the Banzhaf index and calc
 
 And so I met with the author along with Kendric and talked it out. The author has been working on a function which can be fed Catalyst data and spit out Banzhaf power indices for specfic entities.
 
-
+So I think what the work now is for me is to figure out and just query the group like how, how do you fit what's happening in catalyst into A into into this function in order to spit out what the rankings are and then make sense of it.
 
 
 
