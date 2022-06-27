@@ -292,7 +292,13 @@ Last time  we had brainstorming about inputs and outputs. So I am going to add t
 
 ### Measuring Voting Power in a Delegated Representative Process&#x20;
 
-Author(s): Steph Macurdy&#x20;
+Author(s): Steph Macurdy
+
+* Banzoff Index - major index; Shapley index
+* Measuring voting power within Catalyst
+* Demo/Visualization within Wolfram Language
+* Author will adapt for Catalyst data
+* Query Catalyst data into Banzoff function
 
 [32:18](https://www.youtube.com/watch?v=g0hppsP670k\&t=1938s) - Introduction - Kenric
 
