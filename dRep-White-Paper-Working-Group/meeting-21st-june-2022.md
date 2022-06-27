@@ -358,7 +358,9 @@ Where systems are one person per vote, you get into forms of identity.&#x20;
 
 Verification, starts simply, as per Catalyst Circle in person election Zoom calls, all the way up the spectrum to like deeper forms of KYC (Know Your Customer) auth processes.&#x20;
 
-And with plutocratic, you know you have this one coin, one vote. There are many ways to gain a system like this. And we can document this from a technical perspective but also through the lens of reputation and identity. We can get into the issuer holder model through Hyperledger aries and then prism. And then when it comes to meritocratic, you know, how do you game a reputation system, we can talk about attack vectors for different SSI paradigms. That includes the reputation and verifibaility of issuers themselves. And how do you defend against basically bad actors becoming issuers in a kind of a complex attack vector on the sun? So I think on these kind of three topics, through these three lenses, we could provide some meaningful research
+With plutocratic voting, you have one coin, one vote. There are many ways to game a system like this. And we can document this from a technical perspective through the lens of reputation and identity. We can get into the issuer holder model through Hyperledger aries and then Atala prism.&#x20;
+
+And then when it comes to meritocratic, you know, how do you game a reputation system, we can talk about attack vectors for different SSI paradigms. That includes the reputation and verifibaility of issuers themselves. And how do you defend against basically bad actors becoming issuers in a kind of a complex attack vector on the sun? So I think on these kind of three topics, through these three lenses, we could provide some meaningful research
 
 ## Wrap up / Conclusions - Kenric
 
