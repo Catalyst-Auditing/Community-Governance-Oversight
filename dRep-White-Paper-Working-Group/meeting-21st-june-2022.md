@@ -252,6 +252,12 @@ Author(s): Aharon Porath, Kenric Nelson
 * Low / Medium / High level agreements -&#x20;
 * Different voting mechanism as building blocks for versatile governance&#x20;
 
+#### Miro board
+
+[Miro board link](https://miro.com/app/board/uXjVON\_uybI=/)&#x20;
+
+![](../.gitbook/assets/consenz.png)
+
 [25:17](https://www.youtube.com/watch?v=g0hppsP670k\&t=1517s) - Introduction - Kenric
 
 I would emphasize that this paper is focused on the delegated representation. You obviously have broader interests in terms of what consensus is trying to achieve. So within that context \[of delegated representation] can you describe some of the things that are of interest to you ?
