@@ -368,6 +368,14 @@ Two to five pages will be a challenge. So we will condense our our most impactfu
 
 Yeah, I think that's best for this white paper given how it has to fit into the others. But then again, for each of you, this can be a launching point for an independent white paper that expands upon what you're discussing here.
 
+44:06 - Stephen W
+
+Just to supplement what Kenric just said, there could be a further reading or further detail.&#x20;
+
+I think part of what we're doing here in a way is also governance, because this is part of the community governance oversight proposal. This is a proof of concept that people from different parts of the community can work together on this, and hopefully we can. It is very interesting material.&#x20;
+
+So it'd be like a taster. And hopefully we can then feed that into a Catalyst Town Hall presentation or something and just say, Look, this is what we've done. This is what we've covered, so it can also be a showcase for collaboration, and a showcase for each of our individual contributions.
+
 ## Wrap up / Conclusions - Kenric
 
 ## Any Other Business - Stephen W
