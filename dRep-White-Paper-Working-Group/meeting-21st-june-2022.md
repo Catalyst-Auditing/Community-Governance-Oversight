@@ -344,6 +344,12 @@ Author(s): Frank Albanese, Kenric Nelson
 
 I am really enjoying the ideas being shared here. I will add that if you need assistance with querying, you know, a test net. We're pretty proficient now in Blockfrost. And we're consuming the Dandelion solution through gimbalabs for querying this kind of data. Happy to collaborate on the technical side with the information gathering if need be.
 
+The way I view this section is broken down into three categories. And Aaron earlier actually had a slide that mentioned some details on these three categories.&#x20;
+
+It's democratic, where it is one person per vote, plutocratic, where it is one coin per vote, and then meritocratic, where it is a reputation point per vote.&#x20;
+
+And I think within each of these categories, it might be helpful to view it through three different lenses from a prospective identity, reputation, and then technical systems design. And as to include like quadratic voting systems, for instance, is one of those lines of thought. And then within each of these lenses per these three categories, we can break down the security measures and the different attack vectors that bad actors could pursue, and the defense mechanisms for each that we can at least document with recent research and then going into the future. Where systems like for instance, with one person per vote, you get into forms of identity. Verification, this starts simply, at as mentioned earlier, Kendrick, like you talked about the Zoom calls, that we're going on with circle all the way up to the spectrum to like deeper forms of KYC auth persona. And with plutocratic, you know you have this one coin, one vote. There are many ways to gain a system like this. And we can document this from a technical perspective but also through the lens of reputation and identity. We can get into the issuer holder model through Hyperledger aries and then prism. And then when it comes to meritocratic, you know, how do you game a reputation system, we can talk about attack vectors for different SSI paradigms. That includes the reputation and verifibaility of issuers themselves. And how do you defend against basically bad actors becoming issuers in a kind of a complex attack vector on the sun? So I think on these kind of three topics, through these three lenses, we could provide some meaningful research
+
 ## Wrap up / Conclusions - Kenric
 
 ## Any Other Business - Stephen W
