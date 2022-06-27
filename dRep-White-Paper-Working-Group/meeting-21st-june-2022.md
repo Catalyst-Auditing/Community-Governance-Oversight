@@ -326,9 +326,17 @@ In terms of data the voting power of wallets is the most important thing. And ha
 
 We have the wallet distributions in terms of the number, the amount of ADA that was in each wallet and we also have the outcomes of the elections. But we don't have what each wallet voted on.
 
+### Identity Security required for Blockchain Governance
 
+Author(s): Frank Albanese, Kenric Nelson
 
-Countering Winner Take All Governance Author(s): George Ramayya Add major elements Identity Security required for Blockchain Governance Author(s): Frank Albanese, Kenric Nelson Add major elements
+* Methods
+* Democratic - one person - one vote
+* Plutocratic - one coin - one vote
+* Meritcratic - reputation system
+* Attack vectors for each method
+* Reputations; identity;
+* SSI & DID technologies
 
 ## Wrap up / Conclusions - Kenric
 
