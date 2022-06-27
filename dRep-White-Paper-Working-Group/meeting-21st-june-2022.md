@@ -390,9 +390,11 @@ After Town Hall to launch and recruit reviewers of White paper
 
 ## References
 
-I found this video very helpful in calculating the Banzhaf Index, simplified: https://www.youtube.com/watch?v=sdWgGzetdWI\&t=87s
+### Calculating the Banzhaf Index, simplified:&#x20;
 
-linktr.ee/adanamics
+{% embed url="https://www.youtube.com/watch?t=87s&v=sdWgGzetdWI" %}
+
+
 
 ## Actions
 
