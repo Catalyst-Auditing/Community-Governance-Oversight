@@ -386,7 +386,9 @@ Calendar invites Zoom and Google invite with Agenda links 21st June 2022 - 1700 
 
 ## After Town Hall - Kenric
 
-After Town Hall to launch and recruit reviewers of White paper
+{% hint style="info" %}
+After Town Hall to launch and recruit reviewers of White paper - July 2022
+{% endhint %}
 
 ## References
 
