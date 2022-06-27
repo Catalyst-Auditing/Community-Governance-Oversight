@@ -342,7 +342,7 @@ Author(s): Frank Albanese, Kenric Nelson
 
 40:33 - Frank&#x20;
 
-I am really enjoying the ideas being shared here. I will add that if you need assistance with querying, you know, a test net. We're pretty proficient now in Blockfrost. And we're consuming the Dandelion solution through gimbalabs for querying this kind of data. Happy to collaborate on the technical side with the information gathering if need be.
+I am really enjoying the ideas being shared here. I will add that if you need assistance with querying, you know, a test net. We're pretty proficient now in Blockfrost. And we're consuming the Dandelion solution through [gimbalabs ](https://gimbalabs.com/gimbalgrid)for querying this kind of data. Happy to collaborate on the technical side with the information gathering if need be.
 
 The way I view this section is broken down into three categories. And Aaron earlier actually had a slide that mentioned some details on these three categories.&#x20;
 
