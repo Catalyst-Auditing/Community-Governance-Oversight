@@ -360,7 +360,7 @@ Verification, starts simply, as per Catalyst Circle in person election Zoom call
 
 With plutocratic voting, you have one coin, one vote. There are many ways to game a system like this. And we can document this from a technical perspective through the lens of reputation and identity. We can get into the issuer holder model through Hyperledger aries and then Atala prism.&#x20;
 
-And then when it comes to meritocratic, you know, how do you game a reputation system, we can talk about attack vectors for different SSI paradigms. That includes the reputation and verifibaility of issuers themselves. And how do you defend against basically bad actors becoming issuers in a kind of a complex attack vector on the sun? So I think on these kind of three topics, through these three lenses, we could provide some meaningful research
+And when it comes to meritocratic voting, how do you game a reputation system ? We can talk about attack vectors for different SSI paradigms. That includes the reputation and verifibaility of issuers themselves. And how do you defend against bad actors becoming issuers in a kind of a complex attack vector ? So I think these kind of three topics, through these three lenses, could provide some meaningful research.
 
 ## Wrap up / Conclusions - Kenric
 
