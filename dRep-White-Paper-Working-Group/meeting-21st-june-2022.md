@@ -316,6 +316,8 @@ If we focus on Fund Four and Five and you are able to provide analysis about the
 
 This is relevant to managing scope. For this round, what we want to do is identify what measurements need to be take done, and then provide supporting evidence of why that would be a valuable measurement.&#x20;
 
+In terms of data the voting power of wallets is the most important thing. And have separate from that the actual outcomes. The Banzhaf index gives you the combinatorial analysis of all the possible outcomes. But as discussed, we're going to have to scope that down a little bit. So we can compare these combinations with what happened those funding rounds.
+
 
 
 Countering Winner Take All Governance Author(s): George Ramayya Add major elements Identity Security required for Blockchain Governance Author(s): Frank Albanese, Kenric Nelson Add major elements
