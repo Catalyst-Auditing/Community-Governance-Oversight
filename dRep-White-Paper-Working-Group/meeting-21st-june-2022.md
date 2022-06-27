@@ -338,6 +338,8 @@ Author(s): Frank Albanese, Kenric Nelson
 * Reputations; identity;
 * SSI & DID technologies
 
+[40:18](https://www.youtube.com/watch?v=g0hppsP670k\&t=2418s) - Introduction  - Kenric
+
 ## Wrap up / Conclusions - Kenric
 
 ## Any Other Business - Stephen W
