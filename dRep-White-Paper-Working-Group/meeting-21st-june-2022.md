@@ -352,9 +352,13 @@ And within each of these categories, it might be helpful to view it through thre
 
 And also to include like quadratic voting systems, for instance, is one of those lines of thought.&#x20;
 
-And then within each of these lenses per each three categories, we can break down the security measures and the different attack vectors that bad actors could pursue, and the defense mechanisms for each that we can at least document with recent research and going into the future.&#x20;
+And then within each of these lenses, per each three categories, we can break down the security measures and the different attack vectors that bad actors can pursue, and the defense mechanisms for each that we can document with recent research and going into the future.&#x20;
 
-Where systems like for instance, with one person per vote, you get into forms of identity. Verification, this starts simply, at as mentioned earlier, Kendrick, like you talked about the Zoom calls, that we're going on with circle all the way up to the spectrum to like deeper forms of KYC auth persona. And with plutocratic, you know you have this one coin, one vote. There are many ways to gain a system like this. And we can document this from a technical perspective but also through the lens of reputation and identity. We can get into the issuer holder model through Hyperledger aries and then prism. And then when it comes to meritocratic, you know, how do you game a reputation system, we can talk about attack vectors for different SSI paradigms. That includes the reputation and verifibaility of issuers themselves. And how do you defend against basically bad actors becoming issuers in a kind of a complex attack vector on the sun? So I think on these kind of three topics, through these three lenses, we could provide some meaningful research
+Where systems are one person per vote, you get into forms of identity.&#x20;
+
+Verification, starts simply, as per Catalyst Circle in person election Zoom calls, all the way up the spectrum to like deeper forms of KYC (Know Your Customer) auth processes.&#x20;
+
+And with plutocratic, you know you have this one coin, one vote. There are many ways to gain a system like this. And we can document this from a technical perspective but also through the lens of reputation and identity. We can get into the issuer holder model through Hyperledger aries and then prism. And then when it comes to meritocratic, you know, how do you game a reputation system, we can talk about attack vectors for different SSI paradigms. That includes the reputation and verifibaility of issuers themselves. And how do you defend against basically bad actors becoming issuers in a kind of a complex attack vector on the sun? So I think on these kind of three topics, through these three lenses, we could provide some meaningful research
 
 ## Wrap up / Conclusions - Kenric
 
