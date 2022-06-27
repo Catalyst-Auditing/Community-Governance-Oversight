@@ -398,9 +398,13 @@ After Town Hall to launch and recruit reviewers of White paper
 
 ## Actions
 
-Detailed Outline
+{% hint style="info" %}
+Please prepare Detailed Outline of your section for next meeting - All
+{% endhint %}
 
-Different section in Zotero for F8
+{% hint style="info" %}
+Create a Different section in Zotero for F8 - Thorsten
+{% endhint %}
 
 ## Informal end - Stop Recording
 
