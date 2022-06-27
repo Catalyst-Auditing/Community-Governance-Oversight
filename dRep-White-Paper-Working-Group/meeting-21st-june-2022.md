@@ -364,6 +364,8 @@ And when it comes to meritocratic voting, how do you game a reputation system ? 
 
 Two to five pages will be a challenge. So we will condense our our most impactful thoughts into two to five pages. If that is the goal here ?
 
+### Wrap up / Conclusions
+
 43:46 - Kenric
 
 Yeah, I think that's best for this white paper given how it has to fit into the others. But then again, for each of you, this can be a launching point for an independent white paper that expands upon what you're discussing here.
@@ -376,11 +378,9 @@ I think part of what we're doing here in a way is also governance, because this 
 
 So it'd be like a taster. And hopefully we can then feed that into a Catalyst Town Hall presentation or something and just say, Look, this is what we've done. This is what we've covered, so it can also be a showcase for collaboration, and a showcase for each of our individual contributions.
 
-## Wrap up / Conclusions - Kenric
-
 ## Any Other Business - Stephen W
 
-## Research Project Planning
+### Research Project Planning
 
 Calendar invites Zoom and Google invite with Agenda links 21st June 2022 - 1700 UTC every two weeks until end of September 2022
 
