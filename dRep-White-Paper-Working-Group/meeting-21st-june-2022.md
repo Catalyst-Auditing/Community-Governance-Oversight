@@ -318,6 +318,8 @@ This is relevant to managing scope. For this round, what we want to do is identi
 
 In terms of data the voting power of wallets is the most important thing. And have separate from that the actual outcomes. The Banzhaf index gives you the combinatorial analysis of all the possible outcomes. But as discussed, we're going to have to scope that down a little bit. So we can compare these combinations with what happened those funding rounds.
 
+We have the wallet distributions in terms of the number, the amount of ADA that was in each wallet and we also have the outcomes of the elections. But we don't have what each wallet voted on.
+
 
 
 Countering Winner Take All Governance Author(s): George Ramayya Add major elements Identity Security required for Blockchain Governance Author(s): Frank Albanese, Kenric Nelson Add major elements
