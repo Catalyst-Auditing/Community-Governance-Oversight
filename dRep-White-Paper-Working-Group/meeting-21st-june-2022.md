@@ -333,12 +333,16 @@ Author(s): Frank Albanese, Kenric Nelson
 * Methods
 * Democratic - one person - one vote
 * Plutocratic - one coin - one vote
-* Meritcratic - reputation system
+* Meritocratic - reputation system
 * Attack vectors for each method
 * Reputations; identity;
 * SSI & DID technologies
 
 [40:18](https://www.youtube.com/watch?v=g0hppsP670k\&t=2418s) - Introduction  - Kenric
+
+40:33 - Frank&#x20;
+
+I am really enjoying the ideas being shared here. I will add that if you need assistance with querying, you know, a test net. We're pretty proficient now in Blockfrost. And we're consuming the Dandelion solution through gimbalabs for querying this kind of data. Happy to collaborate on the technical side with the information gathering if need be.
 
 ## Wrap up / Conclusions - Kenric
 
