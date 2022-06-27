@@ -364,6 +364,10 @@ And when it comes to meritocratic voting, how do you game a reputation system ? 
 
 Two to five pages will be a challenge. So we will condense our our most impactful thoughts into two to five pages. If that is the goal here ?
 
+43:46 - Kenric
+
+Yeah, I think that's best for this white paper given how it has to fit into the others. But then again, for each of you, this can be a launching point for an independent white paper that expands upon what you're discussing here.
+
 ## Wrap up / Conclusions - Kenric
 
 ## Any Other Business - Stephen W
