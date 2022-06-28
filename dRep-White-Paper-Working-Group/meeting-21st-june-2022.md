@@ -145,7 +145,7 @@ In my day to day life I work as an audit program manager for an international me
 [11:11](https://www.youtube.com/watch?v=g0hppsP670k\&t=671s)
 
 {% hint style="info" %}
-[Delegated Representation in Cardano’s Catalyst Governance](https://docs.google.com/document/d/1LXtBMIk9NjvsrEMZkD2LvZO15giPDoJZj1xROUgDwl4/edit?usp=sharing)
+Delegated Representation in Cardano’s Catalyst Governance
 {% endhint %}
 
 {% hint style="info" %}
