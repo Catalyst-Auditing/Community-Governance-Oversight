@@ -1,23 +1,26 @@
-# Meeting - 5th July 2022
+---
+description: Meeting 2 - Fund 8 - dRep White Paper Working Group Meeting
+---
 
+# Meeting - 5th July 2022
 
 ## Attendees
 
 |                     |                                                                   |
 | ------------------- | ----------------------------------------------------------------- |
 | Aharon Porath       | Consenz                                                           |
-| Frank Albanese      | [Snapbrilla](https://www.snapbrillia.com/)                        |
 | Kenric Nelson       | [Photrek](https://photrek.world/)                                 |
-| Philip Lazos        | [IOG](https://iohk.io/jp/team/philip-lazos)                       |
 | Steph Macurdy       | [Wolfram Blockchain Labs](https://www.wolframblockchainlabs.com/) |
 | Stephen Whitenstall | [QADAO](https://quality-assurance-dao.github.io/)                 |
 | Thorsten Pottebaum  | adanamics ([linktree](https://linktr.ee/adanamics))               |
 
 ### Apologies
 
-|                |   |
-| -------------- | - |
-| George Ramayya |   |
+|                |                                             |
+| -------------- | ------------------------------------------- |
+| George Ramayya |                                             |
+| Frank Albanese | [Snapbrilla](https://www.snapbrillia.com/)  |
+| Philip Lazos   | [IOG](https://iohk.io/jp/team/philip-lazos) |
 
 ## Information
 
@@ -32,4 +35,3 @@ Documentation funded by [Fund 7 - QA-DAO Transcription Service](https://cardano.
 https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/71
 
 ## Agenda
-
