@@ -39,7 +39,7 @@ GitBook - [https://quality-assurance-dao.gitbook.io/community-governance-oversig
 
 (Please amend or comment)
 
-## 1 Audit Circle Treasury
+## 1 Treasury
 
 **Andre & Mirolav** - updates on Treasury setup, member payments, costs & expenses.
 
