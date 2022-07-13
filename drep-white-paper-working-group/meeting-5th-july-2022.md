@@ -156,7 +156,9 @@ By breaking a coalition into two we can play with the percentages. It gives us d
 
 [23:06](https://youtu.be/WRC1n05tIr4?t=1386)
 
+{% hint style="info" %}
 Does the data we have tell us which wallet voted for which proposal ?  - Thorsten
+{% endhint %}
 
 We do have that breakdown on those on Funds 3 to 6. But that's quite a lot of data. The combinatorics of that are pretty immense. - Kenric
 
