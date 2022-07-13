@@ -114,7 +114,9 @@ The White paper approach is editor based and community reviewed. It will be form
 
 What do you mean by original results ? - Aharon
 
-We intend to define measurements to monitor process and outcome of decentralized decision making (in our case dReps) - Kenric
+Our goal for this project is to define the measurements and to start building the tools to monitor the process of decentralized decision making and to monitor the outcomes of that. How good are the decisions and do they produce a strong ecosystem? - Kenric
+
+Those are the things we really should be focused on. You are doing that Aaron by documenting the processes that go into producing high quality documents as a community. - Kenric
 
 ### Measuring Voting Power in a Delegated Representative Process&#x20;
 
