@@ -140,11 +140,27 @@ But what we could do is take some simple examples.&#x20;
 
 Kenric brought up the \[Genesis] key ownership between IOG, Emurgo and the Cardano Foundation as a simple example. Because there's three entities and seven total votes. How do we define what the power index is within those, that group? - Steph
 
-
-
-
-
+{% hint style="info" %}
 Kenric and Steph to talk through the Banzhof process of simplification - treat each wallet cohort as a single voting block.
+{% endhint %}
+
+[17:59](https://youtu.be/WRC1n05tIr4?t=1079)
+
+I've given you access to the data we have from Funds 3 through 6. It is probably good to just talk through it. - Kenric&#x20;
+
+I think the first step is some simplifications.&#x20;
+
+Where we treat each wealth cohort, wallets with between 500 and 5,000 and then between 5000 and 50,000, etc, going out as a single voting bloc.
+
+&#x20;That way, there's not as many players and the computational calculations are dramatically reduced. Now, on one hand, that's not how the community votes. And it's not really a great assumption to say that everyone in a cohort is voting exactly the same. But it's a simplification that gives you a start to this kind of analysis. And what it would do is give you a measure of the potential power of each cohort. Yep, and then I had a nine to another step in that that may not be too difficult. But what if you What if you took each cohort and divided it into two and assume that they were voting differently? Or they were independent, they were two groups of independent votes. And then you just had the ability to change the percentage between those two, those two, you know, so again, that way, you wouldn't have to be do the combination combinatorial work of every single wallet being independent. But if if you just had to effective like to effective wallets in each cohort, and the ability to change the percentage of how much agreement there was within a cohort, that would also give you some interesting insights.
+
+
+
+
+
+
+
+
 
 What if - take each cohort divide into 2 and change percentage to reduce combinatorial complexity&#x20;
 
