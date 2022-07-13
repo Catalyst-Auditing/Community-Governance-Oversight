@@ -164,6 +164,8 @@ I'm thinking the principle of Banzhaf is to express whether my vote had an impac
 
 That would be an indirect measurement of how far a specific wallet is determining the outcome? If it were always one to one, then it could be a dictator situation where the voting power of that wallet flips \[the result] every single time. - Thorsten
 
+If you take the top 10 or 20 wallets and do analysis on that set to see in how far the voting of these wallets mirrored the actual outcome. And that might be an indirect indication \[of the power index] ? - Thorsten
+
 
 
 Kenric - even without mapping - you can do empirical analysis of the vote results - and infer ? Look at percent times it when from winning proposal
