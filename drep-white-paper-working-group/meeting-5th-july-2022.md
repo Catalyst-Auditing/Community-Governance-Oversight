@@ -124,12 +124,25 @@ Steph Macurdy
 
 [15:39](https://youtu.be/WRC1n05tIr4?t=939)
 
-\
-Original result - calculate Banzhof for Catalyst community - formula composition a challenge because of subjective parameters - eg what constitutes a voter
+An original result would be to calculate the Banzhof Power Index for the Catalyst community.&#x20;
 
-Meeting with Wolfram expert on function that outputs coalitions or entities
+That is a big goal, because defining the processes of how Catalyst works into a formula for calculating the power index has subjectivity built into it.
+
+How do we define the rules and parameters of what constitutes a voter and how do we get that data?&#x20;
+
+I met with a Wolfram expert on the function that outputs coalitions or entities. - Steph.
 
 ### 7 genesis keys example
+
+[17:24](https://youtu.be/WRC1n05tIr4?t=1044)
+
+But what we could do is take some simple examples.&#x20;
+
+Kenric brought up the \[Genesis] key ownership between IOG, Emurgo and the Cardano Foundation as a simple example. Because there's three entities and seven total votes. How do we define what the power index is within those, that group? - Steph
+
+
+
+
 
 Kenric and Steph to talk through the Banzhof process of simplification - treat each wallet cohort as a single voting block.
 
@@ -166,9 +179,7 @@ by Kenric Nelson
 
 When Cardano was initially set up, there were 7 genesis keys established that are still used for CIP changes and Hard Fork Combinators. Initially, they were distributed 3 IOHK, 2 Cardano Foundation, and 2 Emurgo. A vote of 5 is needed to approve a change. Most people’s intuition is that IOHK’s 3/7 votes is only a slight advantage. In fact, this is enough to establish veto power.&#x20;
 
-&#x20;
-
-Using the [Banzhaf Power Index website](http://people.math.binghamton.edu/fer/courses/math130/ZIS\_Spr14/chapter1/Banzhaf.html), one can compute the percentage of decisive votes for each party. As shown in Figure 1, IOHK is critical in 3 of 5 instances. A critical vote refers to a winning coalition in which dropping that vote would cause the coalition to lose. CF and Emurgo each have 1 of 5 critical votes. Thus IOG has a 60% power index compared with its 43% number of votes. CF and Emurgo only have 20% power despite 28.5% of the votes. The subtlety of this nonlinear power relationship is an excellent example of how savvy players can set up systems that appear equable but actually have quite distorted power relationships.&#x20;
+&#x20;Using the [Banzhaf Power Index website](http://people.math.binghamton.edu/fer/courses/math130/ZIS\_Spr14/chapter1/Banzhaf.html), one can compute the percentage of decisive votes for each party. As shown in Figure 1, IOHK is critical in 3 of 5 instances. A critical vote refers to a winning coalition in which dropping that vote would cause the coalition to lose. CF and Emurgo each have 1 of 5 critical votes. Thus IOG has a 60% power index compared with its 43% number of votes. CF and Emurgo only have 20% power despite 28.5% of the votes. The subtlety of this nonlinear power relationship is an excellent example of how savvy players can set up systems that appear equable but actually have quite distorted power relationships.&#x20;
 
 ![](<../.gitbook/assets/Screenshot 2022-07-13 140653.png>)
 
