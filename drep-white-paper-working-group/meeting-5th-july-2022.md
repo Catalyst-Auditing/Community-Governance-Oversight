@@ -184,9 +184,9 @@ There is probably a second element to that as sometimes close votes can be swaye
 
 Sometimes exactly right. If the vote was very close, then even small wallets would influence it. But what you'll see is a kind of cumulative distribution function where the large wallet always can influence a larger percentage of outcomes. - Kenric
 
+It will interesting to see which dReps reference a certain percentage or vote. So one can determine the vote in terms of dictatorship or being the deciding vote to effectively push a certain proposal through. To understand in which areas there is a concentration of voting power. Or where are borderline cases and which mode might have a difference. - Thorsten
 
 
-Interesting in case of dRep wallets in one or other section - of concentration of voting power and where the borde
 
 
 
