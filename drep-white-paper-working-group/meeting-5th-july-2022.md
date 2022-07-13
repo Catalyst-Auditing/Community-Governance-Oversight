@@ -154,11 +154,17 @@ Where we treat each wealth cohort, wallets with between 500 and 5,000 and then b
 
 By breaking a coalition into two we can play with the percentages. It gives us different outcomes. Synthetic data to see if we have any dramatic swings in power. - Steph
 
-Thorsten - data vote per proposal
+[23:06](https://youtu.be/WRC1n05tIr4?t=1386)
 
-Kenric - possible in some Fund data but not all and is immense
+Does the data we have tell us which wallet voted for which proposal ?  - Thorsten
 
-Thorsten - level of impact of biggest wallets can be indicative - of Dictator type situations - eg top 20 etc
+We do have that breakdown on those on Funds 3 to 6. But that's quite a lot of data. The combinatorics of that are pretty immense. - Kenric
+
+I'm thinking the principle of Banzhaf is to express whether my vote had an impact. And you could approach it now from two different directions. If you take the biggest wallets, look at outcome of the vote is, and look at the voting of this wallet. \[That might provide an insight into] into the level that \[wallet] effectively mirrored the outcome already? - Thorsten
+
+That would be an indirect measurement of how far a specific wallet is determining the outcome? If it were always one to one, then it could be a dictator situation where the voting power of that wallet flips \[the result] every single time. - Thorsten
+
+
 
 Kenric - even without mapping - you can do empirical analysis of the vote results - and infer ? Look at percent times it when from winning proposal
 
