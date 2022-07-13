@@ -112,8 +112,44 @@ Will we use an academic peer review process ? - Aharon
 
 The White paper approach is editor based and community reviewed. It will be formatted as an academic paper. At the end of this process we will decide on whether to submit to a journal. A Follow-on proposal in Fund 10 is possible for a peer reviewed process. In general I see the academic research process spanning 3 years. - Kenric
 
-Is our first goal an original result ?
+What do you mean by original results ? - Aharon
 
 We intend to define measurements to monitor process and outcome of decentralized decision making (in our case dReps) - Kenric
 
+### Measuring Voting Power in a Delegated Representative Process&#x20;
+
+Steph Macurdy
+
+[15:39](https://youtu.be/WRC1n05tIr4?t=939)
+
 \
+Original result - calculate Banzhof for Catalyst community - formula composition a challenge because of subjective parameters - eg what constitutes a voter
+
+Meeting with Wolfram expert on function that outputs coalitions or entities
+
+\
+7 genesis keys example
+
+Kenric and Steph to talk through the Banzhof process of simplification - treat each wallet cohort as a single voting block.
+
+What if - take each cohort divide into 2 and change percentage to reduce combinatorial complexity&#x20;
+
+&#x20;Steph - to give us synthetic data - to see if we have any dramatic swings in power
+
+I have a function that is close - there is a Wolfram review process - but need to improvise myself&#x20;
+
+Thorsten - data vote per proposal
+
+Kenric - possible in some Fund data but not all and is immense
+
+Thorsten - level of impact of biggest wallets can be indicative - of Dictator type situations - eg top 20 etc
+
+Kenric - even without mapping - you can do empirical analysis of the vote results - and infer ? Look at percent times it when from winning proposal
+
+Sometimes close votes can be swayed by small wallets
+
+&#x20; Interesting in case of dRep wallets in one or other section - of concentration of voting power and where the borde
+
+\
+During Macurdy’s update, it would be good to discuss the example of the [7 genesis keys created at the formation of the Cardano network](https://docs.google.com/document/d/1pv56vbmACxknehy04Dgc03RwvIMcyMjdHxlvNN9AOZc/edit).
+
