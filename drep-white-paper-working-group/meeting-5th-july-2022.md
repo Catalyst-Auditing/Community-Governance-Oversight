@@ -42,11 +42,15 @@ https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination
 
 [00:25](https://youtu.be/WRC1n05tIr4?t=25)
 
+{% hint style="info" %}
 Brief Updates/Notices from each participant - All
+{% endhint %}
 
-Kenric - [00:37](https://youtu.be/WRC1n05tIr4?t=37)
+Kenric Nelson - [00:37](https://youtu.be/WRC1n05tIr4?t=37)
 
-Steph - [01:14](https://youtu.be/WRC1n05tIr4?t=74)
+Steph Macurdy- [01:14](https://youtu.be/WRC1n05tIr4?t=74)
 
-Aharon - [01:35](https://youtu.be/WRC1n05tIr4?t=95)
+Aharon Porath - [01:35](https://youtu.be/WRC1n05tIr4?t=95)
+
+Thorsten Pottebaum - [02:10](https://youtu.be/WRC1n05tIr4?t=130)
 
