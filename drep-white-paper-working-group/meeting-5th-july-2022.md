@@ -186,7 +186,19 @@ Sometimes exactly right. If the vote was very close, then even small wallets wou
 
 It will interesting to see which dReps reference a certain percentage or vote. So one can determine the vote in terms of dictatorship or being the deciding vote to effectively push a certain proposal through. To understand in which areas there is a concentration of voting power. Or where are borderline cases and which mode might have a difference. - Thorsten
 
+### Voting Power of Cardano’s Genesis Keys <a href="#docs-internal-guid-6c8cd2f8-7fff-c15a-4ec5-69d4863ea631" id="docs-internal-guid-6c8cd2f8-7fff-c15a-4ec5-69d4863ea631"></a>
 
+[28:30](https://youtu.be/WRC1n05tIr4?t=1710)
+
+What I did here is I inputted three players to represent IOHK, the Cardano Foundation and Emurgo.
+
+Then I inputted the initial weights of these seven keys.&#x20;
+
+So \[orginally] IOHK had three, the Cardano Foundation and Emugo each had one.
+
+A vote of five total was required to make a decision to approve a decision.&#x20;
+
+And one of the things you see right away is that in order to reach five, you have to have approval from IO, HK, CF and Mergo, we're not able to make decisions as a pair. And that has a significant influence on the power that these players have. So if the way you you look at all the potential coalition's if someone wanted to try to act on their own, for instance, but in this case, those would all lose, or if you have parents. But while the two pairs that include IO, HK are winners, the pair that excludes IO, HK is a loser. And then there's the coalition with all three approving that's also a winner. So now in bold is shown the five cases where you have a critical vote. That critical vote means that if you took that vote out, the wind would turn to a loss. And then as you look at the ratio of the at the bottom here, you see that IO HK ends up with a power index of 60. Even though you know three, three sevens is more like 43%, but their actual power is 60%. And then for CF and, and Mergo. They start with 1/7, excuse me, two sevens, which is about if I remember right about 28%. But that gets reduced down to 20%, in terms of their actual influence on outcomes. And what strikes me in this is, so most people would not be able to see that subtle increase in power that the person with three keys gets. And so there's this kind of subtlety in the power distribution that's not very visible to most people. But furthermore, I think this partly plays out in the dynamics between the three players to over time, because for instance, and I'm not saying this happened, and maybe I won't even refer to the names anymore as I go forward. But just keeping it in the abstract. If the two weak or parties feel strongly about a particular issue, but they can't get agreement from the stronger party, right, then they may, in that instance, feel disenfranchised, from something that they they together feel is important. And over time, if they can't influence things that they have a disagreement on with the more powerful player, they may feel that continuing to be involved in this game isn't to their benefit. Now, okay, so that's all in the abstract. But then just to conclude this, you know, part of what the chatter within the community has been recently that in fact, at some point, either CF or IO or or Mergo, delegated their keys to iOS K. And at that point, why don't I go ahead and just show what happens here. It's not, it's not this, it's very easy game to understand now. But if I change this to five and zero, and then measure the power index again, what you see now is that there is only three. - Kenric
 
 
 
