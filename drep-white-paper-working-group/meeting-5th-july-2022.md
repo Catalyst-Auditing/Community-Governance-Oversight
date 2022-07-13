@@ -138,7 +138,7 @@ I met with a Wolfram expert on the function that outputs coalitions or entities.
 
 But what we could do is take some simple examples.&#x20;
 
-Kenric brought up the \[Genesis] key ownership between IOG, Emurgo and the Cardano Foundation as a simple example. Because there's three entities and seven total votes. How do we define what the power index is within those, that group? - Steph
+Kenric brought up the \[Genesis] key ownership between IOG, Emurgo and the Cardano Foundation as a simple example. Because there's three entities and seven total votes. How do we define what the power index is within that group? - Steph
 
 {% hint style="info" %}
 Kenric and Steph to talk through the Banzhof process of simplification - treat each wallet cohort as a single voting block.
