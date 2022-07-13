@@ -70,9 +70,9 @@ Small amount reserved for community members&#x20;
 
 Thorsten to recruit reviewers - August 2022
 
-### Research Project Planning <a href="#docs-internal-guid-4f8b919c-7fff-cd39-7ed8-6153f4c1e729" id="docs-internal-guid-4f8b919c-7fff-cd39-7ed8-6153f4c1e729"></a>
+## Research Project Planning <a href="#docs-internal-guid-4f8b919c-7fff-cd39-7ed8-6153f4c1e729" id="docs-internal-guid-4f8b919c-7fff-cd39-7ed8-6153f4c1e729"></a>
 
-
+[03:58](https://youtu.be/WRC1n05tIr4?t=238)
 
 {% hint style="info" %}
 Any updates on Project Plan timetable and deliverables - Stephen Whitenstall
