@@ -108,23 +108,9 @@ How different building blocks will work together. How fits into Consenz platform
 
 If you prefer to work in your own document can you provide a link in the main White paper document ? In August 2022 we will open up to reviewers and then the public at large. - Kenric
 
-\
+Will we use an academic peer review process ? - Aharon
 
-
-Will we use an academic peer review process ?
-
-White paper approach is editor based and community reviewed
-
-Will be formatted as academic paper
-
-At end process - decide on journal submission
-
-\
-
-
-Follow-on proposal in Fund 10 is possible for peer reviewed journal
-
-3 year process
+The White paper approach is editor based and community reviewed. It will be formatted as an academic paper. At the end of this process we will decide on whether to submit to a journal. A Follow-on proposal in Fund 10 is possible for a peer reviewed process. In general I see the academic research process spanning 3 years. - Kenric
 
 First goal original result ?
 
