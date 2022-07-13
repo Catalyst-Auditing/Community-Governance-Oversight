@@ -103,7 +103,7 @@ Aharon Porath, Kenric Nelson
 [04:43](https://youtu.be/WRC1n05tIr4?t=283)\
 
 
-How different building blocks will work together. How fits into Consenz platform. Liquid democarcy is the main component. But also references direct democarcy. Will be discussed further in Consenz meetings. - Aharon\
+How different building blocks will work together. How fits into Consenz platform. Liquid democracy is the main component. But also references direct democracy. Will be discussed further in Consenz meetings. - Aharon\
 
 
 If you prefer to work in your own document can you provide a link in the main White paper document ? In August 2022 we will open up to reviewers and then the public at large. - Kenric
@@ -112,8 +112,8 @@ Will we use an academic peer review process ? - Aharon
 
 The White paper approach is editor based and community reviewed. It will be formatted as an academic paper. At the end of this process we will decide on whether to submit to a journal. A Follow-on proposal in Fund 10 is possible for a peer reviewed process. In general I see the academic research process spanning 3 years. - Kenric
 
-First goal original result ?
+Is our first goal an original result ?
 
-Define measurements to monitor process and outcome of decentralized decision making (in our case dReps)
+We intend to define measurements to monitor process and outcome of decentralized decision making (in our case dReps) - Kenric
 
 \
