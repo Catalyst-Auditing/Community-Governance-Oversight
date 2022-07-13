@@ -168,9 +168,11 @@ If you take the top 10 or 20 wallets and do analysis on that set to see in how f
 
 [25:13](https://youtu.be/WRC1n05tIr4?t=1513)
 
-Yeah, what I had in mind and my colleague and I did some initial work, but we weren't able to complete it is the following that's similar to what you're describing, is even if you don't have the mapping, in addition to doing the actual combination, combinatorial theoretical calculation that Steph is describing, you can also do a kind of empirical analysis of an actual vote, right? So you can you can look at the results. And then you can say, well, how many times you know, you could look at the whole outcome of all the votes? And then you could you could examine each wallet, if, if, if, if you could, if you considered each wallet, like one additional vote, and would that had been enough to win, or the other way around? If you took the winning projects, right, and you assume that it subtracted one wallet, you could look at the percentage of times that a particular wallet had the ability to change it from going from a winning proposal to a losing proposal, and get a kind of empirical bond bonds off index for that particular vote voting round.
+My colleague and I did some initial work which we weren't able to complete that is similar to what you're describing. Even if you don't have the mapping, in addition to doing the combinatorial theoretical calculation that Steph is describing, you can also do a kind of empirical analysis of an actual vote. - Kenric
 
-Kenric - even without mapping - you can do empirical analysis of the vote results - and infer ? Look at percent times it when from winning proposal
+So you can look at the results and say how many times could you look at the whole outcome of all the votes? And examine each wallet, \[considering] each wallet like one additional vote. Would that had been enough to win, or the other way around?  - Kenric
+
+If you took the winning projects and subtracted one wallet. You could look at the percentage of times that a particular wallet had the ability to change \[the outcome] from a winning to a losing proposal. And get a kind of empirical Banzhaf index for that particular vote voting round.  - Kenric
 
 Sometimes close votes can be swayed by small wallets
 
