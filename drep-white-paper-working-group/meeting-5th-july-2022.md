@@ -103,24 +103,10 @@ Aharon Porath, Kenric Nelson
 [04:43](https://youtu.be/WRC1n05tIr4?t=283)\
 
 
-How different building blocks will work together
-
-How fits into Consenz platform
-
-Liquid demos main component
-
-But also direct demos
-
-Will be discussed further in Consenz meeting
-
-\
+How different building blocks will work together. How fits into Consenz platform. Liquid democarcy is the main component. But also references direct democarcy. Will be discussed further in Consenz meetings. - Aharon\
 
 
-Kenric - if you prefer to work in own doc provide a link in main doc
-
-In August we open up to reviewers
-
-Then public at large
+If you prefer to work in your own document can you provide a link in the main White paper document ? In August 2022 we will open up to reviewers and then the public at large. - Kenric
 
 \
 
