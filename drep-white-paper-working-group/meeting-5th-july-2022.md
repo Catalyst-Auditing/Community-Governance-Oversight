@@ -80,5 +80,16 @@ Any updates on Project Plan timetable and deliverables - Stephen Whitenstall
 
 No updates
 
+## Whitepaper <a href="#docs-internal-guid-c31ad56f-7fff-35c4-1333-f53118198988" id="docs-internal-guid-c31ad56f-7fff-35c4-1333-f53118198988"></a>
 
+{% hint style="info" %}
+Please prepare Detailed Outline of your section for next meeting - All
+{% endhint %}
 
+### The role of Delegated Representation in Blockchain Governance
+
+#### Philip Lazos
+
+{% hint style="info" %}
+Email follow-up - apologies sent
+{% endhint %}
