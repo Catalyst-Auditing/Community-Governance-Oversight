@@ -188,8 +188,7 @@ Sometimes exactly right. If the vote was very close, then even small wallets wou
 
 Interesting in case of dRep wallets in one or other section - of concentration of voting power and where the borde
 
-\
-During Macurdy’s update, it would be good to discuss the example of the [7 genesis keys created at the formation of the Cardano network](https://docs.google.com/document/d/1pv56vbmACxknehy04Dgc03RwvIMcyMjdHxlvNN9AOZc/edit).
+
 
 ## References
 
