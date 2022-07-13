@@ -58,6 +58,8 @@ Stephen Whitenstall - [02:37](https://youtu.be/WRC1n05tIr4?t=157)
 
 ## Research Budget  <a href="#docs-internal-guid-46e3b976-7fff-5747-352b-2a19fb0d689f" id="docs-internal-guid-46e3b976-7fff-5747-352b-2a19fb0d689f"></a>
 
+[03:02](https://youtu.be/WRC1n05tIr4?t=182)
+
 {% hint style="info" %}
 Any Budget updates or issues ? - Kenric Nelson
 {% endhint %}
@@ -67,3 +69,12 @@ Project Start - 1st June 2022. End - 30th September 2022
 Small amount reserved for community members&#x20;
 
 Thorsten to recruit reviewers - August 2022
+
+### Research Project Planning <a href="#docs-internal-guid-4f8b919c-7fff-cd39-7ed8-6153f4c1e729" id="docs-internal-guid-4f8b919c-7fff-cd39-7ed8-6153f4c1e729"></a>
+
+
+
+{% hint style="info" %}
+Any updates on Project Plan timetable and deliverables - Stephen Whitenstall
+{% endhint %}
+
