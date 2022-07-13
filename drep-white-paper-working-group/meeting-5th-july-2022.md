@@ -150,11 +150,9 @@ I've given you access to the data we have from Funds 3 through 6. It is probably
 
 I think the first step is some simplifications.&#x20;
 
-Where we treat each wealth cohort, wallets with between 500 and 5,000 and then between 5000 and 50,000, etc, going out as a single voting bloc. That way, there's not as many players and the computational calculations are dramatically reduced.&#x20;
+Where we treat each wealth cohort, wallets with between 500 and 5,000 and then between 5000 and 50,000, etc, going out as a single voting bloc. That way, there's not as many players and the computational calculations are dramatically reduced. - Kenric&#x20;
 
-&#x20;Steph - to give us synthetic data - to see if we have any dramatic swings in power
-
-I have a function that is close - there is a Wolfram review process - but need to improvise myself&#x20;
+By breaking a coalition into two we can play with the percentages. It gives us different outcomes. Synthetic data to see if we have any dramatic swings in power. - Steph
 
 Thorsten - data vote per proposal
 
