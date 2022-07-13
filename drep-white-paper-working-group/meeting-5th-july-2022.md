@@ -88,7 +88,9 @@ Please prepare Detailed Outline of your section for next meeting - All
 
 ### The role of Delegated Representation in Blockchain Governance
 
-#### Philip Lazos
+Philip Lazos
+
+[04:27](https://youtu.be/WRC1n05tIr4?t=277)
 
 {% hint style="info" %}
 Email follow-up - apologies sent
