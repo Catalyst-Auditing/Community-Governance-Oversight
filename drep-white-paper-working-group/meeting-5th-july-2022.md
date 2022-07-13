@@ -141,7 +141,7 @@ But what we could do is take some simple examples.&#x20;
 Kenric brought up the \[Genesis] key ownership between IOG, Emurgo and the Cardano Foundation as a simple example. Because there's three entities and seven total votes. How do we define what the power index is within that group? - Steph
 
 {% hint style="info" %}
-Kenric and Steph to talk through the Banzhof process of simplification - treat each wallet cohort as a single voting block.
+Kenric and Steph talk through the Banzhof process of simplification - treat each wallet cohort as a single voting block.
 {% endhint %}
 
 [17:59](https://youtu.be/WRC1n05tIr4?t=1079)
