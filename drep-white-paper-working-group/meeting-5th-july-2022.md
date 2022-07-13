@@ -35,3 +35,16 @@ Documentation funded by [Fund 7 - QA-DAO Transcription Service](https://cardano.
 https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/71
 
 ## Agenda
+
+
+
+## Brief Updates
+
+[00:25](https://youtu.be/WRC1n05tIr4?t=25)
+
+Brief Updates/Notices from each participant - All
+
+Kenric - [00:37](https://youtu.be/WRC1n05tIr4?t=37)
+
+Steph - [01:14](https://youtu.be/WRC1n05tIr4?t=74)
+
