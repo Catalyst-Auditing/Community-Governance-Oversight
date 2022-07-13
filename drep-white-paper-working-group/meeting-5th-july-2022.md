@@ -129,8 +129,7 @@ Original result - calculate Banzhof for Catalyst community - formula composition
 
 Meeting with Wolfram expert on function that outputs coalitions or entities
 
-\
-7 genesis keys example
+### 7 genesis keys example
 
 Kenric and Steph to talk through the Banzhof process of simplification - treat each wallet cohort as a single voting block.
 
@@ -155,3 +154,24 @@ Sometimes close votes can be swayed by small wallets
 \
 During Macurdy’s update, it would be good to discuss the example of the [7 genesis keys created at the formation of the Cardano network](https://docs.google.com/document/d/1pv56vbmACxknehy04Dgc03RwvIMcyMjdHxlvNN9AOZc/edit).
 
+## References
+
+### Voting Power of Cardano’s Genesis Keys <a href="#docs-internal-guid-6c8cd2f8-7fff-c15a-4ec5-69d4863ea631" id="docs-internal-guid-6c8cd2f8-7fff-c15a-4ec5-69d4863ea631"></a>
+
+by Kenric Nelson
+
+{% hint style="info" %}
+[Original document link](https://docs.google.com/document/d/1pv56vbmACxknehy04Dgc03RwvIMcyMjdHxlvNN9AOZc/edit?usp=sharing)
+{% endhint %}
+
+When Cardano was initially set up, there were 7 genesis keys established that are still used for CIP changes and Hard Fork Combinators. Initially, they were distributed 3 IOHK, 2 Cardano Foundation, and 2 Emurgo. A vote of 5 is needed to approve a change. Most people’s intuition is that IOHK’s 3/7 votes is only a slight advantage. In fact, this is enough to establish veto power.&#x20;
+
+&#x20;
+
+Using the [Banzhaf Power Index website](http://people.math.binghamton.edu/fer/courses/math130/ZIS\_Spr14/chapter1/Banzhaf.html), one can compute the percentage of decisive votes for each party. As shown in Figure 1, IOHK is critical in 3 of 5 instances. A critical vote refers to a winning coalition in which dropping that vote would cause the coalition to lose. CF and Emurgo each have 1 of 5 critical votes. Thus IOG has a 60% power index compared with its 43% number of votes. CF and Emurgo only have 20% power despite 28.5% of the votes. The subtlety of this nonlinear power relationship is an excellent example of how savvy players can set up systems that appear equable but actually have quite distorted power relationships.&#x20;
+
+![](<../.gitbook/assets/Screenshot 2022-07-13 140653.png>)
+
+Currently, at least one of the weaker parties (CF or Emurgo) is reported to have delegated their genesis keys to IOHK. This gives IOHK the 5 keys necessary to be a dictator regarding the CIP and Hard For Combinator updates. While the goal is to transition during Voltaire to a member-based organization that manages the genesis keys, this example demonstrates how a slight advantage in the voting ratio can lead to a substantial advantage in voting power. And an early advantage in voting power can be used over time to further increase this disparity.&#x20;
+
+This example provides a power illustration of the importance of monitoring and controlling the distribution of Banzhaf voting power in the Cardano community processes.
