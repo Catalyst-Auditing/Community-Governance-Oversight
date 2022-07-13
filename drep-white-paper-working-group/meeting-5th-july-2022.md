@@ -95,3 +95,53 @@ Philip Lazos
 {% hint style="info" %}
 Email follow-up - apologies sent
 {% endhint %}
+
+### Forming consensus in governance documentation <a href="#docs-internal-guid-b92c864e-7fff-c672-1030-52cc4e0213c7" id="docs-internal-guid-b92c864e-7fff-c672-1030-52cc4e0213c7"></a>
+
+Aharon Porath, Kenric Nelson
+
+[04:43](https://youtu.be/WRC1n05tIr4?t=283)\
+
+
+How different building blocks will work together
+
+How fits into Consenz platform
+
+Liquid demos main component
+
+But also direct demos
+
+Will be discussed further in Consenz meeting
+
+\
+
+
+Kenric - if you prefer to work in own doc provide a link in main doc
+
+In August we open up to reviewers
+
+Then public at large
+
+\
+
+
+Will we use an academic peer review process ?
+
+White paper approach is editor based and community reviewed
+
+Will be formatted as academic paper
+
+At end process - decide on journal submission
+
+\
+
+
+Follow-on proposal in Fund 10 is possible for peer reviewed journal
+
+3 year process
+
+First goal original result ?
+
+Define measurements to monitor process and outcome of decentralized decision making (in our case dReps)
+
+\
