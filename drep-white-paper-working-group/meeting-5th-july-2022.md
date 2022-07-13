@@ -176,7 +176,11 @@ So you can look at the results and say how many times could you look at the whol
 
 If you took the winning projects and subtracted one wallet. You could look at the percentage of times that a particular wallet had the ability to change \[the outcome] from a winning to a losing proposal. And get a kind of empirical Banzhaf index for that particular vote voting round.  - Kenric
 
-Sometimes close votes can be swayed by small wallets
+[26:38](https://youtu.be/WRC1n05tIr4?t=1599)
+
+{% hint style="info" %}
+There is probably a second element to that as sometimes close votes can be swayed by small wallets. - Thorsten
+{% endhint %}
 
 &#x20; Interesting in case of dRep wallets in one or other section - of concentration of voting power and where the borde
 
