@@ -132,7 +132,7 @@ How do we define the rules and parameters of what constitutes a voter and how do
 
 I met with a Wolfram expert on the function that outputs coalitions or entities. - Steph.
 
-### 7 genesis keys example
+### Simplification strategies
 
 [17:24](https://youtu.be/WRC1n05tIr4?t=1044)
 
