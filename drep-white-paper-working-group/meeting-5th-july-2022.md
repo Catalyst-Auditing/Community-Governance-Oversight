@@ -226,6 +226,8 @@ This is a nice, very simple example. It illustrates why this work is so importan
 
 #### Maintaining Decentralization&#x20;
 
+[35:07](https://youtu.be/WRC1n05tIr4?t=2107)
+
 If you are going to set up a system where decentralization is an important value to maintain over a long period of time you have two very difficult things to accomplish.&#x20;
 
 Number one, you have to set up initial conditions that favor decentralized decision making. But that is difficult if the initial conditions favor a few people. Those players will tend to have the ability to further increase their power in the system. You get a kind of natural convergence to more centralized decision making.&#x20;
@@ -234,9 +236,9 @@ I don't feel that this is well understood in this community that the process tow
 
 #### Preferential growth
 
-There was a famous result called preferential growth. What this showed is why networks tend towards a power law distribution in how many connections a particular node has. The larger nodes tend to grow preferentially, because new members to the community have a preference to link up to popular nodes.&#x20;
+There was a famous result called preferential growth. What this showed is why networks tend towards a power law distribution in how many connections a particular node has. The larger nodes tend to grow preferentially, because new members to the community have a preference to link up to popular nodes.
 
-For instance, if you go back to the early days of the Internet there were 10 different, very competitive search engines, right. But as Google kind of became the best one that people got the most use out of its position became extremely dominant, to the point that it's now centralized a lot of the functionality of the internet and those same kinds of things you can see playing out already in the cryptocurrency space. And it's a it's because it's a very you know, there's a ton of funded mesh, foundational, physical. You can show physical processes that force this to happen.
+For instance, if you go back to the early days of the Internet there were 10 different, very competitive search engines. But as Google became \[the preferred option] people got the most use out of its position and it became extremely dominant. To the point that it's now centralized a lot of the functionality of the internet. And \[similar effects] are playing out already in the cryptocurrency space.
 
 
 
