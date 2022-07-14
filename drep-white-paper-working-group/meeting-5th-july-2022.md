@@ -216,7 +216,21 @@ What strikes me is, most people would not be able to see that subtle increase in
 
 Furthermore, I think this plays out in the dynamics between the three players over time. For instance, \[...] maybe I won't even refer to the names anymore as I go forward. In the abstract, if the two weaker parties feel strongly about a particular issue, but they can't get agreement from the stronger party they may disenfranchised. Over time, if they can't influence things they disagree on with the more powerful player they may feel that continuing to be involved in this game isn't to their benefit.&#x20;
 
-To conclude, the recent conversation within the community has been that at some point, the Cardano Foundation and Emurgo delegated their keys to IOHK.  - Kenric
+#### Dictator control
+
+To conclude, the recent conversation within the community has been that at some point, the Cardano Foundation and Emurgo delegated their keys to IOHK.
+
+The second player who still holds two keys has no power left. \[...] Just one person delegating gives IOHK dictator control over the decisions and the other player becomes a dummy vote. Even if they choose to vote, it's never going to influence anything.&#x20;
+
+This is a nice, very simple example. It illustrates why this work is so important because even in a more complicated game, with many more players, these kinds of power issues are going to play out.&#x20;
+
+#### Maintaining Decentralization&#x20;
+
+If you are going to set up a system where decentralization is an important value to maintain over a long period of time you have two very difficult things to accomplish.&#x20;
+
+Number one, you have to set up initial conditions that favor decentralized decision making. But that is difficult if the initial conditions favor a few people. Those players will tend to have the ability to further increase their power in the system. You get a kind of natural convergence to more centralized decision making.&#x20;
+
+I don't feel that this is well understood in this community that the process towards centralization is very natural, it is the default. So you have to have controlling elements to guard against that, not just in the initial conditions, but in the way you monitor and take corrective action when you see it. When you see the decentralization process, degrading.
 
 
 
