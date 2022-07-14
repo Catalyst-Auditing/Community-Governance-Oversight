@@ -34,7 +34,7 @@ Documentation funded by [Fund 7 - QA-DAO Transcription Service](https://cardano.
 
 #### Meeting GitHub Task
 
-https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/71
+[https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/86](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/86)
 
 ## Agenda
 
