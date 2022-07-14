@@ -4,6 +4,8 @@ description: Meeting 2 - Fund 8 - dRep White Paper Working Group Meeting
 
 # Meeting - 5th July 2022
 
+{% embed url="https://www.youtube.com/watch?v=WRC1n05tIr4" %}
+
 ## Attendees
 
 |                     |                                                                   |
