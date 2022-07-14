@@ -232,6 +232,12 @@ Number one, you have to set up initial conditions that favor decentralized decis
 
 I don't feel that this is well understood in this community that the process towards centralization is very natural, it is the default. So you have to have controlling elements to guard against that, not just in the initial conditions, but in the way you monitor and take corrective action when you see it. When you see the decentralization process, degrading.
 
+#### Preferential growth
+
+There was a famous result called preferential growth. What this showed is why networks tend towards a power law distribution in how many connections a particular node has. The larger nodes tend to grow preferentially, because new members to the community have a preference to link up to popular nodes.&#x20;
+
+So for instance, now, in even even this goes back 20 years ago, if you were brand new to learning about the internet and wanting to use, one of the very first things you'll do now is a Google search. Right? And so you become a new node to that Google search. And over time, they, you know, if you go back to the early days of the Internet, right, there were 10 Different very competitive search engines, right. But as Google kind of became the best one that people got the most use out of its position became extremely dominant, to the point that it's now centralized a lot of the functionality of the internet and those same kinds of things you can see playing out already in the cryptocurrency space. And it's a it's because it's a very you know, there's a ton of funded mesh, foundational, physical. You can show physical processes that force this to happen.
+
 
 
 ## References
