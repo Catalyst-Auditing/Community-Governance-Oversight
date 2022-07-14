@@ -244,7 +244,13 @@ For instance, if you go back to the early days of the Internet there were 10 dif
 
 #### Folk philosophy
 
+[39:54](https://youtu.be/WRC1n05tIr4?t=2394)
+
 There's a kind of folk folk philosophy going around Catalyst with the phrase "_You can have decentralization by centralizing first_". And it's a perception that's just wrong. - Stephen W
+
+Linux example
+
+yeah, another interesting case. Again, I don't know if it's relevant to our immediate study. But it's not to say that decentralization doesn't have strength and can't work, you know, and the whole history of Linux is a very powerful case study, where a lot of people were dismissive of the Linux community in comparison to IBM, Microsoft, and Apple who were quite dominant in computer architectures and, and software. And yet, even within Linux, you know, years later, for instance, a very central player, IBM kind of accepted that Linux had become dominant, and they built Linux into their own architectures. And then eventually bought Red Hat, Red Hat, you know, the most dominant, commercial distributor of the Linux operating system. So, so there's a kind of I, I'm not intimately familiar with this history, but I think, you know, there's a kind of the the decentralization did win, right, in this instance. But in a sense, it still gets captured by the Central Powers within the computing industry. And, you know, again, playing it out. But as you said, maybe maybe before I make more comments on that, we could think through a presentation on this issue on this particular issue, around decision making with the keys, I our focus, of course, is on the DEA reps process, which is much more complex. But the point is, even though it's going to be more complex, even though it's going to have some decentralized properties to it, if you're not measuring the actual fans off power index, you don't know where the real power is, in that system.
 
 
 
