@@ -188,6 +188,8 @@ It will interesting to see which dReps reference a certain percentage or vote. S
 
 ### Voting Power of Cardano’s Genesis Keys <a href="#docs-internal-guid-6c8cd2f8-7fff-c15a-4ec5-69d4863ea631" id="docs-internal-guid-6c8cd2f8-7fff-c15a-4ec5-69d4863ea631"></a>
 
+Kenric Nelson
+
 [28:30](https://youtu.be/WRC1n05tIr4?t=1710)
 
 What I did here is I inputted three players to represent IOHK, the Cardano Foundation and Emurgo.
@@ -212,9 +214,9 @@ For Cardano Foundation and Emurgo they start with two sevens, which is about 28%
 
 What strikes me is, most people would not be able to see that subtle increase in power that the person with three keys gets. There is this kind of subtlety in the power distribution that's not very visible to most people.&#x20;
 
-Furthermore, I think this plays out in the dynamics between the three players over time. For instance, \[...] maybe I won't even refer to the names anymore as I go forward. In the abstract if the two weaker parties feel strongly about a particular issue, but they can't get agreement from the stronger party they may disenfranchised.&#x20;
+Furthermore, I think this plays out in the dynamics between the three players over time. For instance, \[...] maybe I won't even refer to the names anymore as I go forward. In the abstract, if the two weaker parties feel strongly about a particular issue, but they can't get agreement from the stronger party they may disenfranchised. Over time, if they can't influence things they disagree on with the more powerful player they may feel that continuing to be involved in this game isn't to their benefit.&#x20;
 
-And over time, if they can't influence things that they have a disagreement on with the more powerful player, they may feel that continuing to be involved in this game isn't to their benefit. Now, okay, so that's all in the abstract. But then just to conclude this, you know, part of what the chatter within the community has been recently that in fact, at some point, either CF or IO or or Mergo, delegated their keys to iOS K. And at that point, why don't I go ahead and just show what happens here. It's not, it's not this, it's very easy game to understand now. But if I change this to five and zero, and then measure the power index again, what you see now is that there is only three. - Kenric
+To conclude, the recent conversation within the community has been that at some point, the Cardano Foundation and Emurgo delegated their keys to IOHK.  - Kenric
 
 
 
