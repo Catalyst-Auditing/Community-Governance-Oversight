@@ -256,6 +256,12 @@ It's not to say that decentralization doesn't have strength and can't work. The 
 
 So a kind of decentralization did win in this instance. But in a sense, it still gets captured by the central powers within the computing industry. - Kenric
 
+#### Edinburgh decentralization index
+
+[44:51](https://youtu.be/WRC1n05tIr4?t=2691)
+
+A brief update over Charles's talk \[link], there was a mention of something called an Edinburgh decentralization index. There is documentation of that I can provide links to. And it's obviously something we need to be aware of going forward in terms of how this work will relate to decentralization index. - Stephen
+
 
 
 
