@@ -240,7 +240,11 @@ I don't feel that this is well understood in this community that the process tow
 
 There was a famous result called preferential growth. What this showed is why networks tend towards a power law distribution in how many connections a particular node has. The larger nodes tend to grow preferentially, because new members to the community have a preference to link up to popular nodes.
 
-For instance, if you go back to the early days of the Internet there were 10 different, very competitive search engines. But as Google became \[the preferred option] people got the most use out of its position and it became extremely dominant. To the point that it's now centralized a lot of the functionality of the internet. And \[similar effects] are playing out already in the cryptocurrency space.
+For instance, if you go back to the early days of the Internet there were 10 different, very competitive search engines. But as Google became \[the preferred option] people got the most use out of its position and it became extremely dominant. To the point that it's now centralized a lot of the functionality of the internet. And \[similar effects] are playing out already in the cryptocurrency space. - Kenric
+
+#### Folk philosophy
+
+There's a kind of folk folk philosophy going around Catalyst with the phrase "_You can have decentralization by centralizing first_". And it's a perception that's just wrong. - Stephen W
 
 
 
