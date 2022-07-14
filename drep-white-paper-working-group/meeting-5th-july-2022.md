@@ -126,7 +126,7 @@ Steph Macurdy
 
 [15:39](https://youtu.be/WRC1n05tIr4?t=939)
 
-An original result would be to calculate the Banzhof Power Index for the Catalyst community.&#x20;
+An original result would be to calculate the Banzhaf Power Index for the Catalyst community.&#x20;
 
 That is a big goal, because defining the processes of how Catalyst works into a formula for calculating the power index has subjectivity built into it.
 
