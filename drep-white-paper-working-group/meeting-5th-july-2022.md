@@ -260,11 +260,7 @@ So a kind of decentralization did win in this instance. But in a sense, it still
 
 [44:51](https://youtu.be/WRC1n05tIr4?t=2691)
 
-A brief update over Charles's talk \[link], there was a mention of something called an Edinburgh decentralization index. There is documentation of that I can provide links to. And it's obviously something we need to be aware of going forward in terms of how this work will relate to decentralization index. - Stephen
-
-
-
-
+A brief update over Charles's talk \[[Roadmap and Governance](https://quality-assurance-dao.gitbook.io/ekphrasis/june-2022/roadmap-and-governance)], there was a mention of something called an _Edinburgh decentralization index_. There is documentation of that I can provide links to. And it's obviously something we need to be aware of going forward in terms of how this work will relate to decentralization index. - Stephen
 
 ## References
 
@@ -285,3 +281,9 @@ When Cardano was initially set up, there were 7 genesis keys established that ar
 Currently, at least one of the weaker parties (CF or Emurgo) is reported to have delegated their genesis keys to IOHK. This gives IOHK the 5 keys necessary to be a dictator regarding the CIP and Hard For Combinator updates. While the goal is to transition during Voltaire to a member-based organization that manages the genesis keys, this example demonstrates how a slight advantage in the voting ratio can lead to a substantial advantage in voting power. And an early advantage in voting power can be used over time to further increase this disparity.&#x20;
 
 This example provides a power illustration of the importance of monitoring and controlling the distribution of Banzhaf voting power in the Cardano community processes.
+
+### Roadmap and Governance
+
+Charles Hoskinson on the Cardano Roadmap and Governance. 30th June 2022
+
+{% embed url="https://quality-assurance-dao.gitbook.io/ekphrasis/june-2022/roadmap-and-governance" %}
