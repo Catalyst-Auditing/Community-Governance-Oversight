@@ -60,6 +60,10 @@ Allison - Updates on Town Hall Slides
 
 ![](<../../.gitbook/assets/Screenshot 2022-07-16 135650.png>)
 
+![](<../../.gitbook/assets/Screenshot 2022-07-16 151840.png>)
+
+![](<../../.gitbook/assets/Screenshot 2022-07-16 151941.png>)
+
 More in depth. Asked people to comment.&#x20;
 
 IOG has forewarning CGO are doing oversight of parameters - Phil
