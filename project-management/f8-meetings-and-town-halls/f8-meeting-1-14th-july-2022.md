@@ -72,3 +72,5 @@ Allison went into a little more depth about CGO history and where we came from a
 
 **Thorsten -** I think it would be helpful. Yes.
 
+**08:41 - Phil K** - IOG have forewarning now that CGO are noting parameter changes at Town Hall slides. So I think that is a good place to start.&#x20;
+
