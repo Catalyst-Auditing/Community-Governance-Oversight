@@ -12,28 +12,28 @@ description: >-
 
 ## Attendees
 
-| Name                 |   |   |
-| -------------------- | - | - |
-| Allison Fromm        |   |   |
-| Jo Allum             |   |   |
-| Kenric Nelson        |   |   |
-| Matthias Sieber      |   |   |
-| Phil Khoo            |   |   |
-| Stephen Whitenstall  |   |   |
-| Tevo Saks            |   |   |
-| Vanessa Cardui       |   |   |
-| Andre Diamond        |   |   |
-| Miroslav Rajh        |   |   |
+| Name                |   |   |
+| ------------------- | - | - |
+| Allison Fromm       |   |   |
+| Jo Allum            |   |   |
+| Kenric Nelson       |   |   |
+| Matthias Sieber     |   |   |
+| Phil Khoo           |   |   |
+| Stephen Whitenstall |   |   |
+| Tevo Saks           |   |   |
+| Vanessa Cardui      |   |   |
+| Andre Diamond       |   |   |
+| Miroslav Rajh       |   |   |
 
 ## Agenda
 
-## Updates & Announcements&#x20;
+## Updates & Announcements
 
 #### From Oversight members
 
 https://quality-assurance-dao.gitbook.io/community-governance-oversight/project/meetings-and-town-halls#9th-march-town-hall
 
-## Treasury&#x20;
+## Treasury
 
 ### Proposal funds
 
@@ -49,9 +49,9 @@ Alternate a secretary role to take notes at each meeting
 
 ## Survey Design
 
-Assignment & commitment to the Survey deliverable. How to design a survey that fits the parameter change process.&#x20;
+Assignment & commitment to the Survey deliverable. How to design a survey that fits the parameter change process.
 
-For info, here is the fund 7 “Community Governance Oversight” proposal that funds this [https://cardano.ideascale.com/c/idea/383517](https://cardano.ideascale.com/c/idea/383517)&#x20;
+For info, here is the fund 7 “Community Governance Oversight” proposal that funds this [https://cardano.ideascale.com/c/idea/383517](https://cardano.ideascale.com/c/idea/383517)
 
 Interested in reports - Allison
 
@@ -80,7 +80,7 @@ Could we survey the community on their opinion on the way dreps were introduced 
 
 ### Fund 7
 
-### Fund 8&#x20;
+### Fund 8
 
 Oversight of dReps
 
@@ -88,12 +88,11 @@ Oversight of Catalyst Parameter Changes
 
 Oversight of Circle Problem Sensing
 
-Oversight of Challenge Setting&#x20;
+Oversight of Challenge Setting
 
-\
+\\
 
-
-Chase Harris on scope - Allison&#x20;
+Chase Harris on scope - Allison
 
 Chase Marek on scope - Tevo
 
@@ -127,4 +126,4 @@ For F7 budget focus on outreach and preparation for different language communiti
 \
 \
 \
-\
+\\

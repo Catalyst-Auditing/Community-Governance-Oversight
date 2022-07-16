@@ -12,8 +12,8 @@ Prepartion for Fund 7 proposals
 
 ### Town Hall Presentations
 
-{% content-ref url="town-hall-presentations.md" %}
-[town-hall-presentations.md](town-hall-presentations.md)
+{% content-ref url="Town Hall Presentations.md" %}
+[Town Hall Presentations.md](<Town Hall Presentations.md>)
 {% endcontent-ref %}
 
 ### Meetings
