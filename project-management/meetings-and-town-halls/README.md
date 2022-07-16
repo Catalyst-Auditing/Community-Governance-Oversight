@@ -1,4 +1,4 @@
-# F7 - Meetings and Town Halls
+# F7 - Meetings & Town Halls
 
 ## Overview
 

@@ -1,4 +1,4 @@
-# F7 Meeting 6 - 2nd June 2022
+# F7 Meeting 6 - 2th June 2022
 
 [F7 Meeting 6 - Agenda - Thursday, 2th June 2022](https://docs.google.com/document/d/1q1UzVcZwWfFWt3qeR2yDPX\_TZHMf7G14egKr1s1hNks/edit#heading=h.k869aiwbjkcq)
 

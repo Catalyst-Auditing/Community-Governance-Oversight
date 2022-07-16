@@ -36,9 +36,18 @@ F8 Meeting 1
 
 * **00:55 - Andre** - F8 $ 6860 incoming next month. We have already paid for the F8 CGO meeting commitments and $ 4200 for Kenric's research budget.&#x20;
 * **02:21 - Phil K -** The rest of the payments will be variable based on deliverables ?
+* **02:27 - Stephen W** - Yes that is right.
 
 {% hint style="info" %}
-**Action:** Pay for meeting minutes - decide on allocation of remaining funds.
+**Action:** In August 2022 pay reminder of the research budget to Kenric.
+{% endhint %}
+
+{% hint style="info" %}
+**Action**: Pay Allison $75 for Town Hall Slides X 2 ($150) in July 2022
+{% endhint %}
+
+{% hint style="info" %}
+**Action:** Pay Stephen $500 for Project Management for July 2022
 {% endhint %}
 
 ## 2. Town Hall Slides
