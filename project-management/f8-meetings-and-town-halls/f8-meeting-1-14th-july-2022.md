@@ -52,7 +52,7 @@ F8 Meeting 1
 
 ## 2. Town Hall Slides
 
-Allison - Updates on Town Hall Slides
+**07:21 - Allison** - Updates on Town Hall Slides
 
 {% embed url="https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/87" %}
 
