@@ -84,6 +84,51 @@ Allison went into a little more depth about CGO history and where we came from a
 
 {% embed url="https://github.com/orgs/Catalyst-Auditing/projects/3/views/1" %}
 
+A quick view of the project board. A bit frightening because there's a lot in the backlog. But it's mostly to do with Fund 7 stuff in progress.
+
+We have spoken about the Town Hall Slides.&#x20;
+
+Mostly, today's meeting is going to be a scoping meeting.&#x20;
+
+## 4 F8 CGO Scope & Deliverables <a href="#docs-internal-guid-ba4eaced-7fff-0b8f-c4bc-7cd87458c260" id="docs-internal-guid-ba4eaced-7fff-0b8f-c4bc-7cd87458c260"></a>
+
+### 4.1 Challenge Setting
+
+{% hint style="info" %}
+Issue : [https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/88](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/88)
+{% endhint %}
+
+### 4.2 Catalyst Circle Oversight <a href="#docs-internal-guid-44e33ab0-7fff-8276-b868-29b983da0a04" id="docs-internal-guid-44e33ab0-7fff-8276-b868-29b983da0a04"></a>
+
+What is the scope of F8 Catalyst Circle Oversight ?
+
+{% hint style="info" %}
+Issue : [https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/89](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/89)
+{% endhint %}
+
+
+
+### 4.3 d-Reps <a href="#docs-internal-guid-018d6226-7fff-ac98-706b-7cac10df2f5b" id="docs-internal-guid-018d6226-7fff-ac98-706b-7cac10df2f5b"></a>
+
+In progress - last meeting&#x20;
+
+F8 - dRep White Paper Working Group Meeting Tuesday, 4th July 2022 - 1700 UTC
+
+{% hint style="info" %}
+Issue : [https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/86](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/86)
+{% endhint %}
+
+### 4.4 Governance parameters <a href="#docs-internal-guid-b3eb649b-7fff-efe2-ab50-c347d17bd855" id="docs-internal-guid-b3eb649b-7fff-efe2-ab50-c347d17bd855"></a>
+
+What is the scope of F8 Governance parameters ?
+
+{% hint style="info" %}
+Issue : [https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/90](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/90)
+{% endhint %}
+
+\
+
+
 
 
 
