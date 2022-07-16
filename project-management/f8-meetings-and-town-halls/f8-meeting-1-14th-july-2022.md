@@ -74,3 +74,5 @@ Allison went into a little more depth about CGO history and where we came from a
 
 **08:41 - Phil K** - IOG have forewarning now that CGO are noting parameter changes at Town Hall slides. So I think that is a good place to start.&#x20;
 
+**Stephen -** We are doing oversight of parameters. And I suppose that's what the question is, is how we are going to approach that? Allison's obviously you're doing you're doing a kind of an overview for every town hall slide presentation.
+
