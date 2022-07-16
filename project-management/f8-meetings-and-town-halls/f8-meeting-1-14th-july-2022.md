@@ -112,6 +112,8 @@ With challenge settings I am pushing contributors as a recurring model. There's 
 
 But it feels like the whole issue of the scope of challenge settings is kind of different from catalyst contributors. And I'm not quite seeing how CGO has a take on catalyst contributors. What am I missing? - Vanessa
 
+I'm a little lost, too. I understand the funding categories. But I'm not sure how contributors fits into that. - Allison
+
 It's because funding categories are looking to replace challenge settings and contributors is a big part of that - George
 
 Discussion from Nadia/Tomi work - bit confused by what they are suggesting - Kenric
@@ -122,7 +124,7 @@ Challenge Teams were never intended as auditing function. Audit is a heavy respo
 
 My understanding Challenge Team is not an audit function. I was hoping Ron Hill or others would submit audit proposals -  Phil
 
-No substantial budget to resource Challenge Teams or Audit - Kenric
+What I observe is that every challenge has at least three, maybe as many as five IOG employees who are part of the challenge team. And then maybe one or the most two that are non IOG employees. Even this is like a baby step towards some delegation to the community. But there was never a commitment of a substantial budget. So that you could recruit the right kind of people and they would have the adequate amount of time to do the functions that would truly be leadership of that challenge. - Kenric
 
 Fund 9 was unusual. Will be interesting to see the effect on Catalyst of limited Challenges - Vanessa
 
