@@ -128,9 +128,9 @@ What I observe is that every challenge has at least three, maybe as many as five
 
 This particular Fund 9 has been quite unusual in terms of the challenge settings, and the challenges that have been available to propose in. I would quite like to see CGO do some kind of oversight or information gathering on what effect that has had on Catalyst? I don't quite know what that would look like or what our process would be. But does anybody think that would be useful or valid? - Vanessa
 
+That sounds amazing. But it also sounds like it would take up all our money. That's a whole other thing to understand that. - Phil&#x20;
 
-
-
+Yeah, I was gonna say the same thing. We've got a lot of fantastic ideas and good work here. I think we're, we're not we're not lacking things we could do. It's a question of prioritizing which ones we have the resources to do. - Allison
 
 Fund 8 feedback due from voting survey - Tevo
 
