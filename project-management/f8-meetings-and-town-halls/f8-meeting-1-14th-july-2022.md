@@ -94,8 +94,56 @@ Mostly, today's meeting is going to be a scoping meeting.&#x20;
 
 ### 4.1 Challenge Setting
 
+**40:56 (discussed later in meeting)**
+
+What is the scope of Challenge Setting Oversight ?
+
 {% hint style="info" %}
 Issue : [https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/88](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/88)
+{% endhint %}
+
+I'm presenting categories and contributor recurring model to IOG on 22nd July, will be recorded, will share into CGO Discord - George
+
+Documented ? - Vanessa
+
+With challenge settings I am pushing contributors as a recurring model. There's a lot of parameters in contributor model that would need thought.
+
+(documentation) Wasn't planning to - can do, either way - George
+
+But it feels like the whole issue of the scope of challenge settings is kind of different from catalyst contributors. And I'm not quite seeing how CGO has a take on catalyst contributors. What am I missing? - Vanessa
+
+It's because funding categories are looking to replace challenge settings and contributors is a big part of that - George
+
+Discussion from Nadia/Tomi work - bit confused by what they are suggesting - Kenric
+
+Concerned that Challenge Team members not given authority to audit proposals - Kenric
+
+Challenge Teams were never intended as auditing function. Audit is a heavy responsibility and the compensation is not enough - Vanessa
+
+My understanding Challenge Team is not an audit function. I was hoping Ron Hill or others would submit audit proposals -  Phil
+
+No substantial budget to resource Challenge Teams or Audit - Kenric
+
+Fund 9 was unusual. Will be interesting to see the effect on Catalyst of limited Challenges - Vanessa
+
+Fund 8 feedback due from voting survey - Tevo
+
+We could add questions to the Fund 9 IOG survey ? - Phil
+
+Who is working on what ? - Kenric
+
+
+
+
+
+
+
+
+
+
+
+{% hint style="info" %}
+**Resources** - George, Phil
 {% endhint %}
 
 ### 4.2 Catalyst Circle Oversight <a href="#docs-internal-guid-44e33ab0-7fff-8276-b868-29b983da0a04" id="docs-internal-guid-44e33ab0-7fff-8276-b868-29b983da0a04"></a>
