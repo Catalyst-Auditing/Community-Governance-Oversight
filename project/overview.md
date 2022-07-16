@@ -8,7 +8,9 @@ Here you will find information on :
 
 ## Our Team
 
+{% hint style="info" %}
 Who is committed and to what deliverables
+{% endhint %}
 
 {% content-ref url="team.md" %}
 [team.md](team.md)
@@ -16,7 +18,9 @@ Who is committed and to what deliverables
 
 ## The Process
 
+{% hint style="info" %}
 How we work
+{% endhint %}
 
 {% content-ref url="process.md" %}
 [process.md](process.md)
@@ -24,7 +28,9 @@ How we work
 
 ## The Timetable
 
+{% hint style="info" %}
 What we have achieved and what we are doing next
+{% endhint %}
 
 {% content-ref url="timetable.md" %}
 [timetable.md](timetable.md)
@@ -32,7 +38,9 @@ What we have achieved and what we are doing next
 
 ## Meetings
 
+{% hint style="info" %}
 A record of our meetings
+{% endhint %}
 
 {% content-ref url="../project-management/meetings-and-town-halls/" %}
 [meetings-and-town-halls](../project-management/meetings-and-town-halls/)
