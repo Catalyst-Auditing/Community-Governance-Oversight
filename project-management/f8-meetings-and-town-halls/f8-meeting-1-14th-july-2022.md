@@ -68,3 +68,7 @@ Allison went into a little more depth about CGO history and where we came from a
 
 **08:01 - Thorsten** - Do we have a publicly accessible register of all the parameters which we have identified?
 
+**Stephen -** No we do not. Do you think we should do that ?
+
+**Thorsten -** I think it would be helpful. Yes.
+
