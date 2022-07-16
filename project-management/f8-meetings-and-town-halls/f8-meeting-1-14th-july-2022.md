@@ -64,6 +64,7 @@ F8 Meeting 1
 
 ![](<../../.gitbook/assets/Screenshot 2022-07-16 151941.png>)
 
-More in depth. Asked people to comment.&#x20;
+Allison went into a little more depth about CGO history and where we came from and what we're trying to do. We did ask people to comment on parameters this time around either in the chat or in discord.&#x20;
 
-IOG has forewarning CGO are doing oversight of parameters - Phil
+**08:01 - Thorsten** - Do we have a publicly accessible register of all the parameters which we have identified?
+
