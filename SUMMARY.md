@@ -64,7 +64,7 @@
 * [Team](project/team.md)
 * [Process](project/process.md)
 * [Timetable](project/timetable.md)
-* [F7 - Meetings & Town Halls](project-management/meetings-and-town-halls/README.md)
+* [F7 - Meetings and Town Halls](project-management/meetings-and-town-halls/README.md)
   * [F7 - Pre Planning - 3rd March 2022](project-management/meetings-and-town-halls/pre-planning-3rd-march-2022.md)
   * [F7 - Town Hall Presentations](<project-management/meetings-and-town-halls/Town Hall Presentations.md>)
   * [F7 Meeting 1 - 10th March 2022](project-management/meetings-and-town-halls/f7-meeting-1-10th-march-2022.md)
@@ -83,7 +83,3 @@
 ## Sandbox
 
 * [Sandbox](sandbox/sandbox.md)
-
-## F8 - Meetings and Town Halls
-
-* [Page 1](f8-meetings-and-town-halls/page-1.md)
