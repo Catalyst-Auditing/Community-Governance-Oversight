@@ -76,3 +76,5 @@ Allison went into a little more depth about CGO history and where we came from a
 
 **Stephen -** We are doing oversight of parameters. And I suppose that's what the question is, is how we are going to approach that? Allison's obviously you're doing you're doing a kind of an overview for every town hall slide presentation.
 
+**Allison -** That is meant to be only the most recent changes that we have informally observed. I agree that, ideally, documenting all parameters and logging when they change, how that decision is made and how it's communicated would be fantastic. But that is a lot of work.&#x20;
+
