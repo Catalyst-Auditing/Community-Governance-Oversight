@@ -47,7 +47,7 @@ F8 Meeting 1
 {% endhint %}
 
 {% hint style="info" %}
-**Action:** Pay Stephen $500 for Project Management for July 2022
+**Action:** Pay Stephen W $500 for Project Management for July 2022
 {% endhint %}
 
 ## 2. Town Hall Slides
