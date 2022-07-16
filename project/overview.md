@@ -46,6 +46,6 @@ A record of our meetings
 [meetings-and-town-halls](../project-management/meetings-and-town-halls/)
 {% endcontent-ref %}
 
-{% content-ref url="../project-management/f8-meetings-and-town-halls.md" %}
-[f8-meetings-and-town-halls.md](../project-management/f8-meetings-and-town-halls.md)
+{% content-ref url="../project-management/f8-meetings-and-town-halls/" %}
+[f8-meetings-and-town-halls](../project-management/f8-meetings-and-town-halls/)
 {% endcontent-ref %}
