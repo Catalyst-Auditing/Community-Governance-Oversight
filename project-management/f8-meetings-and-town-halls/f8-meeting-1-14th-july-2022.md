@@ -126,7 +126,11 @@ My understanding Challenge Team is not an audit function. I was hoping Ron Hill 
 
 What I observe is that every challenge has at least three, maybe as many as five IOG employees who are part of the challenge team. And then maybe one or the most two that are non IOG employees. Even this is like a baby step towards some delegation to the community. But there was never a commitment of a substantial budget. So that you could recruit the right kind of people and they would have the adequate amount of time to do the functions that would truly be leadership of that challenge. - Kenric
 
-Fund 9 was unusual. Will be interesting to see the effect on Catalyst of limited Challenges - Vanessa
+This particular Fund 9 has been quite unusual in terms of the challenge settings, and the challenges that have been available to propose in. I would quite like to see CGO do some kind of oversight or information gathering on what effect that has had on Catalyst? I don't quite know what that would look like or what our process would be. But does anybody think that would be useful or valid? - Vanessa
+
+
+
+
 
 Fund 8 feedback due from voting survey - Tevo
 
