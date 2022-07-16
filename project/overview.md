@@ -1,23 +1,43 @@
 # Overview
 
 {% hint style="info" %}
-Welcome to the project management section of Community Governance Oversight.&#x20;
+Welcome to the project management section of Community Governance Oversight.
 
-Here you will find information on :&#x20;
+Here you will find information on :
 {% endhint %}
 
-## [Our Team](https://quality-assurance-dao.gitbook.io/community-governance-oversight/project/team)
+## Our Team
 
 Who is committed and to what deliverables
 
-## [The Process](https://quality-assurance-dao.gitbook.io/community-governance-oversight/project/process)
+{% content-ref url="team.md" %}
+[team.md](team.md)
+{% endcontent-ref %}
+
+## The Process
 
 How we work
 
-## [The Timetable](https://quality-assurance-dao.gitbook.io/community-governance-oversight/project/timetable)
+{% content-ref url="process.md" %}
+[process.md](process.md)
+{% endcontent-ref %}
+
+## The Timetable
 
 What we have achieved and what we are doing next
 
-## [Meetings](https://quality-assurance-dao.gitbook.io/community-governance-oversight/project/meetings)
+{% content-ref url="timetable.md" %}
+[timetable.md](timetable.md)
+{% endcontent-ref %}
+
+## Meetings
 
 A record of our meetings
+
+{% content-ref url="../project-management/meetings-and-town-halls/" %}
+[meetings-and-town-halls](../project-management/meetings-and-town-halls/)
+{% endcontent-ref %}
+
+{% content-ref url="../project-management/f8-meetings-and-town-halls.md" %}
+[f8-meetings-and-town-halls.md](../project-management/f8-meetings-and-town-halls.md)
+{% endcontent-ref %}
