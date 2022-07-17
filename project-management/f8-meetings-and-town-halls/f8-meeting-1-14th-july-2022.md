@@ -170,6 +170,10 @@ Ultimately, I think that disparity has to be resolved in order for the community
 
 One of the primary functions of this current Circle is to design the election process. - Kenric
 
+#### Not making decisions
+
+For me personally the parameters side of things is more interesting than Circle oversight. So I'm happy to defer that scope to others. I would only suggest given the point that I kind of hammered in the town hall that we're not making decisions that were clear to separate what's oversight from?  - Allison
+
 
 
 ### 4.3 d-Reps <a href="#docs-internal-guid-018d6226-7fff-ac98-706b-7cac10df2f5b" id="docs-internal-guid-018d6226-7fff-ac98-706b-7cac10df2f5b"></a>
