@@ -152,15 +152,17 @@ Issue : [https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coo
 
 11:27 - How should we approach Circle Oversight ? - Stephen
 
-11:35 - I can chime in because I led one of the After Town Hall discussions \[on Circle compensation]. And I think it was a very good discussion.&#x20;
+11:35 - I can chime in because I led one of the After Town Hall discussions \[on Circle compensation]. And I think it was a very good discussion. - Kenric
 
-I just finished detailed notes of the meeting that I've asked Stephen and Harris to review before I publish it. Joey \[Chessner - Circle v3 Representative] had input to that.
+I just finished detailed notes of the meeting that I've asked Stephen and Harris to review before I publish it. Joey \[Chessner - Circle v3 Representative] had input to that. - Kenric
 
-People have different thoughts but there was kind of consensus that it's important for some reasonable compensation for the circle members. There is support for the Circle, and for being sustainable through appropriate compensation. I also have done some design work on this, and outline some possibilities.
+People have different thoughts but there was kind of consensus that it's important for some reasonable compensation for the circle members. There is support for the Circle, and for being sustainable through appropriate compensation. I also have done some design work on this, and outline some possibilities. - Kenric
 
-There is a student from Oxford, who's also quite interested in this problem. My concern is whether IOG will take \[the compensation issue] seriously.&#x20;
+There is a student from Oxford, who's also quite interested in this problem. My concern is whether IOG will take \[the compensation issue] seriously.  - Kenric
 
-13:26 - I think there's a big disparity between how community members are being recruited to fulfill functions within catalysts. And how either proposal teams are compensating people on their proposal teams or even you know IRG in terms of how they run their business and how they recruit people to be employees of their business. And ultimately, I think that disparity has to be resolved in order for the community to be more healthy. Okay, so with the circle roll, I've proposed some ideas that would allow for a kind of negotiation, where candidates could propose the salary, but then there'd also be a process that would make that you know, be competitive and
+13:26 - I think there's a big disparity between how community members are being recruited to fulfill functions within Catalyst. And how proposal teams are compensating people and IOG in terms of how they run their business and how they recruit people to be employees of their business. - Kenric
+
+Ultimately, I think that disparity has to be resolved in order for the community to be more healthy. With the Circle role I've proposed some ideas that would allow for a kind of negotiation. Where candidates can propose the salary. - Kenric
 
 
 
