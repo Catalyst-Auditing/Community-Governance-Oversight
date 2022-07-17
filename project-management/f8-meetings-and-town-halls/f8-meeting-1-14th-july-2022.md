@@ -174,7 +174,7 @@ One of the primary functions of this current Circle is to design the election pr
 
 For me personally the parameters side of things is more interesting than Circle oversight. So I'm happy to defer that scope to others. I would only suggest given the point that I kind of hammered in the town hall that we're not making decisions that were clear to separate what's oversight from?  - Allison
 
-
+The report back here I would have given was that there was an After Town Hall \[three of them]. Different discussions happened. Obviously there was no ability to make a decision in those discussions. But we had participation from three members from here, both acting as overseers and as participants. I think that's kind of more the report we're looking for here rather than any particular outcomes of what happened. - Phil
 
 ### 4.3 d-Reps <a href="#docs-internal-guid-018d6226-7fff-ac98-706b-7cac10df2f5b" id="docs-internal-guid-018d6226-7fff-ac98-706b-7cac10df2f5b"></a>
 
