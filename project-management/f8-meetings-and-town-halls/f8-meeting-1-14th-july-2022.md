@@ -176,6 +176,12 @@ For me personally the parameters side of things is more interesting than Circle 
 
 The report back here I would have given was that there was an After Town Hall \[three of them]. Different discussions happened. Obviously there was no ability to make a decision in those discussions. But we had participation from three members from here, both acting as overseers and as participants. I think that's kind of more the report we're looking for here rather than any particular outcomes of what happened. - Phil
 
+Surely here in this meeting we should be talking about what we think CGOs approach and scope to Circle oversight should be rather than thrashing out what happened in the After Town Hall ? Can we try to focus on where that leaves us in terms of CGO ? - Vanessa
+
+
+
+
+
 ### 4.3 d-Reps <a href="#docs-internal-guid-018d6226-7fff-ac98-706b-7cac10df2f5b" id="docs-internal-guid-018d6226-7fff-ac98-706b-7cac10df2f5b"></a>
 
 In progress - last meeting&#x20;
