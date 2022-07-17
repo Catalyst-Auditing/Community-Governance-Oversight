@@ -174,11 +174,17 @@ One of the primary functions of this current Circle is to design the election pr
 
 For me personally the parameters side of things is more interesting than Circle oversight. So I'm happy to defer that scope to others. I would only suggest given the point that I kind of hammered in the town hall that we're not making decisions that were clear to separate what's oversight from?  - Allison
 
+#### After Town Hall
+
 The report back here I would have given was that there was an After Town Hall \[three of them]. Different discussions happened. Obviously there was no ability to make a decision in those discussions. But we had participation from three members from here, both acting as overseers and as participants. I think that's kind of more the report we're looking for here rather than any particular outcomes of what happened. - Phil
+
+#### Scope
 
 Surely here in this meeting we should be talking about what we think CGOs approach and scope to Circle oversight should be rather than thrashing out what happened in the After Town Hall ? Can we try to focus on where that leaves us in terms of CGO ? - Vanessa
 
+I think what Phil meant was to say that this event happened and we have a timeline of people who want to see what's happening in this Catalyst space. They have a timeline, events happening here, here and here. Some of them repeat, some of them don't. But you get this scope of people working actively in places. - Tevo
 
+Another thing I wanted to point out, is when Catalyst Circle is looking for feedback, like doing polis or these surveys we leverage our Twitter and \[information] to get information to that Circle. So we don't have a situation where Circle is doing something but doesn't find the traction they need to get their own audience. - Tevo
 
 
 
