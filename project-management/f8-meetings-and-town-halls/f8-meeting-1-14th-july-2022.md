@@ -194,6 +194,8 @@ I think that one of the things that should be in our scope for Fund 8 is looking
 
 Sometimes Circle tries to communicate what is going on and people don't always hear it. So we can contextualize to an extent. - Vanessa
 
+I think that's good guidance. The design of the upcoming election is front and center right now. What does oversight mean? And what are the boundaries for contributing to that process? There's two functions, one function is documenting what's going on. That's quite important. But then oversight can also involve making recommendations. We're not ultimately the decision makers, but we should feel comfortable making recommendations. - Kenric
+
 ### 4.3 d-Reps <a href="#docs-internal-guid-018d6226-7fff-ac98-706b-7cac10df2f5b" id="docs-internal-guid-018d6226-7fff-ac98-706b-7cac10df2f5b"></a>
 
 In progress - last meeting&#x20;
