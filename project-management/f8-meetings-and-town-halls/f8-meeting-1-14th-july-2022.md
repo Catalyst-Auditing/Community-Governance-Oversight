@@ -186,7 +186,13 @@ I think what Phil meant was to say that this event happened and we have a timeli
 
 Another thing I wanted to point out, is when Catalyst Circle is looking for feedback, like doing polis or these surveys we leverage our Twitter and \[information] to get information to that Circle. So we don't have a situation where Circle is doing something but doesn't find the traction they need to get their own audience. - Tevo
 
+#### Circle Election Process
 
+19:42 - I see that point but I do think that it's moving away from oversight and more into participating in the process. And I feel really strongly that we should try to avoid doing that. And we keep our oversight function really clear. - Vanessa
+
+I think that one of the things that should be in our scope for Fund 8 is looking at the \[Circle] election process. And what is decided about that. Because Circle has tasked itself to  focus on the election for Circle v4. And that seems to be a natural focus. - Vanessa
+
+Sometimes Circle tries to communicate what is going on and people don't always hear it. So we can contextualize to an extent. - Vanessa
 
 ### 4.3 d-Reps <a href="#docs-internal-guid-018d6226-7fff-ac98-706b-7cac10df2f5b" id="docs-internal-guid-018d6226-7fff-ac98-706b-7cac10df2f5b"></a>
 
