@@ -198,13 +198,28 @@ I think that's good guidance. The design of the upcoming election is front and c
 
 ### 4.3 d-Reps <a href="#docs-internal-guid-018d6226-7fff-ac98-706b-7cac10df2f5b" id="docs-internal-guid-018d6226-7fff-ac98-706b-7cac10df2f5b"></a>
 
-In progress - last meeting&#x20;
+23:49
 
-F8 - dRep White Paper Working Group Meeting Tuesday, 4th July 2022 - 1700 UTC
+In progress - the last meeting  was F8 - dRep White Paper Working Group Meeting Tuesday, 4th July 2022 - 1700 UTC
 
 {% hint style="info" %}
 Issue : [https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/86](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/86)
 {% endhint %}
+
+The dReps White Paper team is progressing with their first draft. In August, the team will invite community reviewers to comment on the white paper.&#x20;
+
+3 authors actively working on drafts. 1 author to confirm. Thorsten working as deputy. Thorsten, Stephen W and Kenric working as editors
+
+Published today - [https://quality-assurance-dao.gitbook.io/community-governance-oversight/drep-white-paper-working-group/meeting-5th-july-2022](https://quality-assurance-dao.gitbook.io/community-governance-oversight/drep-white-paper-working-group/meeting-5th-july-2022)
+
+Open to Community reviewers in coming weeks - Kenric
+
+Separate out White paper from oversight of dReps - Kenric
+
+Second function of how dRep process going - Kenric
+
+Participating dRep perspective - Tevo\
+
 
 ### 4.4 Governance parameters <a href="#docs-internal-guid-b3eb649b-7fff-efe2-ab50-c347d17bd855" id="docs-internal-guid-b3eb649b-7fff-efe2-ab50-c347d17bd855"></a>
 
