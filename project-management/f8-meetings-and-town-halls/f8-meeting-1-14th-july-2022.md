@@ -138,16 +138,6 @@ We could add questions to the Fund 9 IOG survey ? - Phil
 
 Who is working on what ? - Kenric
 
-
-
-
-
-
-
-
-
-
-
 {% hint style="info" %}
 **Resources** - George, Phil
 {% endhint %}
@@ -160,7 +150,15 @@ What is the scope of F8 Catalyst Circle Oversight ?
 Issue : [https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/89](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/89)
 {% endhint %}
 
+11:27 - How should we approach Circle Oversight ? - Stephen
 
+11:35 - I can chime in because I led one of the After Town Hall discussions \[on Circle compensation]. And I think it was a very good discussion.&#x20;
+
+I just finished detailed notes of the meeting that I've asked Stephen and Harris to review before I publish it. Joey \[Chessner - Circle v3 Represenative] had input to that.
+
+People have different thoughts but there was kind of consensus that it's important for some reasonable compensation for the circle members. There is support for the Circle, and for being sustainable through appropriate compensation. I also have done some design work on this, and outline some possibilities.
+
+There is a student from Oxford, who's also quite interested in this problem. My concern is whether IOG will take \[the compensation issue] seriously.&#x20;
 
 ### 4.3 d-Reps <a href="#docs-internal-guid-018d6226-7fff-ac98-706b-7cac10df2f5b" id="docs-internal-guid-018d6226-7fff-ac98-706b-7cac10df2f5b"></a>
 
