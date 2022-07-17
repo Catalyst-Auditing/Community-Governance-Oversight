@@ -152,6 +152,8 @@ Issue : [https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coo
 
 11:27 - How should we approach Circle Oversight ? - Stephen
 
+#### Compensation for the circle members
+
 11:35 - I can chime in because I led one of the After Town Hall discussions \[on Circle compensation]. And I think it was a very good discussion. - Kenric
 
 I just finished detailed notes of the meeting that I've asked Stephen and Harris to review before I publish it. Joey \[Chessner - Circle v3 Representative] had input to that. - Kenric
@@ -163,6 +165,10 @@ There is a student from Oxford, who's also quite interested in this problem. My 
 13:26 - I think there's a big disparity between how community members are being recruited to fulfill functions within Catalyst. And how proposal teams are compensating people and IOG in terms of how they run their business and how they recruit people to be employees of their business. - Kenric
 
 Ultimately, I think that disparity has to be resolved in order for the community to be more healthy. With the Circle role I've proposed some ideas that would allow for a kind of negotiation. Where candidates can propose the salary. - Kenric
+
+#### Circle election process
+
+One of the primary functions of this current Circle is to design the election process. - Kenric
 
 
 
