@@ -299,7 +299,11 @@ I would like to understand how they came to these decisions on their side. Even 
 
 ## 6 Summary of CGO meeting for Catalyst Weekly Newsletter
 
-[https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/93](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/93)
+{% embed url="https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/93" %}
+
+{% hint style="info" %}
+No updates this week
+{% endhint %}
 
 ## 7 Updates on CGO F7 Final Report and Slide Presentation
 
