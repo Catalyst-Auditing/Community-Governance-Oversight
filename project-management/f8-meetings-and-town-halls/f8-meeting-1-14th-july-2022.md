@@ -245,3 +245,7 @@ Jeremy has done great work on the decision making tree and some of the parameter
 The most important thing I think is that there's a column there that states the conditions on which the community can take this over. And those will be blank for now. But as we get to more important parameters we to say that the community and IOG need to discuss what it \[would take] to steward it towards an executable decision made by greater community. I think that's where this work can have significant value in the community beyond just reporting. But actually reporting and engaging on how to adjust those parameters \[in practice]. - Phil
 
 In addition to the parameters themselves what's actually critical is how those parameters are currently being managed. And what's the cost of that management? In terms of transitioning responsibility to the community that's what becomes critical is what's involved in making decisions on these parameters and how much is that going to cost? - Kenric
+
+You could start with identifying who is involved in the decision making and approximation of how much time they spend on that particular issue and some estimation of how much that costs. - Kenric
+
+Catalyst governance parameters could be a good start for us. How much \[resources] we give to one subject does not have to be equal. We can do more work on one subject than another. We do seem to be gathering around Thorsten's idea of building a public register. - Thorsten
