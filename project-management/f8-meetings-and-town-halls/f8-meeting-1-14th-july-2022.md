@@ -234,7 +234,7 @@ Issue : [https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coo
 Somebody asked both last night and just now, are we keeping a comprehensive log somewhere of catalyst parameters. I think that would be really useful activity to log all of the parameters, how they change, who makes the decision and how it's communicated. But I'm conscious that's a pretty large work workload. - Allison\
 
 
-
+We can take a little bit out of the Fund 7 report where there was a list of the ones that we had noticed and we could use that as a basis. But there is research to do on when things were announced and how they were announced.  - Vanessa
 
 
 
