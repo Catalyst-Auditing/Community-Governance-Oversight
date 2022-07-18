@@ -240,3 +240,6 @@ I would just say having a problem on the board which lists all the parameters. W
 
 Maybe the way to go about that is to chunk it. Define broad categories of parameters? So for instance, there's parameters on the proposal processes. - Kenric
 
+Jeremy has done great work on the decision making tree and some of the parameters could be categorized within that tree. We can look to categorize parameters. Some parameters probably should be discussed urgently and worked out how to change them. - Phil
+
+The most important thing I think is that there's a column there that states the conditions on which the community can take this over. And those will be blank for now. But as we get to more important parameters we to say that the community and IOG need to discuss what it \[would take] to steward it towards an executable decision made by greater community. I think that's where this work can have significant value in the community beyond just reporting. But actually reporting and engaging on how to adjust those parameters \[in practice]. - Phil
