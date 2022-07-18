@@ -238,3 +238,5 @@ We can take a little bit out of the Fund 7 report where there was a list of the 
 
 I would just say having a problem on the board which lists all the parameters. We try to note when and how it was introduced and by whom? To whom? - Vanessa
 
+Maybe the way to go about that is to chunk it. Define broad categories of parameters? So for instance, there's parameters on the proposal processes. - Kenric
+
