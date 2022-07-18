@@ -1,3 +1,7 @@
+---
+description: Fund 8 Community Governance Oversight - Meeting 1 - Thursday, 14th July 2022
+---
+
 # F8 Meeting 1 -14th July 2022
 
 {% embed url="https://youtu.be/JD3mPhAub4c" %}
