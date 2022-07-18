@@ -255,3 +255,5 @@ Catalyst governance parameters could be a good start for us. How much \[resource
 35:53
 
 The \[parameter change] that strikes my mind at the moment is the introduction of the dReps. And how that now is wrapped up in \[dRep] workshops. The story is quite different. There might be a good rationale for why it changed. But it is important to understand why it cannot be done one way and why we have now to do it differently. The current challenge is that it's not really clear why this has changed. So people were going into something and it is not really clear what they were working with walking into. As the story has totally changed. - Thorsten
+
+I would like to understand how they came to these decisions on their side. Even if they say we don't have a process, because make it up. Fair enough, at least we know how it works. Because as soon as you give it to the community \[you have to] bring in mechanisms to derive decisions in a similar way. - Thorsten
