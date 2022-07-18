@@ -228,9 +228,9 @@ Participating dRep perspective - Tevo
 **Resources** - Kenric, Thorsten and Stephen
 {% endhint %}
 
-### Other dRep Oversight <a href="#docs-internal-guid-b3eb649b-7fff-efe2-ab50-c347d17bd855" id="docs-internal-guid-b3eb649b-7fff-efe2-ab50-c347d17bd855"></a>
+#### Other dRep Oversight <a href="#docs-internal-guid-b3eb649b-7fff-efe2-ab50-c347d17bd855" id="docs-internal-guid-b3eb649b-7fff-efe2-ab50-c347d17bd855"></a>
 
-Regarding the dReps, I'm doing some work already putting comments and thoughts on a Miro board. \[] I thought of doing a 10 minute video share my one challenge thing where I voted on everything and gave like opinion why and see if that's, that's how it's supposed to be for some. And how could I improve and maybe that feedback already from that will be used in the oversight to see like what people take when people vote to their own ballots and shatter no works and yes, - Tevo
+Regarding the dReps, I'm doing some work already putting comments and thoughts on a Miro board. \[...] I thought of doing a 10 minute video to share my work. And how could I improve and maybe feedback from that could be used in oversight ? - Tevo
 
 ### 4.4 Governance parameters <a href="#docs-internal-guid-b3eb649b-7fff-efe2-ab50-c347d17bd855" id="docs-internal-guid-b3eb649b-7fff-efe2-ab50-c347d17bd855"></a>
 
