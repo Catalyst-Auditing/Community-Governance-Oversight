@@ -236,5 +236,5 @@ Somebody asked both last night and just now, are we keeping a comprehensive log 
 
 We can take a little bit out of the Fund 7 report where there was a list of the ones that we had noticed and we could use that as a basis. But there is research to do on when things were announced and how they were announced.  - Vanessa
 
-
+I would just say having a problem on the board which lists all the parameters. We try to note when and how it was introduced and by whom? To whom? - Vanessa
 
