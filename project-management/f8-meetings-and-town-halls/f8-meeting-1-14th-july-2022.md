@@ -276,3 +276,48 @@ I would like to understand how they came to these decisions on their side. Even 
 {% hint style="info" %}
 **Resources** - Allison, Phil, Tevo and Vanessa
 {% endhint %}
+
+
+
+## 5 CGO Proposal Reporting <a href="#docs-internal-guid-1a8f5941-7fff-98bc-7477-fb8e5ad56424" id="docs-internal-guid-1a8f5941-7fff-98bc-7477-fb8e5ad56424"></a>
+
+F7 CGO Proposal Reporting
+
+[https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/91](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/91)
+
+\
+
+
+F8 CGO Proposal Reporting
+
+[https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/92](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/92)
+
+\
+
+
+## 6 Summary of CGO meeting for Catalyst Weekly Newsletter
+
+[https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/93](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/93)
+
+## 7 Updates on CGO F7 Final Report and Slide Presentation
+
+[https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/83](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/83)
+
+In progress. Contributions added to final report draft
+
+[https://docs.google.com/document/d/1jkkgbmU\_tEVM9CgmlW1MSWJTRnaZdFURU6f02TfptkU/edit?usp=sharing](https://docs.google.com/document/d/1jkkgbmU\_tEVM9CgmlW1MSWJTRnaZdFURU6f02TfptkU/edit?usp=sharing)
+
+Slides being drafted
+
+[https://docs.google.com/presentation/d/1ruOAgLCbqPZa0Z0Y2CAP8xnwtLIR1OQMQocoDllHe2c/edit?usp=sharing](https://docs.google.com/presentation/d/1ruOAgLCbqPZa0Z0Y2CAP8xnwtLIR1OQMQocoDllHe2c/edit?usp=sharing)
+
+## 8 Executive, Legislative, and Judicial functions (Kenric)
+
+I’m (Kenric) not sure where to put this, but I suggest having a discussion about the Executive, Legislative, and Judicial functions of governance.  The voting processes of Catalyst map clearly to a Legislative function. What are the Executive and Judicial functions?  Perhaps the approved projects are an executive function. Perhaps the Circle’s identification and discussion of problems is a judicial function.  Clarity about this mapping might help define these different roles, and thereby the form and expectations of these roles.\
+
+
+Kenric - we could take this at the end, or - because discussion of it might inform the discussion on item 4, our deliverables - we could take it after item 3. See what people think in the meeting?
+
+{% hint style="info" %}
+Next meeting discussion ? or Async or informal - Kenric
+{% endhint %}
