@@ -307,7 +307,7 @@ No updates this week
 
 ## 7 Updates on CGO F7 Final Report and Slide Presentation
 
-[https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/83](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/83)
+{% embed url="https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/83" %}
 
 In progress. Contributions added to final report draft
 
