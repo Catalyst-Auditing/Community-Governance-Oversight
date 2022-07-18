@@ -1,6 +1,6 @@
 # F8 Meeting 1 -14th July 2022
 
-F8 Meeting 1
+{% embed url="https://youtu.be/JD3mPhAub4c" %}
 
 ## Agenda
 
