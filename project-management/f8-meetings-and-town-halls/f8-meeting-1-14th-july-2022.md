@@ -225,11 +225,13 @@ Participating dRep perspective - Tevo\
 
 What is the scope of F8 Governance parameters ?
 
+25:41
+
 {% hint style="info" %}
 Issue : [https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/90](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/90)
 {% endhint %}
 
-\
+Somebody asked both last night and just now, are we keeping a comprehensive log somewhere of catalyst parameters. I think that would be really useful activity to log all of the parameters, how they change, who makes the decision and how it's communicated. But I'm conscious that's a pretty large work workload. - Allison\
 
 
 
