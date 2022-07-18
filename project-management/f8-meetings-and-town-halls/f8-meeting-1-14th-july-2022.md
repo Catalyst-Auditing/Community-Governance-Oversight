@@ -285,9 +285,17 @@ I would like to understand how they came to these decisions on their side. Even 
 
 {% embed url="https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/91" %}
 
+{% hint style="info" %}
+**Action** - Stephen W to complete for 26th July 2022
+{% endhint %}
+
 ### F8 CGO Proposal Reporting
 
 {% embed url="https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/92" %}
+
+{% hint style="info" %}
+**Action** - Stephen W to complete for 26th July 2022
+{% endhint %}
 
 ## 6 Summary of CGO meeting for Catalyst Weekly Newsletter
 
