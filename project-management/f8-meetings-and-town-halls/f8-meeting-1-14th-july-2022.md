@@ -249,3 +249,9 @@ In addition to the parameters themselves what's actually critical is how those p
 You could start with identifying who is involved in the decision making and approximation of how much time they spend on that particular issue and some estimation of how much that costs. - Kenric
 
 Catalyst governance parameters could be a good start for us. How much \[resources] we give to one subject does not have to be equal. We can do more work on one subject than another. We do seem to be gathering around Thorsten's idea of building a public register. - Thorsten
+
+#### dRep example
+
+35:53
+
+The \[parameter change] that strikes my mind at the moment is the introduction of the dReps. And how that now is wrapped up in \[dRep] workshops. The story is quite different. There might be a good rationale for why it changed. But it is important to understand why it cannot be done one way and why we have now to do it differently. The current challenge is that it's not really clear why this has changed. So people were going into something and it is not really clear what they were working with walking into. As the story has totally changed. - Thorsten
