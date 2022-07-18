@@ -309,13 +309,13 @@ No updates this week
 
 {% embed url="https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/83" %}
 
+{% hint style="info" %}
 In progress. Contributions added to final report draft
+{% endhint %}
 
-[https://docs.google.com/document/d/1jkkgbmU\_tEVM9CgmlW1MSWJTRnaZdFURU6f02TfptkU/edit?usp=sharing](https://docs.google.com/document/d/1jkkgbmU\_tEVM9CgmlW1MSWJTRnaZdFURU6f02TfptkU/edit?usp=sharing)
-
+{% hint style="info" %}
 Slides being drafted
-
-[https://docs.google.com/presentation/d/1ruOAgLCbqPZa0Z0Y2CAP8xnwtLIR1OQMQocoDllHe2c/edit?usp=sharing](https://docs.google.com/presentation/d/1ruOAgLCbqPZa0Z0Y2CAP8xnwtLIR1OQMQocoDllHe2c/edit?usp=sharing)
+{% endhint %}
 
 ## 8 Executive, Legislative, and Judicial functions (Kenric)
 
