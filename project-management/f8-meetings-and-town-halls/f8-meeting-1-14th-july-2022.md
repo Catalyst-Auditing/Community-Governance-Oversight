@@ -281,19 +281,13 @@ I would like to understand how they came to these decisions on their side. Even 
 
 ## 5 CGO Proposal Reporting <a href="#docs-internal-guid-1a8f5941-7fff-98bc-7477-fb8e5ad56424" id="docs-internal-guid-1a8f5941-7fff-98bc-7477-fb8e5ad56424"></a>
 
-F7 CGO Proposal Reporting
+### F7 CGO Proposal Reporting
 
-[https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/91](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/91)
+{% embed url="https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/91" %}
 
-\
+### F8 CGO Proposal Reporting
 
-
-F8 CGO Proposal Reporting
-
-[https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/92](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/92)
-
-\
-
+{% embed url="https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/92" %}
 
 ## 6 Summary of CGO meeting for Catalyst Weekly Newsletter
 
