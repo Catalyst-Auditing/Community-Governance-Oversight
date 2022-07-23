@@ -48,18 +48,20 @@ Documentation funded by [Fund 7 - QA-DAO Transcription Service](https://cardano.
 
 ## Brief Updates
 
-[00:25](https://youtu.be/WRC1n05tIr4?t=25)
+00:02
 
 {% hint style="info" %}
 Brief Updates/Notices from each participant - All
 {% endhint %}
 
-Kenric Nelson - [00:37](https://youtu.be/WRC1n05tIr4?t=37)
+Stephen Whitenstall - 00:02&#x20;
 
-Steph Macurdy- [01:14](https://youtu.be/WRC1n05tIr4?t=74)
+Kenric Nelson - 00:41 - And Budget Update&#x20;
 
-Aharon Porath - [01:35](https://youtu.be/WRC1n05tIr4?t=95)
+Thorsten Pottebaum - 01:52&#x20;
 
-Thorsten Pottebaum - [02:10](https://youtu.be/WRC1n05tIr4?t=130)
+Aharon Porath - 02:37&#x20;
 
-Stephen Whitenstall - [02:37](https://youtu.be/WRC1n05tIr4?t=157)
+Steph Macurdy - 04:03&#x20;
+
+Philip Lazos - 04:43
