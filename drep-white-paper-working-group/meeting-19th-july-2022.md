@@ -96,7 +96,9 @@ There's no real project plan updates, we are continuing meetings. Things are pro
 
 ## Whitepaper <a href="#docs-internal-guid-f0be94b4-7fff-9a3f-e86f-51e8308d0f76" id="docs-internal-guid-f0be94b4-7fff-9a3f-e86f-51e8308d0f76"></a>
 
+{% hint style="info" %}
 Please prepare Detailed Outline of your section for the next meeting - All
+{% endhint %}
 
 ### General Updates&#x20;
 
