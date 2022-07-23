@@ -48,7 +48,7 @@ Documentation funded by [Fund 7 - QA-DAO Transcription Service](https://cardano.
 
 ## Brief Updates
 
-00:02
+[00:02](https://youtu.be/vXErKcmM-iE?t=2)
 
 {% hint style="info" %}
 Brief Updates/Notices from each participant - All
@@ -70,7 +70,7 @@ Philip Lazos - 04:43
 
 #### Kenric Nelson <a href="#docs-internal-guid-1cbf57a2-7fff-27b5-ef9b-9e017b4e1302" id="docs-internal-guid-1cbf57a2-7fff-27b5-ef9b-9e017b4e1302"></a>
 
-00:41
+[00:41](https://youtu.be/vXErKcmM-iE?t=41)
 
 {% hint style="info" %}
 Any Budget updates or issues ?&#x20;
@@ -86,7 +86,7 @@ Kenric Nelson - 00:41 - And Budget Update
 
 #### Stephen Whitenstall <a href="#docs-internal-guid-097619fc-7fff-df05-dc0c-dc8e89dc646e" id="docs-internal-guid-097619fc-7fff-df05-dc0c-dc8e89dc646e"></a>
 
-05:27
+[05:27](https://youtu.be/vXErKcmM-iE?t=327)
 
 {% hint style="info" %}
 Any updates on Project Plan timetable and deliverables
