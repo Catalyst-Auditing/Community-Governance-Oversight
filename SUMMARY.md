@@ -24,6 +24,7 @@
 
 ***
 
+* [Meeting - 19th July 2022](meeting-19th-july-2022.md)
 * [dRep White Paper Working Group](dRep-White-Paper-Working-Group/README.md)
   * [Meeting - 26th April 2022](dRep-White-Paper-Working-Group/meeting-1.md)
   * [Meeting - 10th May 2022](dRep-White-Paper-Working-Group/meeting-2.md)
