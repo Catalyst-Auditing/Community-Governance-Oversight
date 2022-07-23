@@ -100,6 +100,8 @@ Please prepare Detailed Outline of your section for the next meeting - All
 
 ### General Updates&#x20;
 
+#### Kenric Nelson
+
 [06:06](https://youtu.be/vXErKcmM-iE?t=366)
 
 Goal for July 2022 - solid draft for white paper - target 3 to 5 pages - Kenric
