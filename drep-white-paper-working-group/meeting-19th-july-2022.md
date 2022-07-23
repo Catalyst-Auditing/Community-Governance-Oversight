@@ -26,7 +26,7 @@ Video
 
 ## Information
 
-#### Community Governance Group
+#### Community Governance Oversight Group
 
 [https://quality-assurance-dao.gitbook.io/community-governance-oversight/](https://quality-assurance-dao.gitbook.io/community-governance-oversight/)
 
@@ -34,7 +34,11 @@ Documentation funded by [Fund 7 - QA-DAO Transcription Service](https://cardano.
 
 #### Meeting GitHub Task
 
-[https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/86](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/86)
+(Used for Project Management tracking and reporting)
+
+{% hint style="info" %}
+[https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/96](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/96)&#x20;
+{% endhint %}
 
 ## Agenda
 
