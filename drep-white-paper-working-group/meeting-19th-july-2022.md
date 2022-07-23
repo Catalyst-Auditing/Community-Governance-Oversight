@@ -98,7 +98,9 @@ There's no real project plan updates, we are continuing meetings. Things are pro
 
 Please prepare Detailed Outline of your section for the next meeting - All
 
-#### General Updates&#x20;
+### General Updates&#x20;
+
+[06:06](https://youtu.be/vXErKcmM-iE?t=366)
 
 Goal for July 2022 - solid draft for white paper - target 3 to 5 pages - Kenric
 
