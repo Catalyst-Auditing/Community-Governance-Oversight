@@ -124,13 +124,13 @@ Once others have made progress \[...] I can write two to three sentences introdu
 
 I have been reading the \[available] papers on the pros and cons of liquid democracy and vote delegation.&#x20;
 
-There are a couple of models that people have used to study vote delegation and a few different objectives.&#x20;
+There are a couple of models that people have used to study vote delegation \[that each have] a few different objectives.&#x20;
 
 And most of the papers have pessimistic results.&#x20;
 
 At a first reading of the \[papers] abstracts this seems like a massive revelation. That they have uncovered the dirty secrets of liquid democracy.&#x20;
 
-But you check the model they are using it becomes pretty clear that under \[those] benchmarks liquid democracy, in the worst case, will look bad.
+But when you check the models they are using it becomes pretty clear that under \[those] benchmarks liquid democracy, in the worst case, will look \[always] bad.
 
 In response to this, there are a few papers that have come out recently that \[formed] a critique of the critique of liquid democracy. They explain that the previous modelling may be inaccurate and the worst case analysis, which is pretty standard when studying algorithms, is too pessimistic to be to be used here.&#x20;
 
