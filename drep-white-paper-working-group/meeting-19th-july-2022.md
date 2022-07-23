@@ -138,7 +138,25 @@ In response to this, there are a few papers that have come out recently that \[f
 
 
 
-Because so for instance, the first like very significant paper on vote delegation, liquid democracy. Essentially, the two properties that defines one of them is the it's called positive gain, which is how much better the outcome can be. And the other is the do no harm. And they say, Well, under they have a model that can also be criticized. But that's, well, I'll explain it in a bit. They say that there is no mechanism that always have positive gains, and never makes the result worse. But the reason this in isolation sounds interesting. But actually, what this means is that you could have a mechanism that in most cases, that actually gives very good results. But there could be some case where it makes a really good outcome, just slightly less good. But stated as properties, it seems that this mechanism has the potential to produce worse results, as well as better because they don't really go into how much better the good results are compared to no delegation, and how much worse the bad ones are. So then papers started looking into it and saying, Yeah, wait, wait, hang on, like these negative results, yes, through there. But this all means that, if you have a vote, that is was going to go perfectly without delegation, now, it's gonna go almost perfectly uses delegation. So technically, yes, it, it became a bit worse. But the potential benefits is that a vote that would have produced a bad result without delegation could produce a better one with the negation. So essentially, the way the first paper presented, it was not particularly fair. The other criticism of that original paper is that the assumption was that every voter there's two outcomes, one outcome is the correct one of the vote, and the other is the wrong one. And every voter has a chance independently of voting for the correct outcome. And also the chance of voting for the correct outcome for every voter is greater than 0.5. This is an assumption on that paper and most of the subsequent ones. The problem here is if we consider such a model, it quickly becomes clear that the more voters you have, if all of them have a greater than half chance of picking the correct outcome. The more voters you have, the higher the probability that you select, the good outcome becomes just by having more voters. Okay. So if you do delegation, even if the voters delegates to others who are more informed than them,
+Because so for instance, the first like very significant paper on vote delegation, liquid democracy. Essentially, the two properties that defines one of them is the it's called positive gain, which is how much better the outcome can be.&#x20;
+
+And the other is the do no harm. And they say, Well, under they have a model that can also be criticized. But that's, well, I'll explain it in a bit. They say that there is no mechanism that always have positive gains, and never makes the result worse.&#x20;
+
+But the reason this in isolation sounds interesting. But actually, what this means is that you could have a mechanism that in most cases, that actually gives very good results.&#x20;
+
+But there could be some case where it makes a really good outcome, just slightly less good. But stated as properties, it seems that this mechanism has the potential to produce worse results, as well as better because they don't really go into how much better the good results are compared to no delegation, and how much worse the bad ones are.&#x20;
+
+So then papers started looking into it and saying, Yeah, wait, wait, hang on, like these negative results, yes, through there. But this all means that, if you have a vote, that is was going to go perfectly without delegation, now, it's gonna go almost perfectly uses delegation.&#x20;
+
+So technically, yes, it, it became a bit worse. But the potential benefits is that a vote that would have produced a bad result without delegation could produce a better one with the negation.&#x20;
+
+So essentially, the way the first paper presented, it was not particularly fair.&#x20;
+
+The other criticism of that original paper is that the assumption was that every voter there's two outcomes, one outcome is the correct one of the vote, and the other is the wrong one. And every voter has a chance independently of voting for the correct outcome. And also the chance of voting for the correct outcome for every voter is greater than 0.5.&#x20;
+
+This is an assumption on that paper and most of the subsequent ones. The problem here is if we consider such a model, it quickly becomes clear that the more voters you have, if all of them have a greater than half chance of picking the correct outcome. The more voters you have, the higher the probability that you select, the good outcome becomes just by having more voters.&#x20;
+
+Okay. So if you do delegation, even if the voters delegates to others who are more informed than them,
 
 \
 
