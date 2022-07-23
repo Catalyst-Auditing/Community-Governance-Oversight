@@ -112,4 +112,6 @@ We intend to be ready in August 2022 to invite the Catalyst community to provide
 
 George and Frank likely out of picture for the present.
 
-Discussions with Thorsten & Steve concluded that we should focus on a good introduction for White Paper.
+Discussions with Thorsten & Steve concluded that we should focus on a good introduction for White Paper. As the lead editor, I should lead that writing that \[introductory] section.&#x20;
+
+Once others have made progress \[...] I can write two to three sentences introducing your section.
