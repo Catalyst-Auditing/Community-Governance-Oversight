@@ -12,17 +12,17 @@ Video
 | ------------------- | ----------------------------------------------------------------- |
 | Aharon Porath       | Consenz                                                           |
 | Kenric Nelson       | [Photrek](https://photrek.world/)                                 |
+| Philip Lazos        | [IOG](https://iohk.io/jp/team/philip-lazos)                       |
 | Steph Macurdy       | [Wolfram Blockchain Labs](https://www.wolframblockchainlabs.com/) |
 | Stephen Whitenstall | [QADAO](https://quality-assurance-dao.github.io/)                 |
 | Thorsten Pottebaum  | adanamics ([linktree](https://linktr.ee/adanamics))               |
 
 ### Apologies
 
-|                |                                             |
-| -------------- | ------------------------------------------- |
-| George Ramayya |                                             |
-| Frank Albanese | [Snapbrilla](https://www.snapbrillia.com/)  |
-| Philip Lazos   | [IOG](https://iohk.io/jp/team/philip-lazos) |
+|                |                                            |
+| -------------- | ------------------------------------------ |
+| George Ramayya |                                            |
+| Frank Albanese | [Snapbrilla](https://www.snapbrillia.com/) |
 
 ## Information
 
@@ -37,8 +37,6 @@ Documentation funded by [Fund 7 - QA-DAO Transcription Service](https://cardano.
 [https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/86](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/86)
 
 ## Agenda
-
-
 
 ## Brief Updates
 
