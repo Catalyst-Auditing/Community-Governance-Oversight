@@ -108,7 +108,7 @@ Please prepare Detailed Outline of your section for the next meeting - All
 
 Goal for July 2022 is to have a solid draft each section of the White paper. The target for each section is between 3 to 5 pages.
 
-We intend to be ready in August 2022 to invite the Catalyst community to provide reviews.
+We intend to be ready in August 2022 to invite the Catalyst community to provide reviews. And then in September 2022 to incorporate that feedback and complete our work.
 
 George and Frank likely out of picture
 
