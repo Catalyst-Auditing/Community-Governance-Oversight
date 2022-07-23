@@ -134,7 +134,7 @@ But when you check the models they are using it becomes pretty clear that under 
 
 In response to this, there are a few papers that have come out recently that \[formed] a critique of the critique of liquid democracy. They explain that the previous modelling may be inaccurate and the worst case analysis, which is pretty standard when studying algorithms, is too pessimistic to be to be used here.&#x20;
 
-For instance the first significant paper on vote delegation \[and] liquid democracy. Essentially, two properties are defined. One of them is called positive gain, which is how much better the outcome can be. And the other is the do no harm.&#x20;
+For instance the first significant paper on vote delegation \[and] liquid democracy. Essentially, two properties are defined. One of them is called _positive gain_, which is how much better the outcome can be. And the other is the _do no harm_.&#x20;
 
 
 
