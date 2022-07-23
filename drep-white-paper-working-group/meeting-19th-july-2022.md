@@ -104,7 +104,7 @@ Please prepare Detailed Outline of your section for the next meeting - All
 
 [06:06](https://youtu.be/vXErKcmM-iE?t=366)
 
-Goal for July 2022 - solid draft for white paper - target 3 to 5 pages - Kenric
+Goal for July 2022 is to have a solid draft each section of the White paper. The target for each section is between 3 to 5 pages - Kenric
 
 To be ready for community top provide reviews
 
