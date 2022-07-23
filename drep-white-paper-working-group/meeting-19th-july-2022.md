@@ -110,6 +110,6 @@ Goal for July 2022 is to have a solid draft each section of the White paper. The
 
 We intend to be ready in August 2022 to invite the Catalyst community to provide reviews. And then in September 2022 to incorporate that feedback and complete our work.
 
-George and Frank likely out of picture
+George and Frank likely out of picture for the present.
 
-Discussions with Thorsten & Stephen - focus on good introduction for White Paper
+Discussions with Thorsten & Steve concluded that we should focus on a good introduction for White Paper.
