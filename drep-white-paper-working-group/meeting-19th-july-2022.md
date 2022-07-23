@@ -66,7 +66,9 @@ Steph Macurdy - 04:03&#x20;
 
 Philip Lazos - 04:43
 
-## Research Budget - Kenric Nelson <a href="#docs-internal-guid-1cbf57a2-7fff-27b5-ef9b-9e017b4e1302" id="docs-internal-guid-1cbf57a2-7fff-27b5-ef9b-9e017b4e1302"></a>
+## Research Budget <a href="#docs-internal-guid-1cbf57a2-7fff-27b5-ef9b-9e017b4e1302" id="docs-internal-guid-1cbf57a2-7fff-27b5-ef9b-9e017b4e1302"></a>
+
+#### Kenric Nelson <a href="#docs-internal-guid-1cbf57a2-7fff-27b5-ef9b-9e017b4e1302" id="docs-internal-guid-1cbf57a2-7fff-27b5-ef9b-9e017b4e1302"></a>
 
 00:41
 
@@ -80,7 +82,9 @@ Money available for community reviewers
 
 Kenric Nelson - 00:41 - And Budget Update
 
-## Research Project Planning - Stephen Whitenstall <a href="#docs-internal-guid-097619fc-7fff-df05-dc0c-dc8e89dc646e" id="docs-internal-guid-097619fc-7fff-df05-dc0c-dc8e89dc646e"></a>
+## Research Project Planning <a href="#docs-internal-guid-097619fc-7fff-df05-dc0c-dc8e89dc646e" id="docs-internal-guid-097619fc-7fff-df05-dc0c-dc8e89dc646e"></a>
+
+#### Stephen Whitenstall <a href="#docs-internal-guid-097619fc-7fff-df05-dc0c-dc8e89dc646e" id="docs-internal-guid-097619fc-7fff-df05-dc0c-dc8e89dc646e"></a>
 
 05:27
 
@@ -88,8 +92,18 @@ Kenric Nelson - 00:41 - And Budget Update
 Any updates on Project Plan timetable and deliverables
 {% endhint %}
 
-\
+There's no real project plan updates, we are continuing meetings. Things are proceeding smoothly. I will do a monthly report on the 24th July 2022 and mention that we're holding these meetings regularly.
 
+## Whitepaper <a href="#docs-internal-guid-f0be94b4-7fff-9a3f-e86f-51e8308d0f76" id="docs-internal-guid-f0be94b4-7fff-9a3f-e86f-51e8308d0f76"></a>
 
-Okay, we've done research budget, Kenrick where you just mentioned allocation should count locations. money's available, as you say to 20 reviewers. There's no real project plan updates, we are continuing meetings, if there's anything that things are proceeding smoothly. So I will do monthly report and report that we're just holding these meetings regularly on the 26th As usual, and that's all going to be rotating routine. So if we go into the meat of the meeting, which is going to be the white paper, shall we proceed through the titles of each paper? kemmerich. So I think well,
+Please prepare Detailed Outline of your section for the next meeting - All
 
+#### General Updates&#x20;
+
+Goal for July 2022 - solid draft for white paper - target 3 to 5 pages - Kenric
+
+To be ready for community top provide reviews
+
+George and Frank likely out of picture
+
+Discussions with Thorsten & Stephen - focus on good introduction for White Paper
