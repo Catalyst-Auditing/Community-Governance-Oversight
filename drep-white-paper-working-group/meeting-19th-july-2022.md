@@ -28,9 +28,13 @@ Video
 
 #### Community Governance Oversight Group
 
+{% hint style="info" %}
 [https://quality-assurance-dao.gitbook.io/community-governance-oversight/](https://quality-assurance-dao.gitbook.io/community-governance-oversight/)
+{% endhint %}
 
+{% hint style="info" %}
 Documentation funded by [Fund 7 - QA-DAO Transcription Service](https://cardano.ideascale.com/c/idea/383492)
+{% endhint %}
 
 #### Meeting GitHub Task
 
