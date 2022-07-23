@@ -136,9 +136,13 @@ In response to this, there are a few papers that have come out recently that \[f
 
 For instance the first significant paper on vote delegation \[and] liquid democracy. Essentially, two properties are defined. One of them is called _positive gain_, which is how much better the outcome can be. And the other is the _do no harm_.&#x20;
 
+\[Using] a model that can also be criticized, I'll explain it in a bit. They say that there is no mechanism that always has positive gains, and never makes the result worse.&#x20;
 
 
-And they say, Well, under they have a model that can also be criticized. But that's, well, I'll explain it in a bit. They say that there is no mechanism that always have positive gains, and never makes the result worse.&#x20;
+
+
+
+
 
 But the reason this in isolation sounds interesting. But actually, what this means is that you could have a mechanism that in most cases, that actually gives very good results.&#x20;
 
