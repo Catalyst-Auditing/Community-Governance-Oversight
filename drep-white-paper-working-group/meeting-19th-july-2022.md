@@ -138,13 +138,13 @@ For instance the first significant paper on vote delegation \[and] liquid democr
 
 \[Using] a model that can also be criticized, I'll explain it in a bit. They say that there is no mechanism that always has positive gains, and never makes the result worse.&#x20;
 
+In isolation this sounds interesting. But actually, what this means is that you could have a mechanism that in most cases actually gives very good results.
 
 
 
 
 
-
-But the reason this in isolation sounds interesting. But actually, what this means is that you could have a mechanism that in most cases, that actually gives very good results.&#x20;
+&#x20;
 
 But there could be some case where it makes a really good outcome, just slightly less good. But stated as properties, it seems that this mechanism has the potential to produce worse results, as well as better because they don't really go into how much better the good results are compared to no delegation, and how much worse the bad ones are.&#x20;
 
