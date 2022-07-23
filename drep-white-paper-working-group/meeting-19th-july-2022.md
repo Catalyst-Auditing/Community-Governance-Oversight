@@ -115,3 +115,67 @@ George and Frank likely out of picture for the present.
 Discussions with Thorsten & Steve concluded that we should focus on a good introduction for White Paper. As the lead editor, I should lead that writing that \[introductory] section.&#x20;
 
 Once others have made progress \[...] I can write two to three sentences introducing your section.
+
+### The role of Delegated Representation in Blockchain Governance <a href="#docs-internal-guid-9f80fe74-7fff-67a0-e68e-ff9a3a64c4a9" id="docs-internal-guid-9f80fe74-7fff-67a0-e68e-ff9a3a64c4a9"></a>
+
+#### Philip Lazos
+
+[09:41](https://youtu.be/vXErKcmM-iE?t=581)
+
+I have been reading the \[available] papers on the pros and cons of liquid democracy and vote delegation.&#x20;
+
+There are a couple of models that people have used to study vote delegation and a few different objectives.&#x20;
+
+And most of the papers have pessimistic results.&#x20;
+
+At a first reading of the \[papers] abstracts this seems like a massive revelation. That they have uncovered the dirty secrets of liquid democracy.&#x20;
+
+But you check the model they are using it becomes pretty clear that under \[those] benchmarks liquid democracy, in the worst case, will look bad.
+
+In response to this, there is a few papers that have come out recently that have sort of a critique of the critique of liquid democracy. And they're explaining why the previous modeling may be a bit inaccurate. And the worst case analysis, which is pretty standard, in at least when studying algorithms, is too pessimistic to be to be used here. Because so for instance, the first like very significant paper on vote delegation, liquid democracy. Essentially, the two properties that defines one of them is the it's called positive gain, which is how much better the outcome can be. And the other is the do no harm. And they say, Well, under they have a model that can also be criticized. But that's, well, I'll explain it in a bit. They say that there is no mechanism that always have positive gains, and never makes the result worse. But the reason this in isolation sounds interesting. But actually, what this means is that you could have a mechanism that in most cases, that actually gives very good results. But there could be some case where it makes a really good outcome, just slightly less good. But stated as properties, it seems that this mechanism has the potential to produce worse results, as well as better because they don't really go into how much better the good results are compared to no delegation, and how much worse the bad ones are. So then papers started looking into it and saying, Yeah, wait, wait, hang on, like these negative results, yes, through there. But this all means that, if you have a vote, that is was going to go perfectly without delegation, now, it's gonna go almost perfectly uses delegation. So technically, yes, it, it became a bit worse. But the potential benefits is that a vote that would have produced a bad result without delegation could produce a better one with the negation. So essentially, the way the first paper presented, it was not particularly fair. The other criticism of that original paper is that the assumption was that every voter there's two outcomes, one outcome is the correct one of the vote, and the other is the wrong one. And every voter has a chance independently of voting for the correct outcome. And also the chance of voting for the correct outcome for every voter is greater than 0.5. This is an assumption on that paper and most of the subsequent ones. The problem here is if we consider such a model, it quickly becomes clear that the more voters you have, if all of them have a greater than half chance of picking the correct outcome. The more voters you have, the higher the probability that you select, the good outcome becomes just by having more voters. Okay. So if you do delegation, even if the voters delegates to others who are more informed than them,
+
+\
+
+
+Next two or three days.
+
+What is the focus ? A couple of models people have used to study.
+
+Negative results - but when model checked - worst case.
+
+A few papers coming out recently - worst case analysis is too pessimistic
+
+First significant paper - two properties it defined - positive gain / do no harm
+
+No mech for always positive - mech in most cases - a really good outcome less good - range of results
+
+Range of negative results - bad result without delegation - good result with delegation
+
+Every voter's chance to vote is greater than 0.5 - the more voters you have the higher probability you have a good outcome.
+
+1000s of voters on average - good outcome - decide to delegate that 1%&#x20;
+
+Not realistic in terms of voter - Liquid demos is bad paper - rebutted by recent papers - Philip
+
+\
+
+
+How do you measure a good outcome? Participation requires motivation. Lose motivation  - maybe this can level Liquid - Aharon
+
+Measure quality of outcome - chance that voters take outcome - prob that select good outcome - almost certain good outcome will win in majority cases -  Philip&#x20;
+
+What is the chance of more than half voters -&#x20;
+
+In terms of engagement - only paper addresses this - effort they put in - subtracted from personal utility - delegation game - no detailed results - Philip
+
+All these papers from last 5 years - Philip
+
+\
+
+
+Thorsten to meet with Philip to refine drafts
+
+Recommend Thorsten be co-author
+
+
+
