@@ -35,3 +35,13 @@ Yes
 #### (This question is about understanding when you will launch/implement the solution you have developed) \*
 
 &#x20;In the next 6 months
+
+### Do you plan to launch a token? (optional)
+
+No
+
+### How large is your community (social or otherwise)?&#x20;
+
+#### We are particularly interested in large, active communities with real people and engagement. (optional)
+
+Community Governance Oversight engages with the whole Catalyst community via Town Halls and Social Media
