@@ -58,6 +58,7 @@
 * [Fund 8 Proposal](proposal-reporting/fund-8-proposal.md)
   * [F8 - Assessments](proposal-reporting/fund-8-proposal/assessments.md)
   * [F8 - On-Boarding](proposal-reporting/fund-8-proposal/f8-on-boarding.md)
+  * [F8 - Monthly Reports](proposal-reporting/fund-8-proposal/f8-monthly-reports.md)
 
 ## Project Management
 
