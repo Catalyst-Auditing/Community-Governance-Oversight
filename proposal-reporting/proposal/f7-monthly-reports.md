@@ -81,3 +81,29 @@ Complete
 
 Yes
 
+### When is your project scheduled to complete? (This question is about understanding when you will launch/implement the solution you have developed) \*
+
+1. In the next month
+
+### Do you plan to launch a token? (optional)
+
+No
+
+### How large is your community (social or otherwise)? We are particularly interested in large, active communities with real people and engagement. (optional)
+
+Community Governance Oversight engages with the whole Catalyst community via Town Halls and Social Media
+
+### Please share any suitable evidence about your progress to achieve your deliverables since your last report. \*
+
+#### This could be documentation, photo or any other measurable way you feel demonstrates the impact of your project
+
+A Google document with the following links was uploaded.
+
+Project Board
+
+[https://github.com/orgs/Catalyst-Auditing/projects/3](https://github.com/orgs/Catalyst-Auditing/projects/3)
+
+GitBook
+
+[https://quality-assurance-dao.gitbook.io/community-governance-oversight/](https://quality-assurance-dao.gitbook.io/community-governance-oversight/)
+
