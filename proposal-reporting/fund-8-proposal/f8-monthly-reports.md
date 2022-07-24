@@ -53,3 +53,14 @@ This could be documentation, photo or any other measurable way you feel demonstr
 Submitted files
 
 {% embed url="https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/blob/main/F8-Reporting/F8-CGO-Report-July-22%20-%20Sheet1.csv" %}
+
+### Is there anything else you would like to share about your project? \*
+
+{% embed url="https://quality-assurance-dao.gitbook.io/community-governance-oversight/" %}
+
+### Is there anything you would like to communicate to the Funded Proposer of Toolmakers Catalyst Circle reps to discuss in their forum?&#x20;
+
+#### For example articulating ideas or recommendations for improvements to the Catalyst ecosystem? \*
+
+This should read "Funded Proposer or Toolmakers Catalyst Circle reps" - Please correct
+
