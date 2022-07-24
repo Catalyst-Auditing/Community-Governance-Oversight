@@ -25,3 +25,13 @@ Improve and Grow Auditability
 &#x20;'Still in progress' means that your funded project is live and ongoing, 'Launched' means you have launched the product, service or app you have developed in your funded project, 'Complete' means you have completed your funded project. If you have completed your project please be sure to submit your End of Project report and video [shorturl.at/mtBZ0](http://shorturl.at/mtBZ0).
 
 Still in progress
+
+### Is the project on track? \*
+
+Yes
+
+### When is your project scheduled to complete?&#x20;
+
+#### (This question is about understanding when you will launch/implement the solution you have developed) \*
+
+&#x20;In the next 6 months
