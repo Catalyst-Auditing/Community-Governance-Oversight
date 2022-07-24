@@ -49,6 +49,10 @@ As of March 2022 they [use this format](https://docs.google.com/forms/d/e/1FAIpQ
 
 ## 24th July 2022
 
+{% hint style="info" %}
+[https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/91](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/91)
+{% endhint %}
+
 **I understand that information submitted in this form is shared publicly**
 
 Yes
@@ -63,9 +67,17 @@ Yes
 
 Fund 7
 
+### In which Challenge is your proposal? (one report per project) \*
 
+Improve and Grow Auditability
 
+### Is the project still in progress / launched / complete ? \*
 
+&#x20;'Still in progress' means that your funded project is live and ongoing, 'Launched' means you have launched the product, service or app you have developed in your funded project, 'Complete' means you have completed your funded project. If you have completed your project please be sure to submit your End of Project report and video [shorturl.at/mtBZ0](http://shorturl.at/mtBZ0)&#x20;
 
+Complete
 
+### Is the project on track? \*
+
+Yes
 
