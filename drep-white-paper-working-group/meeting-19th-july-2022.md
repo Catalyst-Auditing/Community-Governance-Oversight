@@ -166,11 +166,9 @@ All of these decide to delegate to an expert, who has a 0.99 chance of being rig
 
 And this is not a particularly realistic outcome.
 
+I don't think it's fair to say that every voter has an above average chance (above half) of being right. Because mathematically, it's almost guaranteed to give you a bad result for delegation.
 
-
-
-
-&#x20;Like I don't think it's fair to say that every voter has an above average chance, above half chance of being right. Because this mathematically, it's almost guaranteed to give you a bad result for the negation. Because the more you delegate, the more you lose these concentration bounds on the probabilities that the voters will, on average, vote in favor of the good outcome. So there's a couple of papers dealing with this model. And saying, you know, the liquid democracy is bad for this and that. And then there's a few others papers criticizing the first one explaining that the first results are a bit too pessimistic. And showing that how, under certain more sane circumstances, votes delegation can actually improve the outcome, even with this benchmark. And specifically, there is also one very recent paper that does that for delegation for liquid democracy with one step rather than having delegation read delegation. Okay. So basically, I'm gonna include these three lines of work the original negative results and say, then the critique of them. And then the final thing for once that delegation, say a few things about what capitalist is doing. Something like that, I think,
+Because the more you delegate, the more you lose these concentration bounds on the probabilities that the voters will, on average, vote in favor of the good outcome. So there's a couple of papers dealing with this model. And saying, you know, the liquid democracy is bad for this and that. And then there's a few others papers criticizing the first one explaining that the first results are a bit too pessimistic. And showing that how, under certain more sane circumstances, votes delegation can actually improve the outcome, even with this benchmark. And specifically, there is also one very recent paper that does that for delegation for liquid democracy with one step rather than having delegation read delegation. Okay. So basically, I'm gonna include these three lines of work the original negative results and say, then the critique of them. And then the final thing for once that delegation, say a few things about what capitalist is doing. Something like that, I think,
 
 
 
