@@ -140,13 +140,13 @@ For instance the first significant paper on vote delegation \[and] liquid democr
 
 In isolation this sounds interesting. But actually, what this means is that you could have a mechanism that in most cases actually gives very good results.
 
+But there could be some cases where it \[just] makes a really good outcome slightly less good.
+
+Stated as properties, it seems that this mechanism has the potential to produce worse results, as well as better. Because they don't really go into how much better the good results are compared to no delegation, and how much worse the bad ones are.&#x20;
 
 
 
 
-&#x20;
-
-But there could be some case where it makes a really good outcome, just slightly less good. But stated as properties, it seems that this mechanism has the potential to produce worse results, as well as better because they don't really go into how much better the good results are compared to no delegation, and how much worse the bad ones are.&#x20;
 
 So then papers started looking into it and saying, Yeah, wait, wait, hang on, like these negative results, yes, through there. But this all means that, if you have a vote, that is was going to go perfectly without delegation, now, it's gonna go almost perfectly uses delegation.&#x20;
 
