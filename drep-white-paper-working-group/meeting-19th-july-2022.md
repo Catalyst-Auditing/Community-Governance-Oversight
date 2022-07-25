@@ -150,13 +150,13 @@ Technically it became a bit worse. But the potential benefits \[that outweigh th
 
 Essentially, the way the first paper \[was] presented was not particularly fair.
 
+Another criticism of the original paper is the assumption that \[for] every voter there's two outcomes. One \[voting] outcome is correct and the other is wrong. And every voter has a chance independently of voting \[to select] the correct outcome. And the chance of voting for the correct outcome for every voter is greater than 0.5.&#x20;
+
+This is an assumption of that paper and most of the subsequent ones. The problem \[with this] model is that it quickly becomes clear that the more voters you have (if all of them have a greater than half chance of picking the correct outcome) the higher the probability that you select the good outcome just by having more voters.&#x20;
 
 
-&#x20;
 
-The other criticism of that original paper is that the assumption was that every voter there's two outcomes, one outcome is the correct one of the vote, and the other is the wrong one. And every voter has a chance independently of voting for the correct outcome. And also the chance of voting for the correct outcome for every voter is greater than 0.5.&#x20;
 
-This is an assumption on that paper and most of the subsequent ones. The problem here is if we consider such a model, it quickly becomes clear that the more voters you have, if all of them have a greater than half chance of picking the correct outcome. The more voters you have, the higher the probability that you select, the good outcome becomes just by having more voters.&#x20;
 
 Okay. So if you do delegation, even if the voters delegates to others who are more informed than them,
 
