@@ -170,7 +170,9 @@ I don't think it's fair to say that every voter has an above average chance (abo
 
 So there's a couple of papers dealing with this model. And saying that liquid democracy is bad for this and that. And then there's a few others papers criticizing the first one \[by] explaining that the first results are too pessimistic. And showing that how under more sane circumstances vote delegation can actually improve the outcome, even with this benchmark.&#x20;
 
-And specifically, there is also one very recent paper that does that for delegation for liquid democracy with one step rather than having delegation read delegation. Okay. So basically, I'm gonna include these three lines of work the original negative results and say, then the critique of them. And then the final thing for once that delegation, say a few things about what capitalist is doing. Something like that, I think,
+And specifically, there is also one very recent paper that does delegation for liquid democracy with one step rather than having re-delegation.&#x20;
+
+I'm going to include these three lines of work. The original negative results and then the critique of them. Then the final paper covering one-step delegation and say a few things about what Catalyst is doing.&#x20;
 
 
 
