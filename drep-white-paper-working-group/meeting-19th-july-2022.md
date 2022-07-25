@@ -144,15 +144,15 @@ But there could be some cases where it \[just] makes a really good outcome sligh
 
 Stated as properties, it seems that this mechanism has the potential to produce worse results, as well as better. Because they don't really go into how much better the good results are compared to no delegation, and how much worse the bad ones are.&#x20;
 
-So papers started looking into it. And saying, hang on, these negative results are there. But all this means that is a vote that was going to go perfectly without delegation is going to go almost perfectly using delegation.&#x20;
+Papers started looking into it. And saying, hang on, these negative results are there. But all this means that is a vote that was going to go perfectly without delegation is going to go almost perfectly using delegation.&#x20;
 
-So technically it became a bit worse. But the potential benefits \[that outweigh this] is that a vote that would have produced a bad result without delegation \[can now] produce a better one with the delegation.
+Technically it became a bit worse. But the potential benefits \[that outweigh this] is that a vote that would have produced a bad result without delegation \[can now] produce a better one with the delegation.
+
+Essentially, the way the first paper \[was] presented was not particularly fair.
 
 
 
 &#x20;
-
-So essentially, the way the first paper presented, it was not particularly fair.&#x20;
 
 The other criticism of that original paper is that the assumption was that every voter there's two outcomes, one outcome is the correct one of the vote, and the other is the wrong one. And every voter has a chance independently of voting for the correct outcome. And also the chance of voting for the correct outcome for every voter is greater than 0.5.&#x20;
 
