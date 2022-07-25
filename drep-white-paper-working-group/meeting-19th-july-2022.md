@@ -144,13 +144,13 @@ But there could be some cases where it \[just] makes a really good outcome sligh
 
 Stated as properties, it seems that this mechanism has the potential to produce worse results, as well as better. Because they don't really go into how much better the good results are compared to no delegation, and how much worse the bad ones are.&#x20;
 
+So papers started looking into it. And saying, hang on, these negative results are there. But all this means that is a vote that was going to go perfectly without delegation is going to go almost perfectly using delegation.&#x20;
+
+So technically it became a bit worse. But the potential benefits \[that outweigh this] is that a vote that would have produced a bad result without delegation \[can now] produce a better one with the delegation.
 
 
 
-
-So then papers started looking into it and saying, Yeah, wait, wait, hang on, like these negative results, yes, through there. But this all means that, if you have a vote, that is was going to go perfectly without delegation, now, it's gonna go almost perfectly uses delegation.&#x20;
-
-So technically, yes, it, it became a bit worse. But the potential benefits is that a vote that would have produced a bad result without delegation could produce a better one with the negation.&#x20;
+&#x20;
 
 So essentially, the way the first paper presented, it was not particularly fair.&#x20;
 
