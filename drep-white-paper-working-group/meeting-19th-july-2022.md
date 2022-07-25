@@ -160,13 +160,17 @@ This is an assumption of that paper and most of the subsequent ones. The problem
 
 That guarantees that the more voters you add into the mix the more likely it is to get the optimal outcome.
 
-Specifically, they cite various constructions that they have where essentially 1000s of voters that have a one half plus epsilon \[nfinitesimally small positive quantity ?] chance of being right. But because there's 1000s of them, on average, it's way more likely that the good outcome will have more votes than the bad outcome.&#x20;
+Specifically, they cite various constructions that they have where essentially 1000s of voters that have a one half plus epsilon \[infinitesimally small positive quantity ?] chance of being right. But because there's 1000s of them, on average, it's way more likely that the good outcome will have more votes than the bad outcome.&#x20;
+
+All of these decide to delegate to an expert, who has a 0.99 chance of being right. But because so many of them delegate, in the end, that 1% chance of the expert being right turns out to be worse than having a million people who are just barely informed vote.&#x20;
+
+And this is not a particularly realistic outcome.
 
 
 
 
 
-All of these decide to delegate to an expert, who has a zero points 99 chance of being right. But because so many of them delegate, in the end, that 1% chance of the expert being right turns out to be worse than having a million people who are just barely informed vote. And this is not a particularly realistic outcome. Like I don't think it's fair to say that every voter has an above average chance, above half chance of being right. Because this mathematically, it's almost guaranteed to give you a bad result for the negation. Because the more you delegate, the more you lose these concentration bounds on the probabilities that the voters will, on average, vote in favor of the good outcome. So there's a couple of papers dealing with this model. And saying, you know, the liquid democracy is bad for this and that. And then there's a few others papers criticizing the first one explaining that the first results are a bit too pessimistic. And showing that how, under certain more sane circumstances, votes delegation can actually improve the outcome, even with this benchmark. And specifically, there is also one very recent paper that does that for delegation for liquid democracy with one step rather than having delegation read delegation. Okay. So basically, I'm gonna include these three lines of work the original negative results and say, then the critique of them. And then the final thing for once that delegation, say a few things about what capitalist is doing. Something like that, I think,
+&#x20;Like I don't think it's fair to say that every voter has an above average chance, above half chance of being right. Because this mathematically, it's almost guaranteed to give you a bad result for the negation. Because the more you delegate, the more you lose these concentration bounds on the probabilities that the voters will, on average, vote in favor of the good outcome. So there's a couple of papers dealing with this model. And saying, you know, the liquid democracy is bad for this and that. And then there's a few others papers criticizing the first one explaining that the first results are a bit too pessimistic. And showing that how, under certain more sane circumstances, votes delegation can actually improve the outcome, even with this benchmark. And specifically, there is also one very recent paper that does that for delegation for liquid democracy with one step rather than having delegation read delegation. Okay. So basically, I'm gonna include these three lines of work the original negative results and say, then the critique of them. And then the final thing for once that delegation, say a few things about what capitalist is doing. Something like that, I think,
 
 
 
