@@ -174,36 +174,15 @@ And specifically, there is also one very recent paper that does delegation for l
 
 I'm going to include these three lines of work. The original negative results and then the critique of them. Then the final paper covering one-step delegation and say a few things about what Catalyst is doing.&#x20;
 
+#### Kenric - 17:17
+
+That's sounds great. That's a really nice contribution to this because it gives a kind of high level view of what people have investigated. And what people are documenting as potential pros and cons, and the challenges of doing this kind of research and understanding exactly \[how] making forecasts might happen.&#x20;
 
 
 
 
 
 
-
-
-\
-
-
-Next two or three days.
-
-What is the focus ? A couple of models people have used to study.
-
-Negative results - but when model checked - worst case.
-
-A few papers coming out recently - worst case analysis is too pessimistic
-
-First significant paper - two properties it defined - positive gain / do no harm
-
-No mech for always positive - mech in most cases - a really good outcome less good - range of results
-
-Range of negative results - bad result without delegation - good result with delegation
-
-Every voter's chance to vote is greater than 0.5 - the more voters you have the higher probability you have a good outcome.
-
-1000s of voters on average - good outcome - decide to delegate that 1%&#x20;
-
-Not realistic in terms of voter - Liquid demos is bad paper - rebutted by recent papers - Philip
 
 \
 
