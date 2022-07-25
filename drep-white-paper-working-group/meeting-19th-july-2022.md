@@ -160,7 +160,7 @@ This is an assumption of that paper and most of the subsequent ones. The problem
 
 That guarantees that the more voters you add into the mix the more likely it is to get the optimal outcome.
 
-Specifically, they cite various constructions that they have where essentially 1000s of voters that have a one half plus epsilon chance of being right. But because there's 1000s of them, on average, it's way more likely that the good outcome will have more votes than the bad outcome.&#x20;
+Specifically, they cite various constructions that they have where essentially 1000s of voters that have a one half plus epsilon \[nfinitesimally small positive quantity ?] chance of being right. But because there's 1000s of them, on average, it's way more likely that the good outcome will have more votes than the bad outcome.&#x20;
 
 
 
