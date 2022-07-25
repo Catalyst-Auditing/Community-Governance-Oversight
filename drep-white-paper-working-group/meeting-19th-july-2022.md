@@ -182,7 +182,9 @@ That's sounds great. That's a really nice contribution to this because it gives 
 
 It is very practical in terms of examining what assumptions people are making and how we need to examine those assumptions. Particularly where is there an extreme example. And what can you reasonably expect of the average voter.
 
+#### How do you measure good outcome of voting ?
 
+#### Aharon Porath - [18:11](https://youtu.be/vXErKcmM-iE?t=1091)
 
 \
 
