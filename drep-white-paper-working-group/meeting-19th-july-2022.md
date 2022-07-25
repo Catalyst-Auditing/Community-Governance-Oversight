@@ -174,13 +174,13 @@ And specifically, there is also one very recent paper that does delegation for l
 
 I'm going to include these three lines of work. The original negative results and then the critique of them. Then the final paper covering one-step delegation and say a few things about what Catalyst is doing.&#x20;
 
-#### Kenric - 17:17
+#### Kenric Nelson - 17:17
 
 That's sounds great. That's a really nice contribution to this because it gives a kind of high level view of what people have investigated. And what people are documenting as potential pros and cons, and the challenges of doing this kind of research and understanding exactly \[how] making forecasts might happen.&#x20;
 
+#### Stephen Whitenstall - 17:46
 
-
-
+It is very practical in terms of examining what assumptions people are making and how we need to examine those assumptions. Particularly where is there an extreme example. And what can you reasonably expect of the average voter.
 
 
 
