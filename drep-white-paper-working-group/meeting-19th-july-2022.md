@@ -154,11 +154,21 @@ Another criticism of the original paper is the assumption that \[for] every vote
 
 This is an assumption of that paper and most of the subsequent ones. The problem \[with this] model is that it quickly becomes clear that the more voters you have (if all of them have a greater than half chance of picking the correct outcome) the higher the probability that you select the good outcome just by having more voters.&#x20;
 
-
-
-
+[14:46](https://youtu.be/vXErKcmM-iE?t=886)
 
 Okay. So if you do delegation, even if the voters delegates to others who are more informed than them,
+
+
+
+
+
+
+
+
+
+
+
+
 
 \
 
