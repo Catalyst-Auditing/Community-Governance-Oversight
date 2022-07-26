@@ -194,9 +194,37 @@ If you focus on direct democracy, direct voting, then you may lose some engageme
 
 \[But] if you focus on some kind of delegation then you can can bring those that are a motivated to participate in the voting. And maybe this can can level the the pros and cons of delegation and liquid democracy in comparison to direct voting.
 
+#### Philip Lazos - 19:13
 
+I have an answer to both questions.&#x20;
 
+So the first about how they measure the quality of the outcome.&#x20;
 
+Almost every paper has the following model. There's two outcomes, let's say the good and the bad outcome. And the only thing we care about is the chance that the voters take the good outcome.
+
+And the way they model the vote is that every voter has a probability of selecting voting in favor of the good outcome.&#x20;
+
+So let's say if there's just one voter whose probability of voting for the good outcome is 0.7.&#x20;
+
+Then the score, let's say if the selection is 0.7. If we have a million voters with a probability 0.7 are voting for the good outcome, then it's almost certain that the good outcome will win.&#x20;
+
+So this will have a score of one because it's because we're taking such a huge sample, it's very, very unlikely that even though everybody has a 70% chance of voting for the good thing, the bad event will happen.&#x20;
+
+So that's, that's the benchmark, they're using just every voter chance to do the right thing. What's the chance that more than half of the voters end up when they do their trans voting of voting in favor of the right outcome?&#x20;
+
+In terms of the engagement effort, there is only one paper that seriously tries to do this pretty much.&#x20;
+
+And they do have our relationship between how much effort somebody puts in, and how close to one, the probability of voting for the right outcome becomes.
+
+And essentially, from the voters perspective, their utility, the effort they put in to increase their chance of voting for the good outcome is subtracted from their personal utility.&#x20;
+
+And in that model, there is one like zero cost basically, of delegating.&#x20;
+
+And non zero costs going from zero to one, the more engaged the voter is when voting directly.&#x20;
+
+And however, this paper unfortunately, other than setting the model and explaining what the rules of the game are, they call this the delegation game. There isn't any serious result. Unfortunately, they they show they have one sort of bad Nash equilibrium of how that vote could go. And that's pretty much it.&#x20;
+
+So essentially, everything else, like better delegation mechanisms, or other equilibria, they leave this as future work. So other than the conceptual contribution on the model, it's not very definitive, this all of this is. One downside is that this is a pretty new area. Like all these papers are from the last five years, maybe 10. And the people who have written them, at least the computer scientists, most of them I've like met at conferences or things like that. And I can say for a fact that they have never actually run any election or anything remotely. Related to that research. So all of this is kind of with a grain of salt, what they're saying.
 
 
 
