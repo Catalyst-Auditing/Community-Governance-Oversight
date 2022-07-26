@@ -186,6 +186,20 @@ It is very practical in terms of examining what assumptions people are making an
 
 #### Aharon Porath - [18:11](https://youtu.be/vXErKcmM-iE?t=1091)
 
+\[Firstly] I wonder how do you measure the good outcome of voting.
+
+\[Secondly] those papers took \[assumed] a large participation \[which] also requires motivation.&#x20;
+
+If you focus on direct democracy, direct voting, then you may lose some engagement. Because because not everybody has the same motivation and free time.&#x20;
+
+\[But] if you focus on some kind of delegation then you can can bring those that are a motivated to participate in the voting. And maybe this can can level the the pros and cons of delegation and liquid democracy in comparison to direct voting.
+
+
+
+
+
+
+
 \
 
 
