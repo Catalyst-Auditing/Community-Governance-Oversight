@@ -202,11 +202,11 @@ So the first about how they measure the quality of the outcome.&#x20;
 
 Almost every paper has the following model. There's two outcomes, let's say the good and the bad outcome. And the only thing we care about is the chance that the voters take the good outcome.
 
-And the way they model the vote is that every voter has a probability of selecting voting in favor of the good outcome.&#x20;
+And the way they model the vote is that every voter has a probability of selecting a vote in favor of the good outcome.&#x20;
 
 So let's say if there's just one voter whose probability of voting for the good outcome is 0.7.&#x20;
 
-Then the score, let's say if the selection is 0.7. If we have a million voters with a probability 0.7 are voting for the good outcome, then it's almost certain that the good outcome will win.&#x20;
+Then the score, let's say of the selection is 0.7. If we have a million voters with a probability 0.7 voting for the good outcome. Then it's almost certain that the good outcome will win.&#x20;
 
 So this will have a score of one because it's because we're taking such a huge sample, it's very, very unlikely that even though everybody has a 70% chance of voting for the good thing, the bad event will happen.&#x20;
 
