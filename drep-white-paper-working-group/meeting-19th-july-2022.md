@@ -208,9 +208,11 @@ So let's say if there's just one voter whose probability of voting for the good 
 
 Then the score, let's say of the selection is 0.7. If we have a million voters with a probability 0.7 voting for the good outcome. Then it's almost certain that the good outcome will win.&#x20;
 
-So this will have a score of one because it's because we're taking such a huge sample, it's very, very unlikely that even though everybody has a 70% chance of voting for the good thing, the bad event will happen.&#x20;
+So this will have a score of one, because we're taking such a huge sample, it's very unlikely that even though everybody has a 70% chance of voting for the good thing, the bad event will happen.&#x20;
 
-So that's, that's the benchmark, they're using just every voter chance to do the right thing. What's the chance that more than half of the voters end up when they do their trans voting of voting in favor of the right outcome?&#x20;
+So that's the benchmark they using. Just a chance for every voter to do the right thing. What's the chance that more than half of the voters end voting in favor of the right outcome?&#x20;
+
+
 
 In terms of the engagement effort, there is only one paper that seriously tries to do this pretty much.&#x20;
 
