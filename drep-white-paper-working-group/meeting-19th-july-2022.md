@@ -251,9 +251,13 @@ We focus on other aspects of the voting \[...] on the impact of the voting. Beca
 
 We are trying to find the right formula for determining \[whether] a suggestion is part of the document, still in discussion or even being denied.&#x20;
 
+This is \[additional] building blocks for the future parts of delegation.&#x20;
+
+The same process for direct voting, for representative voting  and for liquid democracy voting.
 
 
-So this, this is another I can see this is another building blocks that can that can be connected in the future, to the parts of delegation. This weekend, there's the same process for direct voting for representatives voting for public with liquid democracy voting. And same on coin voting, and on person voting. This is all still in in building. So until it will take a few more months, I hope to till the end of the years, so we can start really experimenting with it. So right, as I say, reticle background is still it will still be theoretical. And I hope that very soon, maybe maybe even before the direct will start working on we start having the right to vote on catalyst, maybe not long afterward, we can start using those experiences, start those experiment on the document editing, and we can then it can bring us much more flexibility and freedom to experiment. While the catalyst voting that is very the implement implementation, or on the Treasury, it should be much, much more carefully will follow suit later on according to the results that we can start with that we can produce from experimenting on the consensus platform. I'm not sure that the timetable will will will fit completely for this kind of process, I guess. I hope so. But not right now. It's depend on the pace of the of our dev team work.
+
+&#x20;And same on coin voting, and on person voting. This is all still in in building. So until it will take a few more months, I hope to till the end of the years, so we can start really experimenting with it. So right, as I say, reticle background is still it will still be theoretical. And I hope that very soon, maybe maybe even before the direct will start working on we start having the right to vote on catalyst, maybe not long afterward, we can start using those experiences, start those experiment on the document editing, and we can then it can bring us much more flexibility and freedom to experiment. While the catalyst voting that is very the implement implementation, or on the Treasury, it should be much, much more carefully will follow suit later on according to the results that we can start with that we can produce from experimenting on the consensus platform. I'm not sure that the timetable will will will fit completely for this kind of process, I guess. I hope so. But not right now. It's depend on the pace of the of our dev team work.
 
 \
 
