@@ -261,7 +261,14 @@ Right now the theoretical background is still theoretical. \[...] I hope that ve
 
 &#x20;I'm not sure that the \[current] timetable will  fit completely this kind of process. It will depend on the pace of our development team work.
 
-\
+#### Kenric Nelson - 28:14
+
+I would emphasize that while your development schedule has its own pace. There's no need or expectation that the development work would be completed for this white paper. It's fine for the white paper to be more of like a design plan. And also to be documenting what the challenges are. Both in terms of development challenges \[and] particularly on measuring the quality of the inputs and outputs to the \[dRep] process.&#x20;
+
+
+
+
+
 
 
 Thorsten to meet with Philip to refine drafts
