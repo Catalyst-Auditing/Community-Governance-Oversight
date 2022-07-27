@@ -259,15 +259,7 @@ The same process for direct voting, for representative voting  and for liquid de
 
 Right now the theoretical background is still theoretical. \[...] I hope that very soon, before or after the introduction of dReps, we can start using those experiences. \[To] start to experiment on document editing and bring more flexibility and freedom to experiment.&#x20;
 
-
-
-
-
-
-
-
-
-While the catalyst voting that is very the implement implementation, or on the Treasury, it should be much, much more carefully will follow suit later on according to the results that we can start with that we can produce from experimenting on the consensus platform. I'm not sure that the timetable will will will fit completely for this kind of process, I guess. I hope so. But not right now. It's depend on the pace of the of our dev team work.
+&#x20;I'm not sure that the \[current] timetable will  fit completely this kind of process. It will depend on the pace of our development team work.
 
 \
 
