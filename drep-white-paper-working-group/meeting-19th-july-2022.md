@@ -267,23 +267,21 @@ I would emphasize that while your development schedule has its own pace. There's
 
 #### Aharon Porath - 29:23
 
-We can suggest some kind of a framework for experimenting with different voting mechanisms and comparing them.&#x20;
+We can suggest some kind of a framework for experimenting with different voting mechanisms and comparing them. We are also  working on a parameter for optimization of the voting. Which is something that we are working on and we can bring it to the white paper as well.&#x20;
+
+A parameter for optimization that can later add some layer of AI for this process and the framework for experimenting with different voting mechanism using the consensus platform.&#x20;
 
 
 
-We also already start working on on on parameter for optimization of the voting. So this is something that we start working on, and we can and we can bring it to the white paper as well. So a parameter for optimization that can later I hope maybe we can even add some layer of AI for this optimization process and the framework for it. experimenting different voting mechanism using the consensus platform. So this is something that we can focus on on this specifically.
+## Action Items
 
-
-
-
-
-
-
-
-
+{% hint style="info" %}
 Thorsten to meet with Philip to refine drafts
+{% endhint %}
 
+{% hint style="info" %}
 Recommend Thorsten be co-author
+{% endhint %}
 
 
 
