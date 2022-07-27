@@ -198,6 +198,8 @@ If you focus on direct democracy, direct voting, then you may lose some engageme
 
 I have an answer to both questions.&#x20;
 
+#### How they measure the quality of the outcome.&#x20;
+
 So the first about how they measure the quality of the outcome.&#x20;
 
 Almost every paper has the following model. There's two outcomes, let's say the good and the bad outcome. And the only thing we care about is the chance that the voters take the good outcome.
@@ -212,9 +214,9 @@ So this will have a score of one, because we're taking such a huge sample, it's 
 
 So that's the benchmark they using. Just a chance for every voter to do the right thing. What's the chance that more than half of the voters end voting in favor of the right outcome?&#x20;
 
+#### Engagement effort
 
-
-In terms of the engagement effort, there is only one paper that seriously tries to do this pretty much.&#x20;
+\[Secondly] In terms of the engagement effort, there is only one paper that seriously \[addresses this].&#x20;
 
 And they do have our relationship between how much effort somebody puts in, and how close to one, the probability of voting for the right outcome becomes.
 
