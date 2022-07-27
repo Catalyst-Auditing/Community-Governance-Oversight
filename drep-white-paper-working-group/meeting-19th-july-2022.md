@@ -265,6 +265,16 @@ Right now the theoretical background is still theoretical. \[...] I hope that ve
 
 I would emphasize that while your development schedule has its own pace. There's no need or expectation that the development work would be completed for this white paper. It's fine for the white paper to be more of like a design plan. And also to be documenting what the challenges are. Both in terms of development challenges \[and] particularly on measuring the quality of the inputs and outputs to the \[dRep] process.&#x20;
 
+#### Aharon Porath - 29:23
+
+We can suggest some kind of a framework for experimenting with different voting mechanisms and comparing them.&#x20;
+
+
+
+We also already start working on on on parameter for optimization of the voting. So this is something that we start working on, and we can and we can bring it to the white paper as well. So a parameter for optimization that can later I hope maybe we can even add some layer of AI for this optimization process and the framework for it. experimenting different voting mechanism using the consensus platform. So this is something that we can focus on on this specifically.
+
+
+
 
 
 
