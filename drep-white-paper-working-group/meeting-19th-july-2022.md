@@ -279,13 +279,15 @@ For framing different aspects of this specific white paper. Philip and Kenric wi
 
 Steph Macurdy - [33:16](https://youtu.be/vXErKcmM-iE?t=1997)
 
-I added some notes to the White paper. On \[..] calculating a Banshof power index is easy in simplified settings, and \[how to] tailor it to fit the \[more] nuanced Project Catalyst \[which is a] more interesting and complex problem.
+I added some notes to the White paper. On \[..] calculating a Banzhof power index is easy in simplified settings, and \[how to] tailor it to fit the \[more] nuanced Project Catalyst \[is a] more interesting and complex problem.
 
-We're limited by the available data, which can be available by request, some is not available, because that's where we're at in the current like, which wallet is voting for which proposals were not yet privy to that data.&#x20;
+We're limited by the available data. Some is available by request, some is not available, because we are not privy to which wallet is voting for which proposal
+
+From my side of things, Kendrick and I are troubleshooting the working definition we have in the Wolfram language.
 
 
 
-But from my side of things, I think Kendrick and I were troubleshooting, the working definition we had in, in Wolfram language. And I think the author Seth Chandler, who does not work for Wolfram is a kind of a friend of the company is has a slightly different definition of what the band's off power indexes. So we were not expecting some of the results that we were getting. I've communicated with him. He said he's gotten tied up a little bit, but I do expect an answer from him. Hopefully soon, and I don't have an exact date. And then I have a different team within Wolfram looking through who don't know anything about bands off index, but looking through that definition to technically under Stand if we're forgetting something or not. And so I'm, and then a few of them happened to get sick this week. So that meeting, it's gotten pushed back from Monday to Friday of this week. But in terms of writing out the details of like, some of the difficulties and some of the, you know, just establishing the narrative, and why we want to do it, and what's some of the obstacles and frictions, I think is totally doable. And so Kenric when you get a chance and see some of those notes, if you say that's this is kind of the scope of it, we can expand here or not, then then I'll go from there.
+&#x20;And I think the author Seth Chandler, who does not work for Wolfram is a kind of a friend of the company is has a slightly different definition of what the band's off power indexes. So we were not expecting some of the results that we were getting. I've communicated with him. He said he's gotten tied up a little bit, but I do expect an answer from him. Hopefully soon, and I don't have an exact date. And then I have a different team within Wolfram looking through who don't know anything about bands off index, but looking through that definition to technically under Stand if we're forgetting something or not. And so I'm, and then a few of them happened to get sick this week. So that meeting, it's gotten pushed back from Monday to Friday of this week. But in terms of writing out the details of like, some of the difficulties and some of the, you know, just establishing the narrative, and why we want to do it, and what's some of the obstacles and frictions, I think is totally doable. And so Kenric when you get a chance and see some of those notes, if you say that's this is kind of the scope of it, we can expand here or not, then then I'll go from there.
 
 ## Action Items
 
