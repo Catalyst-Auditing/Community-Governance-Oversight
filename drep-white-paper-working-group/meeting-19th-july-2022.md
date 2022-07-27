@@ -271,6 +271,10 @@ We can suggest some kind of a framework for experimenting with different voting 
 
 A parameter for optimization that can later add some layer of AI for this process and the framework for experimenting with different voting mechanism using the consensus platform.&#x20;
 
+32:10
+
+For framing different aspects of this specific white paper. Philip and Kenric will bring the more academic background and the references that set the ground for this research. And I will suggest \[the] more practical aspect of how we can continue, optimize and continue to work in more practical manners in the near future.
+
 
 
 ## Action Items
