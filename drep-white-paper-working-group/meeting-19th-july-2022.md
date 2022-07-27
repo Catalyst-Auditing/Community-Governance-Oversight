@@ -233,11 +233,13 @@ One downside is that this is a pretty new area. All these papers are from the la
 I think part of keeping the scope realistic has been this idea that we're trying to lay out what should be measured. And it's for a later project actually do those measurements as the dReps within Catalyst evolve.\
 
 
-Stephen Whitenstall - 23:57
+#### Stephen Whitenstall - 23:57
 
 There's a great opportunity here in using these models in real world use cases \[...] from a pragmatic perspective.
 
+### Forming consensus in governance documentation <a href="#docs-internal-guid-ca918fbf-7fff-af6c-da82-224d107f84fd" id="docs-internal-guid-ca918fbf-7fff-af6c-da82-224d107f84fd"></a>
 
+Aharon Porath, Kenric Nelson
 
 
 
