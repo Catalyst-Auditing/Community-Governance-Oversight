@@ -224,28 +224,16 @@ Essentially, from the voters perspective \[...] the effort they put in to increa
 
 In that model there is zero cost of delegating \[1] and non zero costs, going from zero to one, the more engaged the voter is when voting directly.&#x20;
 
-Unfortunately this paper, other than setting the model and explaining what the rules of the game are, They call this the delegation game. There isn't any serious result. \[All] they show is one sort of bad Nash equilibrium of how that vote could go.&#x20;
+Unfortunately this paper, other than setting the model and explaining what the rules of the game are, They call this the delegation game. There isn't any serious result. \[All] they show is one sort of bad Nash equilibrium of how that vote could go.  Everything else, like better delegation mechanisms, or other equilibria, they leave this as future work. So other than the conceptual contribution on the model it's not very definitive.&#x20;
 
-
-
-&#x20;
-
-So essentially, everything else, like better delegation mechanisms, or other equilibria, they leave this as future work. So other than the conceptual contribution on the model, it's not very definitive, this all of this is. One downside is that this is a pretty new area. Like all these papers are from the last five years, maybe 10. And the people who have written them, at least the computer scientists, most of them I've like met at conferences or things like that. And I can say for a fact that they have never actually run any election or anything remotely. Related to that research. So all of this is kind of with a grain of salt, what they're saying.
+One downside is that this is a pretty new area. All these papers are from the last five to 10 years. \[...] And I can say for a fact that \[no one] has actually run any election \[...] related to that research.&#x20;
 
 
 
 \
 
 
-How do you measure a good outcome? Participation requires motivation. Lose motivation  - maybe this can level Liquid - Aharon
 
-Measure quality of outcome - chance that voters take outcome - prob that select good outcome - almost certain good outcome will win in majority cases -  Philip&#x20;
-
-What is the chance of more than half voters -&#x20;
-
-In terms of engagement - only paper addresses this - effort they put in - subtracted from personal utility - delegation game - no detailed results - Philip
-
-All these papers from last 5 years - Philip
 
 \
 
