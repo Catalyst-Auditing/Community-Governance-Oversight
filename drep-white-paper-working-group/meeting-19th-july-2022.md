@@ -257,13 +257,17 @@ The same process for direct voting, for representative voting  and for liquid de
 
 \[We are] still building. So it will take a few more months. \[But], I hope by the end of the year we can start really experimenting with it.&#x20;
 
+Right now the theoretical background is still theoretical. \[...] I hope that very soon, before or after the introduction of dReps, we can start using those experiences. \[To] start to experiment on document editing and bring more flexibility and freedom to experiment.&#x20;
 
 
 
 
 
 
-So right, as I say, reticle background is still it will still be theoretical. And I hope that very soon, maybe maybe even before the direct will start working on we start having the right to vote on catalyst, maybe not long afterward, we can start using those experiences, start those experiment on the document editing, and we can then it can bring us much more flexibility and freedom to experiment. While the catalyst voting that is very the implement implementation, or on the Treasury, it should be much, much more carefully will follow suit later on according to the results that we can start with that we can produce from experimenting on the consensus platform. I'm not sure that the timetable will will will fit completely for this kind of process, I guess. I hope so. But not right now. It's depend on the pace of the of our dev team work.
+
+
+
+While the catalyst voting that is very the implement implementation, or on the Treasury, it should be much, much more carefully will follow suit later on according to the results that we can start with that we can produce from experimenting on the consensus platform. I'm not sure that the timetable will will will fit completely for this kind of process, I guess. I hope so. But not right now. It's depend on the pace of the of our dev team work.
 
 \
 
