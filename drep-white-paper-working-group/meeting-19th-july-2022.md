@@ -239,7 +239,7 @@ There's a great opportunity here in using these models in real world use cases \
 
 ### Forming consensus in governance documentation <a href="#docs-internal-guid-ca918fbf-7fff-af6c-da82-224d107f84fd" id="docs-internal-guid-ca918fbf-7fff-af6c-da82-224d107f84fd"></a>
 
-Aharon Porath, Kenric Nelson
+#### Aharon Porath - [24:48](https://youtu.be/vXErKcmM-iE?t=1488)
 
 
 
