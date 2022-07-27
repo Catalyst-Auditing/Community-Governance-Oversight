@@ -228,9 +228,9 @@ Unfortunately this paper, other than setting the model and explaining what the r
 
 One downside is that this is a pretty new area. All these papers are from the last five to 10 years. \[...] And I can say for a fact that \[no one] has actually run any election \[...] related to that research.&#x20;
 
+#### Kenric Nelson - 23:28
 
-
-\
+I think part of keeping the scope realistic has been this idea that we're trying to lay out what should be measured. And it's for a later project actually do those measurements as the dReps within Catalyst evolve.\
 
 
 
