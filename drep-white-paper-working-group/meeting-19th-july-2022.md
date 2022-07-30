@@ -277,7 +277,7 @@ For framing different aspects of this specific white paper. Philip and Kenric wi
 
 ### Measuring Voting Power in a Delegated Representative Process  <a href="#docs-internal-guid-f59c4f95-7fff-075a-8c98-a1f19b086bfb" id="docs-internal-guid-f59c4f95-7fff-075a-8c98-a1f19b086bfb"></a>
 
-Steph Macurdy - [33:16](https://youtu.be/vXErKcmM-iE?t=1997)
+#### Steph Macurdy - [33:16](https://youtu.be/vXErKcmM-iE?t=1997)
 
 I added some notes to the White paper. On \[..] calculating a Banzhof power index is easy in simplified settings, and \[how to] tailor it to fit the \[more] nuanced Project Catalyst \[is a] more interesting and complex problem.
 
@@ -290,6 +290,10 @@ From my side of things, Kenric and I are troubleshooting the working definition 
 The author Seth Chandler, who does not work for Wolfram \[but] is a kind of a friend of the company, has a slightly different definition of the Banzshof Power index. \[Consequently] we were not expecting some of the results that we were getting.
 
 In terms of writing out the details of some of the difficulties \[we have encountered] and and establishing the narrative, why we want to do it and what's some of the obstacles, I think is totally doable.&#x20;
+
+Stephen Whitenstall - 35:51
+
+
 
 
 
