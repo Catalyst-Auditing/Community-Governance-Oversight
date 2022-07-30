@@ -299,15 +299,19 @@ Is it like an exposition of what the Banzhaf power index is and then running it 
 
 I think so. We can do the calculation for a simple example and make it specific to Catalyst. \[But], I think we need to wait until the technical definition that I have in code is agreed upon. At least we know how to work it, and start to layer in \[...]  what we do know about wallets \[...] filtering some of that into the calculation.
 
-Thorsten Pottebaum -&#x20;
+#### Thorsten Pottebaum - 36:50
+
+Do you think it would be feasible to define requirements against voting data \[in order] to have a more meaningful processing according to demands of index?
+
+Because Charles \[Hoskinson] is talking about moving all of this on to onto main chain \[....] which may take some of the obstacles \[to data access] away.&#x20;
+
+I'm just wondering whether that, in itself, would satisfy all requirements to be able to process \[the Banzhaf power index] or if there are further ones, which would help and support to do an analysis?&#x20;
+
+\[So we can arrive at] the ideal data set. And \[compare] where we are right now. \[with] what we need additionally to make it more efficient.&#x20;
 
 
 
-I have a comment in itself, kind of like, do you think it would be feasible to define requirements against voting data to have a more meaningful processing according to demands of index?
 
-
-
-Yeah, so kind of like big because Charles is talking about moving all of this on to onto main chain? Yeah. Which kind of made may take some of the obstacles away? Right. Yeah. And I think I'm just wondering whether that in itself would satisfy them all requirements to be able to process or if there are further ones, which would help and support to do an analysis? And if so, if you wouldn't be able to name them, because then that could be a direct direct input, also, in the sense of to be able to run this power index analysis. This is the x, this is the ideal data set, which we would expect. And this is where we are right now. Or this is what we need additionally, to make it more efficient. Yeah,
 
 ## Action Items
 
