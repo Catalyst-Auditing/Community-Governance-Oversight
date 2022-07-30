@@ -243,7 +243,7 @@ There's a great opportunity here in using these models in real world use cases \
 
 It's a good connection, because this is what I hoped that Consenz would bring \[is] the opportunity to examine these assumptions in real use cases. \[To work] in parallel with the work of the IOG team and the Catalyst process.&#x20;
 
-\[Presently] are really practical \[use cases] like editing guidelines for Proposal Assessors, the Code of Conduct for Catalyst Circle and many others. We can start experimenting with different mechanisms and use cases.&#x20;
+\[Presently] there are really practical \[use cases] like editing guidelines for Proposal Assessors, the Code of Conduct for Catalyst Circle and many others. We can start experimenting with different mechanisms and use cases.&#x20;
 
 And then to compare \[this] to the result of those papers and theoretical assumptions mentioned.
 
