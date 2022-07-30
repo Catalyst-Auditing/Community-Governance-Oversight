@@ -283,11 +283,17 @@ I added some notes to the White paper. On \[..] calculating a Banzhof power inde
 
 We're limited by the available data. Some is available by request, some is not available, because we are not privy to which wallet is voting for which proposal
 
-From my side of things, Kendrick and I are troubleshooting the working definition we have in the Wolfram language.
+From my side of things, Kenric and I are troubleshooting the working definition we have in the Wolfram language.
 
 
 
-&#x20;And I think the author Seth Chandler, who does not work for Wolfram is a kind of a friend of the company is has a slightly different definition of what the band's off power indexes. So we were not expecting some of the results that we were getting. I've communicated with him. He said he's gotten tied up a little bit, but I do expect an answer from him. Hopefully soon, and I don't have an exact date. And then I have a different team within Wolfram looking through who don't know anything about bands off index, but looking through that definition to technically under Stand if we're forgetting something or not. And so I'm, and then a few of them happened to get sick this week. So that meeting, it's gotten pushed back from Monday to Friday of this week. But in terms of writing out the details of like, some of the difficulties and some of the, you know, just establishing the narrative, and why we want to do it, and what's some of the obstacles and frictions, I think is totally doable. And so Kenric when you get a chance and see some of those notes, if you say that's this is kind of the scope of it, we can expand here or not, then then I'll go from there.
+The author Seth Chandler, who does not work for Wolfram \[but] is a kind of a friend of the company, has a slightly different definition of the Banzshof Power index. \[Consequently] we were not expecting some of the results that we were getting.
+
+In terms of writing out the details of some of the difficulties \[we have encountered] and and establishing the narrative, why we want to do it and what's some of the obstacles, I think is totally doable.&#x20;
+
+
+
+
 
 ## Action Items
 
