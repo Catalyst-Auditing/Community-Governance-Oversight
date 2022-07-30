@@ -295,7 +295,9 @@ In terms of writing out the details of some of the difficulties \[we have encoun
 
 Is it like an exposition of what the Banzhaf power index is and then running it through relevant data ?
 
+#### Steph Macurdy - 35:59
 
+I think so. We can do the calculation for a simple example and make it specific to Catalyst. \[But], I think we need to wait until the technical definition that I have in code is agreed upon. At least we know how to work it, and start to layer in \[...]  what we do know about wallets \[...] filtering some of that into the calculation.
 
 
 
