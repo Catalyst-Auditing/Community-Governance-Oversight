@@ -287,13 +287,13 @@ From my side of things, Kenric and I are troubleshooting the working definition 
 
 
 
-The author Seth Chandler, who does not work for Wolfram \[but] is a kind of a friend of the company, has a slightly different definition of the Banzshof Power index. \[Consequently] we were not expecting some of the results that we were getting.
+The author Seth Chandler, who does not work for Wolfram \[but] is a kind of a friend of the company, has a slightly different definition of the Banzhaf power index. \[Consequently] we were not expecting some of the results that we were getting.
 
 In terms of writing out the details of some of the difficulties \[we have encountered] and and establishing the narrative, why we want to do it and what's some of the obstacles, I think is totally doable.&#x20;
 
-Stephen Whitenstall - 35:51
+#### Stephen Whitenstall - 35:51
 
-
+Is it like an exposition of what the Banzhaf power index is and then running it through relevant data ?
 
 
 
