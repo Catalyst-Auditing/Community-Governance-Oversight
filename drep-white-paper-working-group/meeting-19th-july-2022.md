@@ -353,6 +353,10 @@ We can work on what exactly the feedback would be, how we do the simplification 
 
 But maybe the broader point is \[to achieve] one nice outcome : the ability to give back to each voter some measure of the amount of influence they have in the process.
 
+## Editorial Process
+
+#### Kenric Nelson - [44:36](https://youtu.be/vXErKcmM-iE?t=2677)
+
 ## Action Items
 
 {% hint style="info" %}
