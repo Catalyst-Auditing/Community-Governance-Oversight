@@ -327,6 +327,18 @@ However, given the number of participants, which is in the 10s of 1000s, there i
 
 There was some activity last year to add some cryptographic layers to the voting to keep that \[voting choices] secret. And there are trade offs on the privacy issues.
 
+#### Steph Macurdy - 40:04
+
+I want to respond about the combinatorial \[implications].
+
+Let's say there's 50,000 Vote voting wallets, in a Banshof Index, one of those wallets could vote vote by itself, and then one with two and then one with two and three and one with two, three and 50,000.&#x20;
+
+And then there could be two with three in two to 50,000. And then all of those.&#x20;
+
+That's going to require some computational power to determine that.&#x20;
+
+But does it matter if half of those wallets don't vote for a specific proposal? And so then they're omitted in that calculation? So I'm imagining that all 50,000 Vote for every single proposal yes or no?
+
 ## Action Items
 
 {% hint style="info" %}
