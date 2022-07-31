@@ -361,7 +361,23 @@ I'd like to talk a little bit about the editorial process.
 
 #### Pictorial image that represents Catalyst,
 
-Thorsten I'd like to get an image that represents Catalyst, voting, and liquid democracy. Or some combination of those things. So if you could try to find a good image for us to use, or if someone in their research comes across a good image that they recommend, and that would be nice to
+Thorsten I'd like to get an image that represents Catalyst, voting, and liquid democracy. Or some combination of those things. So if you could try to find a good image for us to use, or if someone in their research comes across a good image that they recommend.
+
+#### After Town Hall
+
+Thorsten and I are going to hold an After Town Hall discussion to go over our progress on the paper and to recruit reviewers.
+
+I think we'll do that either next week, or at the latest the following week. So we'll be trying to get it together for next week.&#x20;
+
+That'll give a better context for giving the community an update on our progress and recruiting the reviewers to provide comments on the on the work.&#x20;
+
+#### Zotero Group
+
+I want to use the same group that we were using from the last fund.
+
+
+
+
 
 ## Action Items
 
