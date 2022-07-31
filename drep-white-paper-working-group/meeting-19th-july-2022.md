@@ -357,6 +357,12 @@ But maybe the broader point is \[to achieve] one nice outcome : the ability to g
 
 #### Kenric Nelson - [44:36](https://youtu.be/vXErKcmM-iE?t=2677)
 
+I'd like to talk a little bit about the editorial process.
+
+#### Pictorial image that represents Catalyst,
+
+Thorsten I'd like to get an image that represents Catalyst, voting, and liquid democracy. Or some combination of those things. So if you could try to find a good image for us to use, or if someone in their research comes across a good image that they recommend, and that would be nice to
+
 ## Action Items
 
 {% hint style="info" %}
