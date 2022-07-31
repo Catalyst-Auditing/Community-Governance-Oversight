@@ -343,6 +343,16 @@ That's going to require some computational power to determine that.&#x20;
 
 But does it matter if half of those wallets don't vote for a specific proposal? And so then they're omitted in that calculation? So I'm imagining that all 50,000 Vote for every single proposal yes or no?
 
+#### Kenric Nelson - 41:47
+
+There's tricks to it. \[...] I'm kind of reaching out to what's possible.&#x20;
+
+But there are intermediate steps where you can simplify this dramatically and still get useful results.&#x20;
+
+We can work on what exactly the feedback would be, how we do the simplification and what assumptions are made.&#x20;
+
+But maybe the broader point is \[to achieve] one nice outcome : the ability to give back to each voter some measure of the amount of influence they have in the process.
+
 ## Action Items
 
 {% hint style="info" %}
