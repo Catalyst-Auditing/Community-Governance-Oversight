@@ -313,7 +313,7 @@ I'm just wondering whether that, in itself, would satisfy all requirements to be
 
 I think that's possible. At least we will know \[the sizes of] every wallet that voted \[...] we don't need to know the identity.&#x20;
 
-#### Kenric Nelson - 38:36
+#### Kenric Nelson - [38:36](https://youtu.be/vXErKcmM-iE?t=2316)
 
 #### Benefits to the community
 
@@ -329,7 +329,7 @@ However, given the number of participants, which is in the 10s of 1000s, there i
 
 There was some activity last year to add some cryptographic layers to the voting to keep that \[voting choices] secret. And there are trade offs on the privacy issues.
 
-#### Steph Macurdy - 40:04
+#### Steph Macurdy - [40:34](https://youtu.be/vXErKcmM-iE?t=2434)
 
 #### Combinatorial Power
 
