@@ -305,7 +305,7 @@ Do you think it would be feasible to define requirements against voting data \[i
 
 Because Charles \[Hoskinson] is talking about moving all of this on to onto main chain \[....] which may take some of the obstacles \[to data access] away.&#x20;
 
-I'm just wondering whether that, in itself, would satisfy all requirements to be able to process \[the Banzhaf power index] or if there are further ones, which would help and support to do an analysis?&#x20;
+I'm just wondering whether that, in itself, would satisfy all requirements to be able to process \[the Banzhof power index] or if there are further ones, which would help and support to do an analysis?&#x20;
 
 \[So we can arrive at] the ideal data set. And \[compare] where we are right now. \[with] what we need additionally to make it more efficient.&#x20;
 
@@ -314,6 +314,8 @@ I'm just wondering whether that, in itself, would satisfy all requirements to be
 I think that's possible. At least we will know \[the sizes of] every wallet that voted \[...] we don't need to know the identity.&#x20;
 
 #### Kenric Nelson - 38:36
+
+#### Benefits to the community
 
 I could envision if we make further progress \[we could] develop for every round of Catalyst a definition of what wallets are voting, its size and whether they delegated or not.&#x20;
 
@@ -328,6 +330,8 @@ However, given the number of participants, which is in the 10s of 1000s, there i
 There was some activity last year to add some cryptographic layers to the voting to keep that \[voting choices] secret. And there are trade offs on the privacy issues.
 
 #### Steph Macurdy - 40:04
+
+#### Combinatorial Power
 
 I want to respond about the combinatorial \[implications].
 
