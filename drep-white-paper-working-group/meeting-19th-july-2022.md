@@ -315,7 +315,17 @@ I think that's possible. At least we will know \[the sizes of] every wallet that
 
 #### Kenric Nelson - 38:36
 
-I'm not sure. You know, I would, I would the way I would answer that question is the following. I could envision if we make further progresses and can develop it that, you know, catalysts, maybe for every round, has a definition of you know, what wallets are voting and what the size of that wallet is, and whether they delegated or not. And you know, who they delegated and what the size of that wallet is. And then from there, that's all it's needed, theoretically, to calculate the bonds off power index for each wallet. However, given the the there's a question given the number of participants, which is in the 10s of 1000s, there is some computational cost to doing that calculation. You know, and I don't we don't know yet how large that cost is, but presumably, if it's important to the community that could be done. And I actually think that in a sense, the benefit could be that part of the feedback to every wallet holder is this is the percentage of influence you had on the outcome. Now the second step as to what the actual outcome is, and the mapping between what voter voted on which project. Right now that data is possibly available, but again, very hard to organize at least it's available for some rounds. But I know there was some activity last year to add some cryptographic layers to the voting to keep that secret. And there are there are trade offs on the privacy issues.
+I could envision if we make further progress \[we could] develop for every round of Catalyst a definition of what wallets are voting, its size and whether they delegated or not.&#x20;
+
+And that's all it's needed, theoretically, to calculate the Banzhof Power Index for each wallet.&#x20;
+
+However, given the number of participants, which is in the 10s of 1000s, there is some computational cost to doing that calculation.&#x20;
+
+\[One benefit to the community] could be that part of the feedback to every wallet holder is the percentage of influence you had on the outcome.
+
+\[...] the mapping between what a voter voted on which project \[...] right now that data is possibly available. It is very hard to organize \[but] at least it's available for some rounds.&#x20;
+
+There was some activity last year to add some cryptographic layers to the voting to keep that \[voting choices] secret. And there are trade offs on the privacy issues.
 
 ## Action Items
 
