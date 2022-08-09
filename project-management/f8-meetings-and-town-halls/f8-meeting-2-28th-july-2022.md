@@ -2,7 +2,7 @@
 
 ## Agenda
 
-[Link to Agenda](https://docs.google.com/document/d/1Y9BO6Veua0FVRC\_cV9G-murzhakwuxrH1zVpz0P16HI/edit?usp=sharing)
+[Link to Agenda](https://docs.google.com/document/d/1ZIYLJyR\_UL0YNx8ly5HChsN0OWEuyMw83fwLcusLAp4/edit?usp=sharing)
 
 ## Attendees
 
@@ -99,183 +99,169 @@ Board:
 
 ### 4.1 Challenge Setting
 
-**40:56 (discussed later in meeting)**
+What is the scope of F8 Challenge Setting oversight ?
 
-What is the scope of Challenge Setting Oversight ?
+Issue :&#x20;
 
-{% hint style="info" %}
-Issue : [https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/88](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/88)
-{% endhint %}
+[https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/88](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/88)
 
-I'm presenting categories and contributor recurring model to IOG on 22nd July, will be recorded, will share into CGO Discord - George
+* Carried over from last meeting: We could add questions to Fund 9 IOG survey? (Phil). Any further thoughts on this?
 
-Documented ? - Vanessa
+Someone needs to reach out to IOG - Phil
 
-With challenge settings I am pushing contributors as a recurring model. There's a lot of parameters in contributor model that would need thought.
+Action - Phil to contact IOG to add Challenge setting questions to F9 IOG Survey
 
-(documentation) Wasn't planning to - can do, either way - George
+* Question - who is working on this deliverable?
+* NB the need to make sure we separate oversight (including the making of recommendations) from actual engagement in work around challenge setting.
 
-But it feels like the whole issue of the scope of challenge settings is kind of different from catalyst contributors. And I'm not quite seeing how CGO has a take on catalyst contributors. What am I missing? - Vanessa
+Should George be doing oversight or other CGO members participate as well
 
-I'm a little lost, too. I understand the funding categories. But I'm not sure how contributors fits into that. - Allison
+Should CGO be doing oversight of GPS ? - Vanessa
 
-It's because funding categories are looking to replace challenge settings and contributors is a big part of that - George
+Do not think so - George
 
-Discussion from Nadia/Tomi work - bit confused by what they are suggesting - Kenric
+Voting process needs oversight - George
 
-Concerned that Challenge Team members not given authority to audit proposals - Kenric
+Feedback on Challenge Settings from George - Vanessa
 
-Challenge Teams were never intended as auditing function. Audit is a heavy responsibility and the compensation is not enough - Vanessa
+Discussions with George - personal interest - not work - Phil
 
-My understanding Challenge Team is not an audit function. I was hoping Ron Hill or others would submit audit proposals - Phil
+When we create proposal - allocate some portion to run categorisation challenge - bunch of names behind it - Tevo
 
-What I observe is that every challenge has at least three, maybe as many as five IOG employees who are part of the challenge team. And then maybe one or the most two that are non IOG employees. Even this is like a baby step towards some delegation to the community. But there was never a commitment of a substantial budget. So that you could recruit the right kind of people and they would have the adequate amount of time to do the functions that would truly be leadership of that challenge. - Kenric
+At end of F9 we will find out which Challenges are voted for - Phil
 
-This particular Fund 9 has been quite unusual in terms of the challenge settings, and the challenges that have been available to propose in. I would quite like to see CGO do some kind of oversight or information gathering on what effect that has had on Catalyst? I don't quite know what that would look like or what our process would be. But does anybody think that would be useful or valid? - Vanessa
+George, Phil and Tevo working on this ?
 
-That sounds amazing. But it also sounds like it would take up all our money. That's a whole other thing to understand that. - Phil
+Leave hanging until result of F9 vote - Vanessa
 
-Yeah, I was gonna say the same thing. We've got a lot of fantastic ideas and good work here. I think we're, we're not we're not lacking things we could do. It's a question of prioritizing which ones we have the resources to do. - Allison
-
-Fund 8 feedback due from voting survey - Tevo
-
-We could add questions to the Fund 9 IOG survey ? - Phil
-
-Who is working on what ? - Kenric
-
-{% hint style="info" %}
-**Resources** - George, Phil
-{% endhint %}
+When proposal is close to ready - then will feedback to CGO - George
 
 ### 4.2 Catalyst Circle Oversight <a href="#docs-internal-guid-44e33ab0-7fff-8276-b868-29b983da0a04" id="docs-internal-guid-44e33ab0-7fff-8276-b868-29b983da0a04"></a>
 
 What is the scope of F8 Catalyst Circle Oversight ?
 
-{% hint style="info" %}
-Issue : [https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/89](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/89)
-{% endhint %}
+What is the scope of F8 Catalyst Circle Oversight ?
 
-11:27 - How should we approach Circle Oversight ? - Stephen
+Issue :  [https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/89](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/89)
 
-#### Compensation for the circle members
+* Carried over from last meeting - have we decided that our main foci are&#x20;
+*
+  * Circle compensation&#x20;
+  * CCv4 elections?
+  * how the Circle internally is deciding things - their processand responsibilities
+* NB the need to make sure we separate oversight (including the making of recommendations) from actual engagement in the process.
+* Question - who is working on this deliverable?
 
-11:35 - I can chime in because I led one of the After Town Hall discussions \[on Circle compensation]. And I think it was a very good discussion. - Kenric
+Main focus of Circle is currently compensation - Kenric
 
-I just finished detailed notes of the meeting that I've asked Stephen and Harris to review before I publish it. Joey \[Chessner - Circle v3 Representative] had input to that. - Kenric
+Circle responsibilities - Kenric
 
-People have different thoughts but there was kind of consensus that it's important for some reasonable compensation for the circle members. There is support for the Circle, and for being sustainable through appropriate compensation. I also have done some design work on this, and outline some possibilities. - Kenric
+Should Circle be doing it themselves ? - Phil
 
-There is a student from Oxford, who's also quite interested in this problem. My concern is whether IOG will take \[the compensation issue] seriously. - Kenric
+Overlap with QADAO Oversight of CC - report back to CGO - Vanessa
 
-13:26 - I think there's a big disparity between how community members are being recruited to fulfill functions within Catalyst. And how proposal teams are compensating people and IOG in terms of how they run their business and how they recruit people to be employees of their business. - Kenric
+Kenric on CC compensation models ? - Vanessa
 
-Ultimately, I think that disparity has to be resolved in order for the community to be more healthy. With the Circle role I've proposed some ideas that would allow for a kind of negotiation. Where candidates can propose the salary. - Kenric
+Yes - will account for time via CGO - I am engaged in this - Kenric
 
-#### Circle election process
+Basic instinct is to design - pushback is that this is not oversight - but intent is just to present solutions - long term view - intended to lay out important issues - document lays 3 potential processes - Kenric
 
-One of the primary functions of this current Circle is to design the election process. - Kenric
+[Catalyst Circle Rewards Planning](https://docs.google.com/document/d/1VR8h9QpBLzdtqQob0QOrC4NwWjwkS8029XoImeteLtc/edit#heading=h.i7vdmbjm64ef)
 
-#### Not making decisions
+Slightly out of scope - but work crossover is fine - Phil&#x20;
 
-For me personally the parameters side of things is more interesting than Circle oversight. So I'm happy to defer that scope to others. I would only suggest given the point that I kind of hammered in the town hall that we're not making decisions that were clear to separate what's oversight from? - Allison
+Potential proposal to how to develop a procedure for CC compensation - Kenric&#x20;
 
-#### After Town Hall
+A candidate should propose what they want to contribute and its value - Kenric
 
-The report back here I would have given was that there was an After Town Hall \[three of them]. Different discussions happened. Obviously there was no ability to make a decision in those discussions. But we had participation from three members from here, both acting as overseers and as participants. I think that's kind of more the report we're looking for here rather than any particular outcomes of what happened. - Phil
+When is transition to Decision making process - Phil
 
-#### Scope
+Should stay in Oversight - Kenric can give updates - Tevo
 
-Surely here in this meeting we should be talking about what we think CGOs approach and scope to Circle oversight should be rather than thrashing out what happened in the After Town Hall ? Can we try to focus on where that leaves us in terms of CGO ? - Vanessa
+Look out for other governance type proposals - Vanessa
 
-I think what Phil meant was to say that this event happened and we have a timeline of people who want to see what's happening in this Catalyst space. They have a timeline, events happening here, here and here. Some of them repeat, some of them don't. But you get this scope of people working actively in places. - Tevo
+Will give feedback from CC working meeting - Kenric
 
-Another thing I wanted to point out, is when Catalyst Circle is looking for feedback, like doing polis or these surveys we leverage our Twitter and \[information] to get information to that Circle. So we don't have a situation where Circle is doing something but doesn't find the traction they need to get their own audience. - Tevo
+Planning to move to a wider voting process - to date not a secure voting process - Snapbrilla working on solution not ready - dripdropz invited to today's CC meeting - then a possible IOG solution - Kenric
 
-#### Circle Election Process
+Any discussion on how that decision might be made ? Phil
 
-19:42 - I see that point but I do think that it's moving away from oversight and more into participating in the process. And I feel really strongly that we should try to avoid doing that. And we keep our oversight function really clear. - Vanessa
+Right now discussion between CC and IOG - should be a CIP process - Kenric
 
-I think that one of the things that should be in our scope for Fund 8 is looking at the \[Circle] election process. And what is decided about that. Because Circle has tasked itself to focus on the election for Circle v4. And that seems to be a natural focus. - Vanessa
+Why CIP ? - Allison
 
-Sometimes Circle tries to communicate what is going on and people don't always hear it. So we can contextualize to an extent. - Vanessa
+Not sure - is it parameter change - Kenric
 
-I think that's good guidance. The design of the upcoming election is front and center right now. What does oversight mean? And what are the boundaries for contributing to that process? There's two functions, one function is documenting what's going on. That's quite important. But then oversight can also involve making recommendations. We're not ultimately the decision makers, but we should feel comfortable making recommendations. - Kenric
+Catalyst Jormnenda process - was onchain so same CIP logic would apply - Tevo
 
-{% hint style="info" %}
-**Resources :** Vanessa, Tevo
-{% endhint %}
+Original CC doc say sit will have oversight - Kenric
+
+CC has been dissolved ? Because working on election - Vanessa
+
+We do have a CC 3.1 - Kenric &#x20;
+
+issue of precedence - if previous circles have been unelected, it could happen again
+
+meeting with Circle to discuss what our scope will be exactly? We will discuss the content of that in Discord
 
 ### 4.3 d-Reps <a href="#docs-internal-guid-018d6226-7fff-ac98-706b-7cac10df2f5b" id="docs-internal-guid-018d6226-7fff-ac98-706b-7cac10df2f5b"></a>
 
-23:49
+In progress - last meeting&#x20;
 
-In progress - the last meeting was F8 - dRep White Paper Working Group Meeting Tuesday, 4th July 2022 - 1700 UTC
+dRep White Paper Working Group Meeting Tuesday, 19th July 2022 - 1700 UTC
 
-{% hint style="info" %}
-Issue : [https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/86](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/86)
-{% endhint %}
+Issue : [https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/96](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/96)
 
-The dReps White Paper team is progressing with their first draft. In August, the team will invite community reviewers to comment on the white paper.
+* Carried over from last meeting: 3 authors actively working on drafts. 1 author to confirm - have they done so?
 
-3 authors actively working on drafts. 1 author to confirm. Thorsten working as deputy. Thorsten, Stephen W and Kenric working as editors
+We are planning first draft public - will host ATH next Wednesday to present draft - Kenric
 
-Published today - [https://quality-assurance-dao.gitbook.io/community-governance-oversight/drep-white-paper-working-group/meeting-5th-july-2022](https://quality-assurance-dao.gitbook.io/community-governance-oversight/drep-white-paper-working-group/meeting-5th-july-2022)
+* Carried over from last meeting - Participating dRep perspective (raised by Tevo) - is this in hand? Any input needed?
+* maybe if C4C proposal is voted, we might
 
-Open to Community reviewers in coming weeks - Kenric
+No planning for dRep session - created 1 challenge - Tevo&#x20;
 
-Separate out White paper from oversight of dReps - Kenric
+* Team will host an ATH on Aug 3 to review draft & recruit reviewers
 
-Second function of how dRep process going - Kenric
-
-Participating dRep perspective - Tevo
-
-{% hint style="info" %}
-**Resources** - Kenric, Thorsten and Stephen
-{% endhint %}
-
-#### Other dRep Oversight <a href="#docs-internal-guid-b3eb649b-7fff-efe2-ab50-c347d17bd855" id="docs-internal-guid-b3eb649b-7fff-efe2-ab50-c347d17bd855"></a>
-
-Regarding the dReps, I'm doing some work already putting comments and thoughts on a Miro board. \[...] I thought of doing a 10 minute video to share my work. And how could I improve and maybe feedback from that could be used in oversight ? - Tevo
+dRep workshop postponed until August 2022 to prepare voting center - Stephen
 
 ### 4.4 Governance parameters <a href="#docs-internal-guid-b3eb649b-7fff-efe2-ab50-c347d17bd855" id="docs-internal-guid-b3eb649b-7fff-efe2-ab50-c347d17bd855"></a>
 
 What is the scope of F8 Governance parameters ?
 
-25:41
-
-{% hint style="info" %}
 Issue : [https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/90](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/90)
-{% endhint %}
 
-Somebody asked both last night and just now, are we keeping a comprehensive log somewhere of catalyst parameters. I think that would be really useful activity to log all of the parameters, how they change, who makes the decision and how it's communicated. But I'm conscious that's a pretty large work workload. - Allison\\
+**Register of Parameters and Google Form - Vanessa**
 
-We can take a little bit out of the Fund 7 report where there was a list of the ones that we had noticed and we could use that as a basis. But there is research to do on when things were announced and how they were announced. - Vanessa
+[https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/102](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/102)
 
-I would just say having a problem on the board which lists all the parameters. We try to note when and how it was introduced and by whom? To whom? - Vanessa
+Draft of community register of parameter changes (NB Not yet ready to be made public - comments are invited from this group) [https://docs.google.com/spreadsheets/d/1BixYPVfyWSYIRhNK2qaRDwebZk-oCpkxfitE\_U2TBL0/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1BixYPVfyWSYIRhNK2qaRDwebZk-oCpkxfitE\_U2TBL0/edit?usp=sharing)&#x20;
 
-Maybe the way to go about that is to chunk it. Define broad categories of parameters? So for instance, there's parameters on the proposal processes. - Kenric
+Draft of form to invite community to log parameter changes: [https://forms.gle/pAtwKWpbYpjo8Dc97](https://forms.gle/pAtwKWpbYpjo8Dc97) (NB Not yet ready to be made public - comments are invited from this group)&#x20;
 
-Jeremy has done great work on the decision making tree and some of the parameters could be categorized within that tree. We can look to categorize parameters. Some parameters probably should be discussed urgently and worked out how to change them. - Phil
+When shared Google sheet draft version - several things not initiated by IOG - Tevo
 
-The most important thing I think is that there's a column there that states the conditions on which the community can take this over. And those will be blank for now. But as we get to more important parameters we to say that the community and IOG need to discuss what it \[would take] to steward it towards an executable decision made by greater community. I think that's where this work can have significant value in the community beyond just reporting. But actually reporting and engaging on how to adjust those parameters \[in practice]. - Phil
+store it on community sie as markdown file
 
-In addition to the parameters themselves what's actually critical is how those parameters are currently being managed. And what's the cost of that management? In terms of transitioning responsibility to the community that's what becomes critical is what's involved in making decisions on these parameters and how much is that going to cost? - Kenric
+**Parameter Oversight meeting - 27th July 2022**
 
-You could start with identifying who is involved in the decision making and approximation of how much time they spend on that particular issue and some estimation of how much that costs. - Kenric
+[https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/101](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/101)
 
-Catalyst governance parameters could be a good start for us. How much \[resources] we give to one subject does not have to be equal. We can do more work on one subject than another. We do seem to be gathering around Thorsten's idea of building a public register. - Thorsten
+Key points:
 
-#### dRep example
+* Jeremy’s decision-making tree - Stephen has messaged jeremy about it
+* Tevo’s ”official roles and how decentralised they are”
+* Phil - identifying the low-risk, high impact parameters that the community \*could\* take control of
 
-35:53
+Action - follow up working meeting: From Tuesday next week - Stephen
 
-The \[parameter change] that strikes my mind at the moment is the introduction of the dReps. And how that now is wrapped up in \[dRep] workshops. The story is quite different. There might be a good rationale for why it changed. But it is important to understand why it cannot be done one way and why we have now to do it differently. The current challenge is that it's not really clear why this has changed. So people were going into something and it is not really clear what they were working with walking into. As the story has totally changed. - Thorsten
+Collaborate on parameters with GPS - Allison
 
-I would like to understand how they came to these decisions on their side. Even if they say we don't have a process, because make it up. Fair enough, at least we know how it works. Because as soon as you give it to the community \[you have to] bring in mechanisms to derive decisions in a similar way. - Thorsten
+Invite GPS to give update on what they are doing - Phil
 
-{% hint style="info" %}
-**Resources** - Allison, Phil, Tevo and Vanessa
-{% endhint %}
+Should I invite GPS to parameter specific meeting - Allison
+
+Just asking what are they doing and what kind of collaboration they envisage - Vanesa
 
 ## 5 CGO Proposal Reporting <a href="#docs-internal-guid-1a8f5941-7fff-98bc-7477-fb8e5ad56424" id="docs-internal-guid-1a8f5941-7fff-98bc-7477-fb8e5ad56424"></a>
 
@@ -297,11 +283,18 @@ I would like to understand how they came to these decisions on their side. Even 
 
 ## 6 Summary of CGO meeting for Catalyst Weekly Newsletter
 
-{% embed url="https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/93" %}
+[https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/93](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/93)
 
-{% hint style="info" %}
-No updates this week
-{% endhint %}
+\
+Change cadence - this week or next week ?
+
+Better if everyone contributes - Vanessa
+
+Do it biweekly - Tevo
+
+Yes - but it based on timing - Vanessa
+
+Try to write for Friday after - Vanessa
 
 ## 7 Updates on CGO F7 Final Report and Slide Presentation
 
@@ -313,14 +306,4 @@ In progress. Contributions added to final report draft
 
 {% hint style="info" %}
 Slides being drafted
-{% endhint %}
-
-## 8 Executive, Legislative, and Judicial functions (Kenric)
-
-I’m (Kenric) not sure where to put this, but I suggest having a discussion about the Executive, Legislative, and Judicial functions of governance. The voting processes of Catalyst map clearly to a Legislative function. What are the Executive and Judicial functions? Perhaps the approved projects are an executive function. Perhaps the Circle’s identification and discussion of problems is a judicial function. Clarity about this mapping might help define these different roles, and thereby the form and expectations of these roles.\\
-
-Kenric - we could take this at the end, or - because discussion of it might inform the discussion on item 4, our deliverables - we could take it after item 3. See what people think in the meeting?
-
-{% hint style="info" %}
-Next meeting discussion ? or Async or informal - Kenric
 {% endhint %}
