@@ -36,11 +36,15 @@
 
 ### Action points from previous meetings:
 
-* ## In August 2022 pay reminder of the research budget to Kenric (carry this action point over to next meeting)
-* ## Pay Allison $75 for Town Hall Slides X 2 ($150) in July 2022
-* ## Pay Stephen W $500 for Project Management for July 2022 (August 2022)
-* ## Stephen to do monthly report for July
-* ## Publicly-accessible register of parameter changes (raised by Thorsten) - progress on this topic is on this agenda later under “Parameter changes”
+In August 2022 pay reminder of the research budget to Kenric (carry this action point over to next meeting)
+
+Pay Allison $75 for Town Hall Slides X 2 ($150) in July 2022
+
+Pay Stephen W $500 for Project Management for July 2022 (August 2022)
+
+Stephen to do monthly report for July
+
+Publicly-accessible register of parameter changes (raised by Thorsten) - progress on this topic is on this agenda later under “Parameter changes”
 
 Vanessa to document George’s “categories and contributor recurring model” presentation to IOG on 22nd July\
 
