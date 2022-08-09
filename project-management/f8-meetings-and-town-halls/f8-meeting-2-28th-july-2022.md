@@ -30,9 +30,24 @@
 
 ## Agenda
 
+
+
+## Proposed Agenda <a href="#docs-internal-guid-c33d3c76-7fff-1b87-a100-a158d4f0612c" id="docs-internal-guid-c33d3c76-7fff-1b87-a100-a158d4f0612c"></a>
+
+### Action points from previous meetings:
+
+* ## In August 2022 pay reminder of the research budget to Kenric (carry this action point over to next meeting)
+* ## Pay Allison $75 for Town Hall Slides X 2 ($150) in July 2022
+* ## Pay Stephen W $500 for Project Management for July 2022 (August 2022)
+* ## Stephen to do monthly report for July
+* ## Publicly-accessible register of parameter changes (raised by Thorsten) - progress on this topic is on this agenda later under “Parameter changes”
+
+Vanessa to document George’s “categories and contributor recurring model” presentation to IOG on 22nd July\
+
+
 ## 1. F8 CGO Treasury
 
-* **00:55 - Andre** - F8 $ 6860 incoming next month. We have already paid for the F8 CGO meeting commitments and $ 4200 for Kenric's research budget.&#x20;
+* **00:55 - Andre** - F8 $ 6860 incoming next month. We have already paid for the F8 CGO meeting commitments and $ 4200 for Kenric's research budget.
 * **02:21 - Phil K -** The rest of the payments will be variable based on deliverables ?
 * **02:27 - Stephen W** - Yes that is right.
 
@@ -62,7 +77,7 @@
 
 ![](<../../.gitbook/assets/Screenshot 2022-07-16 151941.png>)
 
-Allison went into a little more depth about CGO history and where we came from and what we're trying to do. We did ask people to comment on parameters this time around either in the chat or in discord.&#x20;
+Allison went into a little more depth about CGO history and where we came from and what we're trying to do. We did ask people to comment on parameters this time around either in the chat or in discord.
 
 **08:01 - Thorsten** - Do we have a publicly accessible register of all the parameters which we have identified?
 
@@ -70,11 +85,11 @@ Allison went into a little more depth about CGO history and where we came from a
 
 **Thorsten -** I think it would be helpful. Yes.
 
-**08:41 - Phil K** - IOG have forewarning now that CGO are noting parameter changes at Town Hall slides. So I think that is a good place to start.&#x20;
+**08:41 - Phil K** - IOG have forewarning now that CGO are noting parameter changes at Town Hall slides. So I think that is a good place to start.
 
 **Stephen -** We are doing oversight of parameters. And I suppose that's what the question is, is how we are going to approach that? Allison's obviously you're doing you're doing a kind of an overview for every town hall slide presentation.
 
-**Allison -** That is meant to be only the most recent changes that we have informally observed. I agree that, ideally, documenting all parameters and logging when they change, how that decision is made and how it's communicated would be fantastic. But that is a lot of work.&#x20;
+**Allison -** That is meant to be only the most recent changes that we have informally observed. I agree that, ideally, documenting all parameters and logging when they change, how that decision is made and how it's communicated would be fantastic. But that is a lot of work.
 
 ## 3. CGO Project Board Review
 
@@ -84,9 +99,9 @@ Allison went into a little more depth about CGO history and where we came from a
 
 A quick view of the project board. A bit frightening because there's a lot in the backlog. But it's mostly to do with Fund 7 stuff in progress.
 
-We have spoken about the Town Hall Slides.&#x20;
+We have spoken about the Town Hall Slides.
 
-Mostly, today's meeting is going to be a scoping meeting.&#x20;
+Mostly, today's meeting is going to be a scoping meeting.
 
 ## 4 F8 CGO Scope & Deliverables <a href="#docs-internal-guid-ba4eaced-7fff-0b8f-c4bc-7cd87458c260" id="docs-internal-guid-ba4eaced-7fff-0b8f-c4bc-7cd87458c260"></a>
 
@@ -120,13 +135,13 @@ Concerned that Challenge Team members not given authority to audit proposals - K
 
 Challenge Teams were never intended as auditing function. Audit is a heavy responsibility and the compensation is not enough - Vanessa
 
-My understanding Challenge Team is not an audit function. I was hoping Ron Hill or others would submit audit proposals -  Phil
+My understanding Challenge Team is not an audit function. I was hoping Ron Hill or others would submit audit proposals - Phil
 
 What I observe is that every challenge has at least three, maybe as many as five IOG employees who are part of the challenge team. And then maybe one or the most two that are non IOG employees. Even this is like a baby step towards some delegation to the community. But there was never a commitment of a substantial budget. So that you could recruit the right kind of people and they would have the adequate amount of time to do the functions that would truly be leadership of that challenge. - Kenric
 
 This particular Fund 9 has been quite unusual in terms of the challenge settings, and the challenges that have been available to propose in. I would quite like to see CGO do some kind of oversight or information gathering on what effect that has had on Catalyst? I don't quite know what that would look like or what our process would be. But does anybody think that would be useful or valid? - Vanessa
 
-That sounds amazing. But it also sounds like it would take up all our money. That's a whole other thing to understand that. - Phil&#x20;
+That sounds amazing. But it also sounds like it would take up all our money. That's a whole other thing to understand that. - Phil
 
 Yeah, I was gonna say the same thing. We've got a lot of fantastic ideas and good work here. I think we're, we're not we're not lacking things we could do. It's a question of prioritizing which ones we have the resources to do. - Allison
 
@@ -158,7 +173,7 @@ I just finished detailed notes of the meeting that I've asked Stephen and Harris
 
 People have different thoughts but there was kind of consensus that it's important for some reasonable compensation for the circle members. There is support for the Circle, and for being sustainable through appropriate compensation. I also have done some design work on this, and outline some possibilities. - Kenric
 
-There is a student from Oxford, who's also quite interested in this problem. My concern is whether IOG will take \[the compensation issue] seriously.  - Kenric
+There is a student from Oxford, who's also quite interested in this problem. My concern is whether IOG will take \[the compensation issue] seriously. - Kenric
 
 13:26 - I think there's a big disparity between how community members are being recruited to fulfill functions within Catalyst. And how proposal teams are compensating people and IOG in terms of how they run their business and how they recruit people to be employees of their business. - Kenric
 
@@ -170,7 +185,7 @@ One of the primary functions of this current Circle is to design the election pr
 
 #### Not making decisions
 
-For me personally the parameters side of things is more interesting than Circle oversight. So I'm happy to defer that scope to others. I would only suggest given the point that I kind of hammered in the town hall that we're not making decisions that were clear to separate what's oversight from?  - Allison
+For me personally the parameters side of things is more interesting than Circle oversight. So I'm happy to defer that scope to others. I would only suggest given the point that I kind of hammered in the town hall that we're not making decisions that were clear to separate what's oversight from? - Allison
 
 #### After Town Hall
 
@@ -188,7 +203,7 @@ Another thing I wanted to point out, is when Catalyst Circle is looking for feed
 
 19:42 - I see that point but I do think that it's moving away from oversight and more into participating in the process. And I feel really strongly that we should try to avoid doing that. And we keep our oversight function really clear. - Vanessa
 
-I think that one of the things that should be in our scope for Fund 8 is looking at the \[Circle] election process. And what is decided about that. Because Circle has tasked itself to  focus on the election for Circle v4. And that seems to be a natural focus. - Vanessa
+I think that one of the things that should be in our scope for Fund 8 is looking at the \[Circle] election process. And what is decided about that. Because Circle has tasked itself to focus on the election for Circle v4. And that seems to be a natural focus. - Vanessa
 
 Sometimes Circle tries to communicate what is going on and people don't always hear it. So we can contextualize to an extent. - Vanessa
 
@@ -202,13 +217,13 @@ I think that's good guidance. The design of the upcoming election is front and c
 
 23:49
 
-In progress - the last meeting  was F8 - dRep White Paper Working Group Meeting Tuesday, 4th July 2022 - 1700 UTC
+In progress - the last meeting was F8 - dRep White Paper Working Group Meeting Tuesday, 4th July 2022 - 1700 UTC
 
 {% hint style="info" %}
 Issue : [https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/86](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/86)
 {% endhint %}
 
-The dReps White Paper team is progressing with their first draft. In August, the team will invite community reviewers to comment on the white paper.&#x20;
+The dReps White Paper team is progressing with their first draft. In August, the team will invite community reviewers to comment on the white paper.
 
 3 authors actively working on drafts. 1 author to confirm. Thorsten working as deputy. Thorsten, Stephen W and Kenric working as editors
 
@@ -240,10 +255,9 @@ What is the scope of F8 Governance parameters ?
 Issue : [https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/90](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/90)
 {% endhint %}
 
-Somebody asked both last night and just now, are we keeping a comprehensive log somewhere of catalyst parameters. I think that would be really useful activity to log all of the parameters, how they change, who makes the decision and how it's communicated. But I'm conscious that's a pretty large work workload. - Allison\
+Somebody asked both last night and just now, are we keeping a comprehensive log somewhere of catalyst parameters. I think that would be really useful activity to log all of the parameters, how they change, who makes the decision and how it's communicated. But I'm conscious that's a pretty large work workload. - Allison\\
 
-
-We can take a little bit out of the Fund 7 report where there was a list of the ones that we had noticed and we could use that as a basis. But there is research to do on when things were announced and how they were announced.  - Vanessa
+We can take a little bit out of the Fund 7 report where there was a list of the ones that we had noticed and we could use that as a basis. But there is research to do on when things were announced and how they were announced. - Vanessa
 
 I would just say having a problem on the board which lists all the parameters. We try to note when and how it was introduced and by whom? To whom? - Vanessa
 
@@ -270,8 +284,6 @@ I would like to understand how they came to these decisions on their side. Even 
 {% hint style="info" %}
 **Resources** - Allison, Phil, Tevo and Vanessa
 {% endhint %}
-
-
 
 ## 5 CGO Proposal Reporting <a href="#docs-internal-guid-1a8f5941-7fff-98bc-7477-fb8e5ad56424" id="docs-internal-guid-1a8f5941-7fff-98bc-7477-fb8e5ad56424"></a>
 
@@ -313,8 +325,7 @@ Slides being drafted
 
 ## 8 Executive, Legislative, and Judicial functions (Kenric)
 
-I’m (Kenric) not sure where to put this, but I suggest having a discussion about the Executive, Legislative, and Judicial functions of governance.  The voting processes of Catalyst map clearly to a Legislative function. What are the Executive and Judicial functions?  Perhaps the approved projects are an executive function. Perhaps the Circle’s identification and discussion of problems is a judicial function.  Clarity about this mapping might help define these different roles, and thereby the form and expectations of these roles.\
-
+I’m (Kenric) not sure where to put this, but I suggest having a discussion about the Executive, Legislative, and Judicial functions of governance. The voting processes of Catalyst map clearly to a Legislative function. What are the Executive and Judicial functions? Perhaps the approved projects are an executive function. Perhaps the Circle’s identification and discussion of problems is a judicial function. Clarity about this mapping might help define these different roles, and thereby the form and expectations of these roles.\\
 
 Kenric - we could take this at the end, or - because discussion of it might inform the discussion on item 4, our deliverables - we could take it after item 3. See what people think in the meeting?
 
