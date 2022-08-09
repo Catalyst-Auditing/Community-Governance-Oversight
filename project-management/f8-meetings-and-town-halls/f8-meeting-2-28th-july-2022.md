@@ -60,61 +60,40 @@ Vanessa to document George’s “categories and contributor recurring model” 
 
 ## 1. F8 CGO Treasury
 
-* **00:55 - Andre** - F8 $ 6860 incoming next month. We have already paid for the F8 CGO meeting commitments and $ 4200 for Kenric's research budget.
-* **02:21 - Phil K -** The rest of the payments will be variable based on deliverables ?
-* **02:27 - Stephen W** - Yes that is right.
+Andre & Miroslav - updates on Treasury setup, member payments, costs & expenses.
 
-{% hint style="info" %}
-**Action:** In August 2022 pay reminder of the research budget to Kenric.
-{% endhint %}
+Action : pay remaining 5800 USD for research to Kenric
 
-{% hint style="info" %}
-**Action**: Pay Allison $75 for Town Hall Slides X 2 ($150) in July 2022
-{% endhint %}
+pay Stephen 1000 USD - PM for July and August
 
-{% hint style="info" %}
-**Action:** Pay Stephen W $500 for Project Management for July 2022
-{% endhint %}
+pay 150 USD for preparation of 2x Town Hall slides
+
+Deliverables budgeting - All\
+
+
+Treasury GitHub Issues - [https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues?q=is%3Aissue+is%3Aopen+label%3ATreasury](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues?q=is%3Aissue+is%3Aopen+label%3ATreasury)
+
+August 3rd allocation c. $6k dollars - remaining to research - then Stephen PM - then TH Slides
 
 ## 2. Town Hall Slides
 
-**07:21 - Allison** - Updates on Town Hall Slides
+Allison - Updates on Town Hall Slides
 
-{% embed url="https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/87" %}
+[https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/103](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/103)
 
-![](<../../.gitbook/assets/Screenshot 2022-07-16 135610.png>)
 
-![](<../../.gitbook/assets/Screenshot 2022-07-16 135650.png>)
 
-![](<../../.gitbook/assets/Screenshot 2022-07-16 151840.png>)
+No slides this week :)&#x20;
 
-![](<../../.gitbook/assets/Screenshot 2022-07-16 151941.png>)
+Maybe better to do week before CGO meeting
 
-Allison went into a little more depth about CGO history and where we came from and what we're trying to do. We did ask people to comment on parameters this time around either in the chat or in discord.
-
-**08:01 - Thorsten** - Do we have a publicly accessible register of all the parameters which we have identified?
-
-**Stephen -** No we do not. Do you think we should do that ?
-
-**Thorsten -** I think it would be helpful. Yes.
-
-**08:41 - Phil K** - IOG have forewarning now that CGO are noting parameter changes at Town Hall slides. So I think that is a good place to start.
-
-**Stephen -** We are doing oversight of parameters. And I suppose that's what the question is, is how we are going to approach that? Allison's obviously you're doing you're doing a kind of an overview for every town hall slide presentation.
-
-**Allison -** That is meant to be only the most recent changes that we have informally observed. I agree that, ideally, documenting all parameters and logging when they change, how that decision is made and how it's communicated would be fantastic. But that is a lot of work.
+Action - Allison to do next week
 
 ## 3. CGO Project Board Review
 
-**09:59 - Stephen W**
+Board:
 
-{% embed url="https://github.com/orgs/Catalyst-Auditing/projects/3/views/1" %}
-
-A quick view of the project board. A bit frightening because there's a lot in the backlog. But it's mostly to do with Fund 7 stuff in progress.
-
-We have spoken about the Town Hall Slides.
-
-Mostly, today's meeting is going to be a scoping meeting.
+[https://github.com/orgs/Catalyst-Auditing/projects/3/views/1](https://github.com/orgs/Catalyst-Auditing/projects/3/views/1)
 
 ## 4 F8 CGO Scope & Deliverables <a href="#docs-internal-guid-ba4eaced-7fff-0b8f-c4bc-7cd87458c260" id="docs-internal-guid-ba4eaced-7fff-0b8f-c4bc-7cd87458c260"></a>
 
