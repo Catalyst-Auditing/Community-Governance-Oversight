@@ -83,3 +83,14 @@ Let's see how the \[White Paper] drafts come together this month.&#x20;
 We'll have an After Town Hall to introduce what we're working on to the community and recruit reviewers.&#x20;
 
 Depending on our pace over the next month this may take a little bit longer than what we originally planned.
+
+### The role of Delegated Representation in Blockchain Governance <a href="#docs-internal-guid-9f80fe74-7fff-67a0-e68e-ff9a3a64c4a9" id="docs-internal-guid-9f80fe74-7fff-67a0-e68e-ff9a3a64c4a9"></a>
+
+#### Philip Lazos
+
+#### Update from Kenric Nelson
+
+03:38
+
+
+
