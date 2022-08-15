@@ -54,32 +54,32 @@ Kenric Nelson - 01:08
 
 
 
-
-
 ## Research Budget <a href="#docs-internal-guid-1cbf57a2-7fff-27b5-ef9b-9e017b4e1302" id="docs-internal-guid-1cbf57a2-7fff-27b5-ef9b-9e017b4e1302"></a>
 
 #### Kenric Nelson <a href="#docs-internal-guid-1cbf57a2-7fff-27b5-ef9b-9e017b4e1302" id="docs-internal-guid-1cbf57a2-7fff-27b5-ef9b-9e017b4e1302"></a>
-
-[00:41](https://youtu.be/vXErKcmM-iE?t=41)
 
 {% hint style="info" %}
 Any Budget updates or issues ?
 {% endhint %}
 
-Using allocation to distribute co-allocations
-
-Money available for community reviewers
-
-Kenric Nelson - 00:41 - And Budget Update
+No updates this meeting
 
 ## Research Project Planning <a href="#docs-internal-guid-097619fc-7fff-df05-dc0c-dc8e89dc646e" id="docs-internal-guid-097619fc-7fff-df05-dc0c-dc8e89dc646e"></a>
 
-#### Stephen Whitenstall <a href="#docs-internal-guid-097619fc-7fff-df05-dc0c-dc8e89dc646e" id="docs-internal-guid-097619fc-7fff-df05-dc0c-dc8e89dc646e"></a>
+#### Kenric Nelson / Stephen Whitenstall <a href="#docs-internal-guid-097619fc-7fff-df05-dc0c-dc8e89dc646e" id="docs-internal-guid-097619fc-7fff-df05-dc0c-dc8e89dc646e"></a>
 
-[05:27](https://youtu.be/vXErKcmM-iE?t=327)
+02:02
 
 {% hint style="info" %}
 Any updates on Project Plan timetable and deliverables
 {% endhint %}
 
-There's no real project plan updates, we are continuing meetings. Things are proceeding smoothly. I will do a monthly report on the 24th July 2022 and mention that we're holding these meetings regularly.
+#### Brief Update - Kenric&#x20;
+
+02:17
+
+Let's see how the \[White Paper] drafts come together this month.&#x20;
+
+We'll have an After Town Hall to introduce what we're working on to the community and recruit reviewers.&#x20;
+
+Depending on our pace over the next month this may take a little bit longer than what we originally planned.
