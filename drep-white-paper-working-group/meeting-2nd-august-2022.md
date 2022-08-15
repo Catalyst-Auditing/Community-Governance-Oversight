@@ -112,5 +112,13 @@ I haven't read through it carefully, but he does have a significant amount that 
 
 Steph Macurdy
 
+04:44
+
+I added to the section in the white paper, the general flow begins with what Kenric highlights as a good first example : the separation of powers between Cardano Foundation, Emurgo and IOG.
+
+And how that simple example explains the bigger idea of Banzhof Power Indices.
+
+I would like to provide the example from \[Wolfram] software as opposed to website that we currently have. But that's a good placeholder.
+
 
 
