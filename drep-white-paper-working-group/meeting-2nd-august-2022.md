@@ -94,5 +94,17 @@ Depending on our pace over the next month this may take a little bit longer than
 
 \[Philip] did reach out to us and said that he will be adding his draft very soon.&#x20;
 
+### Forming consensus in governance documentation <a href="#docs-internal-guid-ca918fbf-7fff-af6c-da82-224d107f84fd" id="docs-internal-guid-ca918fbf-7fff-af6c-da82-224d107f84fd"></a>
+
+#### Aharon Porath
+
+#### Update from Kenric Nelson
+
+04:09
+
+I haven't read through it carefully, but he does have a significant amount that he's contributed. So I do see good progress there. And I plan to get together with him separately to go over that in more detail.
+
+
+
 
 
