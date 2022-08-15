@@ -48,15 +48,13 @@ Brief Updates/Notices from each participant - All
 
 Stephen Whitenstall - 00:02
 
-Kenric Nelson - 00:41 - And Budget Update
+Steph Macurdy - 00:53
 
-Thorsten Pottebaum - 01:52
+Kenric Nelson - 01:08
 
-Aharon Porath - 02:37
 
-Steph Macurdy - 04:03
 
-Philip Lazos - 04:43
+
 
 ## Research Budget <a href="#docs-internal-guid-1cbf57a2-7fff-27b5-ef9b-9e017b4e1302" id="docs-internal-guid-1cbf57a2-7fff-27b5-ef9b-9e017b4e1302"></a>
 
