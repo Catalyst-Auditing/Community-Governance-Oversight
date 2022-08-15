@@ -120,5 +120,19 @@ And how that simple example explains the bigger idea of Banzhof Power Indices.
 
 I would like to provide the example from \[Wolfram] software as opposed to website that we currently have. But that's a good placeholder.
 
+06:11
+
+The second part addresses how when we relate this to Project Catalyst there's much more nuance and complexity.&#x20;
+
+And so when we want to think about how to actually do that calculation, what are the things we need to take into account and some of these things are limitations, some of these things are?&#x20;
+
+What's the best way to represent some information that we don't have?&#x20;
+
+What are some of the best ways to simplify it so that it makes sense, and we can handle it computationally. Because when you get 30, you know, when you get a large data set, and you have combinations of those different wallet sizes, you know, you can get a runaway effect of of how much computation it takes.&#x20;
+
+And then I guess my my last point here for the summary would be, you know, how technical do we want to include have a definition? How much from the research papers do we want to make it into this one?&#x20;
+
+And then I assume visualisations are the best way to articulate a big idea. Is that something that we definitely want to see in this section here? So that I would say is the summary and then we can dive in however much?
+
 
 
