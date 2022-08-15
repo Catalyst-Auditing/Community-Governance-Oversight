@@ -4,19 +4,17 @@
 
 |                     |                                                                   |
 | ------------------- | ----------------------------------------------------------------- |
-| Aharon Porath       | Consenz                                                           |
 | Kenric Nelson       | [Photrek](https://photrek.world/)                                 |
-| Philip Lazos        | [IOG](https://iohk.io/jp/team/philip-lazos)                       |
 | Steph Macurdy       | [Wolfram Blockchain Labs](https://www.wolframblockchainlabs.com/) |
 | Stephen Whitenstall | [QADAO](https://quality-assurance-dao.github.io/)                 |
-| Thorsten Pottebaum  | adanamics ([linktree](https://linktr.ee/adanamics))               |
 
 ### Apologies
 
-|                |                                            |
-| -------------- | ------------------------------------------ |
-| George Ramayya |                                            |
-| Frank Albanese | [Snapbrilla](https://www.snapbrillia.com/) |
+|                    |                                                     |
+| ------------------ | --------------------------------------------------- |
+| Aharon Porath      | Consenz                                             |
+| Philip Lazos       | [IOG](https://iohk.io/jp/team/philip-lazos)         |
+| Thorsten Pottebaum | adanamics ([linktree](https://linktr.ee/adanamics)) |
 
 ## Information
 
@@ -35,7 +33,7 @@ Documentation funded by [Fund 7 - QA-DAO Transcription Service](https://cardano.
 (Used for Project Management tracking and reporting)
 
 {% hint style="info" %}
-[https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/96](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/96)&#x20;
+[https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/96](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/96)
 {% endhint %}
 
 ## Agenda
@@ -48,15 +46,15 @@ Documentation funded by [Fund 7 - QA-DAO Transcription Service](https://cardano.
 Brief Updates/Notices from each participant - All
 {% endhint %}
 
-Stephen Whitenstall - 00:02&#x20;
+Stephen Whitenstall - 00:02
 
-Kenric Nelson - 00:41 - And Budget Update&#x20;
+Kenric Nelson - 00:41 - And Budget Update
 
-Thorsten Pottebaum - 01:52&#x20;
+Thorsten Pottebaum - 01:52
 
-Aharon Porath - 02:37&#x20;
+Aharon Porath - 02:37
 
-Steph Macurdy - 04:03&#x20;
+Steph Macurdy - 04:03
 
 Philip Lazos - 04:43
 
@@ -67,7 +65,7 @@ Philip Lazos - 04:43
 [00:41](https://youtu.be/vXErKcmM-iE?t=41)
 
 {% hint style="info" %}
-Any Budget updates or issues ?&#x20;
+Any Budget updates or issues ?
 {% endhint %}
 
 Using allocation to distribute co-allocations
