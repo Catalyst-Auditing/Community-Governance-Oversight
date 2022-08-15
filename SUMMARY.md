@@ -30,6 +30,7 @@
   * [Meeting - 21st June 2022](dRep-White-Paper-Working-Group/meeting-21st-june-2022.md)
   * [Meeting - 5th July 2022](drep-white-paper-working-group/meeting-5th-july-2022.md)
   * [Meeting - 19th July 2022](drep-white-paper-working-group/meeting-19th-july-2022.md)
+  * [Meeting - 2nd August 2022](drep-white-paper-working-group/meeting-2nd-august-2022.md)
 
 ## Parameters
 
