@@ -104,7 +104,9 @@ Depending on our pace over the next month this may take a little bit longer than
 
 I haven't read through it carefully, but he does have a significant amount that he's contributed. So I do see good progress there. And I plan to get together with him separately to go over that in more detail.
 
+### Measuring Voting Power in a Delegated Representative Process  <a href="#docs-internal-guid-f59c4f95-7fff-075a-8c98-a1f19b086bfb" id="docs-internal-guid-f59c4f95-7fff-075a-8c98-a1f19b086bfb"></a>
 
+Steph Macurdy
 
 
 
