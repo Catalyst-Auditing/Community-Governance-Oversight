@@ -92,5 +92,7 @@ Depending on our pace over the next month this may take a little bit longer than
 
 03:38
 
+\[Philip] did reach out to us and said that he will be adding his draft very soon.&#x20;
+
 
 
