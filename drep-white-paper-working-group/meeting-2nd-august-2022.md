@@ -147,3 +147,11 @@ For this white paper it may be okay to just reference.&#x20;
 There's kind of a minimum isn't there? We need an absolute reference of what the Banzhof Power Index is. A need to refer to the definitive paper or the definitive reference
 
 a? And then anything more than that will be some kind of exposition of that formal formal definition. We just thought, well, you're saying stuff.
+
+### Differences in computation of Index
+
+#### Kenric Nelson
+
+11:26
+
+I am concerned that we have not resolved the clear difference between the computation on the website I was using and the computation that your colleague had done. Did you get any clarification as to what the difference is ?
