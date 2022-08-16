@@ -139,3 +139,11 @@ These are great questions. Because once you get started with formal definitions 
 Whether we want to include that as part of the white paper depends on your time and on how it balances with the other sections.&#x20;
 
 For this white paper it may be okay to just reference.&#x20;
+
+#### Stephen Whitenstall
+
+09:11
+
+There's kind of a minimum isn't there? We need an absolute reference of what the Banzhof Power Index is. A need to refer to the definitive paper or the definitive reference
+
+a? And then anything more than that will be some kind of exposition of that formal formal definition. We just thought, well, you're saying stuff.
