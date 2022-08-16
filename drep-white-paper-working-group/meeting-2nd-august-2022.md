@@ -110,7 +110,7 @@ I haven't read through it carefully, but he does have a significant amount that 
 
 #### Steph Macurdy
 
-04:44
+[04:44](https://youtu.be/Q7UMeoJ-EVs?t=284)
 
 I added to the section in the white paper, the general flow begins with what Kenric highlights as a good first example : the separation of powers between Cardano Foundation, Emurgo and IOG.
 
