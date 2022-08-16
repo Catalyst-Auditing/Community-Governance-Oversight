@@ -126,13 +126,9 @@ The second part addresses how when we relate this to Project Catalyst there's mu
 
 And so when we want to think about how to actually do that calculation, what are the things we need to take into account and some of these things are limitations, some of these things are?&#x20;
 
-What's the best way to represent information that we don't have ?&#x20;
-
-What are some of the best ways to simplify \[the data set] so that it makes sense and can be handled computationally ?
-
-How technical do we want to be with reference to the Banzhof definition ?&#x20;
-
-How much from the research papers do we want to cite ?&#x20;
-
-Visualisations are the best way to articulate a big idea. Is that something that we want to see in this section here ?&#x20;
+- What's the best way to represent information that we don't have ?&#x20;
+- What are some of the best ways to simplify \[the data set] so that it makes sense and can be handled computationally ?
+- How technical do we want to be with reference to the Banzhof definition ?&#x20;
+- How much from the research papers do we want to cite ?&#x20;
+- Visualisations are the best way to articulate a big idea. Is that something that we want to see in this section here ?&#x20;
 
