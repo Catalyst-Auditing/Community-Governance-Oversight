@@ -134,7 +134,5 @@ How technical do we want to be with reference to the Banzhof definition ?&#x20;
 
 How much from the research papers do we want to cite ?&#x20;
 
-And then I assume visualisations are the best way to articulate a big idea. Is that something that we definitely want to see in this section here? So that I would say is the summary and then we can dive in however much?
-
-
+Visualisations are the best way to articulate a big idea. Is that something that we want to see in this section here ?&#x20;
 
