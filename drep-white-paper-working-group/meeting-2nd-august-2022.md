@@ -56,8 +56,6 @@ Steph Macurdy - 00:53
 
 Kenric Nelson - 01:08
 
-
-
 ## Research Budget <a href="#docs-internal-guid-1cbf57a2-7fff-27b5-ef9b-9e017b4e1302" id="docs-internal-guid-1cbf57a2-7fff-27b5-ef9b-9e017b4e1302"></a>
 
 #### Kenric Nelson <a href="#docs-internal-guid-1cbf57a2-7fff-27b5-ef9b-9e017b4e1302" id="docs-internal-guid-1cbf57a2-7fff-27b5-ef9b-9e017b4e1302"></a>
@@ -78,13 +76,13 @@ No updates this meeting
 Any updates on Project Plan timetable and deliverables
 {% endhint %}
 
-#### Brief Update - Kenric&#x20;
+#### Brief Update - Kenric
 
 02:17
 
-Let's see how the \[White Paper] drafts come together this month.&#x20;
+Let's see how the \[White Paper] drafts come together this month.
 
-We'll have an After Town Hall to introduce what we're working on to the community and recruit reviewers.&#x20;
+We'll have an After Town Hall to introduce what we're working on to the community and recruit reviewers.
 
 Depending on our pace over the next month this may take a little bit longer than what we originally planned.
 
@@ -96,7 +94,7 @@ Depending on our pace over the next month this may take a little bit longer than
 
 03:38
 
-\[Philip] did reach out to us and said that he will be adding his draft very soon.&#x20;
+\[Philip] did reach out to us and said that he will be adding his draft very soon.
 
 ### Forming consensus in governance documentation <a href="#docs-internal-guid-ca918fbf-7fff-af6c-da82-224d107f84fd" id="docs-internal-guid-ca918fbf-7fff-af6c-da82-224d107f84fd"></a>
 
@@ -108,7 +106,7 @@ Depending on our pace over the next month this may take a little bit longer than
 
 I haven't read through it carefully, but he does have a significant amount that he's contributed. So I do see good progress there. And I plan to get together with him separately to go over that in more detail.
 
-### Measuring Voting Power in a Delegated Representative Process  <a href="#docs-internal-guid-f59c4f95-7fff-075a-8c98-a1f19b086bfb" id="docs-internal-guid-f59c4f95-7fff-075a-8c98-a1f19b086bfb"></a>
+### Measuring Voting Power in a Delegated Representative Process <a href="#docs-internal-guid-f59c4f95-7fff-075a-8c98-a1f19b086bfb" id="docs-internal-guid-f59c4f95-7fff-075a-8c98-a1f19b086bfb"></a>
 
 #### Steph Macurdy
 
@@ -122,13 +120,22 @@ I would like to provide the example from \[Wolfram] software as opposed to websi
 
 06:11
 
-The second part addresses how when we relate this to Project Catalyst there's much more nuance and complexity.&#x20;
+The second part addresses how when we relate this to Project Catalyst there's much more nuance and complexity.
 
-And so when we want to think about how to actually do that calculation, what are the things we need to take into account and some of these things are limitations, some of these things are?&#x20;
+And so when we want to think about how to actually do that calculation, what are the things we need to take into account and some of these things are limitations, some of these things are?
 
-- What's the best way to represent information that we don't have ?&#x20;
-- What are some of the best ways to simplify \[the data set] so that it makes sense and can be handled computationally ?
-- How technical do we want to be with reference to the Banzhof definition ?&#x20;
-- How much from the research papers do we want to cite ?&#x20;
-- Visualisations are the best way to articulate a big idea. Is that something that we want to see in this section here ?&#x20;
+* What's the best way to represent information that we don't have ?
+* What are some of the best ways to simplify \[the data set] so that it makes sense and can be handled computationally ?
+* How technical do we want to be with reference to the Banzhof definition ?
+* How much from the research papers do we want to cite in respect of the Banzhof definition ?
+* Visualisations are the best way to articulate a big idea. Is that something that we want to see in this section here ?
 
+#### Kenric Nelson
+
+08:17
+
+These are great questions. Because once you get started with formal definitions that can be pretty lengthy in itself.&#x20;
+
+Whether we want to include that as part of the white paper depends on your time and on how it balances with the other sections.&#x20;
+
+For this white paper it may be okay to just reference.&#x20;
