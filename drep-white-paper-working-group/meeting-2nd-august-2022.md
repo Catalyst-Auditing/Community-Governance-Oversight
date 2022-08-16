@@ -155,3 +155,13 @@ a? And then anything more than that will be some kind of exposition of that form
 [11:26](https://youtu.be/Q7UMeoJ-EVs?t=686)
 
 I am concerned that we have not resolved the clear difference between the computation on the website I was using and the computation that your colleague had done. Did you get any clarification as to what the difference is ?
+
+#### Steph Macurdy
+
+12:05
+
+I got clarification that there is difference. I did not get clarification why the definition from the research paper differs.
+
+So I've not been able to identify what from the research paper is different from what's been implemented as the function.&#x20;
+
+It's the question is kind of is that the right definition? Or is there some mistake in the research paper?
