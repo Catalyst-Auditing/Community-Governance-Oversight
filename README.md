@@ -9,6 +9,26 @@ coverY: 0
 
 # Oversight of Governance Processes
 
+## Check out out Fund 7 Report !
+
+### Headlines
+
+{% embed url="https://youtu.be/-Vw3N4WLKL0" %}
+
+### Summary Presentation
+
+{% embed url="https://youtu.be/vB-s9xgBf9w" %}
+
+### Detailed Fund 7 Report
+
+[link](https://docs.google.com/document/d/1jkkgbmU\_tEVM9CgmlW1MSWJTRnaZdFURU6f02TfptkU/edit?usp=sharing)
+
+{% embed url="https://docs.google.com/document/d/1jkkgbmU_tEVM9CgmlW1MSWJTRnaZdFURU6f02TfptkU/edit?usp=sharing" %}
+
+## Overview of CGO
+
+
+
 Without oversight we risk stagnation and we lack accountability in our governance.
 
 This GitBook documents the development of a **Community Governance Oversight group** (hereafter "Oversight Group") tasked to examine changes in Project Catalyst Governance.
