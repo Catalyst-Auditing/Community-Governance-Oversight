@@ -2,13 +2,14 @@
 
 ## Attendees
 
-|                     |                                                                   |
-| ------------------- | ----------------------------------------------------------------- |
-| Kenric Nelson       | [Photrek](https://photrek.world/)                                 |
-| Steph Macurdy       | [Wolfram Blockchain Labs](https://www.wolframblockchainlabs.com/) |
-| Stephen Whitenstall | [QADAO](https://quality-assurance-dao.github.io/)                 |
-| Aharon Porath       | Consenz                                                           |
-| Thorsten Pottebaum  | adanamics ([linktree](https://linktr.ee/adanamics))               |
+|                                                       |                                                                   |
+| ----------------------------------------------------- | ----------------------------------------------------------------- |
+| Kenric Nelson                                         | [Photrek](https://photrek.world/)                                 |
+| Steph Macurdy                                         | [Wolfram Blockchain Labs](https://www.wolframblockchainlabs.com/) |
+| Stephen Whitenstall                                   | [QADAO](https://quality-assurance-dao.github.io/)                 |
+| Aharon Porath                                         | Consenz                                                           |
+| Thorsten Pottebaum                                    | adanamics ([linktree](https://linktr.ee/adanamics))               |
+| [cryptotexty@gmail.com](mailto:cryptotexty@gmail.com) |                                                                   |
 
 ### Apologies
 
