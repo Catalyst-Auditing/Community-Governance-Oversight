@@ -32,9 +32,11 @@ coverY: 0
 |                 |                  |
 | --------------- | ---------------- |
 | Dr A. Fisher    | Community Review |
+| Bruno Valverde  | Community Review |
+| Jack Briggs     | Community Review |
+| Nori            | Community Review |
 | Simon Sailstrom | Community Review |
-| Bruno Valverde  |                  |
-| Nori            |                  |
+|                 |                  |
 
 
 
