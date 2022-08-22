@@ -9,8 +9,8 @@
 | Stephen Whitenstall | [QADAO](https://quality-assurance-dao.github.io/)                 |
 | Aharon Porath       | Consenz                                                           |
 | Thorsten Pottebaum  | adanamics ([linktree](https://linktr.ee/adanamics))               |
-| cryptotexty         |                                                                   |
-| Harry Hellyer       |                                                                   |
+| cryptotexty         | Community Review                                                  |
+| Harry Hellyer       | Community Review                                                  |
 
 ### Apologies
 
