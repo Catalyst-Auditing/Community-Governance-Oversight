@@ -14,8 +14,6 @@ coverY: 0
 | Stephen Whitenstall | [QADAO](https://quality-assurance-dao.github.io/)                 |
 | Aharon Porath       | Consenz                                                           |
 | Thorsten Pottebaum  | adanamics ([linktree](https://linktr.ee/adanamics))               |
-|                     |                                                                   |
-|                     |                                                                   |
 
 ### Community Reviewers
 
