@@ -23,10 +23,9 @@ coverY: 0
 
 ### Apologies
 
-|               |                                             |
-| ------------- | ------------------------------------------- |
-| Aharon Porath | Consenz                                     |
-| Philip Lazos  | [IOG](https://iohk.io/jp/team/philip-lazos) |
+|              |                                             |
+| ------------ | ------------------------------------------- |
+| Philip Lazos | [IOG](https://iohk.io/jp/team/philip-lazos) |
 
 ## Information
 
