@@ -7,14 +7,15 @@
 | Kenric Nelson       | [Photrek](https://photrek.world/)                                 |
 | Steph Macurdy       | [Wolfram Blockchain Labs](https://www.wolframblockchainlabs.com/) |
 | Stephen Whitenstall | [QADAO](https://quality-assurance-dao.github.io/)                 |
+| Aharon Porath       | Consenz                                                           |
+| Thorsten Pottebaum  | adanamics ([linktree](https://linktr.ee/adanamics))               |
 
 ### Apologies
 
-|                    |                                                     |
-| ------------------ | --------------------------------------------------- |
-| Aharon Porath      | Consenz                                             |
-| Philip Lazos       | [IOG](https://iohk.io/jp/team/philip-lazos)         |
-| Thorsten Pottebaum | adanamics ([linktree](https://linktr.ee/adanamics)) |
+|               |                                             |
+| ------------- | ------------------------------------------- |
+| Aharon Porath | Consenz                                     |
+| Philip Lazos  | [IOG](https://iohk.io/jp/team/philip-lazos) |
 
 ## Information
 
@@ -47,4 +48,3 @@ Brief Updates/Notices from each participant - All
 {% endhint %}
 
 Stephen Whitenstall - 00:02
-
