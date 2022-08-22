@@ -82,3 +82,5 @@ Brief Updates/Notices from each participant - All
 Stephen Whitenstall - 00:02
 
 And we usually have a brief update from each participant. So maybe we can just as a few of us here, just a sentence or two.
+
+I am Stephen Whitenstall of QADAO. I am part of the Community Governance Oversight proposal which includes this dRep Working Group.
