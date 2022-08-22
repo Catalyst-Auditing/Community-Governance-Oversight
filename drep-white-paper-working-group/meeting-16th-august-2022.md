@@ -23,9 +23,10 @@ coverY: 0
 
 |               |                  |
 | ------------- | ---------------- |
+| Chris Keller  | Community Review |
 | cryptotexty   | Community Review |
 | Harry Hellyer | Community Review |
-|               |                  |
+| Jack Briggs   | Community Review |
 
 #### Participating
 
@@ -33,7 +34,7 @@ coverY: 0
 | --------------- | ---------------- |
 | Dr A. Fisher    | Community Review |
 | Bruno Valverde  | Community Review |
-| Jack Briggs     | Community Review |
+| Cliffon         | Community Review |
 | Nori            | Community Review |
 | Simon Sailstrom | Community Review |
 |                 |                  |
