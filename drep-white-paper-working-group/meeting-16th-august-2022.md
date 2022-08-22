@@ -71,6 +71,8 @@ Documentation funded by [Fund 7 - QA-DAO Transcription Service](https://cardano.
 
 ## Welcome
 
+Stephen Whitenstall - [00:02](https://www.youtube.com/watch?v=Zyq0BKlsD1I\&t=2s)
+
 You can refer to this Agenda as a record of who attended and a summary of the content of our meeting.
 
 We usually have a 45 minute recorded session and then have an informal unrecorded session afterwards. There's references here for the documentation.&#x20;
