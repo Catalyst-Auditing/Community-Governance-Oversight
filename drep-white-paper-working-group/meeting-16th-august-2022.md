@@ -69,12 +69,18 @@ Documentation funded by [Fund 7 - QA-DAO Transcription Service](https://cardano.
 
 ## Agenda
 
-## Brief Updates
+## Welcome
 
-[00:02](https://youtu.be/vXErKcmM-iE?t=2)
+You can refer to this Agenda as a record of who attended and a summary of the content of our meeting.
+
+We usually have a 45 minute recorded session and then have an informal unrecorded session afterwards. There's references here for the documentation.&#x20;
+
+## Brief Updates
 
 {% hint style="info" %}
 Brief Updates/Notices from each participant - All
 {% endhint %}
 
 Stephen Whitenstall - 00:02
+
+And we usually have a brief update from each participant. So maybe we can just as a few of us here, just a sentence or two.
