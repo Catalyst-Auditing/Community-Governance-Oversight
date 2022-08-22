@@ -1,5 +1,7 @@
 ---
 description: Meeting 3 - Fund 8 - dRep White Paper Working Group Meeting
+cover: ../.gitbook/assets/Screenshot from 2022-08-15 20-37-36.png
+coverY: 0
 ---
 
 # Meeting - 19th July 2022
@@ -284,8 +286,6 @@ I added some notes to the White paper. On \[..] calculating a Banzhof power inde
 We're limited by the available data. Some is available by request, some is not available, because we are not privy to which wallet is voting for which proposal
 
 From my side of things, Kenric and I are troubleshooting the working definition we have in the Wolfram language.
-
-
 
 The author Seth Chandler, who does not work for Wolfram \[but] is a kind of a friend of the company, has a slightly different definition of the Banzhaf power index. \[Consequently] we were not expecting some of the results that we were getting.
 

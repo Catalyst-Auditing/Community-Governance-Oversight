@@ -1,5 +1,7 @@
 ---
 description: Meeting 4 - Fund 8 - dRep White Paper Working Group Meeting
+cover: ../.gitbook/assets/Screenshot from 2022-08-15 20-37-36.png
+coverY: 0
 ---
 
 # Meeting - 2nd August 2022
