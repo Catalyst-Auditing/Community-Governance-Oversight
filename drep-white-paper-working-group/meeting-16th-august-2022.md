@@ -89,3 +89,9 @@ I am Stephen Whitenstall of QADAO. I am part of the Community Governance Oversig
 
 I'm Kendric, I lead a company called Photrek and I am really thrilled to be working with Steve and the team as part of oversight of governance and this dRep paper. It's really coming together. Thanks everyone for joining us today.
 
+#### Andrii Volostyn - 03:00
+
+Hello, everyone. I'm Andre. I'm in Catalyst from Fund one.&#x20;
+
+And actually, proposal a CCA be witty. And also because I'm interested in blockchain governance, and in governance in general. So I submitted an application to be direct. And two weeks ago on the after townhall, there was a group on this, so I left quite many comments in that white paper. And thanks for inviting me. I think that's it.
+
