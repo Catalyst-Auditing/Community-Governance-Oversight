@@ -14,12 +14,16 @@ coverY: 0
 | Stephen Whitenstall | [QADAO](https://quality-assurance-dao.github.io/)                 |
 | Aharon Porath       | Consenz                                                           |
 | Thorsten Pottebaum  | adanamics ([linktree](https://linktr.ee/adanamics))               |
-| cryptotexty         | Community Review                                                  |
-| Harry Hellyer       | Community Review                                                  |
+|                     |                                                                   |
+|                     |                                                                   |
 
 ### Community Reviewers
 
-
+|               |                  |
+| ------------- | ---------------- |
+| cryptotexty   | Community Review |
+| Harry Hellyer | Community Review |
+|               |                  |
 
 ### Apologies
 
