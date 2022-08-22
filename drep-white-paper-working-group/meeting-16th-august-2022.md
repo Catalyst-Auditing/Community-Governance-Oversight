@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/Screenshot from 2022-08-15 20-37-36.png
+coverY: 0
+---
+
 # Meeting -16th August 2022
 
 ## Attendees
