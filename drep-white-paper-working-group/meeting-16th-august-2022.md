@@ -17,7 +17,7 @@ coverY: 0
 
 ### Community Reviewers
 
-| At meeting    |                  |
+|               |                  |
 | ------------- | ---------------- |
 | cryptotexty   | Community Review |
 | Harry Hellyer | Community Review |
