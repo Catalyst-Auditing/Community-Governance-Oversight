@@ -29,11 +29,11 @@ coverY: 0
 
 #### Participating
 
-|           |   |
-| --------- | - |
-| Dr Fisher |   |
-|           |   |
-|           |   |
+|                 |                  |
+| --------------- | ---------------- |
+| Dr A. Fisher    | Community Review |
+| Simon Sailstrom | Community Review |
+| Bruno Valverde  |                  |
 
 
 
