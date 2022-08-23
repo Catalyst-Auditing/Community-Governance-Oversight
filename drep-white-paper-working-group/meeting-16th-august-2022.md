@@ -102,3 +102,7 @@ I'm Jack. I work for IOG and I'm part of the team that are rolling out delegatio
 #### Steph Macready - 03:49
 
 Hello, I'm Steph. I work at Wolfram Blockchain Labs, which is a subsidiary of Wolfram Research. I am part of writing this white paper focused on the measuring the influence of voter power using the Banzhaf Power Index .
+
+#### Aharon Porath - 04:23&#x20;
+
+I'm Aharon, the founder of Consenz,  a platform we're building for documenting decision making processes in a decentralised manner. We have been funded by the Catalyst project and we are also writing together with Kenric a chapter in the white paper for providing clear consensus and communication for governance.
