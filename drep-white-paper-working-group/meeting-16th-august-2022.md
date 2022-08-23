@@ -94,3 +94,7 @@ I'm Kenric, I lead a company called Photrek and I am really thrilled to be worki
 Hello, everyone. I'm Andre. I'm in Catalyst from Fund one.&#x20;
 
 I have been a proposer, a CA and a vCA. I'm interested in blockchain governance, and in governance in general. So I submitted an application to be a dRep. And two weeks ago on the After Townhall there was a group on this. So I left  many comments in that white paper. Thanks for inviting me.&#x20;
+
+#### Jack Briggs - 03:46
+
+I'm Jack. I work for IOG and I'm part of the team that are rolling out delegation, dReps and many other things for governance.&#x20;
