@@ -1,5 +1,7 @@
 # F7 - CGO Project Final Report
 
+{% embed url="https://youtu.be/-Vw3N4WLKL0" %}
+
 ## Working Method
 
 The overall CGO Project Final Report is managed from this GitHub Issue
