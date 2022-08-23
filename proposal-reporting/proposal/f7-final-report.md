@@ -2,6 +2,8 @@
 
 ## Brief Overview
 
+On 17th August 2022, Community Governance Oversight presented its Fund 7 Final Report at the [Catalyst Town Hall](https://youtu.be/4GMkGz333I0?t=390).
+
 {% embed url="https://youtu.be/-Vw3N4WLKL0" %}
 
 ## Full Presentation
