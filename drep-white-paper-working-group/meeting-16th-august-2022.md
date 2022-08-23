@@ -87,7 +87,7 @@ I am Stephen Whitenstall of QADAO. I am part of the Community Governance Oversig
 
 #### Kenric Nelson - 02:34
 
-I'm Kendric, I lead a company called Photrek and I am really thrilled to be working with Steve and the team as part of oversight of governance and this dRep paper. It's really coming together. Thanks everyone for joining us today.
+I'm Kenric, I lead a company called Photrek and I am really thrilled to be working with Steve and the team as part of oversight of governance and this dRep paper. It's really coming together. Thanks everyone for joining us today.
 
 #### Andrii Volostyn - 03:00
 
