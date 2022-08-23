@@ -16,6 +16,12 @@ On 17th August 2022, Community Governance Oversight presented its Fund 7 Final R
 
 {% embed url="https://docs.google.com/presentation/d/1ruOAgLCbqPZa0Z0Y2CAP8xnwtLIR1OQMQocoDllHe2c/edit?usp=sharing" %}
 
+## Final Report
+
+[Link](https://docs.google.com/document/d/1jkkgbmU\_tEVM9CgmlW1MSWJTRnaZdFURU6f02TfptkU/edit?usp=sharing)
+
+{% embed url="https://docs.google.com/document/d/1jkkgbmU_tEVM9CgmlW1MSWJTRnaZdFURU6f02TfptkU/edit?usp=sharing" %}
+
 ## Working Method
 
 The overall CGO Project Final Report is managed from this GitHub Issue
