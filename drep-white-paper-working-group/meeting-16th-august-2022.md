@@ -93,5 +93,4 @@ I'm Kendric, I lead a company called Photrek and I am really thrilled to be work
 
 Hello, everyone. I'm Andre. I'm in Catalyst from Fund one.&#x20;
 
-I have been a proposer, a CA and a vCA. I'm interested in blockchain governance, and in governance in general. So I submitted an application to be direct. And two weeks ago on the after townhall, there was a group on this, so I left quite many comments in that white paper. And thanks for inviting me. I think that's it.
-
+I have been a proposer, a CA and a vCA. I'm interested in blockchain governance, and in governance in general. So I submitted an application to be a dRep. And two weeks ago on the After Townhall there was a group on this. So I left  many comments in that white paper. Thanks for inviting me.&#x20;
