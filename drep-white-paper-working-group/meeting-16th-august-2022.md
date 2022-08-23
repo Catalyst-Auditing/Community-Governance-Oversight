@@ -98,3 +98,7 @@ I have been a proposer, a CA and a vCA. I'm interested in blockchain governance,
 #### Jack Briggs - 03:46
 
 I'm Jack. I work for IOG and I'm part of the team that are rolling out delegation, dReps and many other things for governance.&#x20;
+
+#### Steph Macready - 03:49
+
+Hello, I'm Steph. I work at Wolfram Blockchain Labs, which is a subsidiary of Wolfram Research. I am part of writing this white paper focused on the measuring the influence of voter power using the Banzhaf Power Index .
