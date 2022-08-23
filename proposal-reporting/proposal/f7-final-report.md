@@ -8,6 +8,12 @@
 
 {% embed url="https://youtu.be/vB-s9xgBf9w" %}
 
+## Slides
+
+[Slides link](https://docs.google.com/presentation/d/1ruOAgLCbqPZa0Z0Y2CAP8xnwtLIR1OQMQocoDllHe2c/edit?usp=sharing)
+
+{% embed url="https://docs.google.com/presentation/d/1ruOAgLCbqPZa0Z0Y2CAP8xnwtLIR1OQMQocoDllHe2c/edit?usp=sharing" %}
+
 ## Working Method
 
 The overall CGO Project Final Report is managed from this GitHub Issue
