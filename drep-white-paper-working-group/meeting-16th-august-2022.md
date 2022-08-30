@@ -111,6 +111,4 @@ I'm Aharon, the founder of Consenz,  a platform we're building for documenting d
 
 My name is Harry Hillier. I run a coaching consultancy firm called edify with a set of partners. And then we run Edified co Labs.&#x20;
 
-We work with a lot of technology firm and Corporates
-
-, that mainly these days, it's mid tier firms. So what's my value in this conversation? It will be to come at it, perhaps more from a business point of view, as opposed to a technical point of view. So rather than it being an objective perspective, it will be a business dev strategy dev ops dev perspective. If that's abuse, that's fine. And if it's not, then I won't need to say anything.
+We work with a lot of technology firm, corporates and mid tier firms. So what's my value in this conversation? It will be to come at it more from a business point of view as opposed to a technical point of view. So rather than it being an objective perspective, it will be a business development strategy.
