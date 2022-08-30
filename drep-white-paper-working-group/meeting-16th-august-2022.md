@@ -139,5 +139,15 @@ In that presentation there will be a reference to the predecessor of this workin
 See [https://quality-assurance-dao.gitbook.io/community-governance-oversight/proposal-reporting/proposal/f7-final-report](https://quality-assurance-dao.gitbook.io/community-governance-oversight/proposal-reporting/proposal/f7-final-report)
 {% endhint %}
 
+#### Kenric Nelson - 08:30
+
+Looking at the calendar the team had made a request to not hold as many meetings during August, but I wanted to kind of press forward. So we did have two meetings this month, but I'm going to suggest that the meeting for the 30th August 2022 be cancelled or postponed.
+
+I'm going to make a recommendation that rather than waiting a full month that we meet on 1800 UTC, September 6th 2022 as our next meeting for this group.
+
+{% hint style="info" %}
+**Next meeting :** 1800 UTC, Tuesday, September 6th, 2022
+{% endhint %}
+
 
 
