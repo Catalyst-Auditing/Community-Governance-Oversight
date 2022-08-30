@@ -127,9 +127,15 @@ Hi, Stephen, good to see you. Again. I am here in support of QA DAO, the Challen
 
 We received the final payment from CGO Treasury for this project. And I've also forwarded a payment for Thorston for his work this month on being the co-editor. Later in the month we'll make final decisions with regard to rewards for the reviewers.
 
+## Project Planning Update
 
+#### Stephen Whitenstall - updates - 07:44
 
+On the project planning side, I'll just refer to the previous Fund 7 CGO proposal which we have now done a closing report and we will be doing a presentation at Town Hall tomorrow.\
+\
+In that presentation there will be a reference to the predecessor of this working group, which was a DAO literature review. Then this project will be referred to as the successor of that. So watch out for that in the After Townhall tomorrow.&#x20;
 
+And if I now hand it over to you, Kenric to talk about community review as a white paper. Perhaps you would like to share the white paper?
 
 
 
