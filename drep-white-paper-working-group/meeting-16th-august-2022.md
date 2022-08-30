@@ -116,3 +116,7 @@ We work with a lot of technology firm, corporates and mid tier firms. So what's 
 #### Thorsten Pottebaum - 05:52
 
 Hello I am Thorsten. I am a Co-Editor. Some of you may have meet me already in the After Town Hall.
+
+#### Chris Keller - 06:28
+
+Hi, Stephen, good to see you. Again. I am here in support of QA DAO, the Challenge teams and the Circle and all pieces of Catalyst. I'm here pleasantly absorbing the dRep conversation and maybe won't be adding today I'm burdened with kids. But here for all the work you guys are doing with us.
