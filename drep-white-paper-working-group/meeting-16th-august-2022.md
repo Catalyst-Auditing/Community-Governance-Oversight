@@ -171,7 +171,7 @@ So we have a whole group of authors but the authors are only responsible for the
 
 The editors are putting together an introduction.&#x20;
 
-And Philip Lazos is putting together kind of a literature review on delegated representation.
+And Philip Lazos is putting together a literature review on delegated representation.
 
 
 
