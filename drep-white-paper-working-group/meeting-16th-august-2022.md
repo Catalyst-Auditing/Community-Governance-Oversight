@@ -139,5 +139,5 @@ In that presentation there will be a reference to the predecessor of this workin
 See [https://quality-assurance-dao.gitbook.io/community-governance-oversight/proposal-reporting/proposal/f7-final-report](https://quality-assurance-dao.gitbook.io/community-governance-oversight/proposal-reporting/proposal/f7-final-report)
 {% endhint %}
 
-And if I now hand it over to you, Kenric to talk about community review as a white paper. Perhaps you would like to share the white paper?
+
 
