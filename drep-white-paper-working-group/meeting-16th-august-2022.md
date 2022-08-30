@@ -112,3 +112,7 @@ I'm Aharon, the founder of Consenz,  a platform we're building for documenting d
 My name is Harry Hillier. I run a coaching consultancy firm called edify with a set of partners. And then we run Edified co Labs.&#x20;
 
 We work with a lot of technology firm, corporates and mid tier firms. So what's my value in this conversation? It will be to come at it more from a business point of view as opposed to a technical point of view. So rather than it being an objective perspective, it will be a business development strategy.
+
+#### Thorsten Pottebaum - 05:52
+
+Hello I am Thorsten. I am a Co-Editor. Some of you may have meet me already in the After Town Hall.
