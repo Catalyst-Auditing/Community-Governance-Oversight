@@ -149,5 +149,8 @@ I'm going to make a recommendation that rather than waiting a full month that we
 **Next meeting :** 1800 UTC, Tuesday, September 6th, 2022
 {% endhint %}
 
+Looking at the month of September my recommendation is the 6th September 2022 include this whole team with the reviewers again. And then the 20th September 2022 be just the author's. And that's when we're going to finalise everything.&#x20;
 
-
+{% hint style="info" %}
+**Authors/Editors meeting :** 20th September 2022
+{% endhint %}
