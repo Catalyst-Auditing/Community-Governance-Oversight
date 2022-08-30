@@ -106,3 +106,9 @@ Hello, I'm Steph. I work at Wolfram Blockchain Labs, which is a subsidiary of Wo
 #### Aharon Porath - 04:23&#x20;
 
 I'm Aharon, the founder of Consenz,  a platform we're building for documenting decision making processes in a decentralised manner. We have been funded by the Catalyst project and we are also writing together with Kenric a chapter in the white paper for providing clear consensus and communication for governance.
+
+#### Harry Hellyer - 05:05
+
+My name is Harry Hillier. I run a coaching consultancy firm called edify with a set of partners. And then we run Edified co Labs.&#x20;
+
+And we come at it. We work with a lot of technology firm to work with a lot of big corporates, that mainly these days, it's mid tier firms. So what's my value in this conversation? It will be to come at it, perhaps more from a business point of view, as opposed to a technical point of view. So rather than it being an objective perspective, it will be a business dev strategy dev ops dev perspective. If that's abuse, that's fine. And if it's not, then I won't need to say anything.
