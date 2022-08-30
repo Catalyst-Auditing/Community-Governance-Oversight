@@ -158,3 +158,10 @@ Looking at the month of September my recommendation is the 6th September 2022 in
 If anyone wants to make input into the review of the dRep white paper they should be doing it this week. So can \[Thorsten] get on Catalyst social media, and provide a link to the white paper and let people know that. You know, they should make their input this week, if they want to contribute to the review.&#x20;
 
 Maybe the 14th of September 2022 might be a good time to do another after town hall discussion before we release the paper ?
+
+
+
+## Community Review of dRep White Paper
+
+#### Kenric Nelson - 14:16
+
