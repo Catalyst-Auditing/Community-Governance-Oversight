@@ -175,7 +175,7 @@ Philip Lazos is putting together a literature review on delegated representation
 
 Steph Macready is going into more depth on the analytical side of how you measure power in delegated systems.&#x20;
 
-Finally, we'll conclude with Aharon who's applying governance to the process of consensus in writing a document.&#x20;
+Finally, we'll conclude with Aharon Porath who's applying governance to the process of consensus in writing a document.&#x20;
 
 
 
