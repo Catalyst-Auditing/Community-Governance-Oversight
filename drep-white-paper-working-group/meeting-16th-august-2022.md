@@ -120,3 +120,18 @@ Hello I am Thorsten. I am a Co-Editor. Some of you may have meet me already in t
 #### Chris Keller - 06:28
 
 Hi, Stephen, good to see you. Again. I am here in support of QA DAO, the Challenge teams and the Circle and all pieces of Catalyst. I'm here pleasantly absorbing the dRep conversation and maybe won't be adding today I'm burdened with kids. But here for all the work you guys are doing with us.
+
+## Research Budget
+
+#### Kenric Nelson - updates - 06:50
+
+We received the final payment from CGO Treasury for this project. And I've also forwarded a payment for Thorston for his work this month on being the co-editor. Later in the month we'll make final decisions with regard to rewards for the reviewers.
+
+
+
+
+
+
+
+
+
