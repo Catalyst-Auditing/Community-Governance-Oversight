@@ -177,6 +177,19 @@ Steph Macready is going into more depth on the analytical side of how you measur
 
 Finally, we'll conclude with Aharon Porath who's applying governance to the process of consensus in writing a document.&#x20;
 
+### Forming consensus in governance documentation
+
+#### Aharon Porath, Omer Tzuk, Kenric Nelson
+
+#### Kenric Nelson - 17:32
+
 To make sure that we're also giving time and depth to Aaron's work, I'd like to start with that today.
 
 Andrew Fisher is not is not apparently able to join us today. But he did a really deep dive and was quite helpful. Have you had a chance to look at his comments, Aaron?
+
+#### Aharon Porath
+
+Yeah and I implemented some changes and edited some sections according to the comments that have been added to the document.
+
+
+
