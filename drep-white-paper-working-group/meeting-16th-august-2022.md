@@ -3,7 +3,7 @@ cover: ../.gitbook/assets/Screenshot from 2022-08-15 20-37-36 (1).png
 coverY: 0
 ---
 
-# Meeting -16th August 2022
+# Meeting - 16th August 2022
 
 ## Attendees
 
@@ -213,8 +213,12 @@ I did know in the past of this application but haven't checked it for a long tim
 
 Later on we'll make a comparison to other apps aiming for the same goal. I'm not sure that if if it should be in the scope of this specific paper, I doubt it actually.&#x20;
 
+Three of us are already gathering citation sand references for previous works on consensus and voting on on creating documentation.&#x20;
+
+So we will find the ones that are relevant for this specific section edit \[to add] to the references of the document.
 
 
-Besides decided I can say oh, no, unfortunately, we have another tea
 
-m members that could not join today will be tomorrow, the three of us carry the teeth already gathering citation and references for a previous works on consensus remaking and voting on on creating documentation. So we will find the ones that are relevant for this specific section edit to the references of the document as soon as possible. I will just say if you haven't yet, I guess everybody here as well. But just to summarise, the idea is is to show is to widen the decision making processes. More than just voting to the creating of the guidelines and creating all the documentation that are needed for the cooperation of the community. This is what we offer. And in this in the context of liquid democracy and decentralised representatives, we are offering here some kind of versatile a voting processes of voting influence. And that can also combine can can suggest a liquid democracy for one kind of a decision. The great democracy or one person one vote for others, some kind of combination a 40 pounds a grip derived from a holding of the specific coins and also a quadratic voting and square root voting that also can be used on the same app, we can provide a different methods of decision making, that can be a playground for at least for a start to can be applied playground for us to explore an experience with different decision making processes from the greater the greater the democracy, the more representatives and and this can happen if the DERA main go main mission will be to vote on behalf of their delegators on proposal on the catalyst process. So consents can provide an ongoing voting on governance process that is between the voting the voting periods of the catalyst funding process. This is
+
+
+I will just say if you haven't yet, I guess everybody here as well. But just to summarise, the idea is is to show is to widen the decision making processes. More than just voting to the creating of the guidelines and creating all the documentation that are needed for the cooperation of the community. This is what we offer. And in this in the context of liquid democracy and decentralised representatives, we are offering here some kind of versatile a voting processes of voting influence. And that can also combine can can suggest a liquid democracy for one kind of a decision. The great democracy or one person one vote for others, some kind of combination a 40 pounds a grip derived from a holding of the specific coins and also a quadratic voting and square root voting that also can be used on the same app, we can provide a different methods of decision making, that can be a playground for at least for a start to can be applied playground for us to explore an experience with different decision making processes from the greater the greater the democracy, the more representatives and and this can happen if the DERA main go main mission will be to vote on behalf of their delegators on proposal on the catalyst process. So consents can provide an ongoing voting on governance process that is between the voting the voting periods of the catalyst funding process. This is
