@@ -197,6 +197,10 @@ The conclusion you are seeing now is after considering those comments.
 
 Once you feel like you've satisfied a comment it's good to have a reply so that the commenter can can understand what you did.&#x20;
 
+For instance, this comment \[...] "feels like you need a link between the last section in this one, it was initially unclear to me how this document creation ties back."  And then I said, "I've changed the order".
 
 
-And like, for instance, on this one, let me just read this comment. And then I think these two are tied with it. Yeah, so agree with. So he says, feels like you need a link between the last section in this one, it was initially unclear to me how this document creation ties back. And then I said, I've changed the order. So as far as linking it in your section, Aaron, what I would recommend is an opening sentence or two, describing that you're providing an application of governance in the ability for communities to develop documents together. I see. And you may already have satisfied that but that's what that's how I at some point, that's the way I would suggest you respond to this comment, and then you can leave a response and reply. And you've done that you can check it
+
+
+
+&#x20;So as far as linking it in your section, Aaron, what I would recommend is an opening sentence or two, describing that you're providing an application of governance in the ability for communities to develop documents together. I see. And you may already have satisfied that but that's what that's how I at some point, that's the way I would suggest you respond to this comment, and then you can leave a response and reply. And you've done that you can check it
