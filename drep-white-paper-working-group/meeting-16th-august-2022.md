@@ -259,12 +259,10 @@ The group I didn't see represented \[was the Catalyst proposer] ... the bit that
 
 And if I'm from the outside in, \[...] I'm not already working \[in Catalyst] as a \[full-time] job. And this is a side hustle.
 
-
-
 I'm actually going to take my resource and try and get it into a blockchain solution, and run that through Catalyst. \[...]. If I'm doing that, I need to understand that the process that I'm going to put my 50 to 100 hours of time into, can be a trusted process that works in terms of fairness and trust.
 
 And I haven't seen much of that description in this process.&#x20;
 
+It's not a failing, it just it's not covered. In a funny way, that goes back to \[the question of] what is Catalysts here for? If Catalyst is a brilliant incubation, innovation Hub, aimed at entrepreneurial developers, who are in or who may come to Catalyst. Fantastic. That's cool.&#x20;
 
-
-And it's not again, there's no judgement on it's not a failing, it just it's not covered. Now, in a funny way, that goes back to what is catalysts here for? So if catalyst is a brilliant incubation Innovation Hub, and it's aimed at entrepreneurial devs, who are in catalyst or may come in to catalyst. Fantastic. That's cool. If however, it's aimed at supporting businesses, innovation driven businesses, who are going to come into that ecosystem from the outside, then there's a different set of conversations that I don't feel a covered and as I say, Andrew, Andrew started. And then I think the second my second comment,
+If however, it's aimed at supporting innovation driven businesses who are going to come into that ecosystem from the outside, then there's a different set of conversations that I don't feel are covered.
