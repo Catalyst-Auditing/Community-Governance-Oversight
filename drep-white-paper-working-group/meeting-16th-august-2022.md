@@ -307,4 +307,8 @@ And to do that, we need to have good entry points into the paper. Not just a goo
 
 So Andrii if you can expand upon strategies for doing that on, that'd be much appreciated.&#x20;
 
-And I'm sure Harry, you know, from a business perspective, the relevance, there could be perhaps brought out a little bit more. What you were saying about trust reminds me of a discussion between the CEO of the economic foundation and the new dirts, open source, lead lead, we've had a conversation, they were talking about establishing trust, in terms of governance. So you know, so Governance Committee, given community governance is in maturing to such an extent that businesses can trusted. So
+I'm sure Harry, from a business perspective, the relevance there could be perhaps brought out a little bit more. What you were saying about trust reminds me of a recent discussion between the CEO of the Cardano Foundation (Fred Gregaard) and Dirk Hohndel (Chief Open Source Officer). They were talking about establishing trust, in terms of governance. So community governance can mature to such an extent to be trusted by businesses can trusted.&#x20;
+
+{% hint style="info" %}
+F[ireside chat with Fred Gregaard & Dirk Hohndel: Cardano Foundation Update / Open Source Discussio](https://youtu.be/IOo4pMuzTFk)n
+{% endhint %}
