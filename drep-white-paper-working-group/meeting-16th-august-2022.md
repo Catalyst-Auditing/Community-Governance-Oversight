@@ -266,3 +266,15 @@ And I haven't seen much of that description in this process.&#x20;
 It's not a failing, it just it's not covered. In a funny way, that goes back to \[the question of] what is Catalysts here for? If Catalyst is a brilliant incubation, innovation Hub, aimed at entrepreneurial developers, who are in or who may come to Catalyst. Fantastic. That's cool.&#x20;
 
 If however, it's aimed at supporting innovation driven businesses who are going to come into that ecosystem from the outside, then there's a different set of conversations that I don't feel are covered.
+
+#### Kenric Nelson - 28:30
+
+If you could pause there, because you covered quite a lot in that first comment and I'd like to have the group give some response because I think this is an important issue.&#x20;
+
+And it came up in our early discussions in the context of where in a voting process \[where] we need to be evaluating the quality of the input, which is the voting process itself, \[and] we also need to be evaluating the quality of the output, which is do you choose projects that actually contribute to the community's success ?&#x20;
+
+And I think you're right, at least for this white paper, we're not going to be covering that second issue (quality of the output ... choosing projects) as strongly.&#x20;
+
+It's mentioned a little bit in Philips section.&#x20;
+
+But that would be a great follow on. You know, for instance, Steph is doing a lot of work right now, about how we put the tools together to measure voting power. But it really comes down to how we develop an auditing process of, okay, the community selected this group of projects, what were the outcomes, and how does that compare with what the outcomes could have been? So, I don't know. comment further on that or someone else does, but I think this is
