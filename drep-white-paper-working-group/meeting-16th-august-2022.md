@@ -229,9 +229,18 @@ Consenz can provide an ongoing governance process that is between the voting per
 
 #### Stephen Whitenstall - 24:31
 
-It's a very much a document centred approach and that'ss the aspect that we're covering here for the white paper.
+It's a very much a document centered approach and that's the aspect that we're covering here for the white paper.
 
 #### Kenric Nelson - 24:46
 
 If anyone has read Aharon's section and wants to comment on it that would be helpful right now. And the other thing is some of the reviewers may still need kind of an introduction to what's expected of them. So if you have questions about the review process, you can ask those now. Let's start with the first question.&#x20;
 
+#### Harry Hellyer - 25:21
+
+Yes, I read through the sections.&#x20;
+
+And I think my comments on it are two or three different levels of contexts.&#x20;
+
+So as I said before, it depends where you want to go with it.
+
+&#x20;I liked I liked Aaron sections. And I liked Andres feedback on those sections. Because for me, the issue is, when I look at it, it comes down to what's the purpose of the paper? And what's the purpose of this way of voting. So my particular comments in though I think are a bit in line with Andres is it's brilliant. And I liked the explanation of things throughout the paper and for Aaron's, but I particularly liked the issue, though, is that perspective. So as you were saying about having a canonical description, who is the group that this is aimed at? And I can definitely see, it's aimed at people inside catalyst, who are taking an inside out view of the world. So looking for the inside to the outside, and they're thinking about being a D rep. Or they're a voter who has some power to delegate. And they're thinking about why should I engage in that system? That was all really well explained. And fantastic. The group I didn't see represented, particularly, and it may be that this is, you know, the this is the bit around. Why, why is capitalist here, I didn't see the bit that says, right, I'm a proposer, I'm going to put 50 hours worth of my team's time and effort into putting a proposal in. And I might, particularly if I'm from the outside in, so I'm not already working as a job. And this is a side hustle, I'm actually going to take my resource, try and get it into a blockchain solution, and run that through catalyst, because it's brilliant. If I'm doing that, I need to understand that the process that I'm going to put my 50 100 hours of time into, can be a trusted process that works in terms of fairness and trust, basically, and I haven't seen much of that description in this process. And it's not again, there's no judgement on it's not a failing, it just it's not covered. Now, in a funny way, that goes back to what is catalysts here for? So if catalyst is a brilliant incubation Innovation Hub, and it's aimed at entrepreneurial devs, who are in catalyst or may come in to catalyst. Fantastic. That's cool. If however, it's aimed at supporting businesses, innovation driven businesses, who are going to come into that ecosystem from the outside, then there's a different set of conversations that I don't feel a covered and as I say, Andrew, Andrew started. And then I think the second my second comment,
