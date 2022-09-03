@@ -296,3 +296,13 @@ I just think there needs to be more detail in some sections. Because, as I under
 #### Kenric Nelson - 31:13
 
 \[...] we can beef up the introduction, which is intended to kind of give background for the reader. Andre, feel free to expand upon what you've written in the paper.
+
+#### Stephen Whitenstall - 31:41
+
+Picking up on \[Andrii's point], there's a potential, an opportunity, to appeal to a much wider audience in the blockchain world.&#x20;
+
+And to do that, we need to have good entry points into the paper. Not just a good summary, we can think about little precis introductions, entry points into different sections.
+
+So Andrii if you can expand upon strategies for doing that on, that'd be much appreciated.&#x20;
+
+And I'm sure Harry, you know, from a business perspective, the relevance, there could be perhaps brought out a little bit more. What you were saying about trust reminds me of a discussion between the CEO of the economic foundation and the new dirts, open source, lead lead, we've had a conversation, they were talking about establishing trust, in terms of governance. So you know, so Governance Committee, given community governance is in maturing to such an extent that businesses can trusted. So
