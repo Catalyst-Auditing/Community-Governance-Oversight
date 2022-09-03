@@ -231,5 +231,7 @@ Consenz can provide an ongoing governance process that is between the voting per
 
 It's a very much a document centred approach and that'ss the aspect that we're covering here for the white paper.
 
+#### Kenric Nelson - 24:46
 
+If anyone has read Aharon's section and wants to comment on it that would be helpful right now. And the other thing is some of the reviewers may still need kind of an introduction to what's expected of them. So if you have questions about the review process, you can ask those now. Let's start with the first question.&#x20;
 
