@@ -237,6 +237,8 @@ If anyone has read Aharon's section and wants to comment on it that would be hel
 
 #### Harry Hellyer - 25:21
 
+#### Summary :  The perspective looking from the inside out versus looking from the outside in (as a proposer).
+
 Yes, I read through the sections.&#x20;
 
 And I think my comments on it are two or three different levels of contexts.&#x20;
@@ -269,6 +271,8 @@ If however, it's aimed at supporting innovation driven businesses who are going 
 
 #### Kenric Nelson - 28:30
 
+#### Summary : How to evalute quality of decision outputs and compare them with alternative outcomes ?
+
 If you could pause there, because you covered quite a lot in that first comment and I'd like to have the group give some response because I think this is an important issue.&#x20;
 
 And it came up in our early discussions in the context of where in a voting process \[where] we need to be evaluating the quality of the input, which is the voting process itself, \[and] we also need to be evaluating the quality of the output, which is do you choose projects that actually contribute to the community's success ?&#x20;
@@ -282,3 +286,9 @@ But that would be a great follow on.&#x20;
 For instance, Steph \[Macready] is doing a lot of work right now, about how we put the tools together to measure voting power.
 
 But it really comes down to how we develop an auditing process. \[In respect] of, the community selected this group of projects, what were the outcomes, and how does that compare with what the outcomes could have been ?&#x20;
+
+#### Andrii Volostyn - 30:06
+
+I actually left also some comments and suggestions at the end of the paper, so I won't repeat them.&#x20;
+
+I just think there needs to be more detail in some sections. Because, as I understand, the white paper will be read by many people outside of the Cardano ecosystem. So \[while] we here understand, and probably \[have] had more conversations on this \[...],there are still some basics like who will delegate \[which we should] even repeat, because some people might read who are not yet registered on IdeaScale.&#x20;
