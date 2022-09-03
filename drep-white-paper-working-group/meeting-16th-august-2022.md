@@ -277,4 +277,8 @@ And I think you're right, at least for this white paper, we're not going to be c
 
 It's mentioned a little bit in Philips section.&#x20;
 
-But that would be a great follow on. You know, for instance, Steph is doing a lot of work right now, about how we put the tools together to measure voting power. But it really comes down to how we develop an auditing process of, okay, the community selected this group of projects, what were the outcomes, and how does that compare with what the outcomes could have been? So, I don't know. comment further on that or someone else does, but I think this is
+But that would be a great follow on.&#x20;
+
+For instance, Steph \[Macready] is doing a lot of work right now, about how we put the tools together to measure voting power.
+
+But it really comes down to how we develop an auditing process. \[In respect] of, the community selected this group of projects, what were the outcomes, and how does that compare with what the outcomes could have been ?&#x20;
