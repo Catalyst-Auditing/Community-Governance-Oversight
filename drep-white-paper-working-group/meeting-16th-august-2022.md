@@ -219,8 +219,10 @@ So we will find the ones that are relevant for this specific section edit \[to a
 
 To summarize, the idea is to widen the decision making processes. More than just voting. To create the guidelines and the documentation that are needed for the cooperation of the community. This is what we offer.&#x20;
 
-In the context of liquid democracy and decentralized representation, we are offering some \[versality in] voting processes or voting influence.
+In the context of liquid democracy and decentralized representation, we are offering some \[versatility in] voting processes or voting influence.
 
-That can combine liquid democracy for one kind of a decision and direct democracy (or one person one vote) for other kinds.
+That can combine liquid democracy for one decision, direct democracy (or one person one vote) for another decision, some of combination derived from holding of specific coins and also a quadratic voting and square root voting.
 
-, some kind of combination a 40 pounds a grip derived from a holding of the specific coins and also a quadratic voting and square root voting that also can be used on the same app, we can provide a different methods of decision making, that can be a playground for at least for a start to can be applied playground for us to explore an experience with different decision making processes from the greater the greater the democracy, the more representatives and and this can happen if the DERA main go main mission will be to vote on behalf of their delegators on proposal on the catalyst process. So consents can provide an ongoing voting on governance process that is between the voting the voting periods of the catalyst funding process. This is
+On the same application we can provide a different methods of decision making, that can be a playground for us to explore and experience different decision making processes.
+
+Consenz can provide an ongoing governance process that is between the voting periods of the catalyst funding process.
