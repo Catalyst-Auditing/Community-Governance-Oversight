@@ -289,6 +289,8 @@ But it really comes down to how we develop an auditing process. \[In respect] of
 
 #### Andrii Volostyn - 30:06
 
+#### Summary : Introductions and explanations for new readers
+
 I actually left also some comments and suggestions at the end of the paper, so I won't repeat them.&#x20;
 
 I just think there needs to be more detail in some sections. Because, as I understand, the white paper will be read by many people outside of the Cardano ecosystem. So \[while] we here understand, and probably \[have] had more conversations on this \[...],there are still some basics like who will delegate \[which we should] even repeat, because some people might read who are not yet registered on IdeaScale.&#x20;
