@@ -226,3 +226,10 @@ That can combine liquid democracy for one decision, direct democracy (or one per
 On the same application we can provide a different methods of decision making, that can be a playground for us to explore and experience different decision making processes.
 
 Consenz can provide an ongoing governance process that is between the voting periods of the catalyst funding process.
+
+#### Stephen Whitenstall - 24:31
+
+It's a very much a document centred approach and that'ss the aspect that we're covering here for the white paper.
+
+
+
