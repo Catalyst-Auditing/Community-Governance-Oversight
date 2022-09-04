@@ -362,3 +362,13 @@ My impression is \[...] that your aspect of the paper is bringing out the more c
 I appreciate Aaron giving an overview of your section, and the input from Harry and others.
 
 In the interest of time, I want to go now to Steph's section. Steph, if you could give a very quick synopsis of what your section is about. And talk about the feedback that you've worked through so far. And then we'll open it up to the rest of the group to comment on your section.
+
+#### Steph Macurdy - 38:53
+
+We want to define and demonstrate what the Banzhaf power index is so that anybody not familiar with governance, can understand what it is.
+
+{% hint style="info" %}
+[Banzhaf power index](https://en.wikipedia.org/wiki/Banzhaf\_power\_index) - Wikipedia
+{% endhint %}
+
+&#x20;And I think that's already some of the feedback that I've seen in the comments was this needs to be understandable from anyone's perspective, because it could go outside of catalyst specifically. And then, how do you tailor the measurement of the band's off index to catalysts, specifically, when dealing with 10s, of 1000s, of wallets, and limited data about how voters voted, and to detail some of those limitations, and then maybe find a way to simplify and work around that to demonstrate how we could move forward based on where we're at, I think is the few steps summer Read what that is. Yeah, that's
