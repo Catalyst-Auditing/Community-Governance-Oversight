@@ -446,3 +446,7 @@ And then compare those deciles with how much power they have. So \[...] abstract
 In this simple example we did there's only three voters (IOG, Cardano Foundation and Emurgo) and we were able to do that on a website that \[calculates] this index. But that website can only handle up to six voters.
 
 \[But] now Steph will be able to 12 different \[wealth] cohorts within the Catalyst community and do a comparison of how much voting power each of those cohorts has as a group.
+
+#### Aharon Porath - 50:45
+
+So the purpose here, unlike previous work on quadratic voting is not to provide insight about Catalyst voting but to show how we can use the Banshaf Index to measure \[the power] influence of the Delegated Representatives implemented in the process ?
