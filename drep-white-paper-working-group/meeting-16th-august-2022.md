@@ -427,3 +427,7 @@ What we've planned is to kind of do a Banzhaf Power Index based on treating each
 
 Steph \[...]  you referred to the possibility of use and infographics in the final paper. I've been doing some whiteboard animation explainer videos, for example, on the Voltaire Principles. And I've been trying to look at the content of the last meeting to see could this be explained in a minute? In a whiteboard video? Could it be explained by better use of infographics?&#x20;
 
+#### Steph Macready - 48:47
+
+Yeah, I could definitely use the compelling visualizations for sure.
+
