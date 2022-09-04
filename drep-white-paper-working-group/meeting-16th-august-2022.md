@@ -459,6 +459,8 @@ What Wolfram brings to this now is actually a working algorithm that can carry o
 
 ### Closing Remarks
 
+#### Kenric Nelson - 51:53
+
 \[Returning to an overview of the paper ... ]  the introduction is going to give the scope of Cardano and this transition to delegated representatives. And then there'll be another paragraph added, that will be like an abstract of each of the other sections.&#x20;
 
 Phillip \[Lazos] has done a literature review on liquid democracy and how it's been used in other places. So \[that] gives an excellent context for what the potential positive gains are from using this kind of method, \[as well as] what the potential vulnerabilities are.
