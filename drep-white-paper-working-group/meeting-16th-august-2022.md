@@ -440,3 +440,9 @@ Yeah, I could definitely use the compelling visualizations for sure.
 The thought is to broadly take the whole spectrum of voters and the wealth of those voter wallets, which we have some data on, and break them into deciles.
 
 And then compare those deciles with how much power they have. So \[...] abstracting away the 10,000 wallets that would make up one wealth cohort. We're just making that one coalition, and we're doing that 10 times.
+
+#### Kenric Nelson - 50:01
+
+In this simple example we did there's only three voters (IOG, Cardano Foundation and Emurgo) and we were able to do that on a website that \[calculates] this index. But that website can only handle up to six voters.
+
+\[But] now Steph will be able to 12 different \[wealth] cohorts within the Catalyst community and do a comparison of how much voting power each of those cohorts has as a group.
