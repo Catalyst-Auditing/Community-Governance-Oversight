@@ -371,4 +371,6 @@ We want to define and demonstrate what the Banzhaf power index is so that anybod
 [Banzhaf power index](https://en.wikipedia.org/wiki/Banzhaf\_power\_index) - Wikipedia
 {% endhint %}
 
-&#x20;And I think that's already some of the feedback that I've seen in the comments was this needs to be understandable from anyone's perspective, because it could go outside of catalyst specifically. And then, how do you tailor the measurement of the band's off index to catalysts, specifically, when dealing with 10s, of 1000s, of wallets, and limited data about how voters voted, and to detail some of those limitations, and then maybe find a way to simplify and work around that to demonstrate how we could move forward based on where we're at, I think is the few steps summer Read what that is. Yeah, that's
+And \[this is reflected] already some of the feedback that I've seen in the comments. \[That] this needs to be understandable from anyone's perspective. Because it could go outside of Catalyst specifically.&#x20;
+
+And then, how do you tailor the measurement of the band's off index to catalysts, specifically, when dealing with 10s, of 1000s, of wallets, and limited data about how voters voted, and to detail some of those limitations, and then maybe find a way to simplify and work around that to demonstrate how we could move forward based on where we're at, I think is the few steps summer Read what that is. Yeah, that's
