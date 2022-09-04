@@ -408,3 +408,17 @@ Let's open it up to the group. Who's read this section? And what further comment
 \[A small comment is] that I think maybe \[some other] example \[of the application of the Banshaf Index] could be chosen. Because readers might be confused by the Cardano governance example, that IOG has three \[genesis keys], Cardano Foundation and Emurgo \[have less]. But in Catalyst, these companies and entities don't have the same power. Like in these examples, so this could onfuse a reader \[who might] think that IOG, Cardano foundation and Emurgo have influence and voting power in Catalyst.&#x20;
 
 I think maybe it's possible to run some tests or to take some proposal\[s], which was voted and see how many wallets voted. And try to prognose a "What if" with d-Reps.&#x20;
+
+#### Kenric Nelson - 45:07
+
+There's three things that we're trying to work through in this section are three examples that are important.&#x20;
+
+This first example, as you've just said, is not the Catalyst process \[...] but it is part of the Cardano system. It's a beautiful example to introduce the Banshaf Power Index because it's so simple, and simple examples are important. from an educational point of view.&#x20;
+
+One of the challenging things about this section is to try to \[communicate] what this Banshaf Index Power is and why it's important. That \[is what the] first example is intended to do.&#x20;
+
+I think what needs to be strengthened, but we haven't been able to do it \[yet] because we didn't have all the tools in place, but we're getting closer now, is a second example that is directly related to Catalyst.&#x20;
+
+Now, as Steph just described, our first step there is just going to be a preliminary step, because the computational complexities of trying to do this for 50,000 votes is too much. We don't have the ability to do it completely for every voter.&#x20;
+
+What we've planned is to kind of do a Banzhaf Power Index based on treating each wealth cohort, as a single or maybe two wallets. To show \[some] flavour of this kind of analysis applied to the Catalyst programme. \[...] And that that may be will satisfy what Andrii is describing in our last meeting.
