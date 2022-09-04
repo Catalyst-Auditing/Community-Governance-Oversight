@@ -466,3 +466,9 @@ Phillip \[Lazos] has done a literature review on liquid democracy and how it's b
 #### Stephen Whitenstall - 53:47
 
 For those who are new, if you look at the meeting documentation \[for [19th July 2022](https://quality-assurance-dao.gitbook.io/community-governance-oversight/drep-white-paper-working-group/meeting-19th-july-2022#docs-internal-guid-9f80fe74-7fff-67a0-e68e-ff9a3a64c4a9)] Phillip \[Lazos] went over his paper in quite a lot of detail. And we took a lot of notes of what he said. \[In short] it's resolving a controversy in the background literature which creates a negative picture of liquid democracy. But Phillip suggests that this is not quite accurate in terms of the evidence that's its based upon. So Philip is arguing that new data and more recent research into liquid democracy tells a different kind of story.
+
+### Next Meeting
+
+{% hint style="info" %}
+1800 UTC, Tuesday, 6th September 2022
+{% endhint %}
