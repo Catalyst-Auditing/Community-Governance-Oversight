@@ -434,3 +434,9 @@ Yeah, I could definitely use the compelling visualizations for sure.
 #### Aharon Porath - 48:57
 
 \[with reference to wealth cohorts] you're planning to take some specific wallet with the greatest holding and compare them using the Banshaf Index with other voters?
+
+#### Steph Macready - 49:25
+
+The thought is to broadly take the whole spectrum of voters and the wealth of those voter wallets, which we have some data on, and break them into deciles.
+
+And then compare those deciles with how much power they have. So \[...] abstracting away the 10,000 wallets that would make up one wealth cohort. We're just making that one coalition, and we're doing that 10 times.
