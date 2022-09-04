@@ -351,8 +351,6 @@ Yeah, actually, \[I am] a little bit out of focus about the scope of the convers
 
 My impression is \[...] that your aspect of the paper is bringing out the more community documentation side. You're broadening the scope \[...] to trust issues. This is the context Harry is picking up on ? \[Addressing] how we can evolve the maturity of our governance to such an extent that it establishes greater trust for community management of the Cardano blockchain.&#x20;
 
-
-
 ### Measuring Voting Power in a Delegated Representative Process
 
 #### Steph Macurdy, Jesus Hernandez, Seth Chandler, Kenric Nelson
@@ -382,4 +380,14 @@ Have you had a chance to read through the comments that had been provided so far
 #### Steph Macurdy - 40:07
 
 I can see some \[comments] are grammatical, some help define things that we take for granted like what does the abbreviation for IOHK or CF (Cardano Foundation) stand for.
+
+There's a point from Andrew that commented that if you have the data on what the combinatorial math of the 32,000 wallets is. That's not something that I just have. But I do think it's very useful.
+
+Yesterday I met with Seth and he was able to fix a bug in the original paper that he had referenced. So now our very simple example works.
+
+#### Kenric Nelson - 41:17
+
+I just sent you the link for the data from Catalyst Fund 4 and 5. So we can now get your algorithm working. \[Now] we should be able to do this simple example of measuring the voting power as it's distributed by the wealth cohorts for Fund 5.&#x20;
+
+I think that will be an excellent contribution to this white paper and gives us a nice path forward to \[address] the challenges of developing the delegated representation system.
 
