@@ -353,5 +353,12 @@ My impression is \[...] that your aspect of the paper is bringing out the more c
 
 
 
+### Measuring Voting Power in a Delegated Representative Process
 
+#### Steph Macurdy, Jesus Hernandez, Seth Chandler, Kenric Nelson
 
+#### Kenric Nelson - 38:08
+
+I appreciate Aaron giving an overview of your section, and the input from Harry and others.
+
+In the interest of time, I want to go now to Steph's section. Steph, if you could give a very quick synopsis of what your section is about. And talk about the feedback that you've worked through so far. And then we'll open it up to the rest of the group to comment on your section.
