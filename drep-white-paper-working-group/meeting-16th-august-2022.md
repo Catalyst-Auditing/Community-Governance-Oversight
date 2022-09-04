@@ -402,3 +402,6 @@ But I don't think it really says anything about Catalyst specifically because ea
 As we've discussed, there's simplifications we have to make in order to make some initial analysis, and then there's a path towards doing more sophisticated calculations.&#x20;
 
 Let's open it up to the group. Who's read this section? And what further comments do you have about it?&#x20;
+
+#### Andrii Volostyn - 43:31
+
