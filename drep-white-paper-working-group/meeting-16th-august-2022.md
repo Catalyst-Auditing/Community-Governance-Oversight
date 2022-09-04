@@ -321,9 +321,15 @@ The first \[point] from my perspective, it's just about positioning.&#x20;
 
 \[In the] case of your paper. If you're not going to talk about the set of constituents who are your customers, for the voting, then that's fine. Just say, this looks at technical, at d-Reps, at ADA holders, \[...] that we're not really looking at the business side of it ...]
 
-Because if the scope bleeds (expnads) \[...] if it isn't box tight enough, particularly when you're into such detail \[...] they will say Yeah, well, this doesn't work for me.&#x20;
+Because if the scope bleeds (expands) \[...] if it isn't box tight enough, particularly when you're into such detail \[...] they will say Yeah, well, this doesn't work for me.&#x20;
+
+The second point was, building on what Stephen and Andre said, is the positioning of this. It's got several different levels. It starts with the team, then it builds out to the Catalyst community, then it builds out to Cardano and its associated entities. And then it builds out to blockchain. And then it builds out to people who want to invest.
+
+Now, \[...] this was my point, where I agreed with Andre, this paper is the kernel of how Cardano can show its value to all the organizations out there.
+
+\[...]
+
+This will be part of the major value add that Cardano is ahead of the curve because the values, beliefs, behaviours, ethos that Catalyst has set up.&#x20;
 
 
-
-Now, again, you'll know the examples because the trusting is really important, but it's when when when do we need to worry about me as a proposer? Should I go for this or not? The second point was, as I say, building on what you've, you've just said, Steven and Andre, which is, for me, again, the positioning of this it's got several different levels. It starts with the team, then it builds out to the catalyst community, then it builds out to Kadar know, and its associated entities. And then it builds out to blockchain. And then it builds out to people who want to invest. Now, the point here is, and this was my point, where I agreed with Andre, this paper is the kernel of how caderno can show its value to all the organisations out there not just businesses, but also the value of blockchain. And it's what you said, Stephen, it's that what's going to be different? Is that whole liability and all the scary stuff around governance. And so that bit, get your head around the fact that when you're writing this, the big version of this is what Cardano will take to whoever they're going to UN or a government or whoever. This will be part of the major value add that caderno has panties ahead of the curve off because it's all By the values, beliefs, behaviours, ethos of caderno catalyst is set up. And for me, that's a major positioning there. Again, you don't have to do it now, but set it as a kernel so that that will flow out.
 
