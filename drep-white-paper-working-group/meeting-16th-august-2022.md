@@ -343,6 +343,10 @@ Our mission has been to ask, how can we help the community be more aware about w
 
 Maybe you would like to respond to some of these comments Aharon ?
 
+#### Aharon Porath - 36:53
+
+Yeah, actually, \[I am] a little bit out of focus about the scope of the conversation. Are we talking about the whole Catalyst process or the d-Reps introduction ?
+
 
 
 
