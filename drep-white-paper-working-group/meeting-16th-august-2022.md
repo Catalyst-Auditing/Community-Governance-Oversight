@@ -374,3 +374,12 @@ We want to define and demonstrate what the Banzhaf power index is so that anybod
 And \[this is reflected] already some of the feedback that I've seen in the comments. \[That] this needs to be understandable from anyone's perspective. Because it could go outside of Catalyst specifically.&#x20;
 
 How do you tailor the measurement of the Banzhaf Power index to Catalysts, specifically, when dealing with 10s of 1000s of wallets with limited data about how voters voted. To detail some of these limitations and then find a way to simplify and work around these issues.
+
+#### Kenric Nelson - 40:01
+
+Have you had a chance to read through the comments that had been provided so far?
+
+#### Steph Macurdy - 40:07
+
+I can see some \[comments] are grammatical, some help define things that we take for granted like what does the abbreviation for IOHK or CF (Cardano Foundation) stand for.
+
