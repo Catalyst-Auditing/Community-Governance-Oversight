@@ -347,7 +347,9 @@ Maybe you would like to respond to some of these comments Aharon ?
 
 Yeah, actually, \[I am] a little bit out of focus about the scope of the conversation. Are we talking about the whole Catalyst process or the d-Reps introduction ?
 
+#### Stephen Whitenstall - 37:18
 
+My impression is \[...] that your aspect of the paper is bringing out the more community documentation side. You're broadening the scope \[...] to trust issues. This is the context Harry is picking up on ? \[Addressing] how we can evolve the maturity of our governance to such an extent that it establishes greater trust for community management of the Cardano blockchain.&#x20;
 
 
 
