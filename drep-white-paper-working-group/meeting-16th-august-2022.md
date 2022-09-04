@@ -421,4 +421,9 @@ I think what needs to be strengthened, but we haven't been able to do it \[yet] 
 
 Now, as Steph just described, our first step there is just going to be a preliminary step, because the computational complexities of trying to do this for 50,000 votes is too much. We don't have the ability to do it completely for every voter.&#x20;
 
-What we've planned is to kind of do a Banzhaf Power Index based on treating each wealth cohort, as a single or maybe two wallets. To show \[some] flavour of this kind of analysis applied to the Catalyst programme. \[...] And that that may be will satisfy what Andrii is describing in our last meeting.
+What we've planned is to kind of do a Banzhaf Power Index based on treating each wealth cohort, as a single or maybe two wallets. To show \[some] flavor of this kind of analysis applied to the Catalyst programme. \[...] And that that may be will satisfy what Andrii is describing in our last meeting.
+
+#### Stephen Whitenstall - 47:19
+
+Steph \[...]  you referred to the possibility of use and infographics in the final paper. I've been doing some whiteboard animation explainer videos, for example, on the Voltaire Principles. And I've been trying to look at the content of the last meeting to see could this be explained in a minute? In a whiteboard video? Could it be explained by better use of infographics?&#x20;
+
