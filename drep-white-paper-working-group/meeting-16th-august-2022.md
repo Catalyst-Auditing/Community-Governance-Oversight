@@ -396,3 +396,9 @@ I think that will be an excellent contribution to this white paper and gives us 
 I think it is useful in that it's points in the direction of \[what we] ultimately want to explain.&#x20;
 
 But I don't think it really says anything about Catalyst specifically because each proposal has voted in a particular place. \[While] a wealth cohort abstracts into 10 \[which] doesn't really say anything about who voted for a particular proposal.
+
+#### Kenric Nelson - 43:00
+
+As we've discussed, there's simplifications we have to make in order to make some initial analysis, and then there's a path towards doing more sophisticated calculations.&#x20;
+
+Let's open it up to the group. Who's read this section? And what further comments do you have about it?&#x20;
