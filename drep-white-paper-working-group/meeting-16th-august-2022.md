@@ -457,7 +457,14 @@ My \[Photrek] team carried out that research and we were working towards \[demon
 
 What Wolfram brings to this now is actually a working algorithm that can carry out the calculation. I's not an easy calculation to do. Steph and his colleagues are bringing to the table the ability to do the calculation.
 
+### Closing Remarks
+
 \[Returning to an overview of the paper ... ]  the introduction is going to give the scope of Cardano and this transition to delegated representatives. And then there'll be another paragraph added, that will be like an abstract of each of the other sections.&#x20;
 
 Phillip \[Lazos] has done a literature review on liquid democracy and how it's been used in other places. So \[that] gives an excellent context for what the potential positive gains are from using this kind of method, \[as well as] what the potential vulnerabilities are.
 
+#### Stephen Whitenstall - 53:47
+
+For those who are new, if you look at the meeting documentation \[for&#x20;
+
+, not a lot. I'll try and find a link for actually I've put it in chat. There was documentation from a few weeks ago, probably about four weeks ago, actually, where Phillip actually went over his paper in quite a lot of detail. And we took a lot of notes of what he said. And it's resolving, particularly a controversy in the background literature, where the background literature, in summary, creates a negative picture of liquid democracy. But Phillip, but that is kind of a miss not kind of a misrepresentation, but not quite accurate in terms of the evidence that's based upon. And so Philip is arguing that new data and new ways of looking at liquid democracy suggest that there's more recent research is telling a different kinds of story. But I'll try five Lincoln post, same chat.
