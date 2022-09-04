@@ -391,3 +391,8 @@ I just sent you the link for the data from Catalyst Fund 4 and 5. So we can now 
 
 I think that will be an excellent contribution to this white paper and gives us a nice path forward to \[address] the challenges of developing the delegated representation system.
 
+#### Steph Macurdy - 42:17
+
+I think it is useful in that it's points in the direction of \[what we] ultimately want to explain.&#x20;
+
+But I don't think it really says anything about Catalyst specifically because each proposal has voted in a particular place. \[While] a wealth cohort abstracts into 10 \[which] doesn't really say anything about who voted for a particular proposal.
