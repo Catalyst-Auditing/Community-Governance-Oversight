@@ -339,6 +339,12 @@ That's not really our mission here.&#x20;
 
 Our mission has been to ask, how can we help the community be more aware about what's at play in moving to a delegated representation system? What's potential positive outcomes of that? What's potential negative outcomes of that? And how can we put tools in place that are going to help the community actually oversee this process and make sure that it has integrity ?
 
+#### Stephen Whitenstall - 36:40
+
+Maybe you would like to respond to some of these comments Aharon ?
+
+
+
 
 
 
