@@ -431,3 +431,6 @@ Steph \[...]  you referred to the possibility of use and infographics in the fin
 
 Yeah, I could definitely use the compelling visualizations for sure.
 
+#### Aharon Porath - 48:57
+
+\[with reference to wealth cohorts] you're planning to take some specific wallet with the greatest holding and compare them using the Banshaf Index with other voters?
