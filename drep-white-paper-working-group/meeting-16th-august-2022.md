@@ -450,3 +450,14 @@ In this simple example we did there's only three voters (IOG, Cardano Foundation
 #### Aharon Porath - 50:45
 
 So the purpose here, unlike previous work on quadratic voting is not to provide insight about Catalyst voting but to show how we can use the Banshaf Index to measure \[the power] influence of the Delegated Representatives implemented in the process ?
+
+#### Kenric Nelson - 51:09
+
+My \[Photrek] team carried out that research and we were working towards \[demonstrating] the importance of the Banszhaf Power Index. However, within the scope of that project, we were not able to complete the calculation.
+
+What Wolfram brings to this now is actually a working algorithm that can carry out the calculation. I's not an easy calculation to do. Steph and his colleagues are bringing to the table the ability to do the calculation.
+
+\[Returning to an overview of the paper ... ]  the introduction is going to give the scope of Cardano and this transition to delegated representatives. And then there'll be another paragraph added, that will be like an abstract of each of the other sections.&#x20;
+
+Phillip \[Lazos] has done a literature review on liquid democracy and how it's been used in other places. So \[that] gives an excellent context for what the potential positive gains are from using this kind of method, \[as well as] what the potential vulnerabilities are.
+
