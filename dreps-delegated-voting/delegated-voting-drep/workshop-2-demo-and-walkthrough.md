@@ -4,13 +4,13 @@ description: Demo and walkthrough of how registration and voting/delegating work
 
 # Workshop 2 - Demo and walkthrough
 
-Demo and walkthrough of how registration and voting/delegating works
-
 ## Slides
 
 [Link to slides](https://docs.google.com/presentation/d/1ZMTSlV17ScfCuDqBgHleKWmhtYn9VIiwQdm7OjUbvCo/edit?usp=sharing)
 
 {% embed url="https://docs.google.com/presentation/d/1ZMTSlV17ScfCuDqBgHleKWmhtYn9VIiwQdm7OjUbvCo/edit?usp=sharing" %}
+
+Note: Session B (the second session) was the more definitive of the two sessions delivered, and so is shown first.
 
 ## Session B <a href="#session-a" id="session-a"></a>
 
@@ -18,7 +18,7 @@ Thursday 8th September 2022, 17:00 UTC
 
 ### Video
 
-coming soon
+{% embed url="https://youtu.be/b7nXUBXCZoA" %}
 
 ### Presentation part 1: registering as a dRep
 
