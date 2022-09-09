@@ -98,7 +98,7 @@ __**Answer:** In the first iteration, it will definitely NOT be possible to over
 ### **More Questions from Chat**
 
 **33:48 Henry Wang:** What's the timeline for approving the applications \[to be a dRep]?\
-**Answer:** We're targeting voting for Fund 10, so  there will have to be an earlier onboarding, to allow time for dReps to be listed and get delegation ahead of the vote for Fund 10. <mark style="color:red;">**\[Note: answer is unclear]**</mark>
+**Answer:** We're targeting voting for Fund 10, so  there will have to be an earlier onboarding, to allow time for dReps to be listed and get delegation ahead of the vote for Fund 10.&#x20;
 
 **34:34 Alejandro Gelves Gelves:** Are the rewards for individuals the same whether they delegate or choose to vote individually?\
 **Answer:** The rewards will be the same; but your voting power will have greater influence if you delegate. Your voice is heard louder if you delegate.
