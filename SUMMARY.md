@@ -21,6 +21,7 @@
     * [Chat Session A](dreps-delegated-voting/delegated-voting-drep/workshop-1/chat-session-a.md)
     * [Chat Session B](dreps-delegated-voting/delegated-voting-drep/workshop-1/chat-session-b.md)
   * [Workshop 2 - Demo and walkthrough](dreps-delegated-voting/delegated-voting-drep/workshop-2-demo-and-walkthrough.md)
+  * [Session A- Morning dRep Workshop](dreps-delegated-voting/delegated-voting-drep/session-a-morning-drep-workshop.md)
 
 ***
 
