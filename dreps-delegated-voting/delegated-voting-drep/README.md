@@ -22,6 +22,6 @@ description: Introduction to the Delegated Voting Experiment - dReps
 [workshop-1.md](workshop-1.md)
 {% endcontent-ref %}
 
-{% content-ref url="workshop-2-demo-and-walkthrough/" %}
-[workshop-2-demo-and-walkthrough](workshop-2-demo-and-walkthrough/)
+{% content-ref url="workshop-2-demo-and-walkthrough.md" %}
+[workshop-2-demo-and-walkthrough.md](workshop-2-demo-and-walkthrough.md)
 {% endcontent-ref %}
