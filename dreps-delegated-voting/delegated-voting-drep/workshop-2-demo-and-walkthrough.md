@@ -251,8 +251,6 @@ A dRep cannot have more than 1% voting power; it’s a safeguard to prevent powe
 **1:28:38** Wrap-up and closing remarks\
 Recording ends: **1:30:26**
 
-### &#x20;
-
 ## Session A
 
 Thursday8th September 09:00 UTC
