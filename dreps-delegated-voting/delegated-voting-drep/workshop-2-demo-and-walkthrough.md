@@ -264,7 +264,11 @@ See https://quality-assurance-dao.gitbook.io/community-governance-oversight/drep
 
 0:00 - Preamble&#x20;
 
-04:17 - Slide Presentation - Jack Briggs&#x20;
+### Presentation
+
+#### 04:17 - Slide Presentation - Jack Briggs&#x20;
+
+
 
 05:17 - Welcome to another experiment&#x20;
 
