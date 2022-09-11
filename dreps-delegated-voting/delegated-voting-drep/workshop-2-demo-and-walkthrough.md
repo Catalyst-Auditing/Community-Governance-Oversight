@@ -302,7 +302,9 @@ See https://quality-assurance-dao.gitbook.io/community-governance-oversight/drep
 
 <figure><img src="../../.gitbook/assets/Slides-09.png" alt=""><figcaption></figcaption></figure>
 
-12:21 - Vote as an expert&#x20;
+#### 12:21 - Vote as an expert&#x20;
+
+<figure><img src="../../.gitbook/assets/Slides-10.png" alt=""><figcaption></figcaption></figure>
 
 12:52 - Basic Information&#x20;
 
