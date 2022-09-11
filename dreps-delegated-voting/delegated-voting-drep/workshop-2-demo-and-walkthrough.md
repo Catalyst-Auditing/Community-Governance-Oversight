@@ -74,7 +74,7 @@ __**Answer:** In the first iteration, it will definitely not be possible to over
 **Answer:** Yes, this is Catalyst-specific.
 
 **24:21 Nori Nishigaya: Will there be support for SPOs and using the command line for delegating their voting power?**\
-**Answer:** There is some tooling required on this, so it may not be possible for the MVP, but we are working on it.&#x20;
+**Answer:** There is some tooling required on this, so it may not be possible for the MVP; but we are working with Martin from ATADA on it.&#x20;
 
 **25:29 several commenters: Will there be an opportunity to set custom tags in your dRep profile?**\
 **Answer:** Not at launch, but maybe in the future.\
