@@ -1,8 +1,8 @@
 ---
-description: Demo and walkthrough of how registration and voting/delegating works
+description: Demo and walkthrough of how dRep registration and voting/delegating works
 ---
 
-# Workshop 2 - Demo and walkthrough
+# Workshop 2 - dRep Demo and walkthrough
 
 ## Slides
 
