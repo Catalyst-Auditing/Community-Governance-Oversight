@@ -259,3 +259,133 @@ Recording ends: **1:30:26**
 Thursday8th September 09:00 UTC
 
 ### Video
+
+See https://quality-assurance-dao.gitbook.io/community-governance-oversight/dreps-delegated-voting/delegated-voting-drep/workshop-2-demo-and-walkthrough for full summary and slides.
+
+0:00 - Preamble&#x20;
+
+04:17 - Slide Presentation - Jack Briggs&#x20;
+
+05:17 - Welcome to another experiment&#x20;
+
+05:49 - Things may break&#x20;
+
+06:05 - Agenda&#x20;
+
+06:38 - Recap&#x20;
+
+08:34 - What is Liquid Democracy ?&#x20;
+
+09:09 - Why Delegation and dReps ?&#x20;
+
+10:36 - dRep Registration - Abhiroop Sharma&#x20;
+
+11:27 - Voting Center&#x20;
+
+12:21 - Vote as an expert&#x20;
+
+12:52 - Basic Information&#x20;
+
+13:47 - Profile&#x20;
+
+14:19 - Expertise / Interests&#x20;
+
+14:53 - Socials&#x20;
+
+15:27 - Privacy&#x20;
+
+15:50 - Submit Application
+
+16:34 - Question - What does it mean for a wallet address to remain fixed ?&#x20;
+
+17:21 - Question - Is the right to be forgotten universal ?&#x20;
+
+17:51 - Question - Will this be Open Source ? Can others create an alternative front end ?&#x20;
+
+18:31 - Question - Does the address become a public metric - so everyone will know how much ADA is in my wallet ?
+
+20:13 - GVC - Governance Voting Center acronym&#x20;
+
+20:51 - dRep Dashboard&#x20;
+
+21:49 - The new voting center&#x20;
+
+21:55 - Delegate your voting power to dReps&#x20;
+
+22:28 - Experts helping to grow Cardano&#x20;
+
+22:54 - List of dReps
+
+23:06 - Question - Will delegators to a dRep remain anonymous ?&#x20;
+
+23:51 - Question - Elaborate on anonymous&#x20;
+
+23:54 - Question - As a dRep can I identify the wallets that are delegating to me ?&#x20;
+
+24:09 - Question - Would the dRep be exposed to any regulatory issues around KYC (knowing your customer) regarding the wallets that are delegating.&#x20;
+
+25:26 - Question - As a dRep should I make a new QR code ?&#x20;
+
+26:28 - Question - If I use the same wallet that I have been using (for voting) I don't have to re-register ?&#x20;
+
+26:54 - Question - I thought this was going to be part of Lace ?&#x20;
+
+27:56 - Question - How easy will it be for a group to handle a dRep account ?&#x20;
+
+29:07 - Question - Is there a section in the GVC (Governance Voting Center) for users to skip the dRep delegation ?&#x20;
+
+30:07 - Question - I read somewhere that future dReps had to vote in Fund 8 in order to actually become dReps ?&#x20;
+
+31:12 - Question - At that point (after proof of life) you can still create a new wallet&#x20;
+
+31:21 - Question - So we would have to identify our wallets as part of that proof of life ?&#x20;
+
+31:55 - Question - Do we have any rating for each dRep after each Funding round ?&#x20;
+
+32:47 - Question - Currently Stakepool Operators (SPOs) have a special process to register themselves in the Catalyst Voting App using the CLI voting tools. Will a SPO be able to connect with their pledge so it counts towards voting ?&#x20;
+
+34:13 - Question - How public will Proof of Life data be and does it comply with all the Right to be Forgotten legislation ?
+
+36:26 - An individual dRep profile&#x20;
+
+37:04 - Voting delegation&#x20;
+
+37:34 - Add another dRep&#x20;
+
+38:13 - Your voting power has been delegated&#x20;
+
+38:38 - Summary
+
+41:37 - Question - What if a dRep votes at random without understanding what the proposal is about ?&#x20;
+
+42:39 - Question - Is there any public testing ground for dReps ?&#x20;
+
+43:51 - Question - Does the GVC (Voting Center) link the wallet address of every delegator to the profile they create on the GVC ? So if the delegator uses their real name does that mean they are doxxing their wallet addess ?&#x20;
+
+44:49 - Question - Could we have a private dRep, in the sense it isn't shown on the list ? For example I may want my family to delegate to me but I do not want others to do so. 46:11 - Question - But there is a Cap right ?&#x20;
+
+47:46 - Delegation snapshot and limits&#x20;
+
+50:24 - Question - Is a fee charged to delegators every time they set or change a dRep in the voting center ?&#x20;
+
+51:50 - Question - Could you elaborate on what is the minimum amount of delegated ADA that a dRep needs to have to be active ?&#x20;
+
+53:21 - Question - When is the total delegated stake number calculated ? At what point in the process ?&#x20;
+
+53:37 - Question - Could you clarify the difference between staked ADA and delegated ADA ?&#x20;
+
+54:42 - Question - What voting stake is determined at the time of this snapshot ?&#x20;
+
+55:19 - Question - Timing - when is the total delegated vote stake calculated ?&#x20;
+
+56:12 - Question - Saturation concept - Saturation is based on voting stake or delegated stake ?&#x20;
+
+57:12 - Question - This effects more the voter delegating to you ?&#x20;
+
+58:28 - Question - Lets say I am a dRep, I have a pretty average group of delegators and I am well below saturation.&#x20;
+
+1:01:49 - Question - 1 Billion voting stake. As a dRep your stake is maxed at 1% what levels will you need ?&#x20;
+
+1:04:18 - Question - So these levels would enforce a cap on the number of dReps ?&#x20;
+
+1:06:38 - Question - The voting rationale is not the main aspect ?
