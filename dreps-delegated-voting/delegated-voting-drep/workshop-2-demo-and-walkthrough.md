@@ -278,7 +278,9 @@ See https://quality-assurance-dao.gitbook.io/community-governance-oversight/drep
 
 <figure><img src="../../.gitbook/assets/Slide-03.png" alt=""><figcaption></figcaption></figure>
 
-06:05 - Agenda&#x20;
+#### 06:05 - Agenda&#x20;
+
+
 
 06:38 - Recap&#x20;
 
