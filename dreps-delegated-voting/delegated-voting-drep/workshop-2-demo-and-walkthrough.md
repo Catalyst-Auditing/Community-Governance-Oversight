@@ -286,7 +286,9 @@ See https://quality-assurance-dao.gitbook.io/community-governance-oversight/drep
 
 <figure><img src="../../.gitbook/assets/Slide-05.png" alt=""><figcaption></figcaption></figure>
 
-08:34 - What is Liquid Democracy ?&#x20;
+#### 08:34 - What is Liquid Democracy ?&#x20;
+
+<figure><img src="../../.gitbook/assets/Slide-06.png" alt=""><figcaption></figcaption></figure>
 
 09:09 - Why Delegation and dReps ?&#x20;
 
