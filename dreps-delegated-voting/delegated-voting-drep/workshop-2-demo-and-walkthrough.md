@@ -268,11 +268,15 @@ See https://quality-assurance-dao.gitbook.io/community-governance-oversight/drep
 
 #### 04:17 - Slide Presentation - Jack Briggs&#x20;
 
+<figure><img src="../../.gitbook/assets/Slides-01.png" alt=""><figcaption></figcaption></figure>
 
+#### 05:17 - Welcome to another experiment&#x20;
 
-05:17 - Welcome to another experiment&#x20;
+<figure><img src="../../.gitbook/assets/Slide-02.png" alt=""><figcaption></figcaption></figure>
 
-05:49 - Things may break&#x20;
+#### 05:49 - Things may break&#x20;
+
+<figure><img src="../../.gitbook/assets/Slide-03.png" alt=""><figcaption></figcaption></figure>
 
 06:05 - Agenda&#x20;
 
