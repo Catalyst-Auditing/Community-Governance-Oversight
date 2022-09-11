@@ -294,7 +294,9 @@ See https://quality-assurance-dao.gitbook.io/community-governance-oversight/drep
 
 <figure><img src="../../.gitbook/assets/Slide-07.png" alt=""><figcaption></figcaption></figure>
 
-10:36 - dRep Registration - Abhiroop Sharma&#x20;
+#### 10:36 - dRep Registration - Abhiroop Sharma&#x20;
+
+<figure><img src="../../.gitbook/assets/Slides-08.png" alt=""><figcaption></figcaption></figure>
 
 11:27 - Voting Center&#x20;
 
