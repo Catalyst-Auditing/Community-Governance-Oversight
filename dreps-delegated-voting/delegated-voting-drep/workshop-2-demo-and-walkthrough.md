@@ -290,7 +290,9 @@ See https://quality-assurance-dao.gitbook.io/community-governance-oversight/drep
 
 <figure><img src="../../.gitbook/assets/Slide-06.png" alt=""><figcaption></figcaption></figure>
 
-09:09 - Why Delegation and dReps ?&#x20;
+#### 09:09 - Why Delegation and dReps ?&#x20;
+
+<figure><img src="../../.gitbook/assets/Slide-07.png" alt=""><figcaption></figcaption></figure>
 
 10:36 - dRep Registration - Abhiroop Sharma&#x20;
 
