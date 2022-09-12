@@ -620,4 +620,6 @@ Basically, they'd have to be in the top 150 To be eligible to get rewarded. And 
 
 #### 1:06:38 - Question - The voting rationale is not the main aspect ?
 
-Answer -
+For example, you are a dRep as long as people delegate enough to you ?
+
+Answer - Jack Briggs - I think you're a dRep \[whether] you have one delegation or 1000s. You're \[still] involved in that way in the ecosystem.
