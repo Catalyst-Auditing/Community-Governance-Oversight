@@ -306,7 +306,9 @@ See https://quality-assurance-dao.gitbook.io/community-governance-oversight/drep
 
 <figure><img src="../../.gitbook/assets/Slides-10.png" alt=""><figcaption></figcaption></figure>
 
-12:52 - Basic Information&#x20;
+#### 12:52 - Basic Information&#x20;
+
+<figure><img src="../../.gitbook/assets/Slides-11.png" alt=""><figcaption></figcaption></figure>
 
 13:47 - Profile&#x20;
 
