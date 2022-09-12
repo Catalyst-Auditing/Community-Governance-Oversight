@@ -10,7 +10,9 @@ description: Demo and walkthrough of how dRep registration and voting/delegating
 
 {% embed url="https://docs.google.com/presentation/d/1ZMTSlV17ScfCuDqBgHleKWmhtYn9VIiwQdm7OjUbvCo/edit?usp=sharing" %}
 
-Note: Session B (the second session) was the more definitive of the two sessions delivered, and so is shown first.
+{% hint style="info" %}
+**Note**: Session B (the second session) was the more definitive of the two sessions delivered, and so is shown first.
+{% endhint %}
 
 ## Session B <a href="#session-a" id="session-a"></a>
 
