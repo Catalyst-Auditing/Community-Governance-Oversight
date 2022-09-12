@@ -426,7 +426,7 @@ Answer - Daniel Ribar - I think it's important to just realise that Catalyst is 
 
 #### 27:56 - Question - How easy will it be for a group to handle a dRep account ?
 
-Answer -
+Answer - Abhiroop Sharma - \[There is nothing] stopping two users from knowing the same wallet details. So you could, in theory, have multiple people share a wallet. But \[...] there's no facilitation as such, for the DAP, it's always just one connected wallet, regardless of how many humans are behind that wallet.
 
 #### 29:07 - Question - Is there a section in the GVC (Governance Voting Center) for users to skip the dRep delegation ?
 
