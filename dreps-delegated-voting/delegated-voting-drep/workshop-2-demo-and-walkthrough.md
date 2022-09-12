@@ -440,7 +440,9 @@ Answer -&#x20;
 
 Answer -&#x20;
 
-36:26 - An individual dRep profile&#x20;
+#### 36:26 - An individual dRep profile&#x20;
+
+<figure><img src="../../.gitbook/assets/Slides-22.png" alt=""><figcaption></figcaption></figure>
 
 37:04 - Voting delegation&#x20;
 
