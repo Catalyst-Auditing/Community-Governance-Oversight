@@ -262,7 +262,7 @@ Thursday 8th September 09:00 UTC
 
 ### Video
 
-See https://quality-assurance-dao.gitbook.io/community-governance-oversight/dreps-delegated-voting/delegated-voting-drep/workshop-2-demo-and-walkthrough for full summary and slides.
+{% embed url="https://youtu.be/bH1vqoyNGjM" %}
 
 0:00 - Preamble
 
