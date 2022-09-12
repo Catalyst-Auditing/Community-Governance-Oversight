@@ -346,7 +346,9 @@ Allison Fromm
 
 #### 17:21 - Question - Is the right to be forgotten universal ?&#x20;
 
-Answer -&#x20;
+Allison Fromm
+
+**Answer** - For public data? Yes. We obviously have to work through certain other edge cases and elements. And this is still MVP (minimum viable product), our first version. \[...] we will certainly be adding more features.
 
 #### 17:51 - Question - Will this be Open Source ? Can others create an alternative front end ?&#x20;
 
