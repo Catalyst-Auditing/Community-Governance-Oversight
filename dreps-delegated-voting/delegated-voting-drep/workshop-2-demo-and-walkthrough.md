@@ -310,7 +310,9 @@ See https://quality-assurance-dao.gitbook.io/community-governance-oversight/drep
 
 <figure><img src="../../.gitbook/assets/Slides-11.png" alt=""><figcaption></figcaption></figure>
 
-13:47 - Profile&#x20;
+#### 13:47 - Profile&#x20;
+
+<figure><img src="../../.gitbook/assets/Slides-12.png" alt=""><figcaption></figcaption></figure>
 
 14:19 - Expertise / Interests&#x20;
 
