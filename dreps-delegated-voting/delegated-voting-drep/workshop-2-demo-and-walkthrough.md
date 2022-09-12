@@ -352,11 +352,11 @@ Allison Fromm
 
 #### 17:51 - Question - Will this be Open Source ? Can others create an alternative front end ?&#x20;
 
-Answer - So to your second question, yes. We will be releasing open API documentation as well as package along with it where you should be able to build a similar voting centre experience. Whether or not the voting centre itself will be open sourced? I'm not sure.
+Answer - So to your second question, yes. We will be releasing open API documentation as well as package along with it where you should be able to build a similar GVC voting centre experience. Whether or not the voting centre itself will be open sourced? I'm not sure.
 
 #### 18:31 - Question - Does the address become a public metric - so everyone will know how much ADA is in my wallet ?
 
-Answer -&#x20;
+Answer - Yes, I think essentially, that's part of becoming a dRep. [...] that information will become publicly known, how much ADA you have in your wallet because your voting power will be known.
 
 #### 20:13 - GVC - Governance Voting Center acronym&#x20;
 
