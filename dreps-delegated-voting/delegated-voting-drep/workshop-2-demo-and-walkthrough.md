@@ -394,27 +394,23 @@ Allison Fromm
 
 Answer - I believe when you delegate you delegate with your voting key. \[...] I believe your delegation is not anonymous. Daniel Ribar - It would work similarly to when you're staking because it's an on chain event. \[...] What is visible on chain is visible to everyone else.
 
-#### 23:51 - Question - Elaborate on anonymous
-
-Daniel Ribar / Allison Fromm
-
-Actually there are two questions, the first is as a dRep can I identify the blockchain wallets that would be delegating to me like a stake pool operator can.
-
-The second question, and I know this is a regulatory mess. \[...] would \[the dRep] be exposed to any regulatory issues around knowing your customer (KYC), regarding the wallets that are that are delegating. And I know I am sure you can't answer that question but I wanted to raise it as something \[to] think about \[...] Because, as an American, for example, can I transact with somebody who's located in in Cuba ?
-
-Daniel Ribar - Good question. So, as you said, I don't think we're qualified just to give a good answer yet. But we're taking notes, and putting it on the list to discuss. As you said, we're doing something that hasn't been really done before. So we're trailblazing a bit ahead of any regulation or legal framework.
-
 #### 23:54 - Question - As a dRep can I identify the wallets that are delegating to me ?
 
 Answer -
 
 #### 24:09 - Question - Would the dRep be exposed to any regulatory issues around KYC (knowing your customer) regarding the wallets that are delegating.
 
-Answer -
+Allison Fromm
+
+The second question, and I know this is a regulatory mess. \[...] would \[the dRep] be exposed to any regulatory issues around knowing your customer (KYC), regarding the wallets that are that are delegating. And I know I am sure you can't answer that question but I wanted to raise it as something \[to] think about \[...] Because, as an American, for example, can I transact with somebody who's located in in Cuba ?
+
+Answer - Daniel Ribar - Good question. So, as you said, I don't think we're qualified just to give a good answer yet. But we're taking notes, and putting it on the list to discuss. As you said, we're doing something that hasn't been really done before. So we're trailblazing a bit ahead of any regulation or legal framework.
 
 #### 25:26 - Question - As a dRep should I make a new QR code ?
 
-Answer -
+Tevo Saks
+
+Answer - The short answer is no. The idea is that you would connect your wallet using the "Connect wallet" option on top. Which would link to one of the supported wallets at launch. The idea is to move away from the QR code, PIN code style of operation, and a more fluid experience overall.
 
 #### 26:28 - Question - If I use the same wallet that I have been using (for voting) I don't have to re-register ?
 
