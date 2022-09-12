@@ -258,7 +258,7 @@ Recording ends: **1:30:26**
 
 ## Session A
 
-Thursday8th September 09:00 UTC
+Thursday 8th September 09:00 UTC
 
 ### Video
 
@@ -267,6 +267,10 @@ See https://quality-assurance-dao.gitbook.io/community-governance-oversight/drep
 0:00 - Preamble&#x20;
 
 ### Presentation
+
+{% hint style="info" %}
+**Note :** Images of each Slide from the presentation are reproduced here for context
+{% endhint %}
 
 #### 04:17 - Slide Presentation - Jack Briggs&#x20;
 
