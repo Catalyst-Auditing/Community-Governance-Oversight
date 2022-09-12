@@ -378,35 +378,67 @@ Answer -&#x20;
 
 <figure><img src="../../.gitbook/assets/Slides-21.png" alt=""><figcaption></figcaption></figure>
 
-23:06 - Question - Will delegators to a dRep remain anonymous ?&#x20;
+### Questions
 
-23:51 - Question - Elaborate on anonymous&#x20;
+#### 23:06 - Question - Will delegators to a dRep remain anonymous ?&#x20;
 
-23:54 - Question - As a dRep can I identify the wallets that are delegating to me ?&#x20;
+Answer -
 
-24:09 - Question - Would the dRep be exposed to any regulatory issues around KYC (knowing your customer) regarding the wallets that are delegating.&#x20;
+#### 23:51 - Question - Elaborate on anonymous&#x20;
 
-25:26 - Question - As a dRep should I make a new QR code ?&#x20;
+Answer -&#x20;
 
-26:28 - Question - If I use the same wallet that I have been using (for voting) I don't have to re-register ?&#x20;
+#### 23:54 - Question - As a dRep can I identify the wallets that are delegating to me ?&#x20;
 
-26:54 - Question - I thought this was going to be part of Lace ?&#x20;
+Answer -
 
-27:56 - Question - How easy will it be for a group to handle a dRep account ?&#x20;
+#### 24:09 - Question - Would the dRep be exposed to any regulatory issues around KYC (knowing your customer) regarding the wallets that are delegating.&#x20;
 
-29:07 - Question - Is there a section in the GVC (Governance Voting Center) for users to skip the dRep delegation ?&#x20;
+Answer -&#x20;
 
-30:07 - Question - I read somewhere that future dReps had to vote in Fund 8 in order to actually become dReps ?&#x20;
+#### 25:26 - Question - As a dRep should I make a new QR code ?&#x20;
 
-31:12 - Question - At that point (after proof of life) you can still create a new wallet&#x20;
+Answer -&#x20;
 
-31:21 - Question - So we would have to identify our wallets as part of that proof of life ?&#x20;
+#### 26:28 - Question - If I use the same wallet that I have been using (for voting) I don't have to re-register ?&#x20;
 
-31:55 - Question - Do we have any rating for each dRep after each Funding round ?&#x20;
+Answer -&#x20;
 
-32:47 - Question - Currently Stakepool Operators (SPOs) have a special process to register themselves in the Catalyst Voting App using the CLI voting tools. Will a SPO be able to connect with their pledge so it counts towards voting ?&#x20;
+#### 26:54 - Question - I thought this was going to be part of Lace ?&#x20;
 
-34:13 - Question - How public will Proof of Life data be and does it comply with all the Right to be Forgotten legislation ?
+Answer -&#x20;
+
+#### 27:56 - Question - How easy will it be for a group to handle a dRep account ?&#x20;
+
+Answer -&#x20;
+
+#### 29:07 - Question - Is there a section in the GVC (Governance Voting Center) for users to skip the dRep delegation ?&#x20;
+
+Answer -&#x20;
+
+#### 30:07 - Question - I read somewhere that future dReps had to vote in Fund 8 in order to actually become dReps ?&#x20;
+
+Answer -&#x20;
+
+#### 31:12 - Question - At that point (after proof of life) you can still create a new wallet&#x20;
+
+Answer -&#x20;
+
+#### 31:21 - Question - So we would have to identify our wallets as part of that proof of life ?&#x20;
+
+Answer -&#x20;
+
+#### 31:55 - Question - Do we have any rating for each dRep after each Funding round ?&#x20;
+
+Answer -&#x20;
+
+#### 32:47 - Question - Currently Stakepool Operators (SPOs) have a special process to register themselves in the Catalyst Voting App using the CLI voting tools. Will a SPO be able to connect with their pledge so it counts towards voting ?&#x20;
+
+Answer -&#x20;
+
+#### 34:13 - Question - How public will Proof of Life data be and does it comply with all the Right to be Forgotten legislation ?
+
+Answer -&#x20;
 
 36:26 - An individual dRep profile&#x20;
 
