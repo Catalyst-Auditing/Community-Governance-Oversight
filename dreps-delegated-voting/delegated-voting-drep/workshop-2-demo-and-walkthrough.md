@@ -382,7 +382,7 @@ Answer -&#x20;
 
 <figure><img src="../../.gitbook/assets/Slides-21.png" alt=""><figcaption></figcaption></figure>
 
-### Questions
+### Questions II
 
 #### 23:06 - Question - Will delegators to a dRep remain anonymous ?&#x20;
 
