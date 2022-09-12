@@ -330,6 +330,8 @@ See https://quality-assurance-dao.gitbook.io/community-governance-oversight/drep
 
 <figure><img src="../../.gitbook/assets/Slides-16.png" alt=""><figcaption></figcaption></figure>
 
+### Questions
+
 16:34 - Question - What does it mean for a wallet address to remain fixed ?&#x20;
 
 17:21 - Question - Is the right to be forgotten universal ?&#x20;
@@ -340,7 +342,9 @@ See https://quality-assurance-dao.gitbook.io/community-governance-oversight/drep
 
 20:13 - GVC - Governance Voting Center acronym&#x20;
 
-20:51 - dRep Dashboard&#x20;
+#### 20:51 - dRep Dashboard&#x20;
+
+<figure><img src="../../.gitbook/assets/Slides-17.png" alt=""><figcaption></figcaption></figure>
 
 21:49 - The new voting center&#x20;
 
