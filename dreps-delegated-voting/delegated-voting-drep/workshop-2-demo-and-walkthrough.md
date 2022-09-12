@@ -554,9 +554,9 @@ So let's just look at some easy numbers, if we had 1 billion total voting stake,
 
 #### 53:21 - Question - When is the total delegated stake number calculated ? At what point in the process ?
 
-Allison
+Allison Fromm&#x20;
 
-Answer -
+Answer - See below
 
 #### 53:37 - Question - Could you clarify the difference between staked ADA and delegated ADA ?
 
@@ -576,11 +576,25 @@ Daniel Ribar - \[...] so whatever is eligible \[...] is then included in a snaps
 
 #### 55:19 - Question - Timing - when is the total delegated vote stake calculated ?
 
-Answer -
+Allison Fromm
+
+Same question about the timing. \[...] the total voting stake is determined at the snapshot. That makes sense.&#x20;
+
+But when is that total, delegated stake number calculated? Because \[...] everybody has to make their delegations selections before the snapshot?&#x20;
+
+Jack Briggs - Correct.&#x20;
+
+Allison Fromm - And so the voting power is determined also at the snapshot. Yeah, that makes sense. \[But] we won't know, then what we need as a maximum until after it's too late to do anything about it, basically ?
 
 #### 56:12 - Question - Saturation concept - Saturation is based on voting stake or delegated stake ?
 
-Answer -
+Answer - Voting Stake.
+
+Allison Fromm - But I'm confused that about the saturation, you wouldn't be able to know if you're saturated, until you know, the total voting state.
+
+Abhiroop Sharma - I could help answer that. We are going to implement a process called continuous snapshot.&#x20;
+
+We will be getting from the system to show you \[the status] before the snapshot. So it won't be a surprise to you at snapshot. But it may not be perfectly aligned. Because there's a lag between the delegation and the voting power calculation. There might be a 24 hour lag or something, but you will still get an approximate idea of where you stand.
 
 #### 57:12 - Question - This effects more the voter delegating to you ?
 
