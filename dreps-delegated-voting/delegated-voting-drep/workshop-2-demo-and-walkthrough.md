@@ -492,21 +492,29 @@ So yes, there'll be a right to be forgotten in some form. But as Abi said, we ne
 
 #### 41:37 - Question - What if a dRep votes at random without understanding what the proposal is about ?
 
-Answer -
+Answer - Jack Briggs - Yeah, it's a good it's a good question. \[...] I think ultimately it comes down to reputation and that dRep letting down the people that delegated to them.&#x20;
+
+And \[...] it will hopefully be evident through the rationale that \[the dRep] needs to provide. As you said, importantly, that might trigger \[the possibility] that they may not get recognition in the future, because they behaved poorly in the first time.&#x20;
+
+\[...] I do think reputation metrics will come into play in the future, \[so] it's a bit more easy and transparent for people to see \[...] It might be a bit crude in its first iteration.
 
 #### 42:39 - Question - Is there any public testing ground for dReps ?
 
-Answer -
+Answer - Daniel Ribar - I did allude that this is a test in a way.
+
+Abhiroop Sharma - \[...] we are looking to have a test environment but we currently think that it will be only available by the time \[the GVC] is launched anyway. So as Daniel was saying, we are all in a giant experiment. \[...] in the a future iteration we may look at having a pre beta version of the app available which is isolated from production.
 
 #### 43:51 - Question - Does the GVC (Voting Center) link the wallet address of every delegator to the profile they create on the GVC ?
 
 So if the delegator uses their real name does that mean they are doxxing their wallet address ?
 
-Answer -
+Answer - Abhiroop Sharma - Delegators don't need to create a profile. Only the dReps need to create a profile. Delegators will just connect their wallet and delegate. They have no additional user data stored on our site.
 
 #### 44:49 - Question - Could we have a private dRep, in the sense it isn't shown on the list ? For example I may want my family to delegate to me but I do not want others to do so.
 
-Answer -
+Answer - Abhiroop Sharma \[...] I was alluding to this a bit earlier \[...] wallets could create an experience for you to help you delegate from one account to other accounts.&#x20;
+
+Other than that, I'm hoping that in our documentation, we can provide a guide. But unfortunately, you know, you still need to have the technical knowledge to submit a transaction to a blockchain \[using] CLI (command line interface) or an advanced method.
 
 #### 46:11 - Question - But there is a Cap right ?
 
