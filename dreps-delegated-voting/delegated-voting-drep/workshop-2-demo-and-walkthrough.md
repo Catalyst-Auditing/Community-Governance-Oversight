@@ -390,12 +390,18 @@ Answer - GVC stands for overnance Voting Center
 
 #### 23:06 - Question - Will delegators to a dRep remain anonymous ?&#x20;
 
+Allison Fromm
+
 Answer - I believe when you delegate you delegate with your voting key. [...] I believe your delegation is not anonymous.
 Daniel Ribar - It would work similarly to when you're staking because it's an on chain event. [...] What is visible on chain is visible to everyone else. 
 
 #### 23:51 - Question - Elaborate on anonymous&#x20;
 
-Answer -&#x20;
+Daniel Ribar / Allison Fromm
+
+Actually there are two questions, the first is as a dRep can I identify the blockchain wallets that would be delegating to me like a stake pool operator can. 
+
+The second question, and I know this is a regulatory mess. [...] would [the dRep] be exposed to any regulatory issues around knowing your customer (KYC), regarding the wallets that are that are delegating. And I know I am sure you can't answer that question but I wanted to raise it as something [to] think about [...] Because, as an American, for example, can I transact with somebody who's located in in Cuba ?
 
 #### 23:54 - Question - As a dRep can I identify the wallets that are delegating to me ?&#x20;
 
