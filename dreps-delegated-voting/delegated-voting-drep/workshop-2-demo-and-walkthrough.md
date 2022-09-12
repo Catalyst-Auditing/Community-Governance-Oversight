@@ -391,6 +391,7 @@ Answer - GVC stands for overnance Voting Center
 #### 23:06 - Question - Will delegators to a dRep remain anonymous ?&#x20;
 
 Answer - I believe when you delegate you delegate with your voting key. [...] I believe your delegation is not anonymous.
+Daniel Ribar - It would work similarly to when you're staking because it's an on chain event. [...] What is visible on chain is visible to everyone else. 
 
 #### 23:51 - Question - Elaborate on anonymous&#x20;
 
