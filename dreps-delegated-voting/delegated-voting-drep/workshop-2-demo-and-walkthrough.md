@@ -456,40 +456,78 @@ Answer -&#x20;
 
 <figure><img src="../../.gitbook/assets/Slides-25.png" alt=""><figcaption></figcaption></figure>
 
-38:38 - Summary
+#### 38:38 - Summary
 
 <figure><img src="../../.gitbook/assets/Slides-26.png" alt=""><figcaption></figcaption></figure>
 
-41:37 - Question - What if a dRep votes at random without understanding what the proposal is about ?&#x20;
+#### 41:37 - Question - What if a dRep votes at random without understanding what the proposal is about ?&#x20;
 
-42:39 - Question - Is there any public testing ground for dReps ?&#x20;
+Answer -&#x20;
 
-43:51 - Question - Does the GVC (Voting Center) link the wallet address of every delegator to the profile they create on the GVC ? So if the delegator uses their real name does that mean they are doxxing their wallet address ?&#x20;
+#### 42:39 - Question - Is there any public testing ground for dReps ?&#x20;
 
-44:49 - Question - Could we have a private dRep, in the sense it isn't shown on the list ? For example I may want my family to delegate to me but I do not want others to do so. 46:11 - Question - But there is a Cap right ?&#x20;
+Answer -&#x20;
 
-47:46 - Delegation snapshot and limits&#x20;
+#### 43:51 - Question - Does the GVC (Voting Center) link the wallet address of every delegator to the profile they create on the GVC ?
 
-50:24 - Question - Is a fee charged to delegators every time they set or change a dRep in the voting center ?&#x20;
+So if the delegator uses their real name does that mean they are doxxing their wallet address ?&#x20;
 
-51:50 - Question - Could you elaborate on what is the minimum amount of delegated ADA that a dRep needs to have to be active ?&#x20;
+Answer -&#x20;
 
-53:21 - Question - When is the total delegated stake number calculated ? At what point in the process ?&#x20;
+#### 44:49 - Question - Could we have a private dRep, in the sense it isn't shown on the list ? For example I may want my family to delegate to me but I do not want others to do so.&#x20;
 
-53:37 - Question - Could you clarify the difference between staked ADA and delegated ADA ?&#x20;
+Answer -&#x20;
 
-54:42 - Question - What voting stake is determined at the time of this snapshot ?&#x20;
+#### 46:11 - Question - But there is a Cap right ?&#x20;
 
-55:19 - Question - Timing - when is the total delegated vote stake calculated ?&#x20;
+Answer -&#x20;
 
-56:12 - Question - Saturation concept - Saturation is based on voting stake or delegated stake ?&#x20;
+#### 47:46 - Delegation snapshot and limits&#x20;
 
-57:12 - Question - This effects more the voter delegating to you ?&#x20;
+#### 50:24 - Question - Is a fee charged to delegators every time they set or change a dRep in the voting center ?&#x20;
 
-58:28 - Question - Lets say I am a dRep, I have a pretty average group of delegators and I am well below saturation.&#x20;
+Answer -&#x20;
 
-1:01:49 - Question - 1 Billion voting stake. As a dRep your stake is maxed at 1% what levels will you need ?&#x20;
+#### 51:50 - Question - Could you elaborate on what is the minimum amount of delegated ADA that a dRep needs to have to be active ?&#x20;
 
-1:04:18 - Question - So these levels would enforce a cap on the number of dReps ?&#x20;
+Answer -&#x20;
 
-1:06:38 - Question - The voting rationale is not the main aspect ?
+#### 53:21 - Question - When is the total delegated stake number calculated ? At what point in the process ?&#x20;
+
+Answer -&#x20;
+
+#### 53:37 - Question - Could you clarify the difference between staked ADA and delegated ADA ?&#x20;
+
+Answer -&#x20;
+
+#### 54:42 - Question - What voting stake is determined at the time of this snapshot ?&#x20;
+
+Answer -&#x20;
+
+#### 55:19 - Question - Timing - when is the total delegated vote stake calculated ?&#x20;
+
+Answer -&#x20;
+
+#### 56:12 - Question - Saturation concept - Saturation is based on voting stake or delegated stake ?&#x20;
+
+Answer -&#x20;
+
+#### 57:12 - Question - This effects more the voter delegating to you ?&#x20;
+
+Answer -&#x20;
+
+#### 58:28 - Question - Lets say I am a dRep, I have a pretty average group of delegators and I am well below saturation.&#x20;
+
+Answer -&#x20;
+
+#### 1:01:49 - Question - 1 Billion voting stake. As a dRep your stake is maxed at 1% what levels will you need ?&#x20;
+
+Answer -&#x20;
+
+#### 1:04:18 - Question - So these levels would enforce a cap on the number of dReps ?&#x20;
+
+Answer -&#x20;
+
+#### 1:06:38 - Question - The voting rationale is not the main aspect ?
+
+Answer -&#x20;
