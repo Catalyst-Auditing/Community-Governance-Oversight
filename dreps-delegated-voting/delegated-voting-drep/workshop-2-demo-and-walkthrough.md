@@ -458,6 +458,8 @@ Answer -&#x20;
 
 38:38 - Summary
 
+<figure><img src="../../.gitbook/assets/Slides-26.png" alt=""><figcaption></figcaption></figure>
+
 41:37 - Question - What if a dRep votes at random without understanding what the proposal is about ?&#x20;
 
 42:39 - Question - Is there any public testing ground for dReps ?&#x20;
