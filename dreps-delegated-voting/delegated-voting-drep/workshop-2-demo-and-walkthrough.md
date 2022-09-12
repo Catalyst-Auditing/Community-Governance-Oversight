@@ -430,11 +430,17 @@ Answer - Abhiroop Sharma - \[There is nothing] stopping two users from knowing t
 
 #### 29:07 - Question - Is there a section in the GVC (Governance Voting Center) for users to skip the dRep delegation ?
 
-Answer -
+Daniel Ribar - I would assume that \[this question] maybe related to the flow, what is the first thing that people will see when they land on the GVC?
+
+Answer - Abhiroop Sharma - If we go back to the homepage, the first thing \[the user does] is to register to work. After \[the user has] registered and connected \[their] wallet, then \[they] can delegate. So the "Register to work" button would show up immediately after \[a user] connects. That's the first thing \[a user does] once \[they are] registered, then \[they] can delegate \[their] vote or vote \[themselves].&#x20;
+
+If you try to do those action before registering, we will of course give you a warning \[to] go back and register to vote first \[...]
 
 #### 30:07 - Question - I read somewhere that future dReps had to vote in Fund 8 in order to actually become dReps ?
 
-Answer -
+Answer - Jack Briggs - If you participate in Fund 9, that will make you elegible. So you're correct in the fact that you \[are required] to vote in a previous Catalyst voting round.&#x20;
+
+If you have a new wallet connected as a dRep, your voting history won't be on that and we will \[review / verify] during the proof of life \[...] to make sure you're real \[...]
 
 #### 31:12 - Question - At that point (after proof of life) you can still create a new wallet
 
