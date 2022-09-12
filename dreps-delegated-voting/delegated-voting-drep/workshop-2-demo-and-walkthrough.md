@@ -326,7 +326,9 @@ See https://quality-assurance-dao.gitbook.io/community-governance-oversight/drep
 
 <figure><img src="../../.gitbook/assets/Slides-15.png" alt=""><figcaption></figcaption></figure>
 
-15:50 - Submit Application
+#### 15:50 - Submit Application
+
+<figure><img src="../../.gitbook/assets/Slides-16.png" alt=""><figcaption></figcaption></figure>
 
 16:34 - Question - What does it mean for a wallet address to remain fixed ?&#x20;
 
