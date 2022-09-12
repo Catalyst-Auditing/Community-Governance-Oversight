@@ -444,19 +444,25 @@ If you have a new wallet connected as a dRep, your voting history won't be on th
 
 #### 31:12 - Question - At that point (after proof of life) you can still create a new wallet
 
-Answer -
+Answer - Jack Briggs - Yes
 
 #### 31:21 - Question - So we would have to identify our wallets as part of that proof of life ?
 
-Answer -
+Answer - Jack Briggs - Yes. We haven't worked out the exact ask of you on this one. \[...] we need to make sure it's \[...] publicly safe to do that with us. Doing a proof of life will be a private experience, it won't be public.
 
 #### 31:55 - Question - Do we have any rating for each dRep after each Funding round ?
 
-Answer -
+Answer - Jack Briggs - I don't think the functionality exists yet. \[...] But in terms of reputation, \[...] we do have as part of your role as dRep \[a requirement] to provide rationale for each way you voted in a funding round that will be publicly available.
+
+Not just to the people that delegate to you, primarily it is for them, but also for your wider profile \[...]
 
 #### 32:47 - Question - Currently Stakepool Operators (SPOs) have a special process to register themselves in the Catalyst Voting App using the CLI voting tools. Will a SPO be able to connect with their pledge so it counts towards voting ?
 
-Answer -
+Answer - Abhiroop Sharma - \[...] if you if you could delegate to a software wallet, you could connect the software wallet. But there is no special process for SPO's currently. We are actively working internally to figure out if there is a way to extend delegations to SPOs in a future iteration.
+
+Daniel Ribar - To that we're also working very closely with Martin \[Lang] from ATADA team that caters to a lot of CLI (Command Line Interface) and SPO related voting tools and manages a lot of those libraries. ([https://github.com/gitmachtl](https://github.com/gitmachtl))
+
+
 
 #### 34:13 - Question - How public will Proof of Life data be and does it comply with all the Right to be Forgotten legislation ?
 
