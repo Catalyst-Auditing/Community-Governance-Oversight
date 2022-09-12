@@ -340,7 +340,9 @@ See https://quality-assurance-dao.gitbook.io/community-governance-oversight/drep
 
 #### 16:34 - Question - What does it mean for a wallet address to remain fixed ?&#x20;
 
-Answer -&#x20;
+Allison Fromm
+
+**Answer** - It's the wallet which you are voting with. So we use the wallet to link your voting power to you, regardless of whether you are an active voter, or a passive voter, or active dRep.
 
 #### 17:21 - Question - Is the right to be forgotten universal ?&#x20;
 
@@ -459,6 +461,8 @@ Answer -&#x20;
 #### 38:38 - Summary
 
 <figure><img src="../../.gitbook/assets/Slides-26.png" alt=""><figcaption></figcaption></figure>
+
+### Questions
 
 #### 41:37 - Question - What if a dRep votes at random without understanding what the proposal is about ?&#x20;
 
