@@ -370,7 +370,9 @@ Answer -&#x20;
 
 <figure><img src="../../.gitbook/assets/Slides-19.png" alt=""><figcaption></figcaption></figure>
 
-22:28 - Experts helping to grow Cardano&#x20;
+#### 22:28 - Experts helping to grow Cardano&#x20;
+
+<figure><img src="../../.gitbook/assets/Slides-20.png" alt=""><figcaption></figcaption></figure>
 
 22:54 - List of dReps
 
