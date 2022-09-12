@@ -448,7 +448,9 @@ Answer -&#x20;
 
 <figure><img src="../../.gitbook/assets/Slides-23.png" alt=""><figcaption></figcaption></figure>
 
-37:34 - Add another dRep&#x20;
+#### 37:34 - Add another dRep&#x20;
+
+<figure><img src="../../.gitbook/assets/Slides-24.png" alt=""><figcaption></figcaption></figure>
 
 38:13 - Your voting power has been delegated&#x20;
 
