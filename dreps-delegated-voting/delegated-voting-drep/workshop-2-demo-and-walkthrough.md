@@ -598,19 +598,25 @@ We will be getting from the system to show you \[the status] before the snapshot
 
 #### 57:12 - Question - This effects more the voter delegating to you ?
 
-Answer -
+Answer - Abhiroop Sharma  -Nobody can stop \[anyone] from delegating to you from a blockchain perspective. What we are doing with the dRep experience is trying to promote delegation to a set of publicly selected dReps. But nothing stops \[anyone] from delegating to arbitrary wallet on the chain.
 
-#### 58:28 - Question - Lets say I am a dRep, I have a pretty average group of delegators and I am well below saturation.
+#### 58:28 - Question - Lets say I am a dRep, I have a pretty average group of delegators and I am well below saturation. But right before the snapshot, a whale decides to delegate to me, and it puts me over the saturation
 
-Answer -
+Allison Fromm
+
+Answer - Abhiroop Sharma  - It doesn't make a difference to you. It makes a difference to the Whale. He or she loses their voting power. It doesn't affect anyone else.
 
 #### 1:01:49 - Question - 1 Billion voting stake. As a dRep your stake is maxed at 1% what levels will you need ?
 
-Answer -
+Answer - Jack Briggs - If you are the 1% cap \[...] you're pretty guaranteed your full reward.
 
 #### 1:04:18 - Question - So these levels would enforce a cap on the number of dReps ?
 
-Answer -
+Answer - Jack Briggs - Yes. So it's a good question. There is a cap \[...] in terms of the dReps that will get rewarded.&#x20;
+
+Philip Lazos - To be rewarded somebody needs to be in the top 150 directs in terms of the delagation they have received. Once they've cleared this mark and \[...] they are in the top 150 then they will get rewarded proportionately depending on the delegation from zero to around $3,000, which is reached, I think when the relegation reaches 2% of the delegated stake.&#x20;
+
+Basically, they'd have to be in the top 150 To be eligible to get rewarded. And then they'll get proportionately zero up to 3000, depending on the percentage of the delegates stake.&#x20;
 
 #### 1:06:38 - Question - The voting rationale is not the main aspect ?
 
