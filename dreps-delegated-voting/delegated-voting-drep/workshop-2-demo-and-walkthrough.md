@@ -338,15 +338,25 @@ See https://quality-assurance-dao.gitbook.io/community-governance-oversight/drep
 
 ### Questions
 
-16:34 - Question - What does it mean for a wallet address to remain fixed ?&#x20;
+#### 16:34 - Question - What does it mean for a wallet address to remain fixed ?&#x20;
 
-17:21 - Question - Is the right to be forgotten universal ?&#x20;
+Answer -&#x20;
 
-17:51 - Question - Will this be Open Source ? Can others create an alternative front end ?&#x20;
+#### 17:21 - Question - Is the right to be forgotten universal ?&#x20;
 
-18:31 - Question - Does the address become a public metric - so everyone will know how much ADA is in my wallet ?
+Answer -&#x20;
 
-20:13 - GVC - Governance Voting Center acronym&#x20;
+#### 17:51 - Question - Will this be Open Source ? Can others create an alternative front end ?&#x20;
+
+Answer -&#x20;
+
+#### 18:31 - Question - Does the address become a public metric - so everyone will know how much ADA is in my wallet ?
+
+Answer -&#x20;
+
+#### 20:13 - GVC - Governance Voting Center acronym&#x20;
+
+Answer -&#x20;
 
 #### 20:51 - dRep Dashboard&#x20;
 
