@@ -314,7 +314,9 @@ See https://quality-assurance-dao.gitbook.io/community-governance-oversight/drep
 
 <figure><img src="../../.gitbook/assets/Slides-12.png" alt=""><figcaption></figcaption></figure>
 
-14:19 - Expertise / Interests&#x20;
+#### 14:19 - Expertise / Interests&#x20;
+
+<figure><img src="../../.gitbook/assets/Slides-13.png" alt=""><figcaption></figcaption></figure>
 
 14:53 - Socials&#x20;
 
