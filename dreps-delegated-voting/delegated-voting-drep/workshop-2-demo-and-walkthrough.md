@@ -298,7 +298,7 @@ See https://quality-assurance-dao.gitbook.io/community-governance-oversight/drep
 
 <figure><img src="../../.gitbook/assets/Slides-08.png" alt=""><figcaption></figcaption></figure>
 
-11:27 - Voting Center&#x20;
+#### 11:27 - Voting Center&#x20;
 
 <figure><img src="../../.gitbook/assets/Slides-09.png" alt=""><figcaption></figcaption></figure>
 
@@ -322,7 +322,9 @@ See https://quality-assurance-dao.gitbook.io/community-governance-oversight/drep
 
 <figure><img src="../../.gitbook/assets/Slides-14.png" alt=""><figcaption></figcaption></figure>
 
-15:27 - Privacy&#x20;
+#### 15:27 - Privacy&#x20;
+
+<figure><img src="../../.gitbook/assets/Slides-15.png" alt=""><figcaption></figcaption></figure>
 
 15:50 - Submit Application
 
