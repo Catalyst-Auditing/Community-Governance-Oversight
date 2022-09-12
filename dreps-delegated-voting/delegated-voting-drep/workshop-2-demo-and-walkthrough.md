@@ -376,6 +376,8 @@ Answer -&#x20;
 
 22:54 - List of dReps
 
+<figure><img src="../../.gitbook/assets/Slides-21.png" alt=""><figcaption></figcaption></figure>
+
 23:06 - Question - Will delegators to a dRep remain anonymous ?&#x20;
 
 23:51 - Question - Elaborate on anonymous&#x20;
