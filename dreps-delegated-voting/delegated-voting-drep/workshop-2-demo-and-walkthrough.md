@@ -462,11 +462,11 @@ Answer - Abhiroop Sharma - \[...] if you if you could delegate to a software wal
 
 Daniel Ribar - To that we're also working very closely with Martin \[Lang] from ATADA team that caters to a lot of CLI (Command Line Interface) and SPO related voting tools and manages a lot of those libraries. ([https://github.com/gitmachtl](https://github.com/gitmachtl))
 
-
-
 #### 34:13 - Question - How public will Proof of Life data be and does it comply with all the Right to be Forgotten legislation ?
 
-Answer -
+Answer - Jack Briggs - Yes, it's still a process that we're trying to map out, there might be some level of KYC (Know Your Customer). But ultimately, it will follow GDPR rules ([General Data Protection Regulation](https://gdpr-info.eu/)) and other applicable laws for data.&#x20;
+
+So yes, there'll be a right to be forgotten in some form. But as Abi said, we need to work through some of the nuances with blockchain \[...] We will consult with every dRep here about the Proof of Life process to make sure that everyone's comfortable and \[to resolve] any questions before we embark on it.
 
 #### 36:26 - An individual dRep profile
 
