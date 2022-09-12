@@ -318,7 +318,9 @@ See https://quality-assurance-dao.gitbook.io/community-governance-oversight/drep
 
 <figure><img src="../../.gitbook/assets/Slides-13.png" alt=""><figcaption></figcaption></figure>
 
-14:53 - Socials&#x20;
+#### 14:53 - Socials&#x20;
+
+<figure><img src="../../.gitbook/assets/Slides-14.png" alt=""><figcaption></figcaption></figure>
 
 15:27 - Privacy&#x20;
 
