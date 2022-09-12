@@ -336,7 +336,7 @@ See https://quality-assurance-dao.gitbook.io/community-governance-oversight/drep
 
 <figure><img src="../../.gitbook/assets/Slides-16.png" alt=""><figcaption></figcaption></figure>
 
-### Questions
+### Questions I
 
 #### 16:34 - Question - What does it mean for a wallet address to remain fixed ?&#x20;
 
