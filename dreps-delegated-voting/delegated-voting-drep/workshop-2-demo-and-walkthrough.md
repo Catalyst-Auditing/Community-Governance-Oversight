@@ -185,7 +185,7 @@ A dRep cannot have more than 1% voting power; it’s a safeguard to prevent powe
 **Answer:** For votes from before you became a dRep: one requirement to become a dRep is that you need to have voted in a previous fund. To maintain privacy e.g. on how much ADA you personally hold, you can create a new wallet as a dRep; and we would validate that you voted in a previous fund via the proof of life review, a private meeting which we still need to define. For votes in future Funds, we want to let users see a dRep’s previous voting history, so we are planning that for a future iteration.\
 **In chat from Harris Warren, IOG:** As long as you are a registered dRep your votes will be public. If you delete your dRep profile then your votes will be private by default.
 
-**1:02:07 Tomi Astikainen: **_**\*\*\*\***_** Can **_**\*\*\*\***_** whales have multiple wallets and get rewarded multiple times?**\
+**1:02:07 Tomi Astikainen: \_\*\*\*\***_\*\* Can \*\*_**\*\*\*\***\_\*\* whales have multiple wallets and get rewarded multiple times?\*\*\
 **Answer:** For voter rewards, it will be the same as if they voted from one wallet with all their ADA in it, because that's how voter rewards are calculated. If they were to try to become more than one dRep, they would be filtered out at the Proof of Life stage.
 
 **1:02:52 Eystein Magnus Hansen: Will it be frowned upon for dReps to make public how they plan to vote?**\
@@ -392,7 +392,7 @@ Answer - GVC stands for overnance Voting Center
 
 Allison Fromm
 
-Answer - I believe when you delegate you delegate with your voting key. \[...] I believe your delegation is not anonymous. Daniel Ribar - It would work similarly to when you're staking because it's an on chain event. \[...] What is visible on chain is visible to everyone else.
+Answer - Abhiroop Sharma - I believe when you delegate you delegate with your voting key. \[...] I believe your delegation is not anonymous. Daniel Ribar - It would work similarly to when you're staking because it's an on chain event. \[...] What is visible on chain is visible to everyone else.
 
 #### 23:54 - Question - As a dRep can I identify the wallets that are delegating to me ?
 
@@ -410,15 +410,19 @@ Answer - Daniel Ribar - Good question. So, as you said, I don't think we're qual
 
 Tevo Saks
 
-Answer - The short answer is no. The idea is that you would connect your wallet using the "Connect wallet" option on top. Which would link to one of the supported wallets at launch. The idea is to move away from the QR code, PIN code style of operation, and a more fluid experience overall.
+Answer - Abhiroop Sharma - The short answer is no. The idea is that you would connect your wallet using the "Connect wallet" option on top. Which would link to one of the supported wallets at launch. The idea is to move away from the QR code, PIN code style of operation, and a more fluid experience overall.
 
 #### 26:28 - Question - If I use the same wallet that I have been using (for voting) I don't have to re-register ?
 
-Answer -
+Tevo Saks
+
+Answer - Abhiroop Sharma - You won't have to re-register. There will be a call to action on the site for you to register to vote.
 
 #### 26:54 - Question - I thought this was going to be part of Lace ?
 
-Answer -
+Steve Lockhart
+
+Answer - Daniel Ribar - I think it's important to just realise that Catalyst is being built wallet agnostic. We're inviting all the wallets that are eager and willing to participate, which could include Lace or a number of others. We have a working group that meets regularly on a bi weekly basis with eternl. Lace, Flint, Yoroi etc, because essentially, these efforts are open to all the community.&#x20;
 
 #### 27:56 - Question - How easy will it be for a group to handle a dRep account ?
 
