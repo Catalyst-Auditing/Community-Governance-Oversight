@@ -452,7 +452,9 @@ Answer -&#x20;
 
 <figure><img src="../../.gitbook/assets/Slides-24.png" alt=""><figcaption></figcaption></figure>
 
-38:13 - Your voting power has been delegated&#x20;
+#### 38:13 - Your voting power has been delegated&#x20;
+
+<figure><img src="../../.gitbook/assets/Slides-25.png" alt=""><figcaption></figcaption></figure>
 
 38:38 - Summary
 
