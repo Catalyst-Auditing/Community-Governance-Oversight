@@ -464,7 +464,7 @@ Answer -&#x20;
 
 <figure><img src="../../.gitbook/assets/Slides-26.png" alt=""><figcaption></figcaption></figure>
 
-### Questions
+### Questions III
 
 #### 41:37 - Question - What if a dRep votes at random without understanding what the proposal is about ?&#x20;
 
