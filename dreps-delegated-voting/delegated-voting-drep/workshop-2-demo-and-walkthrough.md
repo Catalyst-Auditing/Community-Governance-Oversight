@@ -362,7 +362,9 @@ Answer -&#x20;
 
 <figure><img src="../../.gitbook/assets/Slides-17.png" alt=""><figcaption></figcaption></figure>
 
-21:49 - The new voting center&#x20;
+#### 21:49 - The new voting center&#x20;
+
+<figure><img src="../../.gitbook/assets/Slides-18.png" alt=""><figcaption></figcaption></figure>
 
 21:55 - Delegate your voting power to dReps&#x20;
 
