@@ -366,7 +366,9 @@ Answer -&#x20;
 
 <figure><img src="../../.gitbook/assets/Slides-18.png" alt=""><figcaption></figcaption></figure>
 
-21:55 - Delegate your voting power to dReps&#x20;
+#### 21:55 - Delegate your voting power to dReps&#x20;
+
+<figure><img src="../../.gitbook/assets/Slides-19.png" alt=""><figcaption></figcaption></figure>
 
 22:28 - Experts helping to grow Cardano&#x20;
 
