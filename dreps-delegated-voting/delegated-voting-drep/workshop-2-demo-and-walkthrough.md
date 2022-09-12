@@ -402,6 +402,8 @@ Actually there are two questions, the first is as a dRep can I identify the bloc
 
 The second question, and I know this is a regulatory mess. \[...] would \[the dRep] be exposed to any regulatory issues around knowing your customer (KYC), regarding the wallets that are that are delegating. And I know I am sure you can't answer that question but I wanted to raise it as something \[to] think about \[...] Because, as an American, for example, can I transact with somebody who's located in in Cuba ?
 
+Daniel Ribar - Good question. So, as you said, I don't think we're qualified just to give a good answer yet. But we're taking notes, and putting it on the list to discuss. As you said, we're doing something that hasn't been really done before. So we're trailblazing a bit ahead of any regulation or legal framework.
+
 #### 23:54 - Question - As a dRep can I identify the wallets that are delegating to me ?
 
 Answer -
