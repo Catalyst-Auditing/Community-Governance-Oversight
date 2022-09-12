@@ -570,7 +570,9 @@ That's how the rewards are calculated. Your rewards are 1% of delegated voting s
 
 #### 54:42 - Question - What voting stake is determined at the time of this snapshot ?
 
-Answer -
+Answer - Jack Briggs - \[The voting stake is determined at the time of the sanapshot] because then it is locked, nothing can change.
+
+Daniel Ribar - \[...] so whatever is eligible \[...] is then included in a snapshot.&#x20;
 
 #### 55:19 - Question - Timing - when is the total delegated vote stake calculated ?
 
