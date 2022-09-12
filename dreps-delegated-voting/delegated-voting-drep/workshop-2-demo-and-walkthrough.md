@@ -444,7 +444,9 @@ Answer -&#x20;
 
 <figure><img src="../../.gitbook/assets/Slides-22.png" alt=""><figcaption></figcaption></figure>
 
-37:04 - Voting delegation&#x20;
+#### 37:04 - Voting delegation&#x20;
+
+<figure><img src="../../.gitbook/assets/Slides-23.png" alt=""><figcaption></figcaption></figure>
 
 37:34 - Add another dRep&#x20;
 
@@ -456,7 +458,7 @@ Answer -&#x20;
 
 42:39 - Question - Is there any public testing ground for dReps ?&#x20;
 
-43:51 - Question - Does the GVC (Voting Center) link the wallet address of every delegator to the profile they create on the GVC ? So if the delegator uses their real name does that mean they are doxxing their wallet addess ?&#x20;
+43:51 - Question - Does the GVC (Voting Center) link the wallet address of every delegator to the profile they create on the GVC ? So if the delegator uses their real name does that mean they are doxxing their wallet address ?&#x20;
 
 44:49 - Question - Could we have a private dRep, in the sense it isn't shown on the list ? For example I may want my family to delegate to me but I do not want others to do so. 46:11 - Question - But there is a Cap right ?&#x20;
 
