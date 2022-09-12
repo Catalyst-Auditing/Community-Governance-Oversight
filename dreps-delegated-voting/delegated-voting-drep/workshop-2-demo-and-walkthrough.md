@@ -444,23 +444,29 @@ If you have a new wallet connected as a dRep, your voting history won't be on th
 
 #### 31:12 - Question - At that point (after proof of life) you can still create a new wallet
 
-Answer -
+Answer - Jack Briggs - Yes
 
 #### 31:21 - Question - So we would have to identify our wallets as part of that proof of life ?
 
-Answer -
+Answer - Jack Briggs - Yes. We haven't worked out the exact ask of you on this one. \[...] we need to make sure it's \[...] publicly safe to do that with us. Doing a proof of life will be a private experience, it won't be public.
 
 #### 31:55 - Question - Do we have any rating for each dRep after each Funding round ?
 
-Answer -
+Answer - Jack Briggs - I don't think the functionality exists yet. \[...] But in terms of reputation, \[...] we do have as part of your role as dRep \[a requirement] to provide rationale for each way you voted in a funding round that will be publicly available.
+
+Not just to the people that delegate to you, primarily it is for them, but also for your wider profile \[...]
 
 #### 32:47 - Question - Currently Stakepool Operators (SPOs) have a special process to register themselves in the Catalyst Voting App using the CLI voting tools. Will a SPO be able to connect with their pledge so it counts towards voting ?
 
-Answer -
+Answer - Abhiroop Sharma - \[...] if you if you could delegate to a software wallet, you could connect the software wallet. But there is no special process for SPO's currently. We are actively working internally to figure out if there is a way to extend delegations to SPOs in a future iteration.
+
+Daniel Ribar - To that we're also working very closely with Martin \[Lang] from ATADA team that caters to a lot of CLI (Command Line Interface) and SPO related voting tools and manages a lot of those libraries. ([https://github.com/gitmachtl](https://github.com/gitmachtl))
 
 #### 34:13 - Question - How public will Proof of Life data be and does it comply with all the Right to be Forgotten legislation ?
 
-Answer -
+Answer - Jack Briggs - Yes, it's still a process that we're trying to map out, there might be some level of KYC (Know Your Customer). But ultimately, it will follow GDPR rules ([General Data Protection Regulation](https://gdpr-info.eu/)) and other applicable laws for data.&#x20;
+
+So yes, there'll be a right to be forgotten in some form. But as Abi said, we need to work through some of the nuances with blockchain \[...] We will consult with every dRep here about the Proof of Life process to make sure that everyone's comfortable and \[to resolve] any questions before we embark on it.
 
 #### 36:26 - An individual dRep profile
 
@@ -486,27 +492,51 @@ Answer -
 
 #### 41:37 - Question - What if a dRep votes at random without understanding what the proposal is about ?
 
-Answer -
+Answer - Jack Briggs - Yeah, it's a good it's a good question. \[...] I think ultimately it comes down to reputation and that dRep letting down the people that delegated to them.&#x20;
+
+And \[...] it will hopefully be evident through the rationale that \[the dRep] needs to provide. As you said, importantly, that might trigger \[the possibility] that they may not get recognition in the future, because they behaved poorly in the first time.&#x20;
+
+\[...] I do think reputation metrics will come into play in the future, \[so] it's a bit more easy and transparent for people to see \[...] It might be a bit crude in its first iteration.
 
 #### 42:39 - Question - Is there any public testing ground for dReps ?
 
-Answer -
+Answer - Daniel Ribar - I did allude that this is a test in a way.
+
+Abhiroop Sharma - \[...] we are looking to have a test environment but we currently think that it will be only available by the time \[the GVC] is launched anyway. So as Daniel was saying, we are all in a giant experiment. \[...] in the a future iteration we may look at having a pre beta version of the app available which is isolated from production.
 
 #### 43:51 - Question - Does the GVC (Voting Center) link the wallet address of every delegator to the profile they create on the GVC ?
 
 So if the delegator uses their real name does that mean they are doxxing their wallet address ?
 
-Answer -
+Answer - Abhiroop Sharma - Delegators don't need to create a profile. Only the dReps need to create a profile. Delegators will just connect their wallet and delegate. They have no additional user data stored on our site.
 
 #### 44:49 - Question - Could we have a private dRep, in the sense it isn't shown on the list ? For example I may want my family to delegate to me but I do not want others to do so.
 
-Answer -
+Answer - Abhiroop Sharma \[...] I was alluding to this a bit earlier \[...] wallets could create an experience for you to help you delegate from one account to other accounts.&#x20;
 
-#### 46:11 - Question - But there is a Cap right ?
+Other than that, I'm hoping that in our documentation, we can provide a guide. But unfortunately, you know, you still need to have the technical knowledge to submit a transaction to a blockchain \[using] CLI (command line interface) or an advanced method.
 
-Answer -
+#### 46:11 - Question - But there is a Cap right ? \[...] no more than 1%?
+
+Steve Lockhart
+
+Answer - Abhiroop Sharma - There is a cap. Yes
 
 #### 47:46 - Delegation snapshot and limits
+
+Steve Lockhart - \[there is] 3 billion ADA currently registered to vote on Ideascale ?&#x20;
+
+So that would imply \[...] that the 1% cap would be somewhere above 30 million, right?
+
+Daniel Ribar - So, Yes. The cap doesn't limit the number of wallets that delegate to you. You can over delegate to someone. But \[that] diminishes the rewards and does not increase the voting power. \[there are] saturation points.
+
+Steve Lockhart - That's something that the delegating voters should know \[if a dRep] is over the 1% ?
+
+Daniel Ribar - I think that should be visible \[...] because we are also implementing as a part of the iteration a continuous snapshot feature.
+
+Abhiroop Sharma - \[...] they'll be a warning if you're trying to delegate to an oversaturated dRep. But we will not stop you. \[We will just] warn you that you will get slashed rewards because you are delegating to someone who is over saturated.
+
+Daniel Ribar - \[This is] definitely \[about] education. \[...] the user interface indicates that the voting power is no longer tangible. If you delegate to a dRep which is currently saturated you are erasing your voting power because it wouldn't have an effect.&#x20;
 
 #### 50:24 - Question - Is a fee charged to delegators every time they set or change a dRep in the voting center ?
 
