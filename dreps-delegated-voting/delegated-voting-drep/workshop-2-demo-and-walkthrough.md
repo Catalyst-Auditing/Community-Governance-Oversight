@@ -364,7 +364,7 @@ Answer - Yes, I think essentially, that's part of becoming a dRep. \[...] that i
 
 #### 20:13 - GVC - Governance Voting Center acronym
 
-Answer - GVC stands for overnance Voting Center
+Answer - GVC stands for Governance Voting Center
 
 #### 20:51 - dRep Dashboard
 
