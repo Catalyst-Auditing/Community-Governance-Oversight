@@ -36,7 +36,7 @@ coverY: 0
 | Dr A. Fisher    | Community Review |
 | Bruno Valverde  | Community Review |
 | Cliffon         | Community Review |
-| Nori            | Community Review |
+| Nori Nishigaya  | Community Review |
 | Simon Sailstrom | Community Review |
 |                 |                  |
 
