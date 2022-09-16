@@ -4,7 +4,7 @@
 
 ## Agenda
 
-[Link to Agenda](https://docs.google.com/document/d/1ZIYLJyR\_UL0YNx8ly5HChsN0OWEuyMw83fwLcusLAp4/edit?usp=sharing)
+
 
 ## Attendees
 

@@ -1,6 +1,6 @@
 ---
 description: Meeting 1 of DAO Governance Literature Review - 26th April 2022
-cover: ../.gitbook/assets/Screenshot from 2022-08-15 20-37-36.png
+cover: ../.gitbook/assets/Screenshot from 2022-08-15 20-37-36 (1).png
 coverY: 0
 ---
 
