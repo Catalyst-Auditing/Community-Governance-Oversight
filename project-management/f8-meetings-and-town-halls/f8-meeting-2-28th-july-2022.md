@@ -2,6 +2,8 @@
 
 ## <mark style="color:red;">In Draft</mark>
 
+{% embed url="https://youtu.be/LDpDpWa4ytA" %}
+
 ## Agenda
 
 [Link to Agenda](https://docs.google.com/document/d/1ZIYLJyR\_UL0YNx8ly5HChsN0OWEuyMw83fwLcusLAp4/edit?usp=sharing)
