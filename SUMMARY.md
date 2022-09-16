@@ -80,6 +80,7 @@
 * [F8 - Meetings and Town Halls](project-management/f8-meetings-and-town-halls/README.md)
   * [F8 Meeting 1 - 14th July 2022](project-management/f8-meetings-and-town-halls/f8-meeting-1-14th-july-2022.md)
   * [F8 Meeting 2 -28th July 2022](project-management/f8-meetings-and-town-halls/f8-meeting-2-28th-july-2022.md)
+  * [F8 Meeting 3 -8th September 2022](project-management/f8-meetings-and-town-halls/f8-meeting-3-8th-september-2022.md)
 
 ## Treasury
 
