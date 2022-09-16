@@ -22,15 +22,12 @@
 | Andre Diamond      | Treasury |
 | Miroslav Rajh      | Treasury |
 
-Apologies
+### Apologies
 
 | Name                | Role   |
 | ------------------- | ------ |
 | Stephen Whitenstall | Member |
 |                     |        |
-|                     |        |
-
-
 
 ## Information
 
