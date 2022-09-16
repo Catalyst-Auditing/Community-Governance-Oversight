@@ -8,17 +8,27 @@
 
 ## Attendees
 
-| Name                | Role     |
-| ------------------- | -------- |
-| Allison Fromm       | Member   |
-| Kenric Nelson       | Member   |
-| Matthias Sieber     | Member   |
-| Phil Khoo           | Member   |
-| Stephen Whitenstall | Member   |
-| Tevo Saks           | Member   |
-| Vanessa Cardui      | Member   |
-| Andre Diamond       | Treasury |
-| Miroslav Rajh       | Treasury |
+| Name               | Role     |
+| ------------------ | -------- |
+| Allison Fromm      | Member   |
+| Kenric Nelson      | Member   |
+| Matthias Sieber    | Member   |
+| Phil Khoo          | Member   |
+| Thorsten Pottebaum | Member   |
+| Tevo Saks          | Member   |
+| Vanessa Cardui     | Member   |
+| Andre Diamond      | Treasury |
+| Miroslav Rajh      | Treasury |
+
+Apologies
+
+| Name                | Role   |
+| ------------------- | ------ |
+| Stephen Whitenstall | Member |
+|                     |        |
+|                     |        |
+
+
 
 ## Information
 
@@ -64,11 +74,4 @@ Vanessa to document George’s “categories and contributor recurring model” 
 
 Andre & Miroslav - updates on Treasury setup, member payments, costs & expenses.
 
-Action : pay remaining 5800 USD for research to Kenric
-
-pay Stephen 1000 USD - PM for July and August
-
-pay 150 USD for preparation of 2x Town Hall slides
-
-Deliverables budgeting - All\
-
+Action :&#x20;
