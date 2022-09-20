@@ -75,4 +75,53 @@ We agreed to discuss async the process to build public register of parameters - 
 
 Andre & Miroslav - updates on Treasury setup, member payments, costs & expenses.
 
-Action :&#x20;
+[Google Sheet](https://docs.google.com/spreadsheets/d/1v8EySgaWqoYlOVxHAjKKufj24x8CPn-no33EUPZP8sw/edit?usp=sharing)
+
+{% embed url="https://docs.google.com/spreadsheets/d/1v8EySgaWqoYlOVxHAjKKufj24x8CPn-no33EUPZP8sw/edit?usp=sharing" %}
+
+will rec 6860 $ on Mon
+
+Can pay for all TH slides and project management
+
+Partially pay Treasury management
+
+\
+
+
+Items left to pay for CGO8 - Reports, Retros, Surveys, Prep of F9 proposal - there’s not one… Should this be F10 proposal?? Town Hall Slides, Treasury Management. Project Management
+
+All meeting attendance is already paid
+
+\
+
+
+should we develop a process for paying deliverables? Splitting equally is easier (Allison)
+
+Tevo - we estimate delivery time of how much tasks cost. Everyone who contributes shares how much time they spent, if no information, the estimated cost will be shared equally between participants of specific task.
+
+Vanessa - Should we split distributions between high level epics/projects/themes or we take reward each deliverable differently.
+
+Phil - community distribution model - equal split and can choose to redistribute your share to others
+
+Kenric - baseline = split evenly, then specific tasks - bonus pool? for those who put in extra effort. Decide thisusing Phil’s method.
+
+Phil - easier to just pay everyone equal and then reallocate
+
+Phil - this doesn’t change what’s already allocated
+
+Andre - pay treasury in full this time, and then divide the rest between all of us Rename it “deliverables”
+
+Leave it with Treasury until such time as deliverables are done? AGREED
+
+Need to set aside money for closing report too
+
+\
+
+
+F7 proposal final payment - deliverables payments is what is outstanding
+
+Pay Stephen for close out report and project management
+
+$840 in wallet now
+
+$6,366 to come on Monday
