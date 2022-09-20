@@ -131,3 +131,37 @@ Pay Stephen for close out report and project management
 $840 in wallet now
 
 $6,366 to come on Monday, 12th September 2022
+
+
+
+## F8 CGO Scope & Deliverables
+
+### Challenge Setting
+
+What is the scope of F8 Challenge Setting oversight ?
+
+{% hint style="info" %}
+Issue : [https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/88](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/88)
+{% endhint %}
+
+\
+
+
+* We’ve agreed George and Phil are working on this, but what exactly are its deliverable(s) likely to be?
+* Do we need to consider how to maintain (and be seen to maintain) independence of oversight, given George is so strongly involved with working to change the Challenge-Setting process? George - conflict of interest is sthg he’s aware of. Meeting w Kriss on Fri - there will be changes soon. Whatever approach they want to take, will communicate it w CGO. Survey to gain community feedback on what IOG want to do? Tevo: this is best oversight we could have - let’s not add barriers. George : I do the work, oversight comes from everyone else.
+
+What is the deliverable?? A survey? The proposals George has in? Analysis of discussion e.g in Telegram? To be discussed next meeting after George’s meeting with Kriss. Communicate that this discussion has been had, and the oversight will be to engage with or survey the community - sentiment analysis.
+
+Thorsten - who is enacting changes to the challenge setting process? Also what is the intent, and how do we measure if it is achieved? A survey probably won’t cover that.
+
+Kenric - not every community change HAS to be done by vote.Conversations, surveys etc are already happening - that’s also a decentralised process.
+
+Allison - agree, it’s not always about a vote. How much surveying, conversation etc is enough to create legitimacy?? to protect the implementer from accusations of a decision that is not representative
+
+Thorsten - agree, it’s not clearly defined how decision making is done if not via a vote. It becomes hard to determine if what is happening is within the parameter of controlling decision making process. Who decides if a vote is needed or not.
+
+Phil - Dripdropz ATH last night - building a petition module to their voting structure, which fills some of the role we are talking about. An interesting possibility.
+
+* F10 looks likely to be another odd one: developer-heavy, and excluding much of the other work people do. Should we be additionally looking to maintain oversight of what sort of effect this is having on the community, the work that is done and the proposals that are getting funded?
+
+\
