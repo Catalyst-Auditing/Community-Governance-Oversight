@@ -6,7 +6,7 @@
 
 ## Agenda
 
-
+[Agenda link](https://docs.google.com/document/d/1M6lE6lgwWqPpqFBmABqGOaWfLcEbFfssU\_S-1j\_vA9A/edit?usp=sharing)
 
 ## Attendees
 
