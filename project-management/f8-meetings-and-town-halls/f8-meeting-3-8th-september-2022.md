@@ -79,31 +79,36 @@ Andre & Miroslav - updates on Treasury setup, member payments, costs & expenses.
 
 {% embed url="https://docs.google.com/spreadsheets/d/1v8EySgaWqoYlOVxHAjKKufj24x8CPn-no33EUPZP8sw/edit?usp=sharing" %}
 
-will rec 6860 $ on Mon
-
-Can pay for all TH slides and project management
-
-Partially pay Treasury management
-
-\
+We will receive $6860 on Monday, 12th September 2022. Then we can pay for all TH slides and project management. And partially pay for Treasury management.\
 
 
-Items left to pay for CGO8 - Reports, Retros, Surveys, Prep of F9 proposal - there’s not one… Should this be F10 proposal?? Town Hall Slides, Treasury Management. Project Management
+### Items left to pay for CGO8
+
+Reports, Retros, Surveys
+
+Prep of F9 proposal - a F9 proposal was not submitted (no appropriate fund)
+
+Should this be F10 proposal?
+
+Town Hall Slides, Treasury Management. Project Management
 
 All meeting attendance is already paid
 
-\
+### Process for paying deliverables
 
+Should we develop a process for paying deliverables?&#x20;
 
-should we develop a process for paying deliverables? Splitting equally is easier (Allison)
+Allison - Splitting equally is easier
 
 Tevo - we estimate delivery time of how much tasks cost. Everyone who contributes shares how much time they spent, if no information, the estimated cost will be shared equally between participants of specific task.
 
 Vanessa - Should we split distributions between high level epics/projects/themes or we take reward each deliverable differently.
 
+### Community Distribution Model
+
 Phil - community distribution model - equal split and can choose to redistribute your share to others
 
-Kenric - baseline = split evenly, then specific tasks - bonus pool? for those who put in extra effort. Decide thisusing Phil’s method.
+Kenric - baseline = split evenly, then specific tasks - bonus pool? for those who put in extra effort. Decide this using Phil’s method.
 
 Phil - easier to just pay everyone equal and then reallocate
 
@@ -113,15 +118,16 @@ Andre - pay treasury in full this time, and then divide the rest between all of 
 
 Leave it with Treasury until such time as deliverables are done? AGREED
 
+### F8 Closing Report  payment
+
 Need to set aside money for closing report too
 
-\
+### F7 proposal final payment&#x20;
 
-
-F7 proposal final payment - deliverables payments is what is outstanding
+F7 deliverables payments is what is outstanding
 
 Pay Stephen for close out report and project management
 
 $840 in wallet now
 
-$6,366 to come on Monday
+$6,366 to come on Monday, 12th September 2022
