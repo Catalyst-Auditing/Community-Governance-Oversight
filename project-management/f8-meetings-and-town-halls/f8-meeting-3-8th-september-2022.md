@@ -6,9 +6,7 @@
 
 ## Agenda
 
-[Agenda link](https://docs.google.com/document/d/1M6lE6lgwWqPpqFBmABqGOaWfLcEbFfssU\_S-1j\_vA9A/edit?usp=sharing)&#x20;
 
-[GitBook Issue](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/106)
 
 ## Attendees
 
