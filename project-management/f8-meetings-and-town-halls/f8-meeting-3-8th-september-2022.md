@@ -144,11 +144,9 @@ What is the scope of F8 Challenge Setting oversight ?
 Issue : [https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/88](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/88)
 {% endhint %}
 
-\
+We’ve agreed George and Phil are working on this, but what exactly are its deliverable(s) likely to be?
 
-
-* We’ve agreed George and Phil are working on this, but what exactly are its deliverable(s) likely to be?
-* Do we need to consider how to maintain (and be seen to maintain) independence of oversight, given George is so strongly involved with working to change the Challenge-Setting process? George - conflict of interest is sthg he’s aware of. Meeting w Kriss on Fri - there will be changes soon. Whatever approach they want to take, will communicate it w CGO. Survey to gain community feedback on what IOG want to do? Tevo: this is best oversight we could have - let’s not add barriers. George : I do the work, oversight comes from everyone else.
+Do we need to consider how to maintain (and be seen to maintain) independence of oversight, given George is so strongly involved with working to change the Challenge-Setting process? George - conflict of interest is sthg he’s aware of. Meeting w Kriss on Fri - there will be changes soon. Whatever approach they want to take, will communicate it w CGO. Survey to gain community feedback on what IOG want to do? Tevo: this is best oversight we could have - let’s not add barriers. George : I do the work, oversight comes from everyone else.
 
 What is the deliverable?? A survey? The proposals George has in? Analysis of discussion e.g in Telegram? To be discussed next meeting after George’s meeting with Kriss. Communicate that this discussion has been had, and the oversight will be to engage with or survey the community - sentiment analysis.
 
