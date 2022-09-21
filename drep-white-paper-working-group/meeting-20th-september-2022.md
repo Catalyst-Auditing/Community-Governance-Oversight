@@ -4,6 +4,7 @@ description: Tuesday, 20th September 2022 - 1800 UTC
 
 # Meeting - 20th September 2022
 
+{% embed url="https://youtu.be/m4RZD7V50_k" %}
 
 ## Attendees
 
@@ -13,6 +14,7 @@ description: Tuesday, 20th September 2022 - 1800 UTC
 | Steph Macurdy       | [Wolfram Blockchain Labs](https://www.wolframblockchainlabs.com/) |
 | Stephen Whitenstall | [QADAO](https://quality-assurance-dao.github.io/)                 |
 | Aharon Porath       | Consenz                                                           |
+| Thorsten Pottebaum  | adanamics ([linktree](https://linktr.ee/adanamics))               |
 
 ### Community Reviewers
 
@@ -37,10 +39,10 @@ description: Tuesday, 20th September 2022 - 1800 UTC
 
 ### Apologies
 
-|                    |                                                     |
-| ------------------ | --------------------------------------------------- |
-| Philip Lazos       | [IOG](https://iohk.io/jp/team/philip-lazos)         |
-| Thorsten Pottebaum | adanamics ([linktree](https://linktr.ee/adanamics)) |
+|              |                                             |
+| ------------ | ------------------------------------------- |
+| Philip Lazos | [IOG](https://iohk.io/jp/team/philip-lazos) |
+|              |                                             |
 
 ## Information
 
@@ -63,4 +65,3 @@ Documentation funded by [Fund 7 - QA-DAO Transcription Service](https://cardano.
 {% endhint %}
 
 ## Brief Updates/Notices from each participant - All <a href="#docs-internal-guid-6712eba1-7fff-caa3-86cf-70c6b25b09b4" id="docs-internal-guid-6712eba1-7fff-caa3-86cf-70c6b25b09b4"></a>
-
