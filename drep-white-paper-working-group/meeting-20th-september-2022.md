@@ -43,4 +43,40 @@ Documentation funded by [Fund 7 - QA-DAO Transcription Service](https://cardano.
 [https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/108](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/108)
 {% endhint %}
 
-## Brief Updates/Notices from each participant - All <a href="#docs-internal-guid-6712eba1-7fff-caa3-86cf-70c6b25b09b4" id="docs-internal-guid-6712eba1-7fff-caa3-86cf-70c6b25b09b4"></a>
+## Agenda <a href="#docs-internal-guid-6712eba1-7fff-caa3-86cf-70c6b25b09b4" id="docs-internal-guid-6712eba1-7fff-caa3-86cf-70c6b25b09b4"></a>
+
+### Brief Updates/Notices from each participant - All <a href="#docs-internal-guid-fe2ac060-7fff-1af0-bd95-10c20ff5f98a" id="docs-internal-guid-fe2ac060-7fff-1af0-bd95-10c20ff5f98a"></a>
+
+### Research Budget - Kenric Nelson
+
+Baseline payments for community reviewers
+
+Larger bonuses for two people for additional
+
+Adrii and Andrew
+
+Final editing on paper by Kenric
+
+### Research Project Planning - Stephen Whitenstall
+
+CGO Monthly Report due -  24th September 2022
+
+### Whitepaper
+
+Please prepare Detailed Outline / final drafts of your section for the next meeting - All
+
+#### General Updates&#x20;
+
+#### Public Release of White Paper&#x20;
+
+Weekly Newsletter this week ending - Kriss Baird&#x20;
+
+23rd September 2022
+
+Link to White Paper - showcase ATH&#x20;
+
+Social Media launch on the Tuesday&#x20;
+
+Meeting - Tuesday, 4th October 2022 - final release meeting&#x20;
+
+After Town Hall - Wednesday 5th October 2022\

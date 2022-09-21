@@ -54,7 +54,7 @@
 
 {% embed url="https://docs.google.com/presentation/d/1f_AFmCkhIy65gP_HfNtJL2B5iJHNYXYiMeB2qIb3jAw/edit?usp=sharing" %}
 
-![](<../../.gitbook/assets/Screenshot 2022-04-21 102442 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/Screenshot 2022-04-21 102442 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (2).png>)
 
 ![](<../../.gitbook/assets/Screenshot 2022-04-21 102733.png>)
 
@@ -66,7 +66,7 @@
 
 ### Slides
 
-![](<../../.gitbook/assets/Screenshot 2022-06-07 134917.png>)
+![](<../../.gitbook/assets/Screenshot 2022-06-07 134917 (1).png>)
 
 ![](<../../.gitbook/assets/Screenshot 2022-06-07 125810.png>)
 
