@@ -51,9 +51,7 @@ Documentation funded by [Fund 7 - QA-DAO Transcription Service](https://cardano.
 
 Baseline payments for community reviewers
 
-Larger bonuses for two people for additional
-
-Adrii and Andrew
+Larger bonuses for two community reviewers for additional contributions - Adrii and Andrew
 
 Final editing on paper by Kenric
 

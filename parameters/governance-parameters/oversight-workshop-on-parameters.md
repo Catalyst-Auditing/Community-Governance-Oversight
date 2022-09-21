@@ -51,7 +51,7 @@ In terms of what must be documented, sufficient information should be available 
 
 ## What types of parameter are there ?
 
-![](<../../.gitbook/assets/Screenshot 2022-05-04 103311.png>)
+![](<../../.gitbook/assets/Screenshot 2022-05-04 103311 (1).png>)
 
 ### Fixed values
 
@@ -59,7 +59,7 @@ discrete, particular, atomistic. A change to a fixed value or constant.
 
 ### Change to a process
 
-![](<../../.gitbook/assets/Screenshot 2022-05-04 103828 (1).png>)
+![](<../../.gitbook/assets/Screenshot 2022-05-04 103828.png>)
 
 Change to rules of how to conduct a process. Either a new or current process / parameter.
 
