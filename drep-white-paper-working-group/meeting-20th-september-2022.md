@@ -53,8 +53,6 @@ Baseline payments for community reviewers
 
 Larger bonuses for two community reviewers for additional contributions - Andrii Volostyn and Dr Andrew Fisher
 
-Final editing on paper by Kenric
-
 ### Research Project Planning - Stephen Whitenstall
 
 {% hint style="info" %}
@@ -66,6 +64,10 @@ CGO Monthly Report due -  24th September 2022
 Please prepare Detailed Outline / final drafts of your section for the next meeting - All
 
 #### General Updates&#x20;
+
+{% hint style="info" %}
+Final editing on paper by Kenric and "sanity check" by Stephen W
+{% endhint %}
 
 #### Public Release of White Paper&#x20;
 
