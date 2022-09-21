@@ -4,6 +4,7 @@ description: Tuesday, 6th September 2022 - 1800 UTC
 
 # Meeting - 6th September 2022
 
+{% embed url="https://youtu.be/yg0G1XB_xsE" %}
 
 ## Attendees
 
@@ -13,18 +14,14 @@ description: Tuesday, 6th September 2022 - 1800 UTC
 | Steph Macurdy       | [Wolfram Blockchain Labs](https://www.wolframblockchainlabs.com/) |
 | Stephen Whitenstall | [QADAO](https://quality-assurance-dao.github.io/)                 |
 | Aharon Porath       | Consenz                                                           |
-| Thorsten Pottebaum  | adanamics ([linktree](https://linktr.ee/adanamics))               |
 
 ### Community Reviewers
 
 #### At meeting
 
-|                  |                  |
-| ---------------- | ---------------- |
-| Chris Keller     | Community Review |
-| Andrii Volostyn  | Community Review |
-| Harry Hellyer    | Community Review |
-| Jack Briggs      | Community Review |
+|                 |                  |
+| --------------- | ---------------- |
+| Andrii Volostyn | Community Review |
 
 #### Participating
 
@@ -35,13 +32,16 @@ description: Tuesday, 6th September 2022 - 1800 UTC
 | Cliffon         | Community Review |
 | Nori Nishigaya  | Community Review |
 | Simon Sailstrom | Community Review |
-|                 |                  |
+| Harry Hellyer   | Community Review |
+| Jack Briggs     | Community Review |
+| Chris Keller    | Community Review |
 
 ### Apologies
 
-|              |                                             |
-| ------------ | ------------------------------------------- |
-| Philip Lazos | [IOG](https://iohk.io/jp/team/philip-lazos) |
+|                    |                                                     |
+| ------------------ | --------------------------------------------------- |
+| Philip Lazos       | [IOG](https://iohk.io/jp/team/philip-lazos)         |
+| Thorsten Pottebaum | adanamics ([linktree](https://linktr.ee/adanamics)) |
 
 ## Information
 
@@ -62,4 +62,3 @@ Documentation funded by [Fund 7 - QA-DAO Transcription Service](https://cardano.
 {% hint style="info" %}
 [https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/96](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/96)
 {% endhint %}
-
