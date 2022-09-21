@@ -57,7 +57,9 @@ Final editing on paper by Kenric
 
 ### Research Project Planning - Stephen Whitenstall
 
+{% hint style="info" %}
 CGO Monthly Report due -  24th September 2022
+{% endhint %}
 
 ### Whitepaper
 
