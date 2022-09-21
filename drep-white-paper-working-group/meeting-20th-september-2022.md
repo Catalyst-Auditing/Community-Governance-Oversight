@@ -70,11 +70,11 @@ Please prepare Detailed Outline / final drafts of your section for the next meet
 #### Public Release of White Paper&#x20;
 
 {% hint style="info" %}
-23rd September 2022 - Weekly Newsletter this week ending - Kriss Baird&#x20;
+23rd September 2022 - Weekly Newsletter this week ending - Stephen W & Kriss Baird&#x20;
 {% endhint %}
 
 {% hint style="info" %}
-Meeting - Tuesday, 4th October 2022 - final release meeting&#x20;
+Meeting - Tuesday, 4th October 2022 - final release meeting - All&#x20;
 {% endhint %}
 
 Link to White Paper - showcase ATH&#x20;
@@ -82,7 +82,19 @@ Link to White Paper - showcase ATH&#x20;
 Social Media launch on the Tuesday&#x20;
 
 {% hint style="info" %}
-After Town Hall - Wednesday 5th October 2022
+After Town Hall - Wednesday 5th October 2022 - Thorsten to arrange
 {% endhint %}
 
+{% hint style="info" %}
+Swarm session, Saturday, 8th October 2022 - Thorsten to arrange
+{% endhint %}
+
+#### Other Venues ?
+
+Invitations to discuss - Twitterspaces, Lidonation, Rhys, YouTube
+
+Observe dRep implementation and highlight White paper as a resource
+
+\
+\
 \
