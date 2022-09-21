@@ -67,14 +67,20 @@ Please prepare Detailed Outline / final drafts of your section for the next meet
 
 #### Public Release of White Paper&#x20;
 
-Weekly Newsletter this week ending - Kriss Baird&#x20;
+{% hint style="info" %}
+23rd September 2022 - Weekly Newsletter this week ending - Kriss Baird&#x20;
+{% endhint %}
 
-23rd September 2022
+{% hint style="info" %}
+Meeting - Tuesday, 4th October 2022 - final release meeting&#x20;
+{% endhint %}
 
 Link to White Paper - showcase ATH&#x20;
 
 Social Media launch on the Tuesday&#x20;
 
-Meeting - Tuesday, 4th October 2022 - final release meeting&#x20;
+{% hint style="info" %}
+After Town Hall - Wednesday 5th October 2022
+{% endhint %}
 
-After Town Hall - Wednesday 5th October 2022\
+\
