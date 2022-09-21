@@ -16,27 +16,6 @@ description: Tuesday, 20th September 2022 - 1800 UTC
 | Aharon Porath       | Consenz                                                           |
 | Thorsten Pottebaum  | adanamics ([linktree](https://linktr.ee/adanamics))               |
 
-### Community Reviewers
-
-#### At meeting
-
-|                 |                  |
-| --------------- | ---------------- |
-| Andrii Volostyn | Community Review |
-
-#### Participating
-
-|                 |                  |
-| --------------- | ---------------- |
-| Dr A. Fisher    | Community Review |
-| Bruno Valverde  | Community Review |
-| Cliffon         | Community Review |
-| Nori Nishigaya  | Community Review |
-| Simon Sailstrom | Community Review |
-| Harry Hellyer   | Community Review |
-| Jack Briggs     | Community Review |
-| Chris Keller    | Community Review |
-
 ### Apologies
 
 |              |                                             |
