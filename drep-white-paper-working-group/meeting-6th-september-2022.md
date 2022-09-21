@@ -62,3 +62,38 @@ Documentation funded by [Fund 7 - QA-DAO Transcription Service](https://cardano.
 {% hint style="info" %}
 [https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/96](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/96)
 {% endhint %}
+
+## Brief Updates/Notices from each participant - All <a href="#docs-internal-guid-6712eba1-7fff-caa3-86cf-70c6b25b09b4" id="docs-internal-guid-6712eba1-7fff-caa3-86cf-70c6b25b09b4"></a>
+
+## Research Budget - Kenric Nelson
+
+Any Budget updates or issues ? \
+
+
+Rewards for contributors who reviewed
+
+Sent out email to confirm share of rewards
+
+## Research Project Planning - Stephen Whitenstall
+
+Any updates on Project Plan timetable and deliverables
+
+## Whitepaper
+
+1\) Make sure that reviewers' comments have been addressed.
+
+* Reviewed today
+
+2\) Review list of reviewers and planned rewards for the participants.
+
+* In progress
+
+3\) Clarify deadlines for any sections that remain incomplete.
+
+* Steph - Monday 12th September 2022
+* Aharon - Thursday 15th September 2022
+* Editor complete work - 20th September 2022
+
+4\) Review with the authors how to use Zotero to insert citations into the paper
+
+\
