@@ -40,7 +40,7 @@ Documentation funded by [Fund 7 - QA-DAO Transcription Service](https://cardano.
 (Used for Project Management tracking and reporting)
 
 {% hint style="info" %}
-[https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/96](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/96)
+[https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/108](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/108)
 {% endhint %}
 
 ## Brief Updates/Notices from each participant - All <a href="#docs-internal-guid-6712eba1-7fff-caa3-86cf-70c6b25b09b4" id="docs-internal-guid-6712eba1-7fff-caa3-86cf-70c6b25b09b4"></a>
