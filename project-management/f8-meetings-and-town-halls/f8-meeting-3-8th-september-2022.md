@@ -158,7 +158,7 @@ What is the deliverable?? A survey? The proposals George has in? Analysis of dis
 
 To be discussed next meeting after George’s meeting with Kriss Baird. Communicate that this discussion has been had, and the oversight will be to engage with or survey the community - sentiment analysis.
 
-**Thorsten** - who is enacting changes to the challenge setting process? Also what is the intent, and how do we measure if it is achieved? A survey probably won’t cover that.
+**Thorsten** - who is enacting changes to the challenge setting process? It should follow a governance process in respec of this proposed change. Also what is the intent, and how do we measure if it is achieved? A survey probably won’t cover that.
 
 **Kenric** - not every community change HAS to be done by vote.Conversations, surveys etc are already happening - that’s also a decentralised process.
 
