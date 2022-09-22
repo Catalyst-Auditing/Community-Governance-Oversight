@@ -160,6 +160,8 @@ To be discussed next meeting after George’s meeting with Kriss Baird. Communic
 
 **Thorsten** - who is enacting changes to the challenge setting process? It should follow a governance process in respect of this proposed change. How will this be enacted ? Through a vote ? Also what is the intent, and how do we measure if it is achieved? A survey probably won’t cover that. Probably a retrospective on comparing the intended outcome to the recognised outcome after a period of time.
 
+**Vanessa** - This is obviously a parameters change. So it overlaps with what we're looking at in terms of parameter changes in general. Particularly in terms of what Thorsten just said about who is enacting the change, and do people know what the purpose of it is?
+
 **Kenric** - not every community change HAS to be done by vote.Conversations, surveys etc are already happening - that’s also a decentralised process.
 
 **Allison** - agree, it’s not always about a vote. How much surveying, conversation etc is enough to create legitimacy?? to protect the implementer from accusations of a decision that is not representative
