@@ -98,23 +98,23 @@ All meeting attendance is already paid
 
 Should we develop a process for paying deliverables?&#x20;
 
-Allison - Splitting equally is easier
+**Allison** - Splitting equally is easier
 
-Tevo - we estimate delivery time of how much tasks cost. Everyone who contributes shares how much time they spent, if no information, the estimated cost will be shared equally between participants of specific task.
+**Tevo** - we estimate delivery time of how much tasks cost. Everyone who contributes shares how much time they spent, if no information, the estimated cost will be shared equally between participants of specific task.
 
-Vanessa - Should we split distributions between high level epics/projects/themes or we take reward each deliverable differently.
+**Vanessa** - Should we split distributions between high level epics/projects/themes or we take reward each deliverable differently.
 
 ### Community Distribution Model
 
-Phil - community distribution model - equal split and can choose to redistribute your share to others
+**Phil** - community distribution model - equal split and can choose to redistribute your share to others
 
-Kenric - baseline = split evenly, then specific tasks - bonus pool? for those who put in extra effort. Decide this using Phil’s method.
+**Kenric** - baseline = split evenly, then specific tasks - bonus pool? for those who put in extra effort. Decide this using Phil’s method.
 
-Phil - easier to just pay everyone equal and then reallocate
+**Phil** - easier to just pay everyone equal and then reallocate
 
-Phil - this doesn’t change what’s already allocated
+**Phil** - this doesn’t change what’s already allocated
 
-Andre - pay treasury in full this time, and then divide the rest between all of us Rename it “deliverables”
+**Andre** - pay treasury in full this time, and then divide the rest between all of us Rename it “deliverables”
 
 Leave it with Treasury until such time as deliverables are done? AGREED
 
