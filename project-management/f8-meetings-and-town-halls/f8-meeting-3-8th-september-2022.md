@@ -154,7 +154,9 @@ Do we need to consider how to maintain (and be seen to maintain) independence of
 
 **George** : I do the work, oversight comes from everyone else.
 
-What is the deliverable?? A survey? The proposals George has in? Analysis of discussion e.g in Telegram? To be discussed next meeting after George’s meeting with Kriss. Communicate that this discussion has been had, and the oversight will be to engage with or survey the community - sentiment analysis.
+What is the deliverable?? A survey? The proposals George has in? Analysis of discussion e.g in Telegram?&#x20;
+
+To be discussed next meeting after George’s meeting with Kriss Baird. Communicate that this discussion has been had, and the oversight will be to engage with or survey the community - sentiment analysis.
 
 **Thorsten** - who is enacting changes to the challenge setting process? Also what is the intent, and how do we measure if it is achieved? A survey probably won’t cover that.
 
