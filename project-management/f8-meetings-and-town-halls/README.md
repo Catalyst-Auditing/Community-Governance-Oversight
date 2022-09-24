@@ -1,6 +1,6 @@
 # F8 - Meetings and Town Halls
 
-Details of our Fund 8 Community Goverannce Oversight Meetings and Town Halls can be found here. Follow the links below to the relevant dates.
+Details of our Fund 8 Community Governance Oversight Meetings and Town Halls can be found here. Follow the links below to the relevant dates.
 
 
 
