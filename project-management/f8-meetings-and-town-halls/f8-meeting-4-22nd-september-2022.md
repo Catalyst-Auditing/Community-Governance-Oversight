@@ -1,3 +1,9 @@
+---
+description: >-
+  Fund 8 Community Governance Oversight proposal meeting 4 - 22nd September
+  2022, 1400 UTC
+---
+
 # F8 Meeting 4 -22nd September 2022
 
 ## <mark style="color:red;">In Draft</mark>
