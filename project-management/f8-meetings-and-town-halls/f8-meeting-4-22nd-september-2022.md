@@ -67,7 +67,9 @@ description: >-
 **Adding something to F9 IOG survey (Phil)** - is this in progress? Any updates? - not happening
 {% endhint %}
 
-We should have received final F7 payment last week - did we? - and we agreed to pilot Phil’s community redistribution model for the “deliverables” portion of that - updates? how do we initiate that? - have side meeting to discuss further - Phil K
+{% hint style="info" %}
+**We should have received final F7 payment last week** - did we? - and we agreed to pilot Phil’s community redistribution model for the “deliverables” portion of that - updates? how do we initiate that? - have side meeting to discuss further - Phil K
+{% endhint %}
 
 Vani was supposed to share the Parameters reporting google form in Discord - didn’t, sorry - it’s here https://forms.gle/EtxhcmnJUv7nP1KB9 and is on agenda
 
