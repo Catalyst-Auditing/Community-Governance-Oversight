@@ -75,7 +75,13 @@ description: >-
 **Vanessa was supposed to share the Parameters reporting google form in Discord** - didn’t, sorry - it’s here https://forms.gle/EtxhcmnJUv7nP1KB9 and is on agenda
 {% endhint %}
 
-We said 2 meetings ago that we would follow up with Harris after F7 parameter changes meeting. Haven’t yet. It’s on agenda.
+{% hint style="info" %}
+We said 2 meetings ago that **we would follow up with Harris after F7 parameter changes meeting**. Haven’t yet. It’s on agenda.
+{% endhint %}
+
+{% hint style="info" %}
+**Payment for writing F10 proposal**
+{% endhint %}
 
 In last meeting there was some confusion over payment for writing future CGO proposal. List of outstanding items said “payment for writing F9 proposal” and ofc there isn’t an F9 proposal, but I believe it should have said “payment for writing F10 proposal”. Correct?Are we planning to submit something for F10 if there’s a suitable challenge? If yes, we can keep it on agenda and in budget plan.
 
