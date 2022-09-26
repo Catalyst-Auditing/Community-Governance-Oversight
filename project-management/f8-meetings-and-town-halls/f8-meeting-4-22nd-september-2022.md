@@ -4,9 +4,13 @@
 
 ## Agenda
 
-[Agenda link](https://docs.google.com/document/d/16Qm\_T8Kt-O9cR4Lt0NnadSj7cgnIFB8fXdpIQOEvWtE/edit?usp=sharing)
+{% hint style="info" %}
+[Agenda link](https://docs.google.com/document/d/16Qm\_T8Kt-O9cR4Lt0NnadSj7cgnIFB8fXdpIQOEvWtE/edit?usp=sharing) - Google Document
+{% endhint %}
 
-[GitBook Issue](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/109)
+{% hint style="info" %}
+[GitBook Issue](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/109) - GitHub Project Board Issue for tracking
+{% endhint %}
 
 ## Attendees
 
