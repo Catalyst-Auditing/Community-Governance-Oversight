@@ -20,24 +20,24 @@ description: >-
 
 ## Attendees
 
-| Name               | Role     |
-| ------------------ | -------- |
-| Allison Fromm      | Member   |
-| Kenric Nelson      | Member   |
-| Matthias Sieber    | Member   |
-| Phil Khoo          | Member   |
-| Thorsten Pottebaum | Member   |
-| Tevo Saks          | Member   |
-| Vanessa Cardui     | Member   |
-| Andre Diamond      | Treasury |
-| Miroslav Rajh      | Treasury |
+| Name                | Role     |
+| ------------------- | -------- |
+| Allison Fromm       | Member   |
+| Kenric Nelson       | Member   |
+| Matthias Sieber     | Member   |
+| Phil Khoo           | Member   |
+| Thorsten Pottebaum  | Member   |
+| Tevo Saks           | Member   |
+| Vanessa Cardui      | Member   |
+| Andre Diamond       | Treasury |
+| Miroslav Rajh       | Treasury |
+| Stephen Whitenstall | Member   |
 
 ### Apologies
 
-| Name                | Role   |
-| ------------------- | ------ |
-| Stephen Whitenstall | Member |
-|                     |        |
+| Name | Role |
+| ---- | ---- |
+| None |      |
 
 ## Information
 

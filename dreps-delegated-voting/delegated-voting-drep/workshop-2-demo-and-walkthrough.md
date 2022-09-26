@@ -302,7 +302,7 @@ Thursday 8th September 09:00 UTC
 
 #### 10:36 - dRep Registration - Abhiroop Sharma
 
-<figure><img src="../../.gitbook/assets/Slides-08.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Slides-08 (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 11:27 - Voting Center
 
