@@ -91,7 +91,11 @@ Yes - allocate to F10 CGO proposal and discuss async
 
 Andre & Miroslav - after what has been paid, what is left?.
 
-[https://docs.google.com/spreadsheets/d/1v8EySgaWqoYlOVxHAjKKufj24x8CPn-no33EUPZP8sw/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1v8EySgaWqoYlOVxHAjKKufj24x8CPn-no33EUPZP8sw/edit?usp=sharing)
+{% hint style="info" %}
+[Fund 7 Community Governance Oversight USD status](https://docs.google.com/spreadsheets/d/1v8EySgaWqoYlOVxHAjKKufj24x8CPn-no33EUPZP8sw/edit?usp=sharing)
+{% endhint %}
+
+
 
 Last meeting we said weâ€™ll receive $ 6860 on Mon; will pay all TH slides and project management, and pay Treasury management in full. Yes received and paid
 
@@ -99,4 +103,6 @@ Items left to pay for CGO 8 should therefore be: (Reports, Retros, Surveys) = â€
 
 F7 proposal final payment - deliverables, close out report and project management are still to be paid? (Treasury management?)
 
-No objections to paying Treasury $1000 - PM $2000 - Remainder to use Phil K system&#x20;
+{% hint style="info" %}
+**Action -** No objections to paying Treasury $1000 - PM $2000 from F7 and remainder to be distributed using Phil K's system&#x20;
+{% endhint %}
