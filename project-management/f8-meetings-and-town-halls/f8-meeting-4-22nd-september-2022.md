@@ -57,6 +57,18 @@ description: >-
 
 ### Action points from previous meetings:
 
-{% hint style="success" %}
-Pay Allison $75 for Town Hall Slides X 2 ($150) in September 2022
-{% endhint %}
+New documentation process - has been discussed in Discord, so checking - are there any objections? - no objections 
+
+Adding something  to F9 IOG survey (Phil) - is this in progress? Any updates? - not happening
+
+We should have received final F7 payment last week - did we? - and we agreed to pilot Phil’s community redistribution model for the “deliverables” portion of that - updates? how do we initiate that? - have side meeting to discuss further - Phil K
+
+Vani was supposed to share the Parameters reporting google form in Discord - didn’t, sorry - it’s here https://forms.gle/EtxhcmnJUv7nP1KB9  and is on 
+agenda
+
+We said 2 meetings ago that we would follow up with Harris after F7 parameter changes meeting. Haven’t yet. It’s on agenda.
+
+In last meeting there was some confusion over payment for writing future CGO proposal. List of outstanding items said “payment for writing F9 proposal” and ofc there isn’t an F9 proposal, but I believe it should have said “payment for writing F10 proposal”. Correct?Are we planning to submit something for F10 if there’s a suitable challenge? If yes, we can keep it on agenda and in budget plan.
+
+Yes - allocate to F10 CGO proposal and discuss async
+
