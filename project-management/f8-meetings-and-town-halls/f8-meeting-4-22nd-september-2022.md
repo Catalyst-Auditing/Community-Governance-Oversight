@@ -53,9 +53,7 @@ description: >-
 
 ## Agenda
 
-## Proposed Agenda <a href="#docs-internal-guid-c33d3c76-7fff-1b87-a100-a158d4f0612c" id="docs-internal-guid-c33d3c76-7fff-1b87-a100-a158d4f0612c"></a>
-
-### Action points from previous meetings:
+## 1 - Action points from previous meetings:
 
 {% hint style="info" %}
 **New documentation process** - has been discussed in Discord, so checking - are there any objections? - no objections
@@ -86,3 +84,19 @@ We said 2 meetings ago that **we would follow up with Harris after F7 parameter 
 In last meeting there was some confusion over payment for writing future CGO proposal. List of outstanding items said “payment for writing F9 proposal” and ofc there isn’t an F9 proposal, but I believe it should have said “payment for writing F10 proposal”. Correct?Are we planning to submit something for F10 if there’s a suitable challenge? If yes, we can keep it on agenda and in budget plan.
 
 Yes - allocate to F10 CGO proposal and discuss async
+
+
+
+## 2 - CGO Treasury
+
+Andre & Miroslav - after what has been paid, what is left?.
+
+[https://docs.google.com/spreadsheets/d/1v8EySgaWqoYlOVxHAjKKufj24x8CPn-no33EUPZP8sw/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1v8EySgaWqoYlOVxHAjKKufj24x8CPn-no33EUPZP8sw/edit?usp=sharing)
+
+Last meeting we said we’ll receive $ 6860 on Mon; will pay all TH slides and project management, and pay Treasury management in full. Yes received and paid
+
+Items left to pay for CGO 8 should therefore be: (Reports, Retros, Surveys) = “Deliverables”; Prep of F10 proposal (agreed); closing report.
+
+F7 proposal final payment - deliverables, close out report and project management are still to be paid? (Treasury management?)
+
+No objections to paying Treasury $1000 - PM $2000 - Remainder to use Phil K system&#x20;
