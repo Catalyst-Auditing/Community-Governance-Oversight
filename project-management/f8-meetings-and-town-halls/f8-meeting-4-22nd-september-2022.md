@@ -41,13 +41,15 @@ description: >-
 
 ## Information
 
-### Community Governance Oversight (CGO)
+### Community Governance Oversight (CGO) Proposals
 
-[F7 Ideascale Proposal](https://cardano.ideascale.com/c/idea/383517)
+{% hint style="info" %}
+[F7 Ideascale Proposal](https://cardano.ideascale.com/c/idea/383517) - Ideascale
+{% endhint %}
 
-[F8 Ideascale proposal](https://cardano.ideascale.com/c/idea/398225)
-
-{% embed url="https://quality-assurance-dao.gitbook.io/community-governance-oversight/" %}
+{% hint style="info" %}
+[F8 Ideascale proposal](https://cardano.ideascale.com/c/idea/398225) - Ideascale
+{% endhint %}
 
 ## Agenda
 
