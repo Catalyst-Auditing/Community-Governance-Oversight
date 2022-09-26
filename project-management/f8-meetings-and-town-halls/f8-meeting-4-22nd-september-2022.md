@@ -71,7 +71,9 @@ description: >-
 **We should have received final F7 payment last week** - did we? - and we agreed to pilot Phil’s community redistribution model for the “deliverables” portion of that - updates? how do we initiate that? - have side meeting to discuss further - Phil K
 {% endhint %}
 
-Vani was supposed to share the Parameters reporting google form in Discord - didn’t, sorry - it’s here https://forms.gle/EtxhcmnJUv7nP1KB9 and is on agenda
+{% hint style="info" %}
+**Vanessa was supposed to share the Parameters reporting google form in Discord** - didn’t, sorry - it’s here https://forms.gle/EtxhcmnJUv7nP1KB9 and is on agenda
+{% endhint %}
 
 We said 2 meetings ago that we would follow up with Harris after F7 parameter changes meeting. Haven’t yet. It’s on agenda.
 
