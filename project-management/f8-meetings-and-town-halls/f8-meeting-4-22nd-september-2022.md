@@ -59,8 +59,6 @@ description: >-
 **New documentation process** - has been discussed in Discord, so checking - are there any objections? - no objections
 {% endhint %}
 
-
-
 {% hint style="info" %}
 **Adding something to F9 IOG survey (Phil)** - is this in progress? Any updates? - not happening
 {% endhint %}
@@ -95,8 +93,6 @@ Andre & Miroslav - after what has been paid, what is left?.
 [Fund 7 Community Governance Oversight USD status](https://docs.google.com/spreadsheets/d/1v8EySgaWqoYlOVxHAjKKufj24x8CPn-no33EUPZP8sw/edit?usp=sharing)
 {% endhint %}
 
-
-
 Last meeting we said we’ll receive $ 6860 on Mon; will pay all TH slides and project management, and pay Treasury management in full. Yes received and paid
 
 Items left to pay for CGO 8 should therefore be: (Reports, Retros, Surveys) = “Deliverables”; Prep of F10 proposal (agreed); closing report.
@@ -105,4 +101,20 @@ F7 proposal final payment - deliverables, close out report and project managemen
 
 {% hint style="info" %}
 **Action -** No objections to paying Treasury $1000 - PM $2000 from F7 and remainder to be distributed using Phil K's system&#x20;
+{% endhint %}
+
+
+
+## 3 - Town Hall Slides
+
+Allison - Updates on Town Hall Slides
+
+[https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/110](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/110)
+
+{% hint style="info" %}
+**Note** - Suggestion last meeting was to use CGO TH slides and newsletter to help inform people about CCv4 election as soon as we know details.
+{% endhint %}
+
+{% hint style="info" %}
+**Action** - Next slides - advertise dRep white paper - Wednesday 5th October 2022
 {% endhint %}
