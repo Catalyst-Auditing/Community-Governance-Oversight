@@ -265,7 +265,7 @@ Next steps - can we agree which of these we will do, prioritise, and say who wil
 
 
 
-## CGO Proposal Reporting&#x20;
+## 5 - CGO Proposal Reporting&#x20;
 
 ### F7 CGO Proposal Reporting
 
@@ -277,14 +277,14 @@ Yes - Stephen W
 
 &#x20;https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/92
 
-## F10 proposal?&#x20;
+## 6 - F10 proposal?&#x20;
 
 If we are doing one, who will work on it? Convene a side meeting once we know voting results and what challenges there are?
 
-## Summary of CGO meeting for Catalyst Weekly Newsletter&#x20;
+## 7 - Summary of CGO meeting for Catalyst Weekly Newsletter&#x20;
 
 Danny’s away for a couple of weeks so there will not be a newsletter. So Kriss Bard is not stepping up ? ;)
 
-## AOB?&#x20;
+## 8 - AOB?&#x20;
 
 Divert part of budget - either F7 or F8 - for continued meetings after end of F8? Keep it on a project basis (Kenric)
