@@ -41,6 +41,12 @@ description: >-
 
 ## Information
 
+{% hint style="info" %}
+CGO Project Board -
+
+[https://github.com/orgs/Catalyst-Auditing/projects/3/views/1](https://github.com/orgs/Catalyst-Auditing/projects/3/views/1)
+{% endhint %}
+
 ### Community Governance Oversight (CGO) Proposals
 
 {% hint style="info" %}
@@ -118,3 +124,25 @@ Allison - Updates on Town Hall Slides
 {% hint style="info" %}
 **Action** - Next slides - advertise dRep white paper - Wednesday 5th October 2022
 {% endhint %}
+
+
+
+#### 5.1 Challenge Setting <a href="#docs-internal-guid-848d2b87-7fff-4c86-8d26-c11965a2c43d" id="docs-internal-guid-848d2b87-7fff-4c86-8d26-c11965a2c43d"></a>
+
+What is the scope of F8 Challenge Setting oversight ?
+
+Issue :&#x20;
+
+[https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/88](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/88)
+
+\
+
+
+* George’s Meeting w Kriss on Fri postponed. Any updates? Tomorrow
+* We planned to decide details of this deliverable after George’s meeting with Kriss. Still sticking to that?&#x20;
+* What has the community understanding and debate been?
+* Intent (what people thought the intent was) vs what was achieved- this is for an F10 CGo proposal really tho, cos we won’t know until after end of this proposal’s work
+* Recent after town hall - [https://www.youtube.com/watch?v=lt0Efbtngnc](https://www.youtube.com/watch?v=lt0Efbtngnc)
+*
+  * 1:07 - Talks about categorisation
+  * 1:23 - Kriss talks about issues with challenge settings & initial thoughts for next steps
