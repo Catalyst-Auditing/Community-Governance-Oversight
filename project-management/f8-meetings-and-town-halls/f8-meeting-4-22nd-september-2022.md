@@ -137,10 +137,10 @@ What is the scope of F8 Challenge Setting oversight ?
 Issue : [https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/88](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/88)
 {% endhint %}
 
-* George’s Meeting w Kriss on Fri postponed. Any updates? Tomorrow
-* We planned to decide details of this deliverable after George’s meeting with Kriss. Still sticking to that?&#x20;
+* George Lovegrove's meeting with Kriss Baird postponed until Friday, 23rd September 2022. Updates to follow.
+* We planned to decide details of this deliverable after George’s meeting with Kriss. &#x20;
 * What has the community understanding and debate been?
-* Intent (what people thought the intent was) vs what was achieved- this is for an F10 CGo proposal really tho, cos we won’t know until after end of this proposal’s work
+* Intent (what people thought the intent was) vs what was achieved- this is for an F10 CGO proposal really tho, cos we won’t know until after end of this proposal’s work
 * Recent after town hall - [https://www.youtube.com/watch?v=lt0Efbtngnc](https://www.youtube.com/watch?v=lt0Efbtngnc)
 *
   * 1:07 - Talks about categorisation
