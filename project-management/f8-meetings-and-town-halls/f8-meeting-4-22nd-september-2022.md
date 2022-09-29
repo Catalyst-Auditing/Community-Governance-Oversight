@@ -187,27 +187,27 @@ As the first iteration of dRep is implemented the resources in the dRep White Pa
 Set a stage of educating to understand dReps and open up more discussion for further details and experiments
 
 {% hint style="info" %}
-Action - Ask IOG to notify dReps
+**Action** - Ask IOG to notify dReps
 {% endhint %}
 
 {% hint style="info" %}
-Action - Thorsten to book Gimbalabs playground session
+**Action** - Thorsten to book Gimbalabs playground session
 {% endhint %}
 
 {% hint style="info" %}
-Action - Take to Africa Town Hall and/or ETH as well - Thorsten / Stephen
+**Action** - Take to Africa Town Hall and/or ETH as well - Thorsten / Stephen
 {% endhint %}
 
 {% hint style="info" %}
-Action - Submit an Oversight challenge for F11?
+**Action** - Submit an Oversight challenge for F11?
 {% endhint %}
 
 {% hint style="info" %}
-Action - F10 - dRep Oversight proposal - aimed at accountability
+**Action** - F10 - dRep Oversight proposal - aimed at accountability
 {% endhint %}
 
 {% hint style="info" %}
-Action - F10 - dRep White Paper continuation - in CGO F10 or separate proposal
+**Action** - F10 - dRep White Paper continuation - in CGO F10 or separate proposal
 {% endhint %}
 
 
