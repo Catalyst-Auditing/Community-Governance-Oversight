@@ -150,6 +150,10 @@ Issue : [https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coo
 
 
 
+How are decisions being made in respect of Challenge Settting (eg whether to reform etc) in the abscence of a vote ? - Stephen W
+
+
+
 ## 4.2 Catalyst Circle Oversight <a href="#docs-internal-guid-fa241523-7fff-d215-efd3-8170bb6b8663" id="docs-internal-guid-fa241523-7fff-d215-efd3-8170bb6b8663"></a>
 
 What is the scope of F8 Catalyst Circle Oversight ?
