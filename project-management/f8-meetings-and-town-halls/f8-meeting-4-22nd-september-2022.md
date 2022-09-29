@@ -127,16 +127,15 @@ Allison - Updates on Town Hall Slides
 
 
 
-#### 5.1 Challenge Setting <a href="#docs-internal-guid-848d2b87-7fff-4c86-8d26-c11965a2c43d" id="docs-internal-guid-848d2b87-7fff-4c86-8d26-c11965a2c43d"></a>
+## 4 - F8 CGO ScopF8 CGO Scope & Deliverables
+
+## 4.1 Challenge Setting <a href="#docs-internal-guid-848d2b87-7fff-4c86-8d26-c11965a2c43d" id="docs-internal-guid-848d2b87-7fff-4c86-8d26-c11965a2c43d"></a>
 
 What is the scope of F8 Challenge Setting oversight ?
 
-Issue :&#x20;
-
-[https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/88](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/88)
-
-\
-
+{% hint style="info" %}
+Issue : [https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/88](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/88)
+{% endhint %}
 
 * George’s Meeting w Kriss on Fri postponed. Any updates? Tomorrow
 * We planned to decide details of this deliverable after George’s meeting with Kriss. Still sticking to that?&#x20;
