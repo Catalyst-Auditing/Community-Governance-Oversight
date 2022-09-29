@@ -182,24 +182,34 @@ Please take advantage of any other venues to discuss or communicate the White Pa
 
 As the first iteration of dRep is implemented the resources in the dRep White Paper will be highlighted on social media channels as appropriate. All to participate where appropriate.
 
-
-
-Outreach
+#### Outreach
 
 Set a stage of educating to understand dReps and open up more discussion for further details and experiments
 
-Ask IOG to notify dReps -&#x20;
+{% hint style="info" %}
+Action - Ask IOG to notify dReps
+{% endhint %}
 
-Thorsten to book Gimbalabs playground session
+{% hint style="info" %}
+Action - Thorsten to book Gimbalabs playground session
+{% endhint %}
 
-Take to Africa Town Hall and/or ETH as well - Thorsten / Stephen
+{% hint style="info" %}
+Action - Take to Africa Town Hall and/or ETH as well - Thorsten / Stephen
+{% endhint %}
 
-submit an Oversight challenge for F11?
+{% hint style="info" %}
+Action - Submit an Oversight challenge for F11?
+{% endhint %}
 
-&#x20; &#x20;
+{% hint style="info" %}
+Action - F10 - dRep Oversight proposal - aimed at accountability
+{% endhint %}
 
-F10 - dRep Oversight proposal - aimed at accountability
+{% hint style="info" %}
+Action - F10 - dRep White Paper continuation - in CGO F10 or separate proposal
+{% endhint %}
 
-F10 - dRep White Paper continuation - in CGO F10 or seperate proposal
+
 
 \
