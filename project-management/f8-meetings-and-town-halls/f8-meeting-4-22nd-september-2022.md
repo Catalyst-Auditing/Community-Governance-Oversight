@@ -41,6 +41,12 @@ description: >-
 
 ## Information
 
+{% hint style="info" %}
+CGO Project Board -
+
+[https://github.com/orgs/Catalyst-Auditing/projects/3/views/1](https://github.com/orgs/Catalyst-Auditing/projects/3/views/1)
+{% endhint %}
+
 ### Community Governance Oversight (CGO) Proposals
 
 {% hint style="info" %}
@@ -118,3 +124,91 @@ Allison - Updates on Town Hall Slides
 {% hint style="info" %}
 **Action** - Next slides - advertise dRep white paper - Wednesday 5th October 2022
 {% endhint %}
+
+
+
+## 4 - F8 CGO ScopF8 CGO Scope & Deliverables
+
+## 4.1 Challenge Setting <a href="#docs-internal-guid-848d2b87-7fff-4c86-8d26-c11965a2c43d" id="docs-internal-guid-848d2b87-7fff-4c86-8d26-c11965a2c43d"></a>
+
+What is the scope of F8 Challenge Setting oversight ?
+
+{% hint style="info" %}
+Issue : [https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/88](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/88)
+{% endhint %}
+
+* George’s Meeting w Kriss on Fri postponed. Any updates? Tomorrow
+* We planned to decide details of this deliverable after George’s meeting with Kriss. Still sticking to that?&#x20;
+* What has the community understanding and debate been?
+* Intent (what people thought the intent was) vs what was achieved- this is for an F10 CGo proposal really tho, cos we won’t know until after end of this proposal’s work
+* Recent after town hall - [https://www.youtube.com/watch?v=lt0Efbtngnc](https://www.youtube.com/watch?v=lt0Efbtngnc)
+*
+  * 1:07 - Talks about categorisation
+  * 1:23 - Kriss talks about issues with challenge settings & initial thoughts for next steps
+
+
+
+## 4.3 d-Reps <a href="#docs-internal-guid-f0968a28-7fff-0abd-e3bb-05dfee5473b9" id="docs-internal-guid-f0968a28-7fff-0abd-e3bb-05dfee5473b9"></a>
+
+Quick update from Kenric/Thorsten/Stephen
+
+### Planned dRep White Paper Release timeline
+
+#### 20th September 2022 to 4th October 2022 (at the latest)
+
+Kenric and Stephen W have final edit access for a "sanity check" - ongoing
+
+#### Friday, 23rd September 2022
+
+Project Catalyst Weekly Newsletter will trail / advertise release of White Paper - Stephen W to contact Kriss Baird \[Cancelled]
+
+#### Tuesday, 4th October 2022
+
+A final release meeting will be held and the White Paper released directly afterwards. - All This will also draw attention to an ATH on the 5th October 2022 Paper released on social media channels - Stephen W & Thorsten
+
+#### Wednesday 5th October 2022
+
+Catalyst After Town Hall -A discussion of the dRep White Paper Thorsten to arrange
+
+#### Saturday, 8th October 2022
+
+Swarm session -A discussion of the dRep White Paper Thorsten to arrange
+
+#### Any other Venues ?
+
+Please take advantage of any other venues to discuss or communicate the White Paper.
+
+#### During dRep implementation
+
+As the first iteration of dRep is implemented the resources in the dRep White Paper will be highlighted on social media channels as appropriate. All to participate where appropriate.
+
+
+
+
+
+
+
+
+
+\
+
+
+&#x20;   Outreach
+
+Set a stage of educating to understand dReps and open up more discussion for further details and experiments
+
+Ask IOG to notify dReps -&#x20;
+
+Thorsten to book Gimbalabs playground session
+
+Take to Africa Town Hall and/or ETH as well - Thorsten / Stephen
+
+submit an Oversight challenge for F11?
+
+&#x20; &#x20;
+
+F10 - dRep Oversight proposal - aimed at accountability
+
+F10 - dRep White Paper continuation - in CGO F10 or seperate proposal
+
+\
