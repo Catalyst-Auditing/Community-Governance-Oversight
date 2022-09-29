@@ -127,9 +127,9 @@ Allison - Updates on Town Hall Slides
 
 
 
-## 4 - F8 CGO ScopF8 CGO Scope & Deliverables
+## 4 - F8 CGO Scope & Deliverables
 
-## 4.1 Challenge Setting <a href="#docs-internal-guid-848d2b87-7fff-4c86-8d26-c11965a2c43d" id="docs-internal-guid-848d2b87-7fff-4c86-8d26-c11965a2c43d"></a>
+## 4.1 - Challenge Setting <a href="#docs-internal-guid-848d2b87-7fff-4c86-8d26-c11965a2c43d" id="docs-internal-guid-848d2b87-7fff-4c86-8d26-c11965a2c43d"></a>
 
 What is the scope of F8 Challenge Setting oversight ?
 
@@ -148,7 +148,46 @@ Issue : [https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coo
 
 
 
-## 4.3 d-Reps <a href="#docs-internal-guid-f0968a28-7fff-0abd-e3bb-05dfee5473b9" id="docs-internal-guid-f0968a28-7fff-0abd-e3bb-05dfee5473b9"></a>
+## 4.2 Catalyst Circle Oversight <a href="#docs-internal-guid-fa241523-7fff-d215-efd3-8170bb6b8663" id="docs-internal-guid-fa241523-7fff-d215-efd3-8170bb6b8663"></a>
+
+What is the scope of F8 Catalyst Circle Oversight ?
+
+{% hint style="info" %}
+Issue : [https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/89](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/89)&#x20;
+{% endhint %}
+
+Issue raised in a recent CCv3 meeting- if Circle are paid via a parameter change, they will need to log what they do. Felix has approached CGO for any input we might have on how this could be done. Is this in scope for CGO’s oversight of Circle? If yes, do we have capacity?
+
+capacity issues - so probably not
+
+is it something CGO should do?
+
+we could look at what they propose, rather than trying to steer it
+
+CC Admin as was (Gov Services Guild) - we don’t want to step on their toes
+
+if they need help to have oversight, we could advise them with the knowledge we have.&#x20;
+
+Looking at whether they are followinmg their plan or not. We (CGO) should oversee; CC Admin should design and plan. If we have oversight, we canot be the ones who design the process. (Thorsten)
+
+We should be looking at “how do we make decisions (Phil) Decision making models.
+
+Voltaire principles, and is what they are doing in line with it? and “Circle - what are you trying to do?”
+
+Issue that Circle decides how to verify its own process…
+
+we shouldn’t get invoved (Matthias) - Working group is OK but they’re not legitimate as Circle - doing oversight for them gives them legitimacy
+
+Shoulkd our Circle oversight for F8 include writing up the isues that we think have been problematic re legitimacy
+
+* How will we maintain oversight of the election process and results - what data will we collect?
+* Who will gather oversight  info on how the election was designed and structured? (Vani has some, via Circle oversight)&#x20;
+* What is the overlap between Circle oversight and “parameter changes”?
+
+\
+
+
+## 4.3 - d-Reps <a href="#docs-internal-guid-f0968a28-7fff-0abd-e3bb-05dfee5473b9" id="docs-internal-guid-f0968a28-7fff-0abd-e3bb-05dfee5473b9"></a>
 
 Quick update from Kenric/Thorsten/Stephen
 
