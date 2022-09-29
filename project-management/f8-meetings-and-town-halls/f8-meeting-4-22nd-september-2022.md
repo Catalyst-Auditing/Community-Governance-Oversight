@@ -143,8 +143,8 @@ Issue : [https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coo
 * Intent (what people thought the intent was) vs what was achieved- this is for an F10 CGO proposal really tho, cos we won’t know until after end of this proposal’s work
 * Recent after town hall - [https://www.youtube.com/watch?v=lt0Efbtngnc](https://www.youtube.com/watch?v=lt0Efbtngnc)
 *
-  * 1:07 - Talks about categorisation
-  * 1:23 - Kriss talks about issues with challenge settings & initial thoughts for next steps
+  * [1:07](https://youtu.be/lt0Efbtngnc?t=4017) - Talks about categorisation
+  * [1:23](https://youtu.be/lt0Efbtngnc?t=4987) - Kriss talks about issues with challenge settings & initial thoughts for next steps
 
 
 
