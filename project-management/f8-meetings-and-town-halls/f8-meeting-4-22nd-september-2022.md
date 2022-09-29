@@ -262,3 +262,29 @@ Parameter changes register - can we launch it? Via this form? Yes https://forms.
 Quick update from Andre/Phil on the platform they are developing
 
 Next steps - can we agree which of these we will do, prioritise, and say who will do them? Selecting which parameters to focus on? Researching any details of the selected parameters that we still do not know? Following up with Harris after the F7 meeting on details of IOG’s current process? Defining broad categories of parameters? Suggesting a process that IOG or anyone else should follow to launch a parameter change? Suggesting how to determine what is sufficient community consultation? decision-making tree (is decision urgent, etc) using info from Jeremy’s Miro https://miro.com/app/board/uXjVOsELu0U=/ - to categorize parameters
+
+
+
+## CGO Proposal Reporting&#x20;
+
+### F7 CGO Proposal Reporting
+
+&#x20;\- can we take this standing item off the agenda now F7 is complete? https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/91
+
+Yes - Stephen W
+
+### F8 CGO Proposal Reporting
+
+&#x20;https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/92
+
+## F10 proposal?&#x20;
+
+If we are doing one, who will work on it? Convene a side meeting once we know voting results and what challenges there are?
+
+## Summary of CGO meeting for Catalyst Weekly Newsletter&#x20;
+
+Danny’s away for a couple of weeks so there will not be a newsletter. So Kriss Bard is not stepping up ? ;)
+
+## AOB?&#x20;
+
+Divert part of budget - either F7 or F8 - for continued meetings after end of F8? Keep it on a project basis (Kenric)
