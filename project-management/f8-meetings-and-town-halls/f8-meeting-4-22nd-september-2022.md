@@ -42,7 +42,7 @@ description: >-
 ## Information
 
 {% hint style="info" %}
-CGO Project Board -
+**CGO Project Board** -
 
 [https://github.com/orgs/Catalyst-Auditing/projects/3/views/1](https://github.com/orgs/Catalyst-Auditing/projects/3/views/1)
 {% endhint %}
@@ -184,16 +184,7 @@ As the first iteration of dRep is implemented the resources in the dRep White Pa
 
 
 
-
-
-
-
-
-
-\
-
-
-&#x20;   Outreach
+Outreach
 
 Set a stage of educating to understand dReps and open up more discussion for further details and experiments
 
