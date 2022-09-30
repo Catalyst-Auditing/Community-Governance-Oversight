@@ -172,13 +172,13 @@ Is it something CGO should do?
 
 We could look at what they propose, rather than trying to steer it
 
-We should liaise CC Admin as was (Governance Services Guild) - we don’t want to step on their toes
+We should liaise with CC Admin as was (Governance Services Guild) - we don’t want to step on their toes
 
-if they need help to have oversight, we could advise them with the knowledge we have.&#x20;
+if they need help to have oversight we could advise them with the knowledge we have.&#x20;
 
 Looking at whether they are following their plan or not. We (CGO) should oversee; CC Admin should design and plan. If we have oversight, we cannot be the ones who design the process. - Thorsten
 
-We should be looking at “how do we make decisions. Decision making models. - Phil
+We should be looking at “how do we make decisions". Decision making models. - Phil
 
 Is Circle currently following the spirit of the Voltaire principles. What is Circle trying to achieved ?
 
@@ -191,17 +191,17 @@ Should our Circle oversight for F8 include writing up the issues that we think h
 ### Circle election process
 
 {% hint style="info" %}
-Action - How will we maintain oversight of the election process and results - what data will we collect?
+**Action** - How will we maintain oversight of the election process and results - what data will we collect?
 {% endhint %}
 
 {% hint style="info" %}
-Action - Who will gather oversight  info on how the election was designed and structured? (Vani has some, via Circle oversight)&#x20;
+**Action** - Who will gather oversight  info on how the election was designed and structured? (Vani has some, via Circle oversight)&#x20;
 {% endhint %}
 
 ### Circle and parameter changes
 
 {% hint style="info" %}
-Action - What is the overlap between Circle oversight and “parameter changes”?
+**Action** - What is the overlap between Circle oversight and “parameter changes”?
 {% endhint %}
 
 ## 4.3 - d-Reps <a href="#docs-internal-guid-f0968a28-7fff-0abd-e3bb-05dfee5473b9" id="docs-internal-guid-f0968a28-7fff-0abd-e3bb-05dfee5473b9"></a>
