@@ -170,7 +170,7 @@ CGO has limited capacity so probably not.
 
 Is it something CGO should do?
 
-We could look at what they propose, rather than trying to steer it
+We could look at what they propose rather than trying to steer it.
 
 We should liaise with CC Admin as was (Governance Services Guild) - we don’t want to step on their toes
 
