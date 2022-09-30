@@ -148,9 +148,9 @@ Issue : [https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coo
 * [1:07](https://youtu.be/lt0Efbtngnc?t=4017) - Talks about categorisation
 * [1:23](https://youtu.be/lt0Efbtngnc?t=4987) - Kriss talks about issues with challenge settings & initial thoughts for next steps
 
+How are decisions being made in respect of Challenge Setting (eg whether to reform etc) in the abscence of a vote ? - Stephen W
 
-
-How are decisions being made in respect of Challenge Settting (eg whether to reform etc) in the abscence of a vote ? - Stephen W
+Suggest aiming for a summary of the issues we have discussed to date on how any changes are to be made to Challenge Setting. Via a vote, IOG approval etc. And try to identify what the intent of any changes should be - so this can be tested. This summary would then form part of the F8 CGO final report or be a retrospective where further input is invited from the community - Stephen W
 
 
 
