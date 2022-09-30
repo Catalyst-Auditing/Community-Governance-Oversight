@@ -190,15 +190,19 @@ Should our Circle oversight for F8 include writing up the issues that we think h
 
 ### Circle election process
 
-* How will we maintain oversight of the election process and results - what data will we collect?
-* Who will gather oversight  info on how the election was designed and structured? (Vani has some, via Circle oversight)&#x20;
+{% hint style="info" %}
+Action - How will we maintain oversight of the election process and results - what data will we collect?
+{% endhint %}
+
+{% hint style="info" %}
+Action - Who will gather oversight  info on how the election was designed and structured? (Vani has some, via Circle oversight)&#x20;
+{% endhint %}
 
 ### Circle and parameter changes
 
-* What is the overlap between Circle oversight and “parameter changes”?
-
-\
-
+{% hint style="info" %}
+Action - What is the overlap between Circle oversight and “parameter changes”?
+{% endhint %}
 
 ## 4.3 - d-Reps <a href="#docs-internal-guid-f0968a28-7fff-0abd-e3bb-05dfee5473b9" id="docs-internal-guid-f0968a28-7fff-0abd-e3bb-05dfee5473b9"></a>
 
