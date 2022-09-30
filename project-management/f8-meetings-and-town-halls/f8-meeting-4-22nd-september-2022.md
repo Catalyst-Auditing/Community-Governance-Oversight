@@ -148,9 +148,9 @@ Issue : [https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coo
 * [1:07](https://youtu.be/lt0Efbtngnc?t=4017) - Talks about categorisation
 * [1:23](https://youtu.be/lt0Efbtngnc?t=4987) - Kriss talks about issues with challenge settings & initial thoughts for next steps
 
-How are decisions being made in respect of Challenge Setting (eg whether to reform etc) in the abscence of a vote ? - Stephen W
 
-Suggest aiming for a summary of the issues we have discussed to date on how any changes are to be made to Challenge Setting. Via a vote, IOG approval etc. And try to identify what the intent of any changes should be - so this can be tested. This summary would then form part of the F8 CGO final report or be a retrospective where further input is invited from the community - Stephen W
+
+How are decisions being made in respect of Challenge Settting (eg whether to reform etc) in the abscence of a vote ? - Stephen W
 
 
 
@@ -162,47 +162,36 @@ What is the scope of F8 Catalyst Circle Oversight ?
 Issue : [https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/89](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/89)&#x20;
 {% endhint %}
 
-### Circle payment via parameter change
-
 Issue raised in a recent CCv3 meeting- if Circle are paid via a parameter change, they will need to log what they do. Felix has approached CGO for any input we might have on how this could be done. Is this in scope for CGO’s oversight of Circle? If yes, do we have capacity?
 
-CGO has limited capacity so probably not.
+capacity issues - so probably not
 
-Is it something CGO should do?
+is it something CGO should do?
 
-We could look at what they propose rather than trying to steer it.
+we could look at what they propose, rather than trying to steer it
 
-We should liaise with CC Admin as was (Governance Services Guild) - we don’t want to step on their toes
+CC Admin as was (Gov Services Guild) - we don’t want to step on their toes
 
-if they need help to have oversight we could advise them with the knowledge we have.&#x20;
+if they need help to have oversight, we could advise them with the knowledge we have.&#x20;
 
-Looking at whether they are following their plan or not. We (CGO) should oversee; CC Admin should design and plan. If we have oversight, we cannot be the ones who design the process. - Thorsten
+Looking at whether they are followinmg their plan or not. We (CGO) should oversee; CC Admin should design and plan. If we have oversight, we canot be the ones who design the process. (Thorsten)
 
-We should be looking at “how do we make decisions". Decision making models. - Phil
+We should be looking at “how do we make decisions (Phil) Decision making models.
 
-Is Circle currently following the spirit of the Voltaire principles. What is Circle trying to achieved ?
+Voltaire principles, and is what they are doing in line with it? and “Circle - what are you trying to do?”
 
-Continuing legitimacy issue that Circle has decided to verify its own process
+Issue that Circle decides how to verify its own process…
 
-We shouldn’t get involved - Matthias - Working group is OK but they’re not legitimate as Circle - doing oversight for them gives them legitimacy
+we shouldn’t get invoved (Matthias) - Working group is OK but they’re not legitimate as Circle - doing oversight for them gives them legitimacy
 
-Should our Circle oversight for F8 include writing up the issues that we think have been problematic regarding legitimacy ?
+Shoulkd our Circle oversight for F8 include writing up the isues that we think have been problematic re legitimacy
 
-### Circle election process
+* How will we maintain oversight of the election process and results - what data will we collect?
+* Who will gather oversight  info on how the election was designed and structured? (Vani has some, via Circle oversight)&#x20;
+* What is the overlap between Circle oversight and “parameter changes”?
 
-{% hint style="info" %}
-**Action** - How will we maintain oversight of the election process and results - what data will we collect?
-{% endhint %}
+\
 
-{% hint style="info" %}
-**Action** - Who will gather oversight  info on how the election was designed and structured? (Vani has some, via Circle oversight)&#x20;
-{% endhint %}
-
-### Circle and parameter changes
-
-{% hint style="info" %}
-**Action** - What is the overlap between Circle oversight and “parameter changes”?
-{% endhint %}
 
 ## 4.3 - d-Reps <a href="#docs-internal-guid-f0968a28-7fff-0abd-e3bb-05dfee5473b9" id="docs-internal-guid-f0968a28-7fff-0abd-e3bb-05dfee5473b9"></a>
 
