@@ -172,11 +172,11 @@ Is it something CGO should do?
 
 We could look at what they propose, rather than trying to steer it
 
-We should liasie CC Admin as was (Governance Services Guild) - we don’t want to step on their toes
+We should liaise CC Admin as was (Governance Services Guild) - we don’t want to step on their toes
 
 if they need help to have oversight, we could advise them with the knowledge we have.&#x20;
 
-Looking at whether they are followinmg their plan or not. We (CGO) should oversee; CC Admin should design and plan. If we have oversight, we canot be the ones who design the process. - Thorsten
+Looking at whether they are following their plan or not. We (CGO) should oversee; CC Admin should design and plan. If we have oversight, we cannot be the ones who design the process. - Thorsten
 
 We should be looking at “how do we make decisions. Decision making models. - Phil
 
@@ -184,7 +184,7 @@ Is Circle currently following the spirit of the Voltaire principles. What is Cir
 
 Continuing legitimacy issue that Circle has decided to verify its own process
 
-We shouldn’t get invoved - Matthias - Working group is OK but they’re not legitimate as Circle - doing oversight for them gives them legitimacy
+We shouldn’t get involved - Matthias - Working group is OK but they’re not legitimate as Circle - doing oversight for them gives them legitimacy
 
 Should our Circle oversight for F8 include writing up the issues that we think have been problematic regarding legitimacy ?
 
