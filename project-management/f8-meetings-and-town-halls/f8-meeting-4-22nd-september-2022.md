@@ -166,13 +166,13 @@ Issue : [https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coo
 
 Issue raised in a recent CCv3 meeting- if Circle are paid via a parameter change, they will need to log what they do. Felix has approached CGO for any input we might have on how this could be done. Is this in scope for CGO’s oversight of Circle? If yes, do we have capacity?
 
-capacity issues - so probably not
+CGO has limited capacity so probably not.
 
-is it something CGO should do?
+Is it something CGO should do?
 
-we could look at what they propose, rather than trying to steer it
+We could look at what they propose, rather than trying to steer it
 
-CC Admin as was (Gov Services Guild) - we don’t want to step on their toes
+We should liasie CC Admin as was (Governance Services Guild) - we don’t want to step on their toes
 
 if they need help to have oversight, we could advise them with the knowledge we have.&#x20;
 
