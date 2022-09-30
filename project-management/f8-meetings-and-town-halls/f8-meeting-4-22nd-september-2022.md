@@ -162,6 +162,8 @@ What is the scope of F8 Catalyst Circle Oversight ?
 Issue : [https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/89](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/89)&#x20;
 {% endhint %}
 
+### Circle payment via parameter change
+
 Issue raised in a recent CCv3 meeting- if Circle are paid via a parameter change, they will need to log what they do. Felix has approached CGO for any input we might have on how this could be done. Is this in scope for CGO’s oversight of Circle? If yes, do we have capacity?
 
 capacity issues - so probably not
@@ -184,10 +186,15 @@ Issue that Circle decides how to verify its own process…
 
 we shouldn’t get invoved (Matthias) - Working group is OK but they’re not legitimate as Circle - doing oversight for them gives them legitimacy
 
-Shoulkd our Circle oversight for F8 include writing up the isues that we think have been problematic re legitimacy
+Should our Circle oversight for F8 include writing up the isues that we think have been problematic regarding legitimacy ?
+
+### Circle election process
 
 * How will we maintain oversight of the election process and results - what data will we collect?
 * Who will gather oversight  info on how the election was designed and structured? (Vani has some, via Circle oversight)&#x20;
+
+### Circle and parameter changes
+
 * What is the overlap between Circle oversight and “parameter changes”?
 
 \
