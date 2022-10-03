@@ -89,8 +89,6 @@ In last meeting there was some confusion over payment for writing future CGO pro
 
 Yes - allocate to F10 CGO proposal and discuss async
 
-
-
 ## 2 - CGO Treasury
 
 Andre & Miroslav - after what has been paid, what is left?.
@@ -106,10 +104,8 @@ Items left to pay for CGO 8 should therefore be: (Reports, Retros, Surveys) = �
 F7 proposal final payment - deliverables, close out report and project management are still to be paid? (Treasury management?)
 
 {% hint style="info" %}
-**Action -** No objections to paying Treasury $1000 - PM $2000 from F7 and remainder to be distributed using Phil K's system&#x20;
+**Action -** No objections to paying Treasury $1000 - PM $2000 from F7 and remainder to be distributed using Phil K's system
 {% endhint %}
-
-
 
 ## 3 - Town Hall Slides
 
@@ -125,8 +121,6 @@ Allison - Updates on Town Hall Slides
 **Action** - Next slides - advertise dRep white paper - Wednesday 5th October 2022
 {% endhint %}
 
-
-
 ## 4 - F8 CGO Scope & Deliverables
 
 ## 4.1 - Challenge Setting <a href="#docs-internal-guid-848d2b87-7fff-4c86-8d26-c11965a2c43d" id="docs-internal-guid-848d2b87-7fff-4c86-8d26-c11965a2c43d"></a>
@@ -138,7 +132,7 @@ Issue : [https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coo
 {% endhint %}
 
 * George Lovegrove's meeting with Kriss Baird postponed until Friday, 23rd September 2022. Updates to follow.
-* We planned to decide details of this deliverable after George’s meeting with Kriss. &#x20;
+* We planned to decide details of this deliverable after George’s meeting with Kriss.
 * What has the community understanding and debate been?
 * Intent (what people thought the intent was) vs what was achieved- this is for an F10 CGO proposal really tho, cos we won’t know until after end of this proposal’s work
 * Recent after town hall
@@ -152,14 +146,12 @@ How are decisions being made in respect of Challenge Setting (eg whether to refo
 
 Suggest aiming for a summary of the issues we have discussed to date on how any changes are to be made to Challenge Setting. Via a vote, IOG approval etc. And try to identify what the intent of any changes should be - so this can be tested. This summary would then form part of the F8 CGO final report or be a retrospective where further input is invited from the community - Stephen W
 
-
-
 ## 4.2 Catalyst Circle Oversight <a href="#docs-internal-guid-fa241523-7fff-d215-efd3-8170bb6b8663" id="docs-internal-guid-fa241523-7fff-d215-efd3-8170bb6b8663"></a>
 
 What is the scope of F8 Catalyst Circle Oversight ?
 
 {% hint style="info" %}
-Issue : [https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/89](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/89)&#x20;
+Issue : [https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/89](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/89)
 {% endhint %}
 
 ### Circle payment via parameter change
@@ -174,7 +166,7 @@ We could look at what they propose rather than trying to steer it.
 
 We should liaise with CC Admin as was (Governance Services Guild) - we don’t want to step on their toes
 
-if they need help to have oversight we could advise them with the knowledge we have.&#x20;
+if they need help to have oversight we could advise them with the knowledge we have.
 
 Looking at whether they are following their plan or not. We (CGO) should oversee; CC Admin should design and plan. If we have oversight, we cannot be the ones who design the process. - Thorsten
 
@@ -195,7 +187,7 @@ Should our Circle oversight for F8 include writing up the issues that we think h
 {% endhint %}
 
 {% hint style="info" %}
-**Action** - Who will gather oversight  info on how the election was designed and structured? (Vani has some, via Circle oversight)&#x20;
+**Action** - Who will gather oversight info on how the election was designed and structured? (Vani has some, via Circle oversight)
 {% endhint %}
 
 ### Circle and parameter changes
@@ -266,11 +258,9 @@ Set a stage of educating to understand dReps and open up more discussion for fur
 **Action** - F10 - dRep White Paper continuation - in CGO F10 or separate proposal
 {% endhint %}
 
+## 4.4 - Governance parameters
 
-
-## 4.4 - Governance parameters&#x20;
-
-What is the scope of F8 Governance parameters ?&#x20;
+What is the scope of F8 Governance parameters ?
 
 {% hint style="info" %}
 Issue : https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/90
@@ -278,7 +268,7 @@ Issue : https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coor
 
 ### **Parameter changes register**
 
-Can we launch it? Via this form? Yes https://forms.gle/EtxhcmnJUv7nP1KB9&#x20;
+Can we launch it? Via this form? Yes https://forms.gle/EtxhcmnJUv7nP1KB9
 
 And shall we share the spreadsheet (view only) https://docs.google.com/spreadsheets/d/1BixYPVfyWSYIRhNK2qaRDwebZk-oCpkxfitE\_U2TBL0/edit?usp=sharing until such time as we have a platform? Show this later - following week
 
@@ -286,36 +276,36 @@ Quick update from Andre/Phil on the platform they are developing
 
 ### Next steps
 
-Can we agree which of these we will do, prioritise, and say who will do them?&#x20;
+Can we agree which of these we will do, prioritize, and say who will do them?
 
-- Selecting which parameters to focus on?&#x20;
-- Researching any details of the selected parameters that we still do not know?&#x20;
-- Following up with Harris after the F7 meeting on details of IOG’s current process?&#x20;
-- Defining broad categories of parameters?&#x20;
-- Suggesting a process that IOG or anyone else should follow to launch a parameter change?&#x20;
-- Suggesting how to determine what is sufficient community consultation?&#x20;
-- Decision-making tree (is decision urgent, etc) using info from Jeremy’s Miro https://miro.com/app/board/uXjVOsELu0U=/ - to categorize parameters
+* Selecting **which parameters to focus on?**
+* Researching any details of the selected parameters that we still do not know?
+* Following up with Harris after the F7 meeting on details of IOG’s current process?
+* Defining broad **categories of parameters?**
+* Suggesting a process that IOG or anyone else should follow to launch a parameter change?
+* Suggesting how to determine **what is sufficient community consultation?**
+* **Decision-making tree** (is decision urgent, etc) using info from Jeremy’s Miro https://miro.com/app/board/uXjVOsELu0U=/ - to categorize parameters
 
-## 5 - CGO Proposal Reporting&#x20;
+## 5 - CGO Proposal Reporting
 
 ### F7 CGO Proposal Reporting
 
-&#x20;\- can we take this standing item off the agenda now F7 is complete? https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/91
+\- can we take this standing item off the agenda now F7 is complete? https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/91
 
 Yes - Stephen W
 
 ### F8 CGO Proposal Reporting
 
-&#x20;https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/92
+https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/92
 
-## 6 - F10 proposal?&#x20;
+## 6 - F10 proposal?
 
 If we are doing one, who will work on it? Convene a side meeting once we know voting results and what challenges there are?
 
-## 7 - Summary of CGO meeting for Catalyst Weekly Newsletter&#x20;
+## 7 - Summary of CGO meeting for Catalyst Weekly Newsletter
 
 Danny’s away for a couple of weeks so there will not be a newsletter. So Kriss Bard is not stepping up ? ;)
 
-## 8 - AOB?&#x20;
+## 8 - AOB?
 
 Divert part of budget - either F7 or F8 - for continued meetings after end of F8? Keep it on a project basis (Kenric)
