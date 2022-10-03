@@ -296,11 +296,17 @@ Yes - Stephen W
 
 ### F8 CGO Proposal Reporting
 
-https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/92
+{% hint style="info" %}
+[https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/111](https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/111)
+{% endhint %}
 
 ## 6 - F10 proposal?
 
 If we are doing one, who will work on it? Convene a side meeting once we know voting results and what challenges there are?
+
+{% hint style="info" %}
+**Action Item** - Draft a F10 CGO proposal
+{% endhint %}
 
 ## 7 - Summary of CGO meeting for Catalyst Weekly Newsletter
 
