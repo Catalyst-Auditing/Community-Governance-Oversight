@@ -288,21 +288,13 @@ Quick update from Andre/Phil on the platform they are developing
 
 Can we agree which of these we will do, prioritise, and say who will do them?&#x20;
 
-Selecting which parameters to focus on?&#x20;
-
-Researching any details of the selected parameters that we still do not know?&#x20;
-
-Following up with Harris after the F7 meeting on details of IOG’s current process?&#x20;
-
-Defining broad categories of parameters?&#x20;
-
-Suggesting a process that IOG or anyone else should follow to launch a parameter change?&#x20;
-
-Suggesting how to determine what is sufficient community consultation?&#x20;
-
-Decision-making tree (is decision urgent, etc) using info from Jeremy’s Miro https://miro.com/app/board/uXjVOsELu0U=/ - to categorize parameters
-
-
+- Selecting which parameters to focus on?&#x20;
+- Researching any details of the selected parameters that we still do not know?&#x20;
+- Following up with Harris after the F7 meeting on details of IOG’s current process?&#x20;
+- Defining broad categories of parameters?&#x20;
+- Suggesting a process that IOG or anyone else should follow to launch a parameter change?&#x20;
+- Suggesting how to determine what is sufficient community consultation?&#x20;
+- Decision-making tree (is decision urgent, etc) using info from Jeremy’s Miro https://miro.com/app/board/uXjVOsELu0U=/ - to categorize parameters
 
 ## 5 - CGO Proposal Reporting&#x20;
 
