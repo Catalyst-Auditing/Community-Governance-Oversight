@@ -272,13 +272,21 @@ Set a stage of educating to understand dReps and open up more discussion for fur
 
 What is the scope of F8 Governance parameters ?&#x20;
 
+{% hint style="info" %}
 Issue : https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/90
+{% endhint %}
 
-Parameter changes register - can we launch it? Via this form? Yes https://forms.gle/EtxhcmnJUv7nP1KB9 And shall we share the spreadsheet (view only) https://docs.google.com/spreadsheets/d/1BixYPVfyWSYIRhNK2qaRDwebZk-oCpkxfitE\_U2TBL0/edit?usp=sharing until such time as we have a platform? Show this later - following week
+### **Parameter changes register**
+
+Can we launch it? Via this form? Yes https://forms.gle/EtxhcmnJUv7nP1KB9&#x20;
+
+And shall we share the spreadsheet (view only) https://docs.google.com/spreadsheets/d/1BixYPVfyWSYIRhNK2qaRDwebZk-oCpkxfitE\_U2TBL0/edit?usp=sharing until such time as we have a platform? Show this later - following week
 
 Quick update from Andre/Phil on the platform they are developing
 
-Next steps - can we agree which of these we will do, prioritise, and say who will do them? Selecting which parameters to focus on? Researching any details of the selected parameters that we still do not know? Following up with Harris after the F7 meeting on details of IOG’s current process? Defining broad categories of parameters? Suggesting a process that IOG or anyone else should follow to launch a parameter change? Suggesting how to determine what is sufficient community consultation? decision-making tree (is decision urgent, etc) using info from Jeremy’s Miro https://miro.com/app/board/uXjVOsELu0U=/ - to categorize parameters
+Next steps
+
+Can we agree which of these we will do, prioritise, and say who will do them? Selecting which parameters to focus on? Researching any details of the selected parameters that we still do not know? Following up with Harris after the F7 meeting on details of IOG’s current process? Defining broad categories of parameters? Suggesting a process that IOG or anyone else should follow to launch a parameter change? Suggesting how to determine what is sufficient community consultation? decision-making tree (is decision urgent, etc) using info from Jeremy’s Miro https://miro.com/app/board/uXjVOsELu0U=/ - to categorize parameters
 
 
 
