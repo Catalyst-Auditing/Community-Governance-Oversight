@@ -314,4 +314,4 @@ Danny’s away for a couple of weeks so there will not be a newsletter. So Kriss
 
 ## 8 - AOB?
 
-Divert part of budget - either F7 or F8 - for continued meetings after end of F8? Keep it on a project basis (Kenric)
+There was a discussion on whether to divert part of budget (of either F7 or F8) for continued meetings after end of F8. Inconclusive.
