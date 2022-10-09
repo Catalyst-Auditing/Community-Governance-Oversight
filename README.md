@@ -9,6 +9,12 @@ coverY: 0
 
 # Oversight of Governance Processes
 
+## Fund 8 CGO Releases its dRep Whitepaper
+
+{% embed url="https://youtu.be/aOKAzUg-hVY" %}
+
+##
+
 ## Check out out Fund 7 Report !
 
 ### Headlines
