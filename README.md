@@ -15,6 +15,12 @@ coverY: 0
 
 ##
 
+##
+
+[Link](https://docs.google.com/document/d/1LXtBMIk9NjvsrEMZkD2LvZO15giPDoJZj1xROUgDwl4/edit?usp=sharing)&#x20;
+
+{% embed url="https://docs.google.com/document/d/1LXtBMIk9NjvsrEMZkD2LvZO15giPDoJZj1xROUgDwl4/edit?usp=sharing" %}
+
 ## Check out out Fund 7 Report !
 
 ### Headlines
