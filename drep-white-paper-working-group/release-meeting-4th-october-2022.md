@@ -116,6 +116,8 @@ F10 dRep Oversight proposal - low budget - Thorsten, Stephen, CGO - now more tha
 
 ### Tuesday 1st November 1800 UTC - F10 proposal meeting
 
-Schedule date and share Google doc proposal
+{% hint style="info" %}
+F10 proposal meeting - Schedule date and share Google doc proposal - Stephen W
+{% endhint %}
 
 \
