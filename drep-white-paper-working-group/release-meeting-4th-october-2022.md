@@ -62,17 +62,7 @@ CGO Monthly Report due - 24th September 2022
 
 Please prepare Detailed Outline / final drafts of your section for the next meeting - All
 
-#### General Updates
-
-{% hint style="info" %}
-Final editing on paper by Kenric and "sanity check" by Stephen W
-{% endhint %}
-
 #### Public Release of White Paper
-
-{% hint style="info" %}
-23rd September 2022 - Weekly Newsletter this week ending - Stephen W & Kriss Baird
-{% endhint %}
 
 {% hint style="info" %}
 Meeting - Tuesday, 4th October 2022 - final release meeting - All
@@ -96,6 +86,36 @@ Invitations to discuss - Twitterspaces, Lidonation, Rhys, YouTube
 
 Observe dRep implementation and highlight White paper as a resource
 
+### Close out of F8 meeting&#x20;
+
+Lessons learnt - end of proposal report
+
+CGO F8 - close out meeting - from 14th November 2022
+
+#### F10 proposals&#x20;
+
+Stephs section has original data that could be evolved in proposal - Kenric
+
+Get into a scientific journal ? - Kenric
+
+Delivering value to community - deeper results immediately - Steph
+
+Making tools available to community - Kenric
+
+Products & Integrations challenge ?&#x20;
+
+Team effort - Steph
+
+Power index - dripdropz - 1 ADA / 1 Vote - Catalyst Circle Reps - Thorsten
+
+Be flexible in scope of F10 proposal top include non-dRep governance analysis - Stephen&#x20;
+
+Analysis is difficult - data is important - transparency double edged - makes voting less secure - Kenric
+
+F10 dRep Oversight proposal - low budget - Thorsten, Stephen, CGO - now more than 20k
+
+### Tuesday 1st November 1800 UTC - F10 proposal meeting
+
+Schedule date and share Google doc proposal
+
 \
-\
-\\
