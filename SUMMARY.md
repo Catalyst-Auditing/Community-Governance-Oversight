@@ -34,6 +34,7 @@
   * [Meeting - 16th August 2022](drep-white-paper-working-group/meeting-16th-august-2022.md)
   * [Meeting - 6th September 2022](drep-white-paper-working-group/meeting-6th-september-2022.md)
   * [Meeting - 20th September 2022](drep-white-paper-working-group/meeting-20th-september-2022.md)
+  * [Release Meeting - 4th October 2022](drep-white-paper-working-group/release-meeting-4th-october-2022.md)
 
 ## Parameters
 
