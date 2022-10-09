@@ -9,15 +9,14 @@
 | Kenric Nelson       | [Photrek](https://photrek.world/)                                 |
 | Steph Macurdy       | [Wolfram Blockchain Labs](https://www.wolframblockchainlabs.com/) |
 | Stephen Whitenstall | [QADAO](https://quality-assurance-dao.github.io/)                 |
-| Aharon Porath       | Consenz                                                           |
 | Thorsten Pottebaum  | adanamics ([linktree](https://linktr.ee/adanamics))               |
 
 ### Apologies
 
-|              |                                             |
-| ------------ | ------------------------------------------- |
-| Philip Lazos | [IOG](https://iohk.io/jp/team/philip-lazos) |
-|              |                                             |
+|               |                                             |
+| ------------- | ------------------------------------------- |
+| Philip Lazos  | [IOG](https://iohk.io/jp/team/philip-lazos) |
+| Aharon Porath | Consenz                                     |
 
 ## Information
 
@@ -52,32 +51,32 @@ Larger bonuses for two community reviewers for additional contributions - Andrii
 ### Research Project Planning - Stephen Whitenstall
 
 {% hint style="info" %}
-CGO Monthly Report due -  24th September 2022
+CGO Monthly Report due - 24th September 2022
 {% endhint %}
 
 ### Whitepaper
 
 Please prepare Detailed Outline / final drafts of your section for the next meeting - All
 
-#### General Updates&#x20;
+#### General Updates
 
 {% hint style="info" %}
 Final editing on paper by Kenric and "sanity check" by Stephen W
 {% endhint %}
 
-#### Public Release of White Paper&#x20;
+#### Public Release of White Paper
 
 {% hint style="info" %}
-23rd September 2022 - Weekly Newsletter this week ending - Stephen W & Kriss Baird&#x20;
+23rd September 2022 - Weekly Newsletter this week ending - Stephen W & Kriss Baird
 {% endhint %}
 
 {% hint style="info" %}
-Meeting - Tuesday, 4th October 2022 - final release meeting - All&#x20;
+Meeting - Tuesday, 4th October 2022 - final release meeting - All
 {% endhint %}
 
-Link to White Paper - showcase ATH&#x20;
+Link to White Paper - showcase ATH
 
-Social Media launch on the Tuesday&#x20;
+Social Media launch on the Tuesday
 
 {% hint style="info" %}
 After Town Hall - Wednesday 5th October 2022 - Thorsten to arrange
@@ -95,5 +94,4 @@ Observe dRep implementation and highlight White paper as a resource
 
 \
 \
-\
-
+\\
