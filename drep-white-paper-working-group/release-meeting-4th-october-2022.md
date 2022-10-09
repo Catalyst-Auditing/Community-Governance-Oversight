@@ -42,11 +42,15 @@ Documentation funded by [Fund 7 - QA-DAO Transcription Service](https://cardano.
 
 ### Brief Updates/Notices from each participant - All <a href="#docs-internal-guid-fe2ac060-7fff-1af0-bd95-10c20ff5f98a" id="docs-internal-guid-fe2ac060-7fff-1af0-bd95-10c20ff5f98a"></a>
 
-### Research Budget - Kenric Nelson
+Rebrand of Photrek by WADA - Kenric
 
-Baseline payments for community reviewers
+Bumping around F9 onboarding - Steph
 
-Larger bonuses for two community reviewers for additional contributions - Andrii Volostyn and Dr Andrew Fisher
+dApps Challenge team - Thorsten
+
+## Research Budget - Kenric Nelson
+
+No updates
 
 ### Research Project Planning - Stephen Whitenstall
 
