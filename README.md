@@ -13,9 +13,6 @@ coverY: 0
 
 {% embed url="https://youtu.be/aOKAzUg-hVY" %}
 
-##
-
-##
 
 [Link](https://docs.google.com/document/d/1LXtBMIk9NjvsrEMZkD2LvZO15giPDoJZj1xROUgDwl4/edit?usp=sharing)&#x20;
 
