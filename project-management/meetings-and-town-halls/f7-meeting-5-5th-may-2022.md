@@ -206,7 +206,7 @@ Issue
 Summary of CGO meeting for Catalyst Weekly Newsletter - All agree, in Discord, a short paragraph summarizing today's meeting&#x20;
 
 **Other governance initiatives in the community:**\
-&#x20;\- **Cardano Constitution Working Group** - gimbalabs - Matthias liaison [Feedback on this form](https://forms.gle/sgiuajUPRbLAZTST6) Well received feedback. Form translated. Related to tokenimics work **** \
+&#x20;\- **Cardano Constitution Working Group** - gimbalabs - Matthias liaison [Feedback on this form](https://forms.gle/sgiuajUPRbLAZTST6) Well received feedback. Form translated. Related to tokenimics work \
 **- Innovation Fund Architecture** - Research workshops and session - Tevo[\
 Miro board](https://miro.com/app/board/uXjVOQEPia4=/)  High level visual representation to see roles, actives and relations 3 sessions regarding proposal assessment role completed\
 Overview video planned\

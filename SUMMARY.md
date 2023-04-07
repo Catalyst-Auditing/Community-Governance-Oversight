@@ -86,8 +86,9 @@
   * [F8 Meeting 2 -28th July 2022](project-management/f8-meetings-and-town-halls/f8-meeting-2-28th-july-2022.md)
   * [F8 Meeting 3 -8th September 2022](project-management/f8-meetings-and-town-halls/f8-meeting-3-8th-september-2022.md)
   * [F8 Meeting 4 -22nd September 2022](project-management/f8-meetings-and-town-halls/f8-meeting-4-22nd-september-2022.md)
-  * [Town Hall 1: dRep community review](project-management/f8-meetings-and-town-halls/town-hall-1-drep-community-review.md)
-  * [After TownHall 2: dRep Whitepaper Launch](project-management/f8-meetings-and-town-halls/after-townhall-2-drep-whitepaper-launch.md)
+  * [Town Hall 1: dRep whitepaper community review](project-management/f8-meetings-and-town-halls/town-hall-1-drep-whitepaper-community-review.md)
+  * [Town Hall 2: dRep whitepaper launch](project-management/f8-meetings-and-town-halls/town-hall-2-drep-whitepaper-launch.md)
+  * [Swarm session on dRep Whitepaper](project-management/f8-meetings-and-town-halls/swarm-session-on-drep-whitepaper.md)
 
 ## Treasury
 

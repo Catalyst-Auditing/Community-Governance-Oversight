@@ -2,7 +2,7 @@
 description: After TownHall, 3rd August 2022
 ---
 
-# Town Hall 1: dRep community review
+# Town Hall 1: dRep whitepaper community review
 
 {% embed url="https://youtu.be/pWXN56E3NLA" %}
 

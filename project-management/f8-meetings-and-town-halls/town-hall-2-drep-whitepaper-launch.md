@@ -2,7 +2,7 @@
 description: 5th Oct 2022
 ---
 
-# After TownHall 2: dRep Whitepaper Launch
+# Town Hall 2: dRep whitepaper launch
 
 {% embed url="https://youtu.be/adEww_2b6I4" %}
 
