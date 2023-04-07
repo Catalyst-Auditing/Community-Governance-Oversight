@@ -10,7 +10,8 @@ Catalyst Swarm Session on October 8th with co-creators of the dRep whitepaper wh
 \
 Thorsten Pottebaum & Aharon Porath present the whitepaper and answer questions from community members. \
 \
-Whitepaper: [https://t.co/pdFUAK3E82](https://www.youtube.com/redirect?event=video\_description\&redir\_token=QUFFLUhqbXFUdjNzRE9NTDJnVFZqdTBweFBFdHhOdTZ4QXxBQ3Jtc0tuczVSMkEwcUZpN0gtWC0tU2d1UjhYRWdMdFl4MS1fRXhXS0JDeUVUczBBd2xHYTcyekdCbEdzU3U5dHhLLWphRFpZX0VJXzc0ZTdIc1pGeGZmdnpuaVRqRVR3Y3BGR0xxWV9adExXNlZhTm5NZHl6UQ\&q=https%3A%2F%2Ft.co%2FpdFUAK3E82\&v=na54apZ78C8) [https://twitter.com/qa\_dao/status/157...](https://www.youtube.com/redirect?event=video\_description\&redir\_token=QUFFLUhqa1JDQzgycFR5dUlQTE5kWTVhcjVSNmlGNDR3d3xBQ3Jtc0tuSHFIZ3pwNDlIU01rRnNQRlV2eHplN3hRN2tsUUtBRHdVQXB6VVRDWDE5LTNONUZqckYyb3BiWHVULUhLZ1V3YTlwemQ0WVRLN3NycjZGSllFODE3d0JaZGtfektxVVZiRjNfdGpOT1JjaXM1NFZwcw\&q=https%3A%2F%2Ftwitter.com%2Fqa\_dao%2Fstatus%2F1577265644281556992\&v=na54apZ78C8) \
+Whitepaper: [https://t.co/pdFUAK3E82](https://www.youtube.com/redirect?event=video\_description\&redir\_token=QUFFLUhqbXFUdjNzRE9NTDJnVFZqdTBweFBFdHhOdTZ4QXxBQ3Jtc0tuczVSMkEwcUZpN0gtWC0tU2d1UjhYRWdMdFl4MS1fRXhXS0JDeUVUczBBd2xHYTcyekdCbEdzU3U5dHhLLWphRFpZX0VJXzc0ZTdIc1pGeGZmdnpuaVRqRVR3Y3BGR0xxWV9adExXNlZhTm5NZHl6UQ\&q=https%3A%2F%2Ft.co%2FpdFUAK3E82\&v=na54apZ78C8) \
+See also [https://twitter.com/qa\_dao/status/157...](https://www.youtube.com/redirect?event=video\_description\&redir\_token=QUFFLUhqa1JDQzgycFR5dUlQTE5kWTVhcjVSNmlGNDR3d3xBQ3Jtc0tuSHFIZ3pwNDlIU01rRnNQRlV2eHplN3hRN2tsUUtBRHdVQXB6VVRDWDE5LTNONUZqckYyb3BiWHVULUhLZ1V3YTlwemQ0WVRLN3NycjZGSllFODE3d0JaZGtfektxVVZiRjNfdGpOT1JjaXM1NFZwcw\&q=https%3A%2F%2Ftwitter.com%2Fqa\_dao%2Fstatus%2F1577265644281556992\&v=na54apZ78C8) \
 &#x20;\
 This initiative was part of a F8 funded proposal, and enabled a first example of community-led whitepaper creation for specific topics on Catalyst Goverance. \
 \
