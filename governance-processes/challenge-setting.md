@@ -1,4 +1,8 @@
-# Challenge Setting
+---
+description: Context for Project Catalyst Challenge Setting
+---
+
+# Challenge Setting Background
 
 ## Challenge Team Round table 4
 

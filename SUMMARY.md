@@ -7,20 +7,20 @@
 * [Challenge Setting Background](governance-processes/challenge-setting.md)
 * [Fund 8 Challenge Setting Report](challenge-setting/Fund-8-Challenge-Setting-Report.md)
 
-## Circle Problem Sensing
+## Catalyst Circle
 
-* [Circle problem sensing](governance-processes/circle-problem-sensing/README.md)
-  * [Working document](governance-processes/circle-problem-sensing/working-document.md)
-  * [Circle / Oversight Working group](governance-processes/circle-problem-sensing/circle-oversight-working-group.md)
+* [Circle problem sensing](catalyst-circle/circle-problem-sensing/README.md)
+  * [Working document](catalyst-circle/circle-problem-sensing/working-document.md)
+  * [Circle / Oversight Working group](catalyst-circle/circle-problem-sensing/circle-oversight-working-group.md)
 
-## dReps - Delegated Voting
+## Catalyst dReps - Delegated Voting
 
-* [Delegated Representatives (dRep)](dreps-delegated-voting/delegated-voting-drep/README.md)
-  * [dRep Background](dreps-delegated-voting/delegated-voting-drep/drep-timeline.md)
-  * [Workshop 1 - What it means to be a dRep](dreps-delegated-voting/delegated-voting-drep/workshop-1.md)
-    * [Chat Session A](dreps-delegated-voting/delegated-voting-drep/workshop-1/chat-session-a.md)
-    * [Chat Session B](dreps-delegated-voting/delegated-voting-drep/workshop-1/chat-session-b.md)
-  * [Workshop 2 - dRep Demo and walkthrough](dreps-delegated-voting/delegated-voting-drep/workshop-2-demo-and-walkthrough.md)
+* [Delegated Representatives (dRep)](catalyst-dreps-delegated-voting/delegated-voting-drep/README.md)
+  * [dRep Background](catalyst-dreps-delegated-voting/delegated-voting-drep/drep-timeline.md)
+  * [Workshop 1 - What it means to be a dRep](catalyst-dreps-delegated-voting/delegated-voting-drep/workshop-1/README.md)
+    * [Chat Session A](catalyst-dreps-delegated-voting/delegated-voting-drep/workshop-1/chat-session-a.md)
+    * [Chat Session B](catalyst-dreps-delegated-voting/delegated-voting-drep/workshop-1/chat-session-b.md)
+  * [Workshop 2 - dRep Demo and walkthrough](catalyst-dreps-delegated-voting/delegated-voting-drep/workshop-2-demo-and-walkthrough.md)
 
 ***
 
@@ -37,12 +37,12 @@
   * [Release Meeting - 4th October 2022](drep-white-paper-working-group/release-meeting-4th-october-2022.md)
   * [After Town Hall, 5th October 2022](drep-white-paper-working-group/after-town-hall-5th-october-2022.md)
 
-## Parameters
+## Catalyst Parameters
 
-* [Governance parameters](parameters/governance-parameters/README.md)
-  * [Oversight workshop on parameters](parameters/governance-parameters/oversight-workshop-on-parameters.md)
-  * [Cardano Treasury with Kevin Hammond](parameters/governance-parameters/cardano-treasury-with-kevin-hammond.md)
-  * [Parameter Changes meeting with Harris Warren](parameters/governance-parameters/parameter-oversight-meetings.md)
+* [Governance parameters](catalyst-parameters/governance-parameters/README.md)
+  * [Oversight workshop on parameters](catalyst-parameters/governance-parameters/oversight-workshop-on-parameters.md)
+  * [Cardano Treasury with Kevin Hammond](catalyst-parameters/governance-parameters/cardano-treasury-with-kevin-hammond.md)
+  * [Parameter Changes meeting with Harris Warren](catalyst-parameters/governance-parameters/parameter-oversight-meetings.md)
 
 ## Background Research
 

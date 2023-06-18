@@ -67,8 +67,8 @@ The need for an Oversight Group was identified in a [presentation ](https://qual
 
 ### Governance Parameters
 
-{% content-ref url="parameters/governance-parameters/" %}
-[governance-parameters](parameters/governance-parameters/)
+{% content-ref url="catalyst-parameters/governance-parameters/" %}
+[governance-parameters](catalyst-parameters/governance-parameters/)
 {% endcontent-ref %}
 
 ## Our values

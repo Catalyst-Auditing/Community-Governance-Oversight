@@ -14,16 +14,7 @@ description: 'Community Governance Oversight Meeting #5 - 15:00 UTC, Thursday, 0
 
 ## Attendees
 
-| Name                | Role     |
-| ------------------- | -------- |
-| Allison Fromm       | Member   |
-| Matthias Sieber     | Member   |
-| Phil Khoo           | Member   |
-| Stephen Whitenstall | Member   |
-| Tevo Saks           | Member   |
-| Vanessa Cardui      | Member   |
-| Andre Diamond       | Treasury |
-| Miroslav Rajh       | Treasury |
+<table><thead><tr><th width="317">Name</th><th width="453">Role</th></tr></thead><tbody><tr><td>Allison Fromm</td><td>Member</td></tr><tr><td>Matthias Sieber</td><td>Member</td></tr><tr><td>Phil Khoo</td><td>Member</td></tr><tr><td>Stephen Whitenstall</td><td>Member</td></tr><tr><td>Tevo Saks</td><td>Member</td></tr><tr><td>Vanessa Cardui</td><td>Member</td></tr><tr><td>Andre Diamond</td><td>Treasury</td></tr><tr><td>Miroslav Rajh</td><td>Treasury</td></tr></tbody></table>
 
 ## Apologies <a href="#minutes" id="minutes"></a>
 

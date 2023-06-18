@@ -107,11 +107,11 @@ Philip Lazos - IOG&#x20;
 
 #### Intelligent Verbatim transcript - session A
 
-{% file src="../../.gitbook/assets/dRep session A 2nd Jun Verbatim (2).doc" %}
+{% file src="../../../.gitbook/assets/dRep session A 2nd Jun Verbatim (2).doc" %}
 
 #### Session A Chat
 
-{% file src="../../.gitbook/assets/Dreps wshop #1, session A, meeting chat.doc" %}
+{% file src="../../../.gitbook/assets/Dreps wshop #1, session A, meeting chat.doc" %}
 
 ## Session B
 
@@ -143,13 +143,13 @@ Jack Briggs
 
 &#x20;[3:40 ](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=220s)
 
-![](<../../.gitbook/assets/Screenshot 2022-06-03 141421.png>)
+![](<../../../.gitbook/assets/Screenshot 2022-06-03 141421.png>)
 
 ### Workshops & Documentation
 
 [ 4:35](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=275s)&#x20;
 
-![](<../../.gitbook/assets/Screenshot 2022-06-03 141546.png>)
+![](<../../../.gitbook/assets/Screenshot 2022-06-03 141546.png>)
 
 ### What is Liquid Democracy ?
 
@@ -157,7 +157,7 @@ Roman Oliyinkov
 
 [ 6:05 ](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=365s)
 
-![](<../../.gitbook/assets/Screenshot 2022-06-03 141611.png>)
+![](<../../../.gitbook/assets/Screenshot 2022-06-03 141611.png>)
 
 ### Why Delegation and dReps
 
@@ -165,7 +165,7 @@ Philip Lazos
 
 [8:54 ](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=534s)
 
-![](<../../.gitbook/assets/Screenshot 2022-06-03 141641.png>)
+![](<../../../.gitbook/assets/Screenshot 2022-06-03 141641.png>)
 
 ### The dRep Role
 
@@ -173,37 +173,37 @@ Jack Briggs
 
 [12:29 ](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=749s)
 
-![](<../../.gitbook/assets/Screenshot 2022-06-03 141703.png>)
+![](<../../../.gitbook/assets/Screenshot 2022-06-03 141703.png>)
 
 ### dRep - the expectations
 
 [13:50 ](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=830s)
 
-![](<../../.gitbook/assets/Screenshot 2022-06-03 141722.png>)
+![](<../../../.gitbook/assets/Screenshot 2022-06-03 141722.png>)
 
 ### dRep rewards
 
 [15:54 ](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=954s)
 
-![](<../../.gitbook/assets/Screenshot 2022-06-03 141743.png>)
+![](<../../../.gitbook/assets/Screenshot 2022-06-03 141743.png>)
 
 ### Safeguarding
 
 [17:38 ](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=1058s)
 
-![](<../../.gitbook/assets/Screenshot 2022-06-03 141805.png>)
+![](<../../../.gitbook/assets/Screenshot 2022-06-03 141805.png>)
 
 ### Direct voting - changes
 
 [19:13 ](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=1153s)
 
-![](<../../.gitbook/assets/Screenshot 2022-06-03 141823.png>)
+![](<../../../.gitbook/assets/Screenshot 2022-06-03 141823.png>)
 
 ### Why Liquid democracy ?
 
 [21:56](https://www.youtube.com/watch?v=OGBdacCIDOQ\&t=1316s)&#x20;
 
-![](<../../.gitbook/assets/Screenshot 2022-06-03 141839.png>)
+![](<../../../.gitbook/assets/Screenshot 2022-06-03 141839.png>)
 
 ## Questions & Answers (Session B)&#x20;
 
@@ -419,8 +419,8 @@ coming soon
 
 #### Session B Chat
 
-{% content-ref url="workshop-1/chat-session-b.md" %}
-[chat-session-b.md](workshop-1/chat-session-b.md)
+{% content-ref url="chat-session-b.md" %}
+[chat-session-b.md](chat-session-b.md)
 {% endcontent-ref %}
 
 ### CIP 36 - Catalyst/Voltaire Registration Transaction Metadata Format&#x20;
