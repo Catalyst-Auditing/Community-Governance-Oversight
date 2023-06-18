@@ -1,8 +1,8 @@
 ---
-description: Context for Project Catalyst Challenge Setting
+description: Context for Project Catalyst Challenges
 ---
 
-# Challenge Setting Background
+# Catalyst Challenges Background
 
 {% hint style="info" %}
 Project Catalyst Challenges are funding categories used to direct and advise proposers.
