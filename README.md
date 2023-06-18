@@ -11,6 +11,10 @@ coverY: 0
 
 ## Fund 8 CGO Releases its final report
 
+{% hint style="info" %}
+In June 2023 Community Goverance Oversight released it's final report.
+{% endhint %}
+
 Video placeholder
 
 Links to Report
