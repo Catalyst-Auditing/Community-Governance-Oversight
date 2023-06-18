@@ -15,6 +15,7 @@
 
 ## Catalyst dReps - Delegated Voting
 
+* [dRep Overview](catalyst-dreps-delegated-voting/drep-overview.md)
 * [Delegated Representatives (dRep)](catalyst-dreps-delegated-voting/delegated-voting-drep/README.md)
   * [dRep Background](catalyst-dreps-delegated-voting/delegated-voting-drep/drep-timeline.md)
   * [Workshop 1 - What it means to be a dRep](catalyst-dreps-delegated-voting/delegated-voting-drep/workshop-1/README.md)
