@@ -14,7 +14,7 @@ description: >-
 
 ## Slides & narration
 
-![](<../.gitbook/assets/2022-01-13 (3).png>)
+![](<../../.gitbook/assets/2022-01-13 (3).png>)
 
 ### How to nurture a listening culture in Catalyst
 
@@ -26,7 +26,7 @@ Interactions and experiences with different parts of the community and many conv
 
 As governance issues come to the fore the importance of different voices being heard becomes critical and I now see it as a capability we should all nurture.
 
-![](<../.gitbook/assets/2022-01-13 (5).png>)
+![](<../../.gitbook/assets/2022-01-13 (5).png>)
 
 ### Why is Listening important ?
 
@@ -52,7 +52,7 @@ A single negative experience of not being listened has a disproportionately big 
 
 Conman are good listeners. People who are not listening are easier to deceive and distract.
 
-![](<../.gitbook/assets/2022-01-13 (6).png>)
+![](<../../.gitbook/assets/2022-01-13 (6).png>)
 
 ### Listening is not …
 
@@ -72,7 +72,7 @@ The temptation to fix things prioritizes and foregrounds your own knowledge. Whe
 
 If you are focused on how you lead you are not really listening.
 
-![](<../.gitbook/assets/2022-01-13 (7).png>)
+![](<../../.gitbook/assets/2022-01-13 (7).png>)
 
 ### Project Aristotle – Productive Teams
 
@@ -82,7 +82,7 @@ In 2012 Google commissioned a study to find out what makes a good team. After th
 
 •have a higher “average social sensitivity,” which means they were good at intuiting one another’s feelings based on things like tone of voice, facial expressions, and other nonverbal cues.
 
-![](<../.gitbook/assets/2022-01-13 (10).png>)
+![](<../../.gitbook/assets/2022-01-13 (10).png>)
 
 ### Project Aristotle - What matters the most ?
 
@@ -110,7 +110,7 @@ There is space for a varied sense of purpose which often depends upon personal p
 
 Impact – the sense of making a difference & contributing to the organisation as a whole. Accessible user journeys that can direct people where they feel most valued.
 
-![](<../.gitbook/assets/2022-01-13 (12).png>)
+![](<../../.gitbook/assets/2022-01-13 (12).png>)
 
 ### Shift Responses :
 
@@ -134,7 +134,7 @@ A perspective that rests with a dominant voice has the freedom to push their own
 
 Try not to characterize someone’s emotional state. Though you have empathy, you do not know how they feel. Most people just want to be heard, to have a platform, a voice.
 
-![](<../.gitbook/assets/2022-01-13 (13).png>)
+![](<../../.gitbook/assets/2022-01-13 (13).png>)
 
 ### When should we stop listening ?
 
@@ -150,7 +150,7 @@ As many Community Advisors & vCAs realize there are certain reasonable expectati
 
 Listening is a co-operative endeavour so if someone is being aggressive or trying to manipulate you then there is no obligation to listen.
 
-![](<../.gitbook/assets/2022-01-13 (14).png>)
+![](<../../.gitbook/assets/2022-01-13 (14).png>)
 
 ### Where are the listeners in Catalyst ?
 
@@ -174,7 +174,7 @@ Where people take turns to speak and risk expressing their views.
 
 #### Informal – one-to-one conversations
 
-![](<../.gitbook/assets/2022-01-13 (15).png>)
+![](<../../.gitbook/assets/2022-01-13 (15).png>)
 
 ### Conclusions
 
@@ -191,7 +191,7 @@ Nurturing a culture of listening will assist a shift from centralized to distrib
 
 ## References
 
-![](<../.gitbook/assets/2022-01-13 (16).png>)
+![](<../../.gitbook/assets/2022-01-13 (16).png>)
 
 ### Catalyst Circle Prioritized Problem
 

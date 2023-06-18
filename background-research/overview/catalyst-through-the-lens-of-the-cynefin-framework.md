@@ -18,7 +18,7 @@ Previous events have covered _Antifragile Success criteria_ & _How to nurture a 
 
 ## Cynefin Overview
 
-![](<../.gitbook/assets/2022-01-27 (1).png>)
+![](<../../.gitbook/assets/2022-01-27 (1).png>)
 
 In this slide I will give an overview of the Cynefin Framework & then on the next slide apply this to Catalyst.
 
@@ -32,7 +32,7 @@ On the right-hand side are Structured domains which include
 
 ### The Obvious
 
-![](<../.gitbook/assets/2022-01-27 (3).png>)
+![](<../../.gitbook/assets/2022-01-27 (3).png>)
 
 Here live ordered systems with clear cause, and effect relationships. In this situation it is appropriate to
 
@@ -46,7 +46,7 @@ Obvious approaches are standard operating procedures such as completing a form o
 
 ### The Complicated
 
-![](<../.gitbook/assets/2022-01-27 (4) (1).png>)
+![](<../../.gitbook/assets/2022-01-27 (4) (1).png>)
 
 Here live ordered systems whose cause, and effect relationships are discoverable through analysis. In this situation it is appropriate to
 
@@ -62,7 +62,7 @@ Moving to the left-hand side – here are _Unstructured_ domains which include
 
 ### The Complex
 
-![](<../.gitbook/assets/2022-01-27 (5).png>)
+![](<../../.gitbook/assets/2022-01-27 (5).png>)
 
 Here complex systems live, where the only way to understand the system is to interact with phenomena. In this situation it is appropriate to
 
@@ -76,7 +76,7 @@ With Complex approaches cause and effect can only be deduced in retrospect, ther
 
 ### The Chaotic
 
-![](<../.gitbook/assets/2022-01-27 (7).png>)
+![](<../../.gitbook/assets/2022-01-27 (7).png>)
 
 Here live chaotic systems where turbulence prevails, and immediate stabilizing action is required.
 
@@ -92,13 +92,13 @@ In Chaotic situations cause and effect are unclear, but it is essential to act. 
 
 ### Disorder
 
-![](<../.gitbook/assets/2022-01-27 (6).png>)
+![](<../../.gitbook/assets/2022-01-27 (6).png>)
 
 Finally in the center is the domain of disorder which can also be seen as a starting point. Here lives a cacophony of voices jostling for prominence – this situation is what assignment to the other domains or spaces seeks to resolve.
 
 ## Cynefin Framework and Catalyst
 
-![](<../.gitbook/assets/2022-01-27 (8).png>)
+![](<../../.gitbook/assets/2022-01-27 (8).png>)
 
 So how might all this relate to what we do in Catalyst?
 
@@ -106,7 +106,7 @@ Returning to the domains
 
 ### The Obvious
 
-![](<../.gitbook/assets/2022-01-27 (9).png>)
+![](<../../.gitbook/assets/2022-01-27 (9).png>)
 
 In this structured, Obvious domain the IOG Catalyst Team & the Catalyst community routinely apply straightforward solutions such as KPI reports, surveys, quantitative retrospectives & reports.
 
@@ -116,7 +116,7 @@ A danger with the Obvious domain is complacency where standard procedures start 
 
 ### The Complicated
 
-![](<../.gitbook/assets/2022-01-27 (13).png>)
+![](<../../.gitbook/assets/2022-01-27 (13).png>)
 
 In this structured, complicated domain the IOG Catalyst research Team, the Technical Council & Catalyst Community academic research conduct in-depth analysis and research into discrete solutions.
 
@@ -124,7 +124,7 @@ The Technical Council, for example, Analyses data, make Sense of this through di
 
 ### The Complex
 
-![](<../.gitbook/assets/2022-01-27 (10).png>)
+![](<../../.gitbook/assets/2022-01-27 (10).png>)
 
 In this unstructured, complex domain the Catalyst community, Catalyst Circle & IOG Catalyst Team innovate through the Catalyst experiment. This is an iterative process which probes for ideas, senses what is occurring and responds with community innovation.
 
@@ -134,7 +134,7 @@ An emergent example is Catalyst Circle a “human sensor array” that monitors 
 
 ### The Chaotic
 
-![](<../.gitbook/assets/2022-01-27 (11).png>)
+![](<../../.gitbook/assets/2022-01-27 (11).png>)
 
 In this unstructured, chaotic domain the Catalyst community, Catalyst Circle & IOG Catalyst Team react to unforeseen events that cause turbulence or instability in the Catalyst experiment.
 
@@ -158,7 +158,7 @@ In Cardano this is where many newcomers find themselves. It is the latent potent
 
 ### Current process draft
 
-![](<../.gitbook/assets/2022-01-27 (15).png>)
+![](<../../.gitbook/assets/2022-01-27 (15).png>)
 
 This is a brief overview of a proposed Governance process drafted by Harris Warren to handle changes to Catalyst Parameters.
 
@@ -188,7 +188,7 @@ From left to right.
 
 ### Some questions about the current draft
 
-![](<../.gitbook/assets/2022-01-27 (16).png>)
+![](<../../.gitbook/assets/2022-01-27 (16).png>)
 
 ### Domain mapping
 
