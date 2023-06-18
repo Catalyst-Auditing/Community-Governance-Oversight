@@ -6,9 +6,9 @@
 
 ### Slides presented by Allison Fromm
 
-![](<../../.gitbook/assets/2022-03-10 (4).png>)
+![](<../../../.gitbook/assets/2022-03-10 (4).png>)
 
-![](<../../.gitbook/assets/2022-03-10 (5).png>)
+![](<../../../.gitbook/assets/2022-03-10 (5).png>)
 
 ### F7 Community Governance Oversight
 
@@ -26,11 +26,11 @@
 
 ### Slides presented by Allison Fromm
 
-![](../../.gitbook/assets/2022-04-06.png)
+![](../../../.gitbook/assets/2022-04-06.png)
 
-![](<../../.gitbook/assets/2022-04-06 (1).png>)
+![](<../../../.gitbook/assets/2022-04-06 (1).png>)
 
-![](<../../.gitbook/assets/2022-04-06 (2).png>)
+![](<../../../.gitbook/assets/2022-04-06 (2).png>)
 
 ## 6th April 2022
 
@@ -40,11 +40,11 @@
 
 {% embed url="https://docs.google.com/presentation/d/1CEkFOPPYzVC6ACA7uIBMpnpVpMsVpQSGpVaF8RLWjNY/edit#slide=id.g12174fbd14d_0_97" %}
 
-![](../../.gitbook/assets/2022-04-12.png)
+![](../../../.gitbook/assets/2022-04-12.png)
 
-![](<../../.gitbook/assets/2022-04-12 (1).png>)
+![](<../../../.gitbook/assets/2022-04-12 (1).png>)
 
-![](<../../.gitbook/assets/2022-04-12 (2).png>)
+![](<../../../.gitbook/assets/2022-04-12 (2).png>)
 
 ## 20th April 2022
 
@@ -54,11 +54,11 @@
 
 {% embed url="https://docs.google.com/presentation/d/1f_AFmCkhIy65gP_HfNtJL2B5iJHNYXYiMeB2qIb3jAw/edit?usp=sharing" %}
 
-![](<../../.gitbook/assets/Screenshot 2022-04-21 102442 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/Screenshot 2022-04-21 102442 (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
-![](<../../.gitbook/assets/Screenshot 2022-04-21 102733.png>)
+![](<../../../.gitbook/assets/Screenshot 2022-04-21 102733.png>)
 
-![](<../../.gitbook/assets/Screenshot 2022-04-21 102524.png>)
+![](<../../../.gitbook/assets/Screenshot 2022-04-21 102524.png>)
 
 ## 1st June 2022
 
@@ -66,8 +66,8 @@
 
 ### Slides
 
-![](<../../.gitbook/assets/Screenshot 2022-06-07 134917.png>)
+![](<../../../.gitbook/assets/Screenshot 2022-06-07 134917.png>)
 
-![](<../../.gitbook/assets/Screenshot 2022-06-07 125810.png>)
+![](<../../../.gitbook/assets/Screenshot 2022-06-07 125810.png>)
 
-![](<../../.gitbook/assets/Screenshot 2022-06-07 125829.png>)
+![](<../../../.gitbook/assets/Screenshot 2022-06-07 125829.png>)

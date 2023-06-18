@@ -42,10 +42,10 @@ What we have achieved and what we are doing next
 A record of our meetings
 {% endhint %}
 
-{% content-ref url="../project-management/meetings-and-town-halls/" %}
-[meetings-and-town-halls](../project-management/meetings-and-town-halls/)
+{% content-ref url="meetings-and-town-halls/" %}
+[meetings-and-town-halls](meetings-and-town-halls/)
 {% endcontent-ref %}
 
-{% content-ref url="../project-management/f8-meetings-and-town-halls/" %}
-[f8-meetings-and-town-halls](../project-management/f8-meetings-and-town-halls/)
+{% content-ref url="f8-meetings-and-town-halls/" %}
+[f8-meetings-and-town-halls](f8-meetings-and-town-halls/)
 {% endcontent-ref %}

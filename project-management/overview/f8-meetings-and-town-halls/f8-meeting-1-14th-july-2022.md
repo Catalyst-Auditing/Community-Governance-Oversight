@@ -2,7 +2,7 @@
 description: Fund 8 Community Governance Oversight - Meeting 1 - Thursday, 14th July 2022
 ---
 
-# F8 Meeting 1 -14th July 2022
+# F8 Meeting 1 - 14th July 2022
 
 {% embed url="https://youtu.be/JD3mPhAub4c" %}
 
@@ -60,13 +60,13 @@ description: Fund 8 Community Governance Oversight - Meeting 1 - Thursday, 14th 
 
 {% embed url="https://github.com/Catalyst-Auditing/Community-Governance-Oversight-Coordination/issues/87" %}
 
-![](<../../.gitbook/assets/Screenshot 2022-07-16 135610.png>)
+![](<../../../.gitbook/assets/Screenshot 2022-07-16 135610.png>)
 
-![](<../../.gitbook/assets/Screenshot 2022-07-16 135650.png>)
+![](<../../../.gitbook/assets/Screenshot 2022-07-16 135650.png>)
 
-![](<../../.gitbook/assets/Screenshot 2022-07-16 151840.png>)
+![](<../../../.gitbook/assets/Screenshot 2022-07-16 151840.png>)
 
-![](<../../.gitbook/assets/Screenshot 2022-07-16 151941.png>)
+![](<../../../.gitbook/assets/Screenshot 2022-07-16 151941.png>)
 
 Allison went into a little more depth about CGO history and where we came from and what we're trying to do. We did ask people to comment on parameters this time around either in the chat or in discord.&#x20;
 
