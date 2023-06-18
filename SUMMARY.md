@@ -15,28 +15,25 @@
 
 ## Catalyst dReps - Delegated Voting
 
-* [dRep Overview](catalyst-dreps-delegated-voting/drep-overview.md)
-* [Delegated Representatives (dRep)](catalyst-dreps-delegated-voting/delegated-voting-drep/README.md)
-  * [dRep Background](catalyst-dreps-delegated-voting/delegated-voting-drep/drep-timeline.md)
-  * [Workshop 1 - What it means to be a dRep](catalyst-dreps-delegated-voting/delegated-voting-drep/workshop-1/README.md)
-    * [Chat Session A](catalyst-dreps-delegated-voting/delegated-voting-drep/workshop-1/chat-session-a.md)
-    * [Chat Session B](catalyst-dreps-delegated-voting/delegated-voting-drep/workshop-1/chat-session-b.md)
-  * [Workshop 2 - dRep Demo and walkthrough](catalyst-dreps-delegated-voting/delegated-voting-drep/workshop-2-demo-and-walkthrough.md)
-
-***
-
-* [dRep White Paper Working Group](dRep-White-Paper-Working-Group/README.md)
-  * [Meeting - 26th April 2022](dRep-White-Paper-Working-Group/meeting-1.md)
-  * [Meeting - 10th May 2022](dRep-White-Paper-Working-Group/meeting-2.md)
-  * [Meeting - 21st June 2022](dRep-White-Paper-Working-Group/meeting-21st-june-2022.md)
-  * [Meeting - 5th July 2022](drep-white-paper-working-group/meeting-5th-july-2022.md)
-  * [Meeting - 19th July 2022](drep-white-paper-working-group/meeting-19th-july-2022.md)
-  * [Meeting - 2nd August 2022](drep-white-paper-working-group/meeting-2nd-august-2022.md)
-  * [Meeting - 16th August 2022](drep-white-paper-working-group/meeting-16th-august-2022.md)
-  * [Meeting - 6th September 2022](drep-white-paper-working-group/meeting-6th-september-2022.md)
-  * [Meeting - 20th September 2022](drep-white-paper-working-group/meeting-20th-september-2022.md)
-  * [Release Meeting - 4th October 2022](drep-white-paper-working-group/release-meeting-4th-october-2022.md)
-  * [After Town Hall, 5th October 2022](drep-white-paper-working-group/after-town-hall-5th-october-2022.md)
+* [dRep Overview](catalyst-dreps-delegated-voting/drep-overview/README.md)
+  * [Delegated Representatives (dRep)](catalyst-dreps-delegated-voting/drep-overview/delegated-voting-drep/README.md)
+    * [dRep Background](catalyst-dreps-delegated-voting/drep-overview/delegated-voting-drep/drep-timeline.md)
+    * [Workshop 1 - What it means to be a dRep](catalyst-dreps-delegated-voting/drep-overview/delegated-voting-drep/workshop-1/README.md)
+      * [Chat Session A](catalyst-dreps-delegated-voting/drep-overview/delegated-voting-drep/workshop-1/chat-session-a.md)
+      * [Chat Session B](catalyst-dreps-delegated-voting/drep-overview/delegated-voting-drep/workshop-1/chat-session-b.md)
+    * [Workshop 2 - dRep Demo and walkthrough](catalyst-dreps-delegated-voting/drep-overview/delegated-voting-drep/workshop-2-demo-and-walkthrough.md)
+  * [dRep White Paper Working Group](catalyst-dreps-delegated-voting/drep-overview/drep-white-paper-working-group/README.md)
+    * [Meeting - 26th April 2022](catalyst-dreps-delegated-voting/drep-overview/drep-white-paper-working-group/meeting-1.md)
+    * [Meeting - 10th May 2022](catalyst-dreps-delegated-voting/drep-overview/drep-white-paper-working-group/meeting-2.md)
+    * [Meeting - 21st June 2022](catalyst-dreps-delegated-voting/drep-overview/drep-white-paper-working-group/meeting-21st-june-2022.md)
+    * [Meeting - 5th July 2022](catalyst-dreps-delegated-voting/drep-overview/drep-white-paper-working-group/meeting-5th-july-2022.md)
+    * [Meeting - 19th July 2022](catalyst-dreps-delegated-voting/drep-overview/drep-white-paper-working-group/meeting-19th-july-2022.md)
+    * [Meeting - 2nd August 2022](catalyst-dreps-delegated-voting/drep-overview/drep-white-paper-working-group/meeting-2nd-august-2022.md)
+    * [Meeting - 16th August 2022](catalyst-dreps-delegated-voting/drep-overview/drep-white-paper-working-group/meeting-16th-august-2022.md)
+    * [Meeting - 6th September 2022](catalyst-dreps-delegated-voting/drep-overview/drep-white-paper-working-group/meeting-6th-september-2022.md)
+    * [Meeting - 20th September 2022](catalyst-dreps-delegated-voting/drep-overview/drep-white-paper-working-group/meeting-20th-september-2022.md)
+    * [Release Meeting - 4th October 2022](catalyst-dreps-delegated-voting/drep-overview/drep-white-paper-working-group/release-meeting-4th-october-2022.md)
+    * [After Town Hall, 5th October 2022](catalyst-dreps-delegated-voting/drep-overview/drep-white-paper-working-group/after-town-hall-5th-october-2022.md)
 
 ## Catalyst Parameters
 

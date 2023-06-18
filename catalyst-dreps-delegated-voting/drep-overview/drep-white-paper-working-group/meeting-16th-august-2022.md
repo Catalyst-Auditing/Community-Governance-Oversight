@@ -1,6 +1,6 @@
 ---
 description: Fund 8 dRep White Paper Working Group - Community Review
-cover: ../.gitbook/assets/Screenshot from 2022-08-15 20-37-36 (1).png
+cover: ../../../.gitbook/assets/Screenshot from 2022-08-15 20-37-36 (1).png
 coverY: 0
 ---
 

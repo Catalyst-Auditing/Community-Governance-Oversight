@@ -1,6 +1,6 @@
 ---
 description: Meeting 1 - Fund 8 - dRep White Paper Working Group Meeting
-cover: ../.gitbook/assets/Screenshot from 2022-08-15 20-37-36.png
+cover: ../../../.gitbook/assets/Screenshot from 2022-08-15 20-37-36.png
 coverY: 0
 ---
 
@@ -258,7 +258,7 @@ Author(s): Aharon Porath, Kenric Nelson
 
 [Miro board link](https://miro.com/app/board/uXjVON\_uybI=/)&#x20;
 
-![](../.gitbook/assets/consenz.png)
+![](../../../.gitbook/assets/consenz.png)
 
 [25:17](https://www.youtube.com/watch?v=g0hppsP670k\&t=1517s) - Introduction - Kenric
 

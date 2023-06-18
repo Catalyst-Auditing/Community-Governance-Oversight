@@ -1,6 +1,6 @@
 ---
 description: Meeting 2 - Fund 8 - dRep White Paper Working Group Meeting
-cover: ../.gitbook/assets/Screenshot from 2022-08-15 20-37-36.png
+cover: ../../../.gitbook/assets/Screenshot from 2022-08-15 20-37-36.png
 coverY: 0
 ---
 
@@ -280,7 +280,7 @@ When Cardano was initially set up, there were 7 genesis keys established that ar
 
 &#x20;Using the [Banzhaf Power Index website](http://people.math.binghamton.edu/fer/courses/math130/ZIS\_Spr14/chapter1/Banzhaf.html), one can compute the percentage of decisive votes for each party. As shown in Figure 1, IOHK is critical in 3 of 5 instances. A critical vote refers to a winning coalition in which dropping that vote would cause the coalition to lose. CF and Emurgo each have 1 of 5 critical votes. Thus IOG has a 60% power index compared with its 43% number of votes. CF and Emurgo only have 20% power despite 28.5% of the votes. The subtlety of this nonlinear power relationship is an excellent example of how savvy players can set up systems that appear equable but actually have quite distorted power relationships.&#x20;
 
-![](<../.gitbook/assets/Screenshot 2022-07-13 140653.png>)
+![](<../../../.gitbook/assets/Screenshot 2022-07-13 140653.png>)
 
 Currently, at least one of the weaker parties (CF or Emurgo) is reported to have delegated their genesis keys to IOHK. This gives IOHK the 5 keys necessary to be a dictator regarding the CIP and Hard For Combinator updates. While the goal is to transition during Voltaire to a member-based organization that manages the genesis keys, this example demonstrates how a slight advantage in the voting ratio can lead to a substantial advantage in voting power. And an early advantage in voting power can be used over time to further increase this disparity.&#x20;
 
