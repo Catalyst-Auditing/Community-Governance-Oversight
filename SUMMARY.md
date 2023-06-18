@@ -53,6 +53,8 @@
 * [How to nurture a listening culture in Catalyst ?](research/how-to-nurture-a-listening-culture-in-catalyst.md)
 * [The Voltaire Principles](research/the-voltaire-principles.md)
 * [Feedback](research/feedback.md)
+* [Page 1](background-research/page-1.md)
+* [Overview](background-research/overview.md)
 
 ## Proposal Reporting
 
