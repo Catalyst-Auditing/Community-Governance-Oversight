@@ -11,6 +11,12 @@ coverY: 0
 
 ## Fund 8 CGO Releases its final report
 
+Video placeholder
+
+Links to Report
+
+Links to Presentation
+
 ## What we oversee
 
 {% hint style="info" %}
