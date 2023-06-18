@@ -9,12 +9,15 @@ coverY: 0
 
 # Oversight of Governance Processes
 
+{% hint style="info" %}
+Community Governance Oversight provides oversight and analysis of Cardano's Project Catalyst experiment.
+{% endhint %}
+
 ## Fund 8 CGO Releases its dRep Whitepaper
 
 {% embed url="https://youtu.be/aOKAzUg-hVY" %}
 
-
-[Link](https://docs.google.com/document/d/1LXtBMIk9NjvsrEMZkD2LvZO15giPDoJZj1xROUgDwl4/edit?usp=sharing)&#x20;
+[Link](https://docs.google.com/document/d/1LXtBMIk9NjvsrEMZkD2LvZO15giPDoJZj1xROUgDwl4/edit?usp=sharing)
 
 {% embed url="https://docs.google.com/document/d/1LXtBMIk9NjvsrEMZkD2LvZO15giPDoJZj1xROUgDwl4/edit?usp=sharing" %}
 
@@ -36,8 +39,6 @@ coverY: 0
 
 ## Overview of CGO
 
-
-
 Without oversight we risk stagnation and we lack accountability in our governance.
 
 This GitBook documents the development of a **Community Governance Oversight group** (hereafter "Oversight Group") tasked to examine changes in Project Catalyst Governance.
@@ -54,14 +55,14 @@ The need for an Oversight Group was identified in a [presentation ](https://qual
 
 ### Circle Problem Sensing
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="broken-reference/" %}
+[broken-reference](broken-reference/)
 {% endcontent-ref %}
 
 ### Dreps - Delegated Voting
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="broken-reference/" %}
+[broken-reference](broken-reference/)
 {% endcontent-ref %}
 
 ### Governance Parameters
