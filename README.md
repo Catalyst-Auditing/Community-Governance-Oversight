@@ -13,7 +13,11 @@ coverY: 0
 Community Governance Oversight provides oversight and analysis of Cardano's Project Catalyst experiment.
 {% endhint %}
 
-## Fund 8 CGO Releases its dRep Whitepaper
+## News
+
+### Fund 8 CGO Releases its final report
+
+### Fund 8 CGO Releases its dRep Whitepaper
 
 {% embed url="https://youtu.be/aOKAzUg-hVY" %}
 
@@ -21,23 +25,23 @@ Community Governance Oversight provides oversight and analysis of Cardano's Proj
 
 {% embed url="https://docs.google.com/document/d/1LXtBMIk9NjvsrEMZkD2LvZO15giPDoJZj1xROUgDwl4/edit?usp=sharing" %}
 
-## Check out out Fund 7 Report !
+### Check out out Fund 7 Report !
 
-### Headlines
+#### Headlines
 
 {% embed url="https://youtu.be/-Vw3N4WLKL0" %}
 
-### Summary Presentation
+#### Summary Presentation
 
 {% embed url="https://youtu.be/vB-s9xgBf9w" %}
 
-### Detailed Fund 7 Report
+#### Detailed Fund 7 Report
 
 [link](https://docs.google.com/document/d/1jkkgbmU\_tEVM9CgmlW1MSWJTRnaZdFURU6f02TfptkU/edit?usp=sharing)
 
 {% embed url="https://docs.google.com/document/d/1jkkgbmU_tEVM9CgmlW1MSWJTRnaZdFURU6f02TfptkU/edit?usp=sharing" %}
 
-## Overview of CGO
+## Overview of Community Governance Oversight
 
 Without oversight we risk stagnation and we lack accountability in our governance.
 
