@@ -45,10 +45,18 @@ Community Governance Oversight provides oversight and analysis of Cardano's Proj
 
 ## Our values
 
-**Legitimacy** - the Fund 7 proposal together with the team listed were successfully voted for in February 2022.
+### **Legitimacy**
+
+**Legitimacy** - the Fund 7 & 8 proposals together with the teams listed were successfully voted for in two funding rounds.
+
+### **Transparency**
 
 **Transparency** - [meetings](https://quality-assurance-dao.gitbook.io/community-governance-oversight/project-management/meetings-and-town-halls), [proposal reporting](https://quality-assurance-dao.gitbook.io/community-governance-oversight/proposal-reporting/proposal/f7-monthly-reports) and [deliverables ](https://quality-assurance-dao.gitbook.io/community-governance-oversight/governance-processes/overview)are all documented in this GitBook.
 
-**Accountability** - Community Governance Oversight is accountable to ADA holders who voted for it's proposal to deliver surveys, retrospectives and a final report by June 2022.
+### **Accountability**
+
+**Accountability** - Community Governance Oversight is accountable to ADA holders who voted for it's proposal to deliver surveys, retrospectives and a final report for it's proposals.
+
+### **Open Source**
 
 **Open Source** - Community Governance Oversight is committed to using Open Source tools to document and track its activities. This GitBook is stored on this [repository ](https://github.com/Catalyst-Auditing/Community-Governance-Oversight)with an [Apache 2.0 license](LICENSE.md).
