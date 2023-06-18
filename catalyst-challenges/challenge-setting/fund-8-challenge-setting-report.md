@@ -35,7 +35,7 @@ Analysis has continued on funding categories as an alternative approach to fundi
 
 ### [Access to funding for different focus areas](https://docs.catalystcontributors.org/funding-categorisation-analysis/historical-analysis-and-comparisons/funding-access-for-each-focus-area/fund-9)
 
-![](../.gitbook/assets/fund-9-funding-access.png)
+![](../../.gitbook/assets/fund-9-funding-access.png)
 
 Fund 8 challenge settings led to selected categorisations for fund 9 that had very high funding access for some areas compared over other focus areas.
 
@@ -50,7 +50,7 @@ Funding categories could achieve similar or better outcomes in most cases with a
 
 Funding categories could have reduced the total overall cost by 90% for handling funding categorisation for fund 8 if it was fully used as an alternative approach. The [methodology ](https://docs.catalystcontributors.org/funding-categorisation-analysis/historical-analysis-and-comparisons/categorisation-overall-cost-comparison/methodology-and-data)for this cost comparison is documented.
 
-![](../.gitbook/assets/overall-costs-fund-8.png)
+![](../../.gitbook/assets/overall-costs-fund-8.png)
 
 ### [Funding categorisation properties](https://docs.catalystcontributors.org/funding-categorisation-analysis/categorisation-properties/broad-vs-specific-categorisation)&#x20;
 

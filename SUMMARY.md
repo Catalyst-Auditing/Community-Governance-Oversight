@@ -2,10 +2,10 @@
 
 * [Oversight of Governance Processes](README.md)
 
-## Challenge Setting
+## Catalyst Challenges
 
-* [Catalyst Challenges Background](governance-processes/challenge-setting.md)
-* [Fund 8 Challenge Setting Report](challenge-setting/Fund-8-Challenge-Setting-Report.md)
+* [Catalyst Challenges Background](catalyst-challenges/challenge-setting/README.md)
+  * [Fund 8 Challenge Setting Report](catalyst-challenges/challenge-setting/fund-8-challenge-setting-report.md)
 
 ## Catalyst Circle
 

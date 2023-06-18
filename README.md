@@ -49,8 +49,8 @@ The need for an Oversight Group was identified in a [presentation ](https://qual
 
 ### Challenge Setting
 
-{% content-ref url="governance-processes/challenge-setting.md" %}
-[challenge-setting.md](governance-processes/challenge-setting.md)
+{% content-ref url="catalyst-challenges/challenge-setting/" %}
+[challenge-setting](catalyst-challenges/challenge-setting/)
 {% endcontent-ref %}
 
 ### Circle Problem Sensing
