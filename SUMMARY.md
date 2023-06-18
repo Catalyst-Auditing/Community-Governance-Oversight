@@ -4,7 +4,7 @@
 
 ## Catalyst Challenges
 
-* [Catalyst Challenges Background](catalyst-challenges/challenge-setting/README.md)
+* [Catalyst Challenges Overview](catalyst-challenges/challenge-setting/README.md)
   * [Fund 8 Challenge Setting Report](catalyst-challenges/challenge-setting/fund-8-challenge-setting-report.md)
 
 ## Catalyst Circle

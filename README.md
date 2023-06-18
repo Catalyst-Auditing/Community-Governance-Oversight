@@ -65,7 +65,7 @@ Community Governance Oversight provides oversight and analysis of Cardano's Proj
 
 ### **Accountability**
 
-**Accountability** - Community Governance Oversight is accountable to ADA holders who voted for it's proposal to deliver surveys, retrospectives and a final report for it's proposals.
+**Accountability** - Community Governance Oversight is accountable to ADA holders who voted for our proposal to deliver surveys, retrospectives and a final report for it's proposals.
 
 ### **Open Source**
 
