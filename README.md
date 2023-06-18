@@ -19,25 +19,27 @@ Community Governance Oversight provides oversight and analysis of Cardano's Proj
 
 ## What we oversee
 
-### Challenge Setting
+### Catalyst Challenges
 
 {% content-ref url="catalyst-challenges/challenge-setting/" %}
 [challenge-setting](catalyst-challenges/challenge-setting/)
 {% endcontent-ref %}
 
-### Circle Problem Sensing
+### Catalyst Circle
+
+
 
 {% content-ref url="broken-reference/" %}
 [broken-reference](broken-reference/)
 {% endcontent-ref %}
 
-### Dreps - Delegated Voting
+### Catalyst dReps - Delegated Voting
 
 {% content-ref url="broken-reference/" %}
 [broken-reference](broken-reference/)
 {% endcontent-ref %}
 
-### Governance Parameters
+### Catalyst Parameters
 
 {% content-ref url="catalyst-parameters/governance-parameters/" %}
 [governance-parameters](catalyst-parameters/governance-parameters/)
