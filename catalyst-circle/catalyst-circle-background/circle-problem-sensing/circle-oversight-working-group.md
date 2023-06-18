@@ -26,7 +26,7 @@ This meeting sought to clarify the problem sensing process. It referred back to 
 
 ### The Problem statement rubric
 
-![](<../../.gitbook/assets/2022-04-17 (3).png>)
+![](<../../../.gitbook/assets/2022-04-17 (3).png>)
 
 The Problem statement rubric was intended to clarify the Circle Problem Sensing process by providing criteria to assess a Prioritized Problem.
 
@@ -48,7 +48,7 @@ The Problem statement rubric was intended to clarify the Circle Problem Sensing 
 
 ### How the rubric aligns with Circle
 
-![](<../../.gitbook/assets/2022-04-17 (4).png>)
+![](<../../../.gitbook/assets/2022-04-17 (4).png>)
 
 After some discussion the working group identified the following workflow for categorization of solutions to Prioritized Problems
 
@@ -66,13 +66,13 @@ The Problem solution requires alignment on a specific decision. Stakeholders mus
 
 ### Problem Ownership
 
-![](<../../.gitbook/assets/2022-04-17 (5).png>)
+![](<../../../.gitbook/assets/2022-04-17 (5).png>)
 
 The issue of Problem Ownership was discussed. Ownership is typically assigned naturally as a Circle Representative brings a Problem to Circle. But where there is ambiguity or the scope of the problem does not obviously align with a particular Circle Representative then someone must volunteer to steward the Problem.
 
 ### Taximony
 
-![](<../../.gitbook/assets/2022-04-17 (6).png>)
+![](<../../../.gitbook/assets/2022-04-17 (6).png>)
 
 Clarity is needed on what specific terms mean. For example -
 
@@ -110,7 +110,7 @@ Discussion about how to describe the problem sensing rubric in simple language l
 
 > Problem scaffolding, Problem expression and framing a Problem
 
-![](<../../.gitbook/assets/Screenshot 2022-04-20 125920.png>)
+![](<../../../.gitbook/assets/Screenshot 2022-04-20 125920.png>)
 
 ### **Prioritized Problem Process**
 
@@ -124,7 +124,7 @@ Ideation of a workflow for structuring this stage of the Problem process focused
 * 2\) the gap and the solution
 * 3\) value quantitative / qualitative (metrics)
 
-![](<../../.gitbook/assets/Screenshot 2022-04-20 131307.png>)
+![](<../../../.gitbook/assets/Screenshot 2022-04-20 131307.png>)
 
 ### The question of what minimum part of the rubric should be required to be put on the Problem Board backlog.
 
@@ -134,13 +134,13 @@ Ideation of a workflow for structuring this stage of the Problem process focused
 The conclusion was that 1) **importance to the Catalyst mission** & 2) some **articulation of the gap between the current state and an expected solution** be the minimum required to be placed in the Problem backlog.
 {% endhint %}
 
-![](<../../.gitbook/assets/Screenshot 2022-04-20 132721.png>)
+![](<../../../.gitbook/assets/Screenshot 2022-04-20 132721.png>)
 
 ### The value of solving the problem
 
 #### Quantitative / qualitative (metrics)
 
-![](<../../.gitbook/assets/Screenshot 2022-04-20 133447.png>)
+![](<../../../.gitbook/assets/Screenshot 2022-04-20 133447.png>)
 
 Therefore the value of solving the problem comes after its placing in the backlog. Given that Circle has identified 1) **importance to the Catalyst mission** & 2) some **articulation of the gap between the current state and an expected solution** then 3) some **quantitative and/or qualitative metrics** should be applied before the problem progresses any further.
 
@@ -164,7 +164,7 @@ This meeting built on the work of the previous meeting. We looked at to what ext
 
 ### Community Support
 
-![](<../../.gitbook/assets/Screenshot 2022-05-10 115959.png>)
+![](<../../../.gitbook/assets/Screenshot 2022-05-10 115959.png>)
 
 Is it up to each community to decide what goes forward as a Problem ?
 
@@ -173,7 +173,7 @@ Is it up to each community to decide what goes forward as a Problem ?
 * It should be as open as possible to submit Problems.
 * Can a Problem be raised initially as an Issue ? What is the distinction ?
 
-![](<../../.gitbook/assets/Screenshot 2022-05-10 121633.png>)
+![](<../../../.gitbook/assets/Screenshot 2022-05-10 121633.png>)
 
 If a community member is serious about raising a problem it should be framed according to the rubric and a rep be contacted.
 
@@ -195,17 +195,17 @@ CC Admin to approach Circle Rep on ownership of Problem (raised outside sub circ
 
 **Example of Metrics** - in the case of the CA Sub Circle - Outputs for CA Issues - how people react / feedback. Dework upvoting system.
 
-![](<../../.gitbook/assets/Screenshot 2022-05-10 122845.png>)
+![](<../../../.gitbook/assets/Screenshot 2022-05-10 122845.png>)
 
 ### Metric 1 - Community support / priority for solving problem
 
-![](<../../.gitbook/assets/Screenshot 2022-05-10 122557.png>)
+![](<../../../.gitbook/assets/Screenshot 2022-05-10 122557.png>)
 
 A metric to measure community support of a Problem.
 
 Apply a priority scale ? 1 to 5 ?&#x20;
 
-![](<../../.gitbook/assets/Screenshot 2022-05-10 123422 (1).png>)
+![](<../../../.gitbook/assets/Screenshot 2022-05-10 123422 (1).png>)
 
 Should a measure of community support determine progression to "To Do" on the Circle Problem Board ?
 
@@ -215,7 +215,7 @@ Some measure of support must be identified - a number, names, a group etc.
 
 Legitimacy requires evidence of community support ?
 
-![](<../../.gitbook/assets/Screenshot 2022-05-10 123816.png>)
+![](<../../../.gitbook/assets/Screenshot 2022-05-10 123816.png>)
 
 Is one motivated person enough to raise a Problem or is broader support required ?&#x20;
 

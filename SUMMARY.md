@@ -9,10 +9,10 @@
 
 ## Catalyst Circle
 
-* [Catalyst Circle Background](catalyst-circle/catalyst-circle-background.md)
-* [Circle problem sensing](catalyst-circle/circle-problem-sensing/README.md)
-  * [Working document](catalyst-circle/circle-problem-sensing/working-document.md)
-  * [Circle / Oversight Working group](catalyst-circle/circle-problem-sensing/circle-oversight-working-group.md)
+* [Catalyst Circle Background](catalyst-circle/catalyst-circle-background/README.md)
+  * [Circle problem sensing](catalyst-circle/catalyst-circle-background/circle-problem-sensing/README.md)
+    * [Working document](catalyst-circle/catalyst-circle-background/circle-problem-sensing/working-document.md)
+    * [Circle / Oversight Working group](catalyst-circle/catalyst-circle-background/circle-problem-sensing/circle-oversight-working-group.md)
 
 ## Catalyst dReps - Delegated Voting
 
