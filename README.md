@@ -9,13 +9,13 @@ coverY: 0
 
 # Oversight of Governance Processes
 
-{% hint style="info" %}
-Community Governance Oversight provides oversight and analysis of Cardano's Project Catalyst experiment.
-{% endhint %}
-
 ## Fund 8 CGO Releases its final report
 
 ## What we oversee
+
+{% hint style="info" %}
+Community Governance Oversight provides oversight and analysis of Cardano's Project Catalyst experiment.
+{% endhint %}
 
 ### Catalyst Challenges
 
