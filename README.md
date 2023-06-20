@@ -15,11 +15,13 @@ coverY: 0
 In June 2023 Community Goverance Oversight released it's final report.
 {% endhint %}
 
-Video placeholder
+{% embed url="https://youtu.be/nyI9tj_-u4k" %}
 
-Links to Report
+#### Links to Report
 
-Links to Presentation
+{% embed url="https://docs.google.com/document/d/1azNGFie_HGwEb-Yzu5HCwsckM6vi4OZBsBiTNqQU5fA/edit?usp=sharing" %}
+
+{% file src=".gitbook/assets/CGO F8 final report.pdf" %}
 
 ## What we oversee
 
