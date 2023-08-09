@@ -9,6 +9,14 @@ coverY: 0
 
 # Oversight of Governance Processes
 
+## Vote for our Fund 10 proposal
+
+
+
+
+
+
+
 ## Fund 8 CGO Releases its final report
 
 {% hint style="info" %}
