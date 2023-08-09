@@ -11,7 +11,7 @@ coverY: 0
 
 ## Vote for our Fund 10 proposal
 
-
+<figure><img src=".gitbook/assets/Screenshot from 2023-06-26 01-56-18.png" alt=""><figcaption></figcaption></figure>
 
 #### Community Governance Oversight (CGO) Parameters Platform
 
@@ -21,9 +21,7 @@ Build an open-source platform where the community can log and view changes to Ca
 
 [https://cardano.ideascale.com/c/idea/104865](https://cardano.ideascale.com/c/idea/104865)
 
-##
-
-
+## Fund 8 - Closing Report
 
 {% hint style="info" %}
 In June 2023 Community Goverance Oversight released it's final report.
