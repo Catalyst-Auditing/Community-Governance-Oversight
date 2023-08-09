@@ -13,11 +13,17 @@ coverY: 0
 
 
 
-## Community Governance Oversight (CGO) Parameters Platform
+#### Community Governance Oversight (CGO) Parameters Platform
+
+{% hint style="info" %}
+Build an open-source platform where the community can log and view changes to Catalyst governance parameters, and a team who will maintain oversight and report regularly to the community.
+{% endhint %}
 
 [https://cardano.ideascale.com/c/idea/104865](https://cardano.ideascale.com/c/idea/104865)
 
-## Fund 8 CGO Releases its final report
+##
+
+
 
 {% hint style="info" %}
 In June 2023 Community Goverance Oversight released it's final report.
