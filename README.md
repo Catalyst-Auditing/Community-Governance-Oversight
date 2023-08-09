@@ -13,9 +13,9 @@ coverY: 0
 
 
 
+## Community Governance Oversight (CGO) Parameters Platform
 
-
-
+[https://cardano.ideascale.com/c/idea/104865](https://cardano.ideascale.com/c/idea/104865)
 
 ## Fund 8 CGO Releases its final report
 
