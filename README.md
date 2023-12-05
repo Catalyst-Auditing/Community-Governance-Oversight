@@ -9,19 +9,25 @@ coverY: 0
 
 # Oversight of Governance Processes
 
-## Vote for our Fund 10 proposal
+## Vote for our Fund 11 proposals
 
 <figure><img src=".gitbook/assets/Screenshot from 2023-06-26 01-56-18.png" alt=""><figcaption></figcaption></figure>
 
-#### Community Governance Oversight (CGO) Parameters Platform
+#### 1) Community Governence Oversight [https://cardano.ideascale.com/c/idea/112876](https://cardano.ideascale.com/c/idea/112876)
 
 {% hint style="info" %}
-Build an open-source platform where the community can log and view changes to Catalyst governance parameters, and a team who will maintain oversight and report regularly to the community.
+Maintain oversight of Catalyst governance changes, report regularly to the community, and develop a participatory, community-led change management process for use in Catalyst and beyond.
 {% endhint %}
 
-[https://cardano.ideascale.com/c/idea/104865](https://cardano.ideascale.com/c/idea/104865)
+#### 2) Community Governance Oversight (CGO) Parameters Platform [https://cardano.ideascale.com/c/idea/113033](https://cardano.ideascale.com/c/idea/113033)
 
-## Fund 8 - Closing Report
+{% hint style="info" %}
+Build an open-source platform where the community can log and view changes to Catalyst governance parameters, including background detail, to enable ongoing community-led oversight.
+{% endhint %}
+
+***
+
+## CGO Fund 8 - Closing Report
 
 {% hint style="info" %}
 In June 2023 Community Goverance Oversight released it's final report.
