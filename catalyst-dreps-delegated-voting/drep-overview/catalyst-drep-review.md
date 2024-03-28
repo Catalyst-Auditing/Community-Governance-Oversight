@@ -30,7 +30,9 @@ July 2022
 
 – Jim Rutt, [An Introduction to Liquid Democracy](https://medium.com/@memetic007/liquid-democracy-9cf7a4cb7f)
 
-### INTRODUCTION Kenric P. Nelson, Thorsten Pottebaum, and Stephen Whitenstall Contact: kenric.nelson@photrek.io <a href="#id-1zdbap94si5c" id="id-1zdbap94si5c"></a>
+### INTRODUCTION <a href="#id-1zdbap94si5c" id="id-1zdbap94si5c"></a>
+
+#### Kenric P. Nelson, Thorsten Pottebaum, and Stephen Whitenstall Contact: kenric.nelson@photrek.io <a href="#id-1zdbap94si5c" id="id-1zdbap94si5c"></a>
 
 [Project Catalyst](https://cardano.ideascale.com/c/landing) is an [experiment in community engagement](https://cardanocataly.st/) that is charged with developing the Cardano blockchain ecosystem [\[1\], \[2\]](https://www.zotero.org/google-docs/?d9CJgk) through the funding of research, development, adoption, and maintenance projects. Project Catalyst is funded by the [Cardano Treasury](https://quality-assurance-dao.gitbook.io/community-governance-oversight/parameters/governance-parameters/cardano-treasury-with-kevin-hammond#how-is-the-treasury-funded) which receives incremental funding each epoch (5 days) from monetary expansion from the Cardano reserves and from network transaction fees. The inflation rate decreases exponentially over a 30 year period at which point the transaction fees will solely fund the treasury. As of September 2022, Catalyst has funded eight rounds of projects totaling $25.6 million in awards. Additionally, community members receive rewards for administrative functions such as overseeing a challenge topic and reviewing proposals. While Catalyst is often referred to as a Decentralized Autonomous Organization (DAO), a more accurate description may be a Decentralized Innovation Fund. The fund is currently administered by Input Output Global (IOG) using innovative mechanisms to develop the communities ability to self-administer the fund. Central to the communities engagement with the fund is one coin one voting for approval and funding of projects.
 
@@ -42,7 +44,9 @@ _**Figure 1.** Liquid Democracy. Voters have the option to vote directly (orange
 
 The purpose of this review paper is to provide the Catalyst community with analysis of the opportunities and potential pitfalls of the dReps process. The scope of Project Catalyst and the complexities of a liquid democracy process are such that this initial analysis is necessarily limited in scope. In “_The role of Delegated Representation in Blockchain Governance_” Philip Lazos, Research Fellow at IOG, provides a literature review on liquid democracy. Lazos examines the merits of liquid democracy through evaluation of the influence of abstaining, measures of objective quality in outcomes, and the process of selecting delegates. In “_Measuring Voting Power in a Weighted Voting System_” Stephen Macurdy, Blockchain Analyst at Wolfram Research leads a team using the Wolfram Language to measure the voting power of participants in Project Catalyst. A mathematical definition of voting power is introduced and applied to analysis of prior rounds of Catalyst voting. In “_Forming consensus in governance documentation_” Aharon Paroth, Founder of Consenz, leads a team examining the use of collaborative writing tools to author agreements. The section describes the capabilities of the Consenz system to facilitate co-authors in voting to approve suggested edits to an agreement.
 
-### The role of Delegated Representation in Blockchain Governance Author(s): Philip Lazos Contact: philip.lazos@iohk.io <a href="#id-5guk8jrksymv" id="id-5guk8jrksymv"></a>
+### The role of Delegated Representation in Blockchain Governance  <a href="#id-5guk8jrksymv" id="id-5guk8jrksymv"></a>
+
+#### Author(s): Philip Lazos Contact: philip.lazos@iohk.io <a href="#id-5guk8jrksymv" id="id-5guk8jrksymv"></a>
 
 Even though Liquid Democracy has intrigued economists and political scientists for years, its real world applications have been sparse. However, the emergence of blockchain systems with sophisticated governance platforms has accelerated its adoption: either as one-step delegation (also known as proxy voting) or full liquid democracy solutions are hotly debated and developed. The goal is to increase the ‘quality’ of the selected outcome, without requiring that all voters have the expertise (or time) to put the effort into every alternative, which can often be highly technical.
 
@@ -73,7 +77,9 @@ Notice that in the previous settings the voters essentially had the same prefere
 
 Even though the currently published research on vote delegation is not fully compatible with the voting scenarios within the setting of Project Catalyst, its design can still be informed by these results. At a high level, some crucial differences are that voters in Project Catalyst have different weights (which may disproportionately favor ‘whales’, especially when many voters abstain) and the voters’ preferences are ideological, therefore there is no ‘correct’ way to vote. Certain proposals are less likely to succeed than others which can be viewed as an objective metric, but this does not always provide a strong enough structure in the voter preferences. In any case, the main takeaway and similarity highlighted by the previously presented research is that the primary pitfall of liquid democracy is the unintended concentration of power leading to worse outcomes. To counter this, a careful balance is needed, by enforcing a threshold on the voting power delegates can receive by delegators and managing the top representatives to ensure that they are distinct entities, as a Sybil attack would invalidate the caps on voting power. Furthermore, there are monetary rewards for these top representatives, in order to incentivise their participation and enhance their visibility. The benefits of this are twofold. The aforementioned ‘local’ effects of delegation are avoided and the voting power of smaller voters is further consolidated, by (hopefully) having prominent representatives with similar voting records.
 
-### Measuring Voting Power in a Weighted Voting System Author(s): Steph Macurdy, Jesus Hernandez, Seth Chandler, Kenric Nelson Contact: smacurdy@wolfram.com <a href="#me4m6kx59mm2" id="me4m6kx59mm2"></a>
+### Measuring Voting Power in a Weighted Voting System  <a href="#me4m6kx59mm2" id="me4m6kx59mm2"></a>
+
+#### Author(s): Steph Macurdy, Jesus Hernandez, Seth Chandler, Kenric Nelson Contact: smacurdy@wolfram.com <a href="#me4m6kx59mm2" id="me4m6kx59mm2"></a>
 
 _“One of the most cherished ideas of democracy is the principle of one person–one vote.”_
 
@@ -202,7 +208,9 @@ If the Banzhaf Power Index calculation determines that the voting process is dom
 
 This process is still undergoing significant change but it’s a path worth continuing to investigate. It will be the mission of the authors involved to continue until we and the community are satisfied with the transparency and effectiveness of our Project Catalyst governance system.
 
-### Forming consensus in governance documentation Author(s): Aharon Porath, Omer Tzuk, Kenric Nelson Contact: ahoron@consenz.io <a href="#id-67o1jd43apzm" id="id-67o1jd43apzm"></a>
+### Forming consensus in governance documentation  <a href="#id-67o1jd43apzm" id="id-67o1jd43apzm"></a>
+
+#### Author(s): Aharon Porath, Omer Tzuk, Kenric Nelson Contact: ahoron@consenz.io <a href="#id-67o1jd43apzm" id="id-67o1jd43apzm"></a>
 
 The proper functioning of the [Delegated Representation (dRep)](https://iohk.io/en/blog/posts/2022/04/11/introducing-the-concept-of-delegate-representatives-dreps/) system for the Cardano Catalyst community will require an assortment of documents specifying agreements. These types of written agreements include codes of conduct for the dReps, the delegators, and the proposers; policy agreements between a dRep and his or her delegators specifying how proposals will be evaluated; rules specifying the voting procedures; methods for drafting, reviewing, and approving petitions. Writing tools to facilitate the drafting of community agreements must go beyond the collaborative writing functions available in Google docs, Microsoft Word, and Overleaf Latex. In addition to suggesting and commenting on changes, decision-making bodies require the ability to vote on changes in order to quantitatively assess community support for a proposition.
 
