@@ -35,6 +35,7 @@
     * [Meeting - 20th September 2022](catalyst-dreps-delegated-voting/drep-overview/drep-white-paper-working-group/meeting-20th-september-2022.md)
     * [Release Meeting - 4th October 2022](catalyst-dreps-delegated-voting/drep-overview/drep-white-paper-working-group/release-meeting-4th-october-2022.md)
     * [After Town Hall, 5th October 2022](catalyst-dreps-delegated-voting/drep-overview/drep-white-paper-working-group/after-town-hall-5th-october-2022.md)
+  * [Catalyst dRep Review](catalyst-dreps-delegated-voting/drep-overview/catalyst-drep-review.md)
 
 ## Catalyst Parameters
 
