@@ -4,7 +4,7 @@ description: Community Feedback
 
 # Feedback
 
-## Antifragile Success Criteria Discussion, After Town Hall, 15th December
+## Antifragile Success Criteria Discussion, After Town Hall, 15th December 2021
 
 {% embed url="https://youtu.be/J1MomJFNfeo" %}
 
